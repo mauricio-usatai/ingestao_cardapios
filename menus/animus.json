@@ -1,0 +1,375 @@
+{
+    "nome_restaurante": "Animus Restaurante",
+    "estabelecimento": {
+        "tipo": "restaurante",
+        "descrição": "O restaurante Animus, localizado em Pinheiros, São Paulo, oferece uma atmosfera que combina sofisticação contemporânea com acolhimento"
+    },
+    "michelin": true,
+    "nota_do_chef": "No Animus, a Chef Giovanna Grossi oferece uma cozinha autoral, com pratos ideais para compartilhar, convidando os clientes a desfrutarem da riqueza dos ingredientes e insumos brasileiros.",
+    "endereço": "Av. Prof. Frederico Hermann Júnior, 139-65 - Alto de Pinheiros, São Paulo - SP, 05459-010",
+    "coordenadas": {
+        "latitude": -23.559596445241002,
+        "longitude": -46.700118364725114
+    },
+    "almoço_executivo": true,
+    "menu": {
+        "entradas": [
+            {
+                "nome": "Pão com Azeite",
+                "preço": 40.00,
+                "descrição": "Pão Sourdough, azeite Sabiá e manteiga de louro",
+                "ingredientes": [
+                    "Pão Sourdough",
+                    "Azeite Sabiá",
+                    "Manteiga de Louro"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Bolinho de Mexilhão e Camarão",
+                "preço": 24.00,
+                "descrição": "Bolinho picante de mexilhão e camarão (duas unidades)",
+                "ingredientes": [
+                    "Mexilhão",
+                    "Camarão"
+                ],
+                "tags": [
+                    "frutos_do_mar",
+                    "bolinho",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Bolinho de Joelho de Porco",
+                "preço": 24.00,
+                "descrição": "Bolinho de joelho de porco e coulis de cambuci (duas unidades)",
+                "ingredientes": [
+                    "Joelho de Porco",
+                    "Cambuci"
+                ],
+                "tags": [
+                    "porco",
+                    "bolinho",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Burrata",
+                "preço": 82.00,
+                "descrição": "Burrata, tomates defumados, hortelã e puxuri",
+                "ingredientes": [
+                    "Burrata",
+                    "Tomates defumados",
+                    "Hortelã",
+                    "Puxuri"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "salgado",
+                    "fresco"
+                ]
+            },
+            {
+                "nome": "Salada",
+                "preço": 56.00,
+                "descrição": "Salada de rúcula, stracciatella, picles de amora e pistache",
+                "ingredientes": [
+                    "Rúcula",
+                    "Stracciatella",
+                    "Picles de Amora",
+                    "Pistache"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "salada",
+                    "fresco"
+                ]
+            }
+        ],
+        "pratos_principais": [
+            {
+                "nome": "Vagem",
+                "preço": 56.00,
+                "descrição": "Vagem na brasa, azeitona preta, castanha de caju e queijo Maratimba",
+                "ingredientes": [
+                    "Vagem",
+                    "Azeitona preta",
+                    "Castanha de Caju",
+                    "Queijo Maratimba"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Repolho",
+                "preço": 56.00,
+                "descrição": "Repolho na brasa, creme de castanha e chutney de tomate",
+                "ingredientes": [
+                    "Repolho",
+                    "Creme de Castanha",
+                    "Chutney de Tomate"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Berinjela Tostada",
+                "preço": 68.00,
+                "descrição": "Berinjela tostada com missô e melaço, pêra e mascarpone",
+                "ingredientes": [
+                    "Berinjela Tostada",
+                    "Missô",
+                    "Melaço",
+                    "Pêra",
+                    "Mascarpone"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Couve-flor",
+                "preço": 58.00,
+                "descrição": "Couve-flor na brasa, boursin com baunilha do cerrado e caramelo de vermute",
+                "ingredientes": [
+                    "Couve-flor",
+                    "Boursin",
+                    "Baunilha do Cerrado",
+                    "Caramelo de Vermute"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Crudo de Peixe",
+                "preço": 74.00,
+                "descrição": "Crudo de peixe branco, tangerina, pimenta d'Espelette e alcaparra",
+                "ingredientes": [
+                    "Crudo de Peixe Branco",
+                    "Tangerina",
+                    "Pimenta d'Espelette",
+                    "Alcaparra"
+                ],
+                "tags": [
+                    "cru",
+                    "peixe",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Tartare de Wagyu",
+                "preço": 68.00,
+                "descrição": "Tartare de Wagyu, ovas de peixe, maionese de mostarda e crocante de arroz",
+                "ingredientes": [
+                    "Wagyu",
+                    "Ovas de Peixe",
+                    "Maionese de Mostarda",
+                    "Crocante de Arroz"
+                ],
+                "tags": [
+                    "cru",
+                    "carne",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Guioza de Camarão Rosa",
+                "preço": 68.00,
+                "descrição": "Guioza de camarão rosa, beurre blanc de bisque e limão siciliano",
+                "ingredientes": [
+                    "Camarão Rosa",
+                    "Beurre Blanc de Bisque",
+                    "Limão Siciliano"
+                ],
+                "tags": [
+                    "frutos_do_mar",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Mini Arroz de Cebola",
+                "preço": 78.00,
+                "descrição": "Mini arroz, cebola caramelizada e crispy de cebola",
+                "ingredientes": [
+                    "Arroz",
+                    "Cebola Caramelizada",
+                    "Crispy de Cebola"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Fettuccine com Pesto",
+                "preço": 110.00,
+                "descrição": "Fettuccine, pesto, pistache e queijo Bonfim",
+                "ingredientes": [
+                    "Fettuccine",
+                    "Pesto",
+                    "Pistache",
+                    "Queijo Bonfim"
+                ],
+                "tags": [
+                    "massa",
+                    "vegetariano",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Polvo",
+                "preço": 120.00,
+                "descrição": "Polvo, purê de batatas e avelã, jamón serrano e emulsão de frutos do mar",
+                "ingredientes": [
+                    "Polvo",
+                    "Purê de Batatas",
+                    "Avelã",
+                    "Jamón Serrano",
+                    "Emulsão de Frutos do Mar"
+                ],
+                "tags": [
+                    "frutos_do_mar",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Peixe",
+                "preço": 110.00,
+                "descrição": "Peixe na brasa, pupunha, castanha com alho negro e baunilha de Madagascar",
+                "ingredientes": [
+                    "Peixe",
+                    "Pupunha",
+                    "Castanha",
+                    "Alho Negro",
+                    "Baunilha de Madagascar"
+                ],
+                "tags": [
+                    "peixe",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Pappardelle Ripiene com Pato",
+                "preço": 120.00,
+                "descrição": "Pappardelle ripiene, ragu de pato e cogumelos",
+                "ingredientes": [
+                    "Pappardelle Ripiene",
+                    "Ragu de Pato",
+                    "Cogumelos"
+                ],
+                "tags": [
+                    "carne",
+                    "massa",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Picanha de Cordeiro",
+                "preço": 120.00,
+                "descrição": "Picanha de cordeiro, coalhada de ovelha, cenoura e tangerina tostadas",
+                "ingredientes": [
+                    "Picanha de Cordeiro",
+                    "Coalhada de Ovelha",
+                    "Cenoura",
+                    "Tangerina Tostadas"
+                ],
+                "tags": [
+                    "carne",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Costelinha de Porco",
+                "preço": 110.00,
+                "descrição": "Costelinha de porco, purê de cará e vinagrete de milho tostado",
+                "ingredientes": [
+                    "Costelinha de Porco",
+                    "Purê de Cará",
+                    "Vinagrete de Milho Tostado"
+                ],
+                "tags": [
+                    "carne",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Alcatra de Wagyu",
+                "preço": 145.00,
+                "descrição": "Alcatra de Wagyu, nhoque com molho de nata e nozes picantes",
+                "ingredientes": [
+                    "Alcatra de Wagyu",
+                    "Nhoque",
+                    "Molho de Nata",
+                    "Nozes Picantes"
+                ],
+                "tags": [
+                    "carne",
+                    "massa",
+                    "salgado"
+                ]
+            }
+        ],
+        "sobremesas": [
+            {
+                "nome": "Bolo de Azeite com Limão Siciliano",
+                "preço": 45.00,
+                "descrição": "Bolo de azeite com limão siciliano, calda de fava de aridan e praliné de pistache",
+                "ingredientes": [
+                    "Bolo de Azeite",
+                    "Limão Siciliano",
+                    "Calda de Fava de Aridan",
+                    "Praliné de Pistache"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "doce"
+                ]
+            },
+            {
+                "nome": "Choux de Chocolate",
+                "preço": 44.00,
+                "descrição": "Choux de chocolate, praliné de avelã, sorvete de mel e tomilho",
+                "ingredientes": [
+                    "Choux de Chocolate",
+                    "Praliné de Avelã",
+                    "Sorvete de Mel",
+                    "Tomilho"
+                ],
+                "tags": [
+                    "chocolate",
+                    "vegetariano",
+                    "doce"
+                ]
+            }               
+        ],
+        "drinks": [
+            {
+                "nome": "Manacá",
+                "preço": 44.00,
+                "descrição": "Vodka, vermute seco, uvaia, aquafaba e puxuri",
+                "ingredientes": [
+                    "Vodka",
+                    "Vermute Seco",
+                    "Uvaia",
+                    "Aquafaba",
+                    "Puxuri"
+                ],
+                "tags": [
+                    "frutado",
+                    "aveludado",
+                    "aromático"
+                ]
+            }    
+        ]
+    }
+}
