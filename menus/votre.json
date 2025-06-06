@@ -1,0 +1,894 @@
+{
+    "nome_restaurante": "Votre Brasserie",
+    "estabelecimento": {
+        "tipo": "restaurante",
+        "descrição": "O Votre Brasserie é um bistrô francês localizado na Vila Madalena, com uma essência intimista e clima despojado."
+    },
+    "michelin": false,
+    "nota_do_chef": "O chef Francisco Farah desenvolveu um menu que começa com pequenas porções para compartilhar, generosas entradas e principais da tradicional cozinha francesa, fazendo com que cada visita seja uma viagem aos sabores e encantos da França.",
+    "endereço": "ua Natingui, 1520, São Paulo, Brazil",
+    "coordenadas": {
+        "latitude": -23.55920750529413,
+        "longitude": -46.69919447116473
+    },
+    "almoço_executivo": true,
+    "menu": {
+        "aperitivos": [
+            {
+                "nome": "Beurre Demi-sel et Baguette",
+                "preço": 12,
+                "descrição": "Manteiga cremosa e nossa baguete de fermentação natural",
+                "ingredientes": [
+                    "Manteiga cremosa",
+                    "Baguete de fermentação natural"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Manjubinhas au Vinaigre et Bagnet Vert",
+                "preço": 29,
+                "descrição": "Majubinhas marinadas e molho de ervas. Acompanha baguete da casa.",
+                "ingredientes": [
+                    "Manjubinha marinada",
+                    "Molho de ervas",
+                    "Baguete"
+                ],
+                "tags": [
+                    "peixe",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Pâte de Foie de Canard",
+                "preço": 42,
+                "descrição": "Pâte de fígado de pato, pickles variados. Acompanha baguete da casa e torradas.",
+                "ingredientes": [
+                    "Pâte de fígado de pato",
+                    "Pickles",
+                    "Baguete",
+                    "Torradas"
+                ],
+                "tags": [
+                    "pato",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Crudités et Olivade",
+                "preço": 38,
+                "descrição": "Vegetais da estação e creme de queijo de cabra com azeitonas pretas e alcaparras.",
+                "ingredientes": [
+                    "Vegetais da estação",
+                    "Creme de queijo de cabra",
+                    "Azeitonas pretas",
+                    "Alcaparras"
+                ],
+                "tags": [
+                    "sazonal",
+                    "salgado",
+                    "vegetariano"
+                ]
+            },
+            {
+                "nome": "La Croûte au Fromage",
+                "preço": 47,
+                "descrição": "Pão rústico gratinado com queijo Bem Brasil e cebola caramelizada",
+                "ingredientes": [
+                    "Pão rústico",
+                    "Queijo",
+                    "Cebola caramelizada"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Langoustines Rôties au Citron",
+                "preço": 75,
+                "descrição": "Lagostins assados na manteiga de cítricos e ervas. Acompanha baguete da casa. (2 unidades)",
+                "ingredientes": [
+                    "Lagostin assado",
+                    "Manteiga de cítricos e ervas",
+                    "Baguete"
+                ],
+                "tags": [
+                    "frutos_do_mar",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Saumon Sauvage Canadien Fummé",
+                "preço": 79,
+                "descrição": "Salmão Selvagem Canadense Defumado, Ovos de Truta, Creme Azedo, Alcaparrinhas e Cítricos. Acompanha Blinis e Torradinhas",
+                "ingredientes": [
+                    "Salmão selvagem defumado",
+                    "Ovos de Truta",
+                    "Creme azedo",
+                    "Alcaparras",
+                    "Blinis",
+                    "Torradas"
+                ],
+                "tags": [
+                    "peixe",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Croquette de Queue de Bouef",
+                "preço": 35,
+                "descrição": "Croquete cromoso de rabada. (4 unidades)",
+                "ingredientes": [
+                    "Croquete",
+                    "Rabada"
+                ],
+                "tags": [
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Oeuf Mollet",
+                "preço": 42,
+                "descrição": "Ovo mollet empanado, cogumelos, emulsão de jamón e ervas e croutons.",
+                "ingredientes": [
+                    "Ovo mollet empanado",
+                    "Cogumelos",
+                    "Emulsão de jamón e ervas",
+                    "Croutons"
+                ],
+                "tags": [
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Pastrami de Langue de Boeuf et Remoulade",
+                "preço": 47,
+                "descrição": "Pastrami de Língue Bovina e Remoulade. Acompanha Baguete da casa.",
+                "ingredientes": [
+                    "Pastrami de língua bovina",
+                    "Remoulade",
+                    "Baguete"
+                ],
+                "tags": [
+                    "carne",
+                    "salgado"
+                ]
+            }
+        ],
+        "entradas": [
+            {
+                "nome": "Steak Tartare",
+                "preço": 87,
+                "descrição": "Carne crua picada e temperada. Acompanha salada, fritas e torrada",
+                "ingredientes": [
+                    "Carne bovina crua",
+                    "Salada",
+                    "Batata frita",
+                    "Torradas"
+                ],
+                "tags": [
+                    "carne",
+                    "cru"
+                ]
+            },
+            {
+                "nome": "Tartare de Thon Rouge",
+                "preço": 65,
+                "descrição": "Atum cru temperado à moda da casa. Acompanha crocante de gergelim",
+                "ingredientes": [
+                  "Atum vermelho cru",
+                  "Molho da casa",
+                  "Gergelim crocante"
+                ],
+                "tags": [
+                  "peixe",
+                  "cru"
+                ]
+              },
+              {
+                "nome": "Moules au Safran et Frites",
+                "preço": 86,
+                "descrição": "Mexilhões cozidos no molho de açafrão. Acompanha fritas e baguete",
+                "ingredientes": [
+                  "Mexilhões",
+                  "Molho de açafrão",
+                  "Batata frita",
+                  "Baguete"
+                ],
+                "tags": [
+                  "frutos_do_mar",
+                  "salgado"
+                ]
+              },
+              {
+                "nome": "Soupe à l'oignon",
+                "preço": 55,
+                "descrição": "Sopa de cebola gratinada com baguete e queijo Soberano",
+                "ingredientes": [
+                  "Cebola",
+                  "Queijo Soberano",
+                  "Baguete"
+                ],
+                "tags": [
+                  "vegetariano",
+                  "sopa",
+                  "salgado"
+                ]
+              },
+              {
+                "nome": "Huitres",
+                "preço": 27,
+                "descrição": "Ostras frescas de Santa Catarina (3 unidades). Dispoivel apenas aos finais de semana.",
+                "ingredientes": [
+                    "Ostras frescas"
+                ],
+                "tags": [
+                    "frutos_do_mar",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Noix de Saint Jacques",
+                "preço": 69,
+                "descrição": "Vieiras fatiadas e levemente temperadas (3 unidades). Disponível apenas aos finais de semana.",
+                "ingredientes": [
+                    "Vieira"
+                ],
+                "tags": [
+                    "frutos_do_mar",
+                    "salgado"
+                ]
+            }
+        ],
+        "saladas": [
+            {
+                "nome": "Chévre Chaud",
+                "preço": 64,
+                "descrição": "Queijo de cabra quente, mesclum de folhas, nozes pecã assadas e croutons",
+                "ingredientes": [
+                    "Queijo de cabra",
+                    "Mesclun de folhas",
+                    "Nozes pecã assadas",
+                    "Croutons"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "salada"
+                ]
+            },
+            {
+                "nome": "Thon Mi-Cuit et Quinoa",
+                "preço": 78,
+                "descrição": "Atum selado, salada de quinoa colorida e tomate assado",
+                "ingredientes": [
+                    "Atum",
+                    "Quinoa",
+                    "Tomate assado"
+                ],
+                "tags": [
+                    "peixe",
+                    "salada"
+                ]
+            },
+            {
+                "nome": "Crevettes Croustillantes Épicées",
+                "preço": 85,
+                "descrição": "Camarão crocante, alface sucrine, avocado e gergelim",
+                "ingredientes": [
+                    "Camarão",
+                    "Alface sucrine",
+                    "Avocado",
+                    "Gergelim"
+                ],
+                "tags": [
+                    "frutos_do_mar",
+                    "salada"
+                ]
+            }
+        ],
+        "pratos_principais": [
+            {
+                "nome": "Steak Haché",
+                "preço": 65,
+                "descrição": "Hambúrguer francês no prato temperado e grelhado. Acompanha molho de vinho tinto e ovo frito. Acompanha fritas.",
+                "ingredientes": [
+                    "Hambúrguer",
+                    "Vinho tinto",
+                    "Ovo frito",
+                    "Batata frita"
+                ],
+                "tags": [
+                    "hamburguer",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Boeuf Bourguignon",
+                "preço": 89,
+                "descrição": "Carne bovina braseada com vinho tinto, cogumelos, cenourinhas e bacon. Acompanha massa longa salteada na manteiga",
+                "ingredientes": [
+                    "Bife bovino",
+                    "Vinho tinto",
+                    "Cogumelos",
+                    "Cenoura",
+                    "Bacon",
+                    "Macarrão salteado"
+                ],
+                "tags": [
+                    "carne",
+                    "massa",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Canard Braisé",
+                "preço": 79,
+                "descrição": "Pato braseado e desfiado, mil folhas de batata e cebola caramelizada, molho de trufas",
+                "ingredientes": [
+                    "Pato braseado",
+                    "Batata",
+                    "Cebola caramelizada",
+                    "Trufas"
+                ],
+                "tags": [
+                    "pato",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Brandade de Morue",
+                "preço": 75,
+                "descrição": "Brandade de Bacalhau gratinada. Acompanha salada verde.",
+                "ingredientes": [
+                    "Bacalhau gratinado",
+                    "Mix de alface"
+                ],
+                "tags": [
+                    "peixe",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Poisson de l'Ami Charlô",
+                "preço": 102,
+                "descrição": "Peixe do dia e camarão grelhado, farofa de camarão e emulsão de crustáceios com açafrão",
+                "ingredientes": [
+                    "Peixe",
+                    "Camarão",
+                    "Farofa de camarão"
+                ],
+                "tags": [
+                    "frutos_do_mar",
+                    "peixe"
+                ]
+            },
+            {
+                "nome": "L'assiette falafel de la maison",
+                "preço": 65,
+                "descrição": "Falafel, hommus, couve-flor assada e tomate confitado. Acompanha pão pita",
+                "ingredientes": [
+                    "Falafel",
+                    "Hommus",
+                    "Couve-flor",
+                    "Tomate confitado",
+                    "Pão pita"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "árabe"
+                ]
+            },
+            {
+                "nome": "Canard à l'orange",
+                "preço": 118,
+                "descrição": "Pato assado com molho de laranja. Acompanha batatinhas salteadas",
+                "ingredientes": [
+                    "Pato",
+                    "Molho de laranja",
+                    "Batata salteada"
+                ],
+                "tags": [
+                    "pato",
+                    "salgado",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Épaule d'Agneau",
+                "preço": 118,
+                "descrição": "Paleta de cordeiro assada por 8 horas, desossada e laqueada. Acompanha aspargos gratinados.",
+                "ingredientes": [
+                    "Cordeiro",
+                    "Aspargos gratinados"
+                ],
+                "tags": [
+                    "cordeiro",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Cochon de Lait",
+                "preço": 239,
+                "descrição": "Paletinha de leitão crocante, purê de abóbora, verdes salteados e avelãs. (2 pessoas)",
+                "ingredientes": [
+                    "Leitão",
+                    "Purê de abóbora",
+                    "Folhas verdes",
+                    "Avelãs"
+                ],
+                "tags": [
+                    "porco",
+                    "salgado"
+                ]
+            },
+            {
+                "nome": "Crevetters au Curry Madras",
+                "preço": 132,
+                "descrição": "Camarões rosa graúdos ao curry. Acompanha arroz de jasmin",
+                "ingredientes": [
+                    "Camarão ao curry",
+                    "Arroz de jasmin"
+                ],
+                "tags": [
+                    "frutos_do_mar",
+                    "salgado"
+                ]
+            }
+        ],
+        "acompanhamentos": [
+            {
+                "nome": "Pommes frites",
+                "preço": 36,
+                "descrição": "Porção de batatas fritas",
+                "ingredientes": [
+                    "Batata frita"
+                ],
+                "tags": [
+                    "salgado",
+                    "vegetariano"
+                ]
+            },
+            {
+                "nome": "Purée de pommes de terre",
+                "preço": 25,
+                "descrição": "Purê de batata",
+                "ingredientes": [
+                    "Purê de batata"
+                ],
+                "tags": [
+                    "salgado",
+                    "vegetariano"
+                ]
+            },
+            {
+                "nome": "Mesclun",
+                "preço": 36,
+                "descrição": "Mix de folhas",
+                "ingredientes": [
+                    "Mix de folhas"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "salada"
+                ]
+            }
+        ],
+        "sobremesas": [
+            {
+                "nome": "Crème Brulée au Grand Marnier",
+                "preço": 39,
+                "descrição": "Creme brulée ao perfume grand marnier",
+                "ingredientes": [
+                    "Creme brulée",
+                    "Grand Marnier"
+                ],
+                "tags": [
+                    "doce",
+                    "vegetariano"
+                ]
+            },
+            {
+                "nome": "Soufflé au Chocolat",
+                "preço": 44,
+                "descrição": "Soufle de chocolate com calda de chocolate e sorvete de baunilha",
+                "ingredientes": [
+                    "Soufle de chocolate",
+                    "Calda de chocolate",
+                    "Sorvete de baunilha"
+                ],
+                "tags": [
+                    "doce",
+                    "chocolate",
+                    "vegetariano",
+                    "sorvete"
+                ]
+            },
+            {
+                "nome": "Tarte fine aux pommes",
+                "preço": 42,
+                "descrição": "Torta de maçã em massa folhada. Acompanha sorvete de baunilha.",
+                "ingredientes": [
+                    "Torta de maçã",
+                    "Sorvete de baunilha",
+                    ""
+                ],
+                "tags": [
+                    "doce",
+                    "sorvete",
+                    "vegetariano"
+                ]
+            },
+            {
+                "nome": "Profiteroles, Glace Vanille, Sauce Chocolat",
+                "preço": 42,
+                "descrição": "Carolinas recheadas com sorvete de baunilha. Acompanha calda de chocolate.",
+                "ingredientes": [
+                    "Carolinas",
+                    "Sorvete de baunilha",
+                    "Calda de chocolate"
+                ],
+                "tags": [
+                    "vegetariano",
+                    "sorvete",
+                    "doce",
+                    "chocolate"
+                ]
+            },
+            {
+                "nome": "Sorbet au Chocolat",
+                "preço": 22,
+                "descrição": "Sorbet de chocolate vegano",
+                "ingredientes": [
+                    "Sorbet de chocolate"
+                ],
+                "tags": [
+                    "vegano",
+                    "doce",
+                    "chocolate"
+                ]
+            }
+        ],
+        "drinks": [
+            {
+                "nome": "Fleur de Poire",
+                "preço": 38,
+                "descrição": "Gin de pêra, limão Siciliano, Pêra, Elder flower",
+                "ingredientes": [
+                    "Gin de pêra",
+                    "Limão Siciliano",
+                    "Pêra",
+                    "Elder Flower"
+                ],
+                "tags": [
+                    "floral",
+                    "cítrico",
+                    "autoral"
+                ]
+            },
+            {
+                "nome": "Pisco Passion",
+                "preço": 41,
+                "descrição": "Pisco, maracujá, limão tahiti",
+                "ingredientes": [
+                    "Pisco",
+                    "Maracujá",
+                    "Limão tahiti"
+                ],
+                "tags": [
+                    "cítrico",
+                    "frutado",
+                    "autoral"
+                ]
+            },
+            {
+                "nome": "Piratage",
+                "preço": 41,
+                "descrição": "Brandy, cointreau, luxardo marrasquino, abacaxi, limão siciliano, caramelo salgado",
+                "ingredientes": [
+                    "Brandy",
+                    "Cointreau",
+                    "Luxardo Marrasquino",
+                    "Abacaxi",
+                    "Limão Siciliano",
+                    "Caramelo salgado"
+                ],
+                "tags": [
+                    "cítrico",
+                    "doce",
+                    "complexo",
+                    "autoral"
+                ]
+            },
+            {
+                "nome": "Vieille Chienne",
+                "preço": 41,
+                "descrição": "Vodka, licor 43, aperol, limão tahiti, abacaxi",
+                "ingredientes": [
+                    "Vodka",
+                    "Licor 43",
+                    "Aperol",
+                    "Limão tahiti",
+                    "Abacaxi"
+                ],
+                "tags": [
+                    "cítrico",
+                    "amargo-doce",
+                    "autoral"
+                ]
+            },
+            {
+                "nome": "Suzette",
+                "preço": 40,
+                "descrição": "Gin, Cointreau, Lillet Blanc, Limão Siciliano",
+                "ingredientes": [
+                    "Gin",
+                    "Cointreau",
+                    "Lillet Blanc",
+                    "Limão Siciliano"
+                ],
+                "tags": [
+                    "cítrico",
+                    "seco",
+                    "elegante",
+                    "autoral"
+                ]
+            },
+            {
+                "nome": "French 75",
+                "preço": 45,
+                "descrição": "Gin, Espumante Brut, Limão Siciliano",
+                "ingredientes": [
+                    "Gin",
+                    "Espumante Brut",
+                    "Limão Siciliano"
+                ],
+                "tags": [
+                    ["cítrico", 
+                    "efervescente", 
+                    "clássico"]
+                ]
+            },
+            {
+                "nome": "Dry Martini",
+                "preço": 45,
+                "descrição": "Gin, Vermute Seco",
+                "ingredientes": [
+                    "Gin",
+                    "Vermute Seco"
+                ],
+                "tags": [
+                    "seco",
+                    "forte",
+                    "clássico"
+                ]
+            },
+            {
+                "nome": "Bloody Mary",
+                "preço": 38,
+                "descrição": "Vodka, Suco de tomate",
+                "ingredientes": [
+                    "Vodka",
+                    "Suco de tomate"
+                ],
+                "tags": [
+                    "salgado", 
+                    "picante", 
+                    "refrescante"
+                ]
+            },
+            {
+                "nome": "Queens Park Swizzle",
+                "preço": 40,
+                "descrição": "Bourbon, Limão Siciliano, Maple Syrup, Hortelã, Angostura",
+                "ingredientes": [
+                    "Bourbon",
+                    "Limão Siciliano",
+                    "Maple Syrup",
+                    "Hortelã",
+                    "Angostura"
+                ],
+                "tags": [
+                    "refrescante",
+                    "cítrico",
+                    "herbáceo"
+                ]
+            },
+            {
+                "nome": "New York Sour",
+                "preço": 39,
+                "descrição": "Bourbon, Limão Siciliano, Malbec",
+                "ingredientes": [
+                    "Bourbon",
+                    "Limão Siciliano",
+                    "Malbec"
+                ],
+                "tags": [
+                    "ácido",
+                    "encorpado",
+                    "complexo"
+                ]
+            },
+            {
+                "nome": "Dark Storm",
+                "preço": 42,
+                "descrição": "Rum escuro, Limão Tahiti, Ginger Beer, Angostura Bitter",
+                "ingredientes": [
+                    "Rum escuro",
+                    "Limão tahiti",
+                    "Ginger Beer",
+                    "Angostura bitter"
+                ],
+                "tags": [
+                    "picante", 
+                    "intenso", 
+                    "rum"
+                ]
+            },
+            {
+                "nome": "Fitzgerald",
+                "preço": 42,
+                "descrição": "Gin, Limão Siciliano, Angostura bitter.",
+                "ingredientes": [
+                    "Gin",
+                    "Limão Siciliano",
+                    "Angostura bitter"
+                ],
+                "tags": [
+                    "cítrico",
+                    "amargo",
+                    "refrescante"
+                ]
+            },
+            {
+                "nome": "Penicilina",
+                "preço": 46,
+                "descrição": "Whisky, Islay Single Malt Laphroaig, Gengibre e Mel",
+                "ingredientes": [
+                    "Whisky",
+                    "Islay Single Malt Laphroaig",
+                    "Gengibre",
+                    "Mel"
+                ],
+                "tags": [
+                    "defumado",
+                    "cítrico",
+                    "intenso"
+                ]
+            },
+            {
+                "nome": "Negroni",
+                "preço": 42,
+                "descrição": "Gin, Vermute tinto e Campari",
+                "ingredientes": [
+                    "Gin",
+                    "Vermute tinto",
+                    "Campari"
+                ],
+                "tags": [
+                    "amargo",
+                    "herbáceo",
+                    "clássico"
+                ]
+            },
+            {
+                "nome": "Clericot",
+                "preço": 46,
+                "descrição": "Vinho Branco, Cointreau e Frutas Picadas",
+                "ingredientes": [
+                    "Vinho Branco",
+                    "Cointreau",
+                    "Frutas"
+                ],
+                "tags": [
+                    "frutado", 
+                    "efervescente", 
+                    "refrescante"
+                ]
+            },
+            {
+                "nome": "Aperol Spritz",
+                "preço": 46,
+                "descrição": "Aperol e Espumante Brut",
+                "ingredientes": [
+                    "Aperol",
+                    "Espumante Brut"
+                ],
+                "tags": [
+                    "leve", 
+                    "amargo-doce",
+                    "efervescente"
+                ]
+            },
+            {
+                "nome": "Expresso Martini",
+                "preço": 39,
+                "descrição": "Vodka, licor de café e expresso.",
+                "ingredientes": [
+                    "Vodka",
+                    "Licor de café",
+                    "Expresso"
+                ],
+                "tags": [
+                    "café",
+                    "doce",
+                    "clássico"
+                ]
+            },
+            {
+                "nome": "De la Maison",
+                "preço": 38,
+                "descrição": "Gin, água tônica, limão siciliano desidratado e zimbro",
+                "ingredientes": [
+                    "Gin",
+                    "Água tônica",
+                    "Limão Siciliano desidratado",
+                    "Zimbro"
+                ],
+                "tags": [
+                    "cítrico",
+                    "refrescante"
+                ]
+            },
+            {
+                "nome": "At Five",
+                "preço": 44,
+                "descrição": "Gin at Five, Água Tônica e Limão Siciliano desidratado",
+                "ingredientes": [
+                    "Gin",
+                    "Água tônica",
+                    "Alecrim",
+                    "Limão Siciliano desidratado"
+                ],
+                "tags": [
+                    "cítrico",
+                    "herbáceo"
+                ]
+            },
+            {
+                "nome": "Hendrick's",
+                "preço": 55,
+                "descrição": "Gin Hendricks, Água tônica e Lâmina de Pepino",
+                "ingredientes": [
+                    "Gin",
+                    "Água tônica",
+                    "Lâmina de pepino"
+                ],
+                "tags": [
+                    "fresco",
+                    "refrescante"
+                ]
+            },
+            {
+                "nome": "Citadelle",
+                "preço": 55,
+                "descrição": "Gin Citadelle, maçã desidratada e Zimbro",
+                "ingredientes": [
+                    "Gin",
+                    "Maçã desidratada",
+                    "Zimbro"
+                ],
+                "tags": [
+                    "frutado",
+                    "aromático"
+                ]
+            },
+            {
+                "nome": "Monkey 47",
+                "preço": 66,
+                "descrição": "Gin Monkey 47, Limão Siciliano e Tomilho",
+                "ingredientes": [
+                    "Gin",
+                    "Limão Siciliano",
+                    "Tomilho"
+                ],
+                "tags": [
+                    "cítrico",
+                    "herbáceo"
+                ]
+            }
+        ]
+    }
+}
