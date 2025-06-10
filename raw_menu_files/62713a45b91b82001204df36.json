@@ -1,0 +1,110 @@
+{
+    "Menu ": {
+        "Patisserie": [
+            {
+                "nome": "Tiramissu 2.0",
+                "preço": "R$ 32,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Citron",
+                "preço": "R$ 32,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Entremet Chocolate e Pistache",
+                "preço": "R$ 34,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Entremet Caramelo e Framboesa",
+                "preço": "R$ 32,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Cacau 70%",
+                "preço": "R$ 34,00",
+                "descrição": ""
+            }
+        ],
+        "Gelatos": [
+            {
+                "nome": "Casquinha pequena",
+                "preço": "R$ 21,00",
+                "descrição": "1 sabor"
+            },
+            {
+                "nome": "Casquinha média",
+                "preço": "R$ 24,00",
+                "descrição": "2 sabores"
+            },
+            {
+                "nome": "Pequeno",
+                "preço": "R$ 19,00",
+                "descrição": "2 sabores"
+            },
+            {
+                "nome": "Médio",
+                "preço": "R$ 21,00",
+                "descrição": "3 sabores"
+            },
+            {
+                "nome": "Pote 630 ml",
+                "preço": "R$ 79,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Pote 1,3L",
+                "preço": "R$ 114,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Grande",
+                "preço": "R$ 25,00",
+                "descrição": "3 sabores"
+            }
+        ],
+        "Macarons": [
+            {
+                "nome": "Blueberry",
+                "preço": "R$ 8,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Pistache",
+                "preço": "R$ 8,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Chocolate",
+                "preço": "R$ 8,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Maracujá",
+                "preço": "R$ 8,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Framboesa",
+                "preço": "R$ 8,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Baunilha",
+                "preço": "R$ 8,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Avelã",
+                "preço": "R$ 8,00",
+                "descrição": ""
+            }
+        ]
+    },
+    "endereço": "Candido Lacerda, 33, Jardim Anália Franco, São Paulo, SP, Brasil",
+    "telefone": "11 2674-0843",
+    "email": "marketing@vilaanalia.com.br",
+    "website": null,
+    "name": "Vila Anália Pâtisserie Gelateria"
+}

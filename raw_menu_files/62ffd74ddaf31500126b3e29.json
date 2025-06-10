@@ -1,0 +1,1714 @@
+{
+    "Cardápio Principal": {
+        "Entradas Frias": [
+            {
+                "nome": "Burrata",
+                "preço": "R$ 86,00",
+                "descrição": "Mozzarella de búfala cremosa com pesto de azeitonas pretas, tomate cereja e rúcula baby. Acompanhado de torradas."
+            },
+            {
+                "nome": "Carpaccio",
+                "preço": "R$ 82,00",
+                "descrição": "Delicadas fatias de carne angus ao molho de mostarda, mel e alcaparras. Servido com alcaparras e parmesão crocante. Acompanha torrada, opcional buquet de folhas."
+            },
+            {
+                "nome": "Carpaccio de Salmão",
+                "preço": "R$ 146,00",
+                "descrição": "Finas lâminas de salmão , supremo de limão siciliano e molho ponzo."
+            },
+            {
+                "nome": "Carpaccio De Shitake",
+                "preço": "R$ 72,00",
+                "descrição": "Cogumelos shitake grelhado, molho de shoyo fermentado trufado, gergelim torrado, raspas de limão siciliano e buquê mix de folhas. Acompanha torrada."
+            },
+            {
+                "nome": "Crock de Salmão.",
+                "preço": "R$ 98,00",
+                "descrição": "Tortinha Harumaki, Tartaré de salmão temperado ciboulette e azeite finalizado com ovas Tobiko."
+            },
+            {
+                "nome": "Jamon Serrano Espanhol",
+                "preço": "R$ 92,00",
+                "descrição": "40gr."
+            },
+            {
+                "nome": "Sashimeat De Wagyu",
+                "preço": "R$ 92,00",
+                "descrição": "Sashimi de wagyu servido na pedra de sal, com molho tonkatsu e shoyo fermentado doce. Levemente maçaricado na mesa."
+            },
+            {
+                "nome": "Steak Sushi",
+                "preço": "R$ 62,00",
+                "descrição": "Uramaki - Sushi de filé mignon, recheado com carne angus batida na ponta da faca e creem cheese, com salmao flambado por fora. Servido com molho tonkatsu e couve crispy ( 8 unidades )"
+            },
+            {
+                "nome": "Steak Tartare",
+                "preço": "R$ 94,00",
+                "descrição": "Filet mignon picado na ponta da faca, temperado com alcaparras, picles, cebola roxa, mostarda Dijon. Servido com batata frita."
+            }
+        ],
+        "Entradas Fritas": [
+            {
+                "nome": "Aipim Bites",
+                "preço": "R$ 58,00",
+                "descrição": "Bolinho cremoso de Aipim, queijo mussarela e parmesão."
+            },
+            {
+                "nome": "Camarão Spicy",
+                "preço": "R$ 76,00",
+                "descrição": "Tempurá de camarão ao molho levemente apimentado de maionese com sriracha."
+            },
+            {
+                "nome": "Chips e Caviar",
+                "preço": "R$ 176,00",
+                "descrição": "Chips de batata, sour cream e caviar Polanco Siberian."
+            },
+            {
+                "nome": "Corn Cake e Gorgonzola",
+                "preço": "R$ 58,00",
+                "descrição": "5 unidades de croqueta de milho com muçarela e gorgonzola. Acompanha molho sweet chilli (molho de pimenta doce)."
+            },
+            {
+                "nome": "Gouda Crispy",
+                "preço": "R$ 66,00",
+                "descrição": "5 unidades de queijo gouda empanado e montado com tartar de salmao fresco e ovas negras e leve toque de maionese de sriracha."
+            },
+            {
+                "nome": "MeetBall",
+                "preço": "R$ 61,00",
+                "descrição": "5 Unidades de bolinhos de carne com gorgonzola. Acompanha molho barbecue da casa (barbecue de goiabada com pimenta biquinho)."
+            },
+            {
+                "nome": "Mini Pastel De Cupim Defumado",
+                "preço": "R$ 62,00",
+                "descrição": "5 Unidades de mini pastel recheado com cupim e queijo cheddar cremoso. Acompanha vinagrete."
+            },
+            {
+                "nome": "Tour De Entradas",
+                "preço": "R$ 92,00",
+                "descrição": "2 meetball, 2 croquetas de milho, 3 pasteis de cupim, 2 gouda crispy e vinagrete."
+            },
+            {
+                "nome": "Polenta Trufada",
+                "preço": "R$ 58,00",
+                "descrição": "polenta frita da casa com parmesão e azeite trufado"
+            },
+            {
+                "nome": "Polenta Frita",
+                "preço": "R$ 42,00",
+                "descrição": "polenta frita da casa com parmesão"
+            },
+            {
+                "nome": "Crispy Rice",
+                "preço": "R$ 84,00",
+                "descrição": "Arroz japônes,crocante com furikake,tataki de salmão e limão siciliano"
+            },
+            {
+                "nome": "Pancetta em Rolo",
+                "preço": "R$ 68,00",
+                "descrição": "Pururuca de barriga de porco, goiabada e limão com pimenta biquinho."
+            }
+        ],
+        "Entradas Assadas": [
+            {
+                "nome": "Coração de Frango grelhado",
+                "preço": "R$ 82,00",
+                "descrição": "360g Coração de frango marinado no shoyu com especiarias da casa por 72h e grelhado na parrilla."
+            },
+            {
+                "nome": "Empanada Argentina",
+                "preço": "R$ 19,00",
+                "descrição": "ESCOLHER SABOR Carne Dulce ou Queijo com cebola caramelizada | Unidade."
+            },
+            {
+                "nome": "Linguica da Casa",
+                "preço": "R$ 48,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Matambrito",
+                "preço": "R$ 98,00",
+                "descrição": "Matambre bovino desfiado ao molho. Acompanha vinagrete."
+            },
+            {
+                "nome": "Mix De Linguiças Artesanais",
+                "preço": "R$ 86,00",
+                "descrição": "Trio de linguiças grelhadas Tex mex (cheddar e jalapeño); chimichurri e marguerita (manjericão e muçarela de búfala e tomate). Acompanha vinagrete e chimichurri."
+            },
+            {
+                "nome": "Provoleta",
+                "preço": "R$ 68,00",
+                "descrição": "Queijo provolone tostado na grelha, servido com tomate confit e chimichurri"
+            },
+            {
+                "nome": "Queijo Coalho com Mel Trufado",
+                "preço": "R$ 66,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Trio De Mini Burgers",
+                "preço": "R$ 74,00",
+                "descrição": "1 burger com cheddar e cebola caramelizada, 1 burger salad e 1 burger clássico."
+            },
+            {
+                "nome": "Pão de alho",
+                "preço": "R$ 16,00",
+                "descrição": "Duas unidades de pão de alho."
+            },
+            {
+                "nome": "Empanada Argentina Pernil",
+                "preço": "R$ 19,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Empanada Argentina toscana",
+                "preço": "R$ 19,00",
+                "descrição": ""
+            }
+        ],
+        "Salada": [
+            {
+                "nome": "Batatonaise",
+                "preço": "R$ 54,00",
+                "descrição": "Salada de batata com maionese da casa,limão siciliano,mostarda e cebolete."
+            },
+            {
+                "nome": "Coleslaw",
+                "preço": "R$ 52,00",
+                "descrição": "Salada de repolho grelhado na parrilla,maionese e uvas passas."
+            },
+            {
+                "nome": "Caesar Salad",
+                "preço": "R$ 56,00",
+                "descrição": "Alface americana, molho caesar, croutons, parmesão em lasca e frango crocante (peito de frango empanado)."
+            },
+            {
+                "nome": "Meet Salad",
+                "preço": "R$ 76,00",
+                "descrição": "Mix de folhas com queijo de cabra, jamon (presunto espanhol), figo fresco, mix de nuts, mostarda e mel."
+            },
+            {
+                "nome": "Salada de Rúcula",
+                "preço": "R$ 48,00",
+                "descrição": "Salada de folhas de rúcula, temperadas com molho de redução de balsâmico e mel tomate cereja e lascas de parmesão."
+            },
+            {
+                "nome": "Salada Juliana",
+                "preço": "R$ 62,00",
+                "descrição": "Alface americana, cenoura, tomate, palmito, parmesão e batata palha."
+            },
+            {
+                "nome": "Salada Oriental",
+                "preço": "R$ 56,00",
+                "descrição": "Mix de folhas,molho levemente picante, lâmina de salmão e picles de mamão verde e couve crispy"
+            }
+        ],
+        "Sanduiches & Burger": [
+            {
+                "nome": "Cheese Burger",
+                "preço": "R$ 82,00",
+                "descrição": "Pão brioche, blend de burguer 210g e queijo cheddar ingles. Acompanha maionese da casa e catchup."
+            },
+            {
+                "nome": "Choripan",
+                "preço": "R$ 76,00",
+                "descrição": "Pão ciabata, linguiça grelhada chimichurri, queijo, vinagrete, maionese da casa e chimichurri. Acompanha fritas"
+            },
+            {
+                "nome": "Philly Cheese Steak",
+                "preço": "R$ 88,00",
+                "descrição": "Pão ciabata, filet mignon com queijo mussarela e maionese da casa. Acompanha fritas."
+            }
+        ],
+        "Seleção Wagyu": [
+            {
+                "nome": "Wagyu 7/8 100g",
+                "preço": "R$ 239,00",
+                "descrição": "Avaliar cortes disponíveis de Wagyu na casa. Valor referente a 100g"
+            }
+        ],
+        "Da Brasa": [
+            {
+                "nome": "Assado de Tira 300gr",
+                "preço": "R$ 152,00",
+                "descrição": "Corte retirado da costela dianteira e traseira do animal é serrado no sentido transversal ao dos ossos por isso do formato do corte, bastante saboroso e suculento possui uma quantidade bacana de gordura entremeada."
+            },
+            {
+                "nome": "Bife Ancho 300gr",
+                "preço": "R$ 158,00",
+                "descrição": "Noix, filé de costela, entrecote, ponta do contra filé e ribeye todos esses nomes são para o mesmo corte do animal, um dos cortes talvez mais saboroso e gostoso do bovino o ancho é retirado da dianteira do boi mais especificamente da 6ª a 11ª costela, é composto por dois cortes Ceja ou (Ribeye Cap) e Ojo de bife."
+            },
+            {
+                "nome": "Bife De Chorizo 300gr",
+                "preço": "R$ 156,00",
+                "descrição": "Continuação do ancho o Chorizo fica localizado no meio do lombo do animal possuí uma excelente capa de gordura lateral que torna o corte inconfundível e bastante saboroso, um dos cortes mais consagrados na Argentina ."
+            },
+            {
+                "nome": "Camarão",
+                "preço": "R$ 164,00",
+                "descrição": "300gr"
+            },
+            {
+                "nome": "Carré de Cordeiro",
+                "preço": "R$ 222,00",
+                "descrição": "450gr."
+            },
+            {
+                "nome": "Cupim 300gr",
+                "preço": "R$ 142,00",
+                "descrição": "Corte localizado atrás do pescoço do animal, possui bastante gordura entremeada fazendo com que ele seja um corte bastante macio e saboroso, possui uma clássica forma de preparo que é em coccão lenta, ou seja, assar ele em temperatura baixa de 10 a 12 horas para garantir toda sua maciez e sabor inconfundível."
+            },
+            {
+                "nome": "Denver Steak 300gr",
+                "preço": "R$ 162,00",
+                "descrição": "Corte localizado próximo a paleta é retirado do acém do animal mais especificamente da parte de cima do acém, corte com bastante mármoreio e suculência."
+            },
+            {
+                "nome": "Fraldinha Red 300g",
+                "preço": "R$ 160,00",
+                "descrição": "Corte retirado da fraldinha localizado na parte abdominal do animal, especificamente no final da costela, corte magro porém bastante saboroso e macio por conta do mármoreio presente."
+            },
+            {
+                "nome": "Flat Iron 300gr",
+                "preço": "R$ 154,00",
+                "descrição": "Corte retirado da paleta do animal, bastante conhecido por sua maciez e suculência, possui um marmoreio ideal para fazer desse corte um dos mais saborosos do boi."
+            },
+            {
+                "nome": "Galeto 450gr",
+                "preço": "R$ 108,00",
+                "descrição": "É um frango jovem que pesa em media 450g, possui a carne macia com pouca gordura."
+            },
+            {
+                "nome": "Polvo",
+                "preço": "R$ 158,00",
+                "descrição": "150gr"
+            },
+            {
+                "nome": "Pupunha Assada Com Tomate Confit",
+                "preço": "R$ 86,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Salmão",
+                "preço": "R$ 156,00",
+                "descrição": "Deliciosa posta de Salmão (300gr) feita na brasa."
+            },
+            {
+                "nome": "Filet Mignon",
+                "preço": "R$ 144,00",
+                "descrição": "300g de Filet mignon"
+            }
+        ],
+        "Para Compartilhar": [
+            {
+                "nome": "Lagosta Inteira",
+                "preço": "R$ 339,00",
+                "descrição": "Lagosta fresca grelhada na nossa parrilla."
+            },
+            {
+                "nome": "Parrillada",
+                "preço": "R$ 529,00",
+                "descrição": "Bife de chorizo 200g, assado de tira, picanha ,flat iron, linguiças da casa , pão de alho e sweet milho doce."
+            },
+            {
+                "nome": "Parrillada Do Mar",
+                "preço": "R$ 620,00",
+                "descrição": "Polvo, Camarão, salmão e lagosta."
+            },
+            {
+                "nome": "Prime Rib Bovino 700gr",
+                "preço": "R$ 369,00",
+                "descrição": "Sem muitas delongas é o ancho com osso, retirado do lombo do animal mais especificamente no começo do lombo da 6ª a 12ª costela, o fato de possuir o osso deixa o corte com um sabor especial e também valoriza muito a apresentação."
+            },
+            {
+                "nome": "Porter House 1kg",
+                "preço": "R$ 449,00",
+                "descrição": "Corte bastante confundido com o t-bone por conta da semelhança, esse corte é retirado do lombo ou jacaré do boi é composto por três cortes chorizo, alcatra e filé mignon diferente do t-bone que possui apenas o chorizo e filé mignon, de um lado do corte ficam o chorizo com um pequeno pedaço da alcatra é separado com um osso em formato de T e do outro lado do corte um bom pedaço de filé mignon."
+            }
+        ],
+        "Acompanhamentos": [
+            {
+                "nome": "Arroz Biro Biro",
+                "preço": "R$ 48,00",
+                "descrição": "Clássico prato brasileiro, feito do nosso jeito."
+            },
+            {
+                "nome": "Arroz Caldoso",
+                "preço": "R$ 50,00",
+                "descrição": "Bem aromatico, levemente picante e cozido com caldo de carne"
+            },
+            {
+                "nome": "Arroz Carreteiro",
+                "preço": "R$ 52,00",
+                "descrição": "Arroz branco, carne seca desfiada, salsinha, cebola roxa e queijo coalho."
+            },
+            {
+                "nome": "Arroz Com Brócolis e Amendoas",
+                "preço": "R$ 46,00",
+                "descrição": "Arroz branco, brócolis grelhado e amendoas tostada."
+            },
+            {
+                "nome": "Aligot",
+                "preço": "R$ 62,00",
+                "descrição": "Purê de batata cremoso com queijo mussarela"
+            },
+            {
+                "nome": "Batata Chips",
+                "preço": "R$ 34,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Batata Frita",
+                "preço": "R$ 42,00",
+                "descrição": "batata extra crocante frita."
+            },
+            {
+                "nome": "Batata Trufada Com Parmesão",
+                "preço": "R$ 52,00",
+                "descrição": "Batatas fritas com azeite trufado e parmesão."
+            },
+            {
+                "nome": "Creme De Espinafre",
+                "preço": "R$ 42,00",
+                "descrição": "molho branco com espinafre gratinado com queijo"
+            },
+            {
+                "nome": "Farofa de ovo",
+                "preço": "R$ 42,00",
+                "descrição": "Refogada na manteiga, ovo, farinha de mandioca e salsinha"
+            },
+            {
+                "nome": "Farofa Meet",
+                "preço": "R$ 46,00",
+                "descrição": "Clássica da casa, feita com farofa crocante, bacon e crispy de couve manteiga"
+            },
+            {
+                "nome": "Fetuccine AL Limone",
+                "preço": "R$ 54,00",
+                "descrição": "Massa fresca da casa, creme de leite fresco e limão siciliano"
+            },
+            {
+                "nome": "Fetuccine Alfredo",
+                "preço": "R$ 58,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Gnocchi Selado",
+                "preço": "R$ 62,00",
+                "descrição": "Gnocchi selado na manteiga, molho de parmesão e ceboulete"
+            },
+            {
+                "nome": "Gnocchi Trufado",
+                "preço": "R$ 66,00",
+                "descrição": "Gnocchi de batata doce, creme de queijo e salsa trufada"
+            },
+            {
+                "nome": "Legumes na manteiga",
+                "preço": "R$ 44,00",
+                "descrição": "Mix de legumes da estação braseado com manteiga e flor de sal"
+            },
+            {
+                "nome": "Legumes na brasa",
+                "preço": "R$ 46,00",
+                "descrição": "Mix de legumes da estação braseado, azeite de ervas e flor de sal"
+            },
+            {
+                "nome": "Mil Folhas de Batata",
+                "preço": "R$ 58,00",
+                "descrição": "batata em várias camadas crocante servida com creme de queijo e ceboulete"
+            },
+            {
+                "nome": "Polenta Cremosa",
+                "preço": "R$ 40,00",
+                "descrição": "Polenta cremosa, finalizada com manteiga e salsa trufada."
+            },
+            {
+                "nome": "Pure De Batata",
+                "preço": "R$ 38,00",
+                "descrição": "Purê de batata com manteiga e queijo parmesão."
+            },
+            {
+                "nome": "Polenta Trufada",
+                "preço": "R$ 58,00",
+                "descrição": "polenta frita da casa com parmesão e azeite trufado"
+            },
+            {
+                "nome": "Pure de Mandioquinha",
+                "preço": "R$ 46,00",
+                "descrição": "mandioquinha, manteiga e finalizaa com cebolete"
+            },
+            {
+                "nome": "Risoto Al Limone",
+                "preço": "R$ 60,00",
+                "descrição": "Risoto cremoso de limão siciliano com manteiga e queijo"
+            },
+            {
+                "nome": "Risoto Funghi",
+                "preço": "R$ 66,00",
+                "descrição": "Arroz italiano com mix de cogumelos e salsinha"
+            },
+            {
+                "nome": "Risoto Alho Poró",
+                "preço": "R$ 64,00",
+                "descrição": "Arroz Arbóreo, presunto parma, queijo parmesão, manteiga e alho poró."
+            },
+            {
+                "nome": "Risoto Grana Padano",
+                "preço": "R$ 62,00",
+                "descrição": "Arroz arbório, queijo grana padano e manteiga"
+            },
+            {
+                "nome": "Risoto Carbonara",
+                "preço": "R$ 64,00",
+                "descrição": "Receita italiana feita com arroz de risoto, gema caipira, pimenta preta e grana padano"
+            },
+            {
+                "nome": "Risoto Gorgonzola",
+                "preço": "R$ 54,00",
+                "descrição": "Arroz italianoco queijo gorgonzola e parmesão."
+            },
+            {
+                "nome": "Gnocchi Meet",
+                "preço": "R$ 64,00",
+                "descrição": "Gnocchi feito na casa de batata doce, com cogumelos, molho demi e azeite trufado."
+            },
+            {
+                "nome": "Polenta Frita",
+                "preço": "R$ 42,00",
+                "descrição": "polenta frita da casa com parmesão"
+            },
+            {
+                "nome": "Penne Carbonara",
+                "preço": "R$ 58,00",
+                "descrição": "Massa de grano duro, gema caipira, queijo parmesão, pacetta curada e pimenta preta."
+            },
+            {
+                "nome": "Fetuccine Cogumelo",
+                "preço": "R$ 68,00",
+                "descrição": "Massa fresca da casa, queijo cremoso, parmesão e mix de cogumelo."
+            },
+            {
+                "nome": "Arroz de Cupim",
+                "preço": "R$ 58,00",
+                "descrição": "Arroz Arbóreo, cupim na brasa, ovo e demi galce."
+            },
+            {
+                "nome": "Gnocchi Gorgonzola",
+                "preço": "R$ 62,00",
+                "descrição": "Massa feita na casa, creme de queijo, gorgonzola e pêra caramelizada."
+            }
+        ]
+    },
+    "Sobremesas": {
+        "Sobremesas": [
+            {
+                "nome": "Abacaxi Com Espuma De Limão Siciliano",
+                "preço": "R$ 28,00",
+                "descrição": "Abacaxi com raspa de limão siciliano, mel e espuma de limão."
+            },
+            {
+                "nome": "Banoffe",
+                "preço": "R$ 44,00",
+                "descrição": "Torta de Banana com doce de leite acompanha sorvete de canela."
+            },
+            {
+                "nome": "Brownie De Chocolate",
+                "preço": "R$ 52,00",
+                "descrição": "Acompanha Calda de chocolate amargo e Bola de sorvete de creme."
+            },
+            {
+                "nome": "Bolo de coco",
+                "preço": "R$ 44,00",
+                "descrição": "Bolo de coco, felpudo, com calda de coco."
+            },
+            {
+                "nome": "Choux Cream",
+                "preço": "R$ 58,00",
+                "descrição": "O choux cream é uma massa típica francesa recheada com creme de baunilha e creme de avelã, sorvete de creme e calda de chocolate."
+            },
+            {
+                "nome": "Cheesecake Frutas Vermelhas",
+                "preço": "R$ 46,00",
+                "descrição": "cheesecake é um delicioso bolo de queijo, com calda de frutas vermelhas"
+            },
+            {
+                "nome": "Pudim",
+                "preço": "R$ 18,00",
+                "descrição": "pudim tradicional com calda de caramelo"
+            },
+            {
+                "nome": "Sorvetes Tradicionais",
+                "preço": "R$ 18,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Sorvete Zero",
+                "preço": "R$ 18,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Torta de Pistache",
+                "preço": "R$ 48,00",
+                "descrição": "torta de pistache cremosa, com um toque de cream cheese."
+            },
+            {
+                "nome": "Torta de Frutas Vermelhas",
+                "preço": "R$ 44,00",
+                "descrição": "Torta de frutas vermelhas desconstruída com morango, blue berry, amora e framboesa e recheio de creme legere."
+            },
+            {
+                "nome": "Tour de Brigadeiros",
+                "preço": "R$ 49,00",
+                "descrição": "Composição de 5 brigadeiros, sendo eles: - Chocolate Branco - Chocolate Belga Amargo - Chocolate Belga - Pistachio - Brullé"
+            }
+        ]
+    },
+    "Meet & Day": {
+        "Meet & Day - Entrada": [
+            {
+                "nome": "Focaccia com sardela e caponata",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Salada do dia",
+                "preço": "",
+                "descrição": ""
+            }
+        ],
+        "Meet & Day - Prato Principal": [
+            {
+                "nome": "Á milanesa de carne",
+                "preço": "R$ 129,00",
+                "descrição": "Medalhão de filet mignon, batido e empanado com farinha panko"
+            },
+            {
+                "nome": "Berinjela a parmegiana",
+                "preço": "R$ 129,00",
+                "descrição": "Berinjela empanada servida ao molho sugo com queijo."
+            },
+            {
+                "nome": "Bife De Chorizo",
+                "preço": "R$ 149,00",
+                "descrição": "Chorizo fica localizado no meio do lombo do animal possuí uma excelente capa de gordura lateral que torna o corte inconfundível e bastante saboroso, um dos cortes mais consagrados na Argentina."
+            },
+            {
+                "nome": "Cupim",
+                "preço": "R$ 129,00",
+                "descrição": "Corte localizado atrás do pescoço do animal, possui bastante gordura entremeada fazendo com que ele seja um corte bastante macio e saboroso, possui uma clássica forma de preparo que é em coccão lenta, ou seja, assar ele em temperatura baixa de 10 a 12 horas para garantir toda sua maciez e sabor inconfundível."
+            },
+            {
+                "nome": "Flat Iron",
+                "preço": "R$ 149,00",
+                "descrição": "Corte retirado da paleta do animal, bastante conhecido por sua maciez e suculência, possui um marmoreio ideal para fazer desse corte um dos mais saborosos do boi."
+            },
+            {
+                "nome": "Filet Mignon",
+                "preço": "R$ 149,00",
+                "descrição": "O filé mignon é um corte de carne bovina altamente valorizado por sua maciez e sabor suave. Ele é retirado da parte traseira do boi, especificamente da região lombar, e é considerado um dos cortes mais nobres e caros de carne devido à sua qualidade."
+            },
+            {
+                "nome": "Galeto",
+                "preço": "R$ 129,00",
+                "descrição": "É um frango jovem que pesa em media 450g, possui a carne macia com pouca gordura."
+            },
+            {
+                "nome": "Parmegiana de Carne",
+                "preço": "R$ 129,00",
+                "descrição": "Medalhão de filet mignon batido e empanado ,coberto com mussarela e molho sugo."
+            },
+            {
+                "nome": "Salmão",
+                "preço": "R$ 149,00",
+                "descrição": "Deliciosa posta de Salmão feita na brasa."
+            }
+        ],
+        "Meet & Day - Sobremesa": [
+            {
+                "nome": "Mini - Abacaxi",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Mini Brownie",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Mini - Pudim",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Sorvetes Tradicionais",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Sorvete Zero",
+                "preço": "",
+                "descrição": ""
+            }
+        ],
+        "Meet & Day - Acompanhamento Extra": [
+            {
+                "nome": "Arroz Branco",
+                "preço": "R$ 19,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Arroz Biro Biro",
+                "preço": "R$ 19,90",
+                "descrição": "Arroz com cenoura ralada, linguiça, ovo, salsinha picada e batata palha feita na casa."
+            },
+            {
+                "nome": "Arroz Carreteiro",
+                "preço": "R$ 19,90",
+                "descrição": "Arroz, bacon, cebola, tomate, palha roxa, salsinha."
+            },
+            {
+                "nome": "Batata Chips",
+                "preço": "R$ 19,90",
+                "descrição": "Batata inglesa laminada, frita, finalizada com dry rub feito na casa"
+            },
+            {
+                "nome": "Batata com Parmesão",
+                "preço": "R$ 19,90",
+                "descrição": "Batata palito, frita e finalizada com parmessão"
+            },
+            {
+                "nome": "Creme de Espinafre",
+                "preço": "R$ 19,90",
+                "descrição": "Espinafre refogado com molho branco e queijo parmesão."
+            },
+            {
+                "nome": "Farofa de Ovo",
+                "preço": "R$ 19,90",
+                "descrição": "Farofa de ovo mexido, com farinha de mandioca finalizado com salsinha."
+            },
+            {
+                "nome": "Legumes Manteiga",
+                "preço": "R$ 19,90",
+                "descrição": "Batata, cenoura, abobrinha e brócolis salteados na manteiga com dry rub"
+            },
+            {
+                "nome": "Purê de Batata",
+                "preço": "R$ 19,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Purê Mandioquinha",
+                "preço": "R$ 19,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Salada Caesar",
+                "preço": "R$ 19,90",
+                "descrição": "Alface americana, molho caesar croutons, parmesão em lasca e frango grelhado"
+            }
+        ]
+    },
+    "Bebidas": {
+        "Soft": [
+            {
+                "nome": "Água Pura sem gás",
+                "preço": null,
+                "descrição": "Água sem gás."
+            },
+            {
+                "nome": "Água Pura com gás",
+                "preço": null,
+                "descrição": "Água com gás."
+            },
+            {
+                "nome": "San Pellegrino",
+                "preço": null,
+                "descrição": "Água mineral natural reforçada com gás natural da fonte."
+            },
+            {
+                "nome": "Acqua Panna",
+                "preço": null,
+                "descrição": "Água extremamente leve, a preferida pelas Associações de Sommeliers para acompanhar as degustações de vinhos."
+            },
+            {
+                "nome": "Água De Coco",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca-Cola",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca-Cola Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Guaraná",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Guaraná Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tônica schweppes",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bull Sugar Free",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bull Tradicional",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bull Tropical",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Sucos Clássicos": [
+            {
+                "nome": "Melancia",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Laranja",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Limonada",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Sucos Meet": [
+            {
+                "nome": "Suco de Tomate",
+                "preço": null,
+                "descrição": "Suco de tomate especial feito na casa, suco de limão, tomate cereja e azeitona. Alérgicos contem frutos do mar."
+            },
+            {
+                "nome": "Uva com água de coco",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Drinks sem álcool": [
+            {
+                "nome": "Pink Day",
+                "preço": null,
+                "descrição": "Suco de melancia, xarope de melancia, suco de limão, água com gás e espuma de gengibre."
+            },
+            {
+                "nome": "Raspberry Sunset",
+                "preço": null,
+                "descrição": "Purê de framboesa, suco de limão, extrato de gengibre e água tônica."
+            },
+            {
+                "nome": "Sweet and Sour",
+                "preço": null,
+                "descrição": "Suco de laranja, suco de limão, xarope de baunilha e água com gás."
+            },
+            {
+                "nome": "Soda Meet",
+                "preço": null,
+                "descrição": "Soda de pitaya vermelha, agua de coco e uva verde gaseificada na casa."
+            }
+        ],
+        "Drinks Autorais ": [
+            {
+                "nome": "Caju Amigo Do Meet&Eat",
+                "preço": null,
+                "descrição": "Vodka, suco de limão, suco e compota artesanal de caju feitos na casa."
+            },
+            {
+                "nome": "Darkness",
+                "preço": null,
+                "descrição": "Gin, sumo de limão, xarope de carvão ativado, extrato de gengibre, finalizado com água tônica, borda de açúcar mascavo e flor comestível."
+            },
+            {
+                "nome": "Holy Grass",
+                "preço": null,
+                "descrição": "Gin em infusão de capim santo , limão, açúcar e toranja."
+            },
+            {
+                "nome": "Summer Mule",
+                "preço": null,
+                "descrição": "Aperol, vodka, sumo de laranja, sumo de limão, extrato de gengibre e finalizado com espuma de gengibre."
+            },
+            {
+                "nome": "No Name",
+                "preço": null,
+                "descrição": "Licor 43, extrato de gengibre, suco de limão e mel."
+            },
+            {
+                "nome": "Raio de Sol",
+                "preço": null,
+                "descrição": "Gin Bombay, xarope de abacaxi tostado com pimenta rosa, suco de graipfruit, suco de limão e açúcar."
+            },
+            {
+                "nome": "Passion Fitz",
+                "preço": null,
+                "descrição": "Gin Bombay, maracujá e cardamomo, limão, licor 43, angostura cacau, angostura tradicional e limão siciliano."
+            },
+            {
+                "nome": "Brumble Meet",
+                "preço": null,
+                "descrição": "Gin, Limão, Açúcar e licor de amora."
+            },
+            {
+                "nome": "Fifty Fifty martini on the rock",
+                "preço": null,
+                "descrição": "Gin, vermute seco em partes iguais, limão siciliano e azeitona copo baixo com gelo grande."
+            },
+            {
+                "nome": "Relicario",
+                "preço": null,
+                "descrição": "Gin, Purê de framboesa , licor amareto , limão e cereja."
+            },
+            {
+                "nome": "Belissimo",
+                "preço": null,
+                "descrição": "Aperol, purê de pêssego, limão, espumante e morangos frescos."
+            }
+        ],
+        "Drinks ": [
+            {
+                "nome": "Aperol Spritz",
+                "preço": null,
+                "descrição": "Aperol, água gaseificada, espumante e laranja."
+            },
+            {
+                "nome": "Bloody Mary",
+                "preço": null,
+                "descrição": "Vodka, suco de tomate especial feito na casa, suco de limao, tomate cereja e azeitona. Alérgicos contem frutos do mar."
+            },
+            {
+                "nome": "Boulevardier",
+                "preço": null,
+                "descrição": "Whisky Bourbon Jim Beam, vermute tinto Carpano, Campari e Angostura orange bitter."
+            },
+            {
+                "nome": "Carajillo",
+                "preço": null,
+                "descrição": "Inconfundível licor 43, batido com expresso vanilla."
+            },
+            {
+                "nome": "Cosmopolitan Meet",
+                "preço": null,
+                "descrição": "Vodka, coulis de framboesa, contreau e suco de limão."
+            },
+            {
+                "nome": "Dry Martini",
+                "preço": null,
+                "descrição": "Gin, Noily Prat e azeitona."
+            },
+            {
+                "nome": "Espresso Martini",
+                "preço": null,
+                "descrição": "Vodka e café vanilla batidos com um toque de licor de rum com café."
+            },
+            {
+                "nome": "Fitzgerald",
+                "preço": null,
+                "descrição": "Gin, suco de limão, xarope de açúcar e angostura aromatic bitter."
+            },
+            {
+                "nome": "Gimlet",
+                "preço": null,
+                "descrição": "Gin, limão e açucar"
+            },
+            {
+                "nome": "Lillet Vive",
+                "preço": null,
+                "descrição": "Lillet Blanc, morango, pepino, hortelã e tônica."
+            },
+            {
+                "nome": "Limoncello Spritz",
+                "preço": null,
+                "descrição": "Limoncello, espumante, agua com gas, limão siciliano e hortelã."
+            },
+            {
+                "nome": "Manhattan",
+                "preço": null,
+                "descrição": "Bourbon, vermute tinto, bitter de laranja."
+            },
+            {
+                "nome": "Moscow Mule",
+                "preço": null,
+                "descrição": "Vodka, limão, açúcar e espuma de gengibre."
+            },
+            {
+                "nome": "Margarita",
+                "preço": null,
+                "descrição": "Tequila,cointreau (licor de laranja), suco de limão, calda de agave e sal."
+            },
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": "Rum,suco de limão, xarope de açúcar,hortela e agua com gas ."
+            },
+            {
+                "nome": "Negroni",
+                "preço": null,
+                "descrição": "Gin, campari, vermute tinto"
+            },
+            {
+                "nome": "Old Fashioned",
+                "preço": null,
+                "descrição": "Bourbon, angostura, xarope de açúcar."
+            },
+            {
+                "nome": "Whisky Sour",
+                "preço": null,
+                "descrição": "Whisky Bourbon Jim Beam, suco de limão, xarope de açúcar, clara pasteurizada e aromatic bitter."
+            },
+            {
+                "nome": "Amareto Sour",
+                "preço": null,
+                "descrição": "Amareto, suco de limão, clara pasteurizada e um toque de xarope simples."
+            },
+            {
+                "nome": "Bombay Tonic",
+                "preço": null,
+                "descrição": "Gin, tônica, grapefruit e limão siciliano."
+            },
+            {
+                "nome": "Pencilin Dewar's 12",
+                "preço": null,
+                "descrição": "Whisky Dewar´s 12 Anos, extrato de gengibre, xarope de mel e suco de limão e whisky turfado."
+            },
+            {
+                "nome": "Hendricks",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bombay Sapphire",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Drinks jarras e copo": [
+            {
+                "nome": "Clericot Tradicional",
+                "preço": null,
+                "descrição": "Frutas da estação, tempero da casa, espumante ou vinho branco."
+            },
+            {
+                "nome": "Clericot Espumante",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Caipirinha": [
+            {
+                "nome": "Caipiroska",
+                "preço": null,
+                "descrição": "Limão, 3 limões, caju com limão."
+            },
+            {
+                "nome": "Caipirinha",
+                "preço": null,
+                "descrição": "Limão, 3 limões, caju com limão."
+            },
+            {
+                "nome": "Caip Sake",
+                "preço": null,
+                "descrição": "Limão, 3 limões, caju com limão."
+            }
+        ],
+        "Cerveja": [
+            {
+                "nome": "Baden Baden Pilsen Cristal",
+                "preço": null,
+                "descrição": "A Baden Baden Cristal é uma American Lager saborosa, leve e refrescante, com aroma floral do lúpulo e leve dulçor dos maltes especiais."
+            },
+            {
+                "nome": "Blue Moon Long Neck",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Heineken 0.0 Long Neck",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Heineken Long Neck",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Chopp": [
+            {
+                "nome": "Chopp Heineken",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chopp Lagunitas Ipa",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Licor": [
+            {
+                "nome": "Amarula",
+                "preço": null,
+                "descrição": "Licor de amarula."
+            },
+            {
+                "nome": "Baileys",
+                "preço": null,
+                "descrição": "Creme de whisky com cacau e baunilha."
+            },
+            {
+                "nome": "Ballena",
+                "preço": null,
+                "descrição": "Licor de morango com base de tequila."
+            },
+            {
+                "nome": "Cointreau",
+                "preço": null,
+                "descrição": "Licor de laranja."
+            },
+            {
+                "nome": "Drambuie",
+                "preço": null,
+                "descrição": "Licor de whisky mel e especiarias."
+            },
+            {
+                "nome": "Heering",
+                "preço": null,
+                "descrição": "Licor fino de cereja."
+            },
+            {
+                "nome": "Jägermeister",
+                "preço": null,
+                "descrição": "Jägermeister é uma bebida composto de 56 ervas, frutas, raízes e temperos produzida na Alemanha desde 1935. É o nono destilado mais consumido no mundo."
+            },
+            {
+                "nome": "Licor 43",
+                "preço": null,
+                "descrição": "43 especiarias mais acentuado em baunilha e laranja."
+            },
+            {
+                "nome": "Limoncello",
+                "preço": null,
+                "descrição": "Licor de limão siciliano."
+            },
+            {
+                "nome": "Fireball",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Chás e Cafés": [
+            {
+                "nome": "Espresso",
+                "preço": null,
+                "descrição": "Espresso ristretto, decaffeinato ou vanilla."
+            },
+            {
+                "nome": "Macchiato",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chá De Hortelã",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chá de Capim Limão",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Garrafas": [],
+        "Scotch Whisky": [
+            {
+                "nome": "Dewar's 12 Anos",
+                "preço": null,
+                "descrição": "O Dewar’s 12 anos é um blended whisky leve e adocicado, que leva como base o single malt Aberfeldy."
+            },
+            {
+                "nome": "Dewar's 15 Anos",
+                "preço": null,
+                "descrição": "É um produto de até 40 uísques diferentes e é envelhecido em ambos ex-bourbon ou ex-sherry antes de serem misturados todos juntos em cascos de carvalho para casar com o uísque."
+            },
+            {
+                "nome": "Old Parr 12 Anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chivas 12",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Black Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ballantine's 17 Anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gold Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Blue Label",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Irish Whiskey": [],
+        "Bourbon Whisky": [
+            {
+                "nome": "Jim Beam Black",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bulleit Bourbon Whisky",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gentleman Jack",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Single Malt Whisky": [
+            {
+                "nome": "Glenlivet Founder's Reserve",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Glenlivet 15 Anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Macallan 15 Anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Macallan 18 Anos",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Whisky Japonese ": [
+            {
+                "nome": "The chita single grain",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "The hakushu single malt",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "The yamazaki single malt",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Hibiki suntory",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cognac & Brandy": [
+            {
+                "nome": "Hennessy Vsop",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Rum & Cachaça": [
+            {
+                "nome": "Anísio Santiago",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Appleton Estate",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Espírito De Minas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Famigerada",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Havana 3 Anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Havana 7 Anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Zacapa 23",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Tequila": [
+            {
+                "nome": "Clase Azul Tequila",
+                "preço": null,
+                "descrição": "CLASSE AZUL REPOSADO Clase Azul Tequila - uma garrafa de verdadeira arte. Todas as garrafas da destilaria Clase Azul são formadas à mão e pintadas individualmente - não há duas garrafas iguais. A Tequila Clase Azul REPOSADO é uma Tequila Ultra Premium, produzida a partir da Blue Weberagave."
+            },
+            {
+                "nome": "Don Julio Blanca",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Carta de Vinhos": {
+        "Champagnes": [
+            {
+                "nome": "Veuve Clicquot Brut",
+                "preço": null,
+                "descrição": "De coloração palha, com borbulhas finas e intensas e aromas finos de maçã, pera madura, flores brancas, brioche e tostado. Em boca apresenta muita elegância, com final longo e mineral."
+            },
+            {
+                "nome": "Pol Roger",
+                "preço": null,
+                "descrição": "O sofisticado Pol Roger Brut foi o Champagne escolhido para nada menos que os dois últimos casamentos reais da coroa britânica. Apontado como \"a escolha dos especialistas\", é um Champagne de muita classe e complexidade, que envelhece longos anos nas frias caves de Pol Roger. É um assemblage de vinhos elaborados com uvas colhidas em grande parte de vinhedos Grand Cru e Premier Cru, com adição de 25% de vinhos reserva, de safras antigas. Sem dúvida, uma grande referência em Champagne."
+            }
+        ],
+        "Espumante": [
+            {
+                "nome": "Chandon Brut",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chandon Brut Rosé",
+                "preço": null,
+                "descrição": "A degustação do Chandon Brut Rosé começa pela sedução da reluzente e delicada cor rosada lembrando a goiaba junto às características de uma ótima efervescência: borbulhas finas, ativas e numerosas com uma espuma abundante formando um colarinho persistente na taça. Continua conquistando pela sinfonia de aromas a frutas vermelhas com toques sutis de especiarias doces. E leva ao prazer de uma experiência sensorial única de um paladar extremamente equilibrado."
+            },
+            {
+                "nome": "Herres Sekt Extra Troken Chardonnay Riesling",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vallontano Lh Zanini Extra Brut, 2021",
+                "preço": null,
+                "descrição": "É o primeiro espumante artesanal brasileiro de autor. Elaborado pelo método champenoise, é produzido em uma quantidade limitada de 2.500 garrafas."
+            },
+            {
+                "nome": "Blanc Des Blancs Comte d Ormont Brut",
+                "preço": null,
+                "descrição": "França"
+            }
+        ],
+        "Vinho Branco ": [
+            {
+                "nome": "Chablis Domaine Hamelin A.C.C , 2022",
+                "preço": null,
+                "descrição": "Um agradável Chablis, ligeiramente cintilante no nariz. Com boas notas de citrinos e especiarias. Apresenta-se inicialmente com notas no palato que vão desde a toranja, ananás, alperce até libertar persistentes notas de especiarias no final. Bela acidez que o torna um vinho muito fresco e persistente. Experimente em combinação com qualquer um dos seus pratos de peixe."
+            },
+            {
+                "nome": "Santa Magdalena Reserva Chardonnay , 2023",
+                "preço": null,
+                "descrição": "Aroma intenso e um paladar marcante. De origem chilena, o vinho é marcado pelo seu sabor acido e persistente, com textura macia e untuosa. Já o seu aroma possui toques de mineiras e notas cítricas das frutas maduras tropicais que conferem ao olfato uma sensação única e indescritível."
+            },
+            {
+                "nome": "Catena Zapata Chardonay",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Los vascos sauvignon blanc , 2023",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "Pinot Grigio Delle Venezie DOC , 2022",
+                "preço": null,
+                "descrição": "O Pinot Grigio Campagnola é um delicioso vinho leve, com ótimo frescor e presença na boca, num estilo que te convida ao próximo gole. Perfeito para ser tomado como aperitivo ou para combinar com saladas, peixes e frutos do mar."
+            },
+            {
+                "nome": "Oremus Furmint , 2020",
+                "preço": null,
+                "descrição": "Hungria"
+            },
+            {
+                "nome": "Joseph Drouhin Chadonnay, 2021",
+                "preço": null,
+                "descrição": "França"
+            },
+            {
+                "nome": "La Vieille Ferme Blanc, 2022",
+                "preço": null,
+                "descrição": "França"
+            },
+            {
+                "nome": "Chablis Cuvee Tete D'or, 2021",
+                "preço": null,
+                "descrição": "França"
+            },
+            {
+                "nome": "Uxmal chardonnay, 2023",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "Guy Saget Sancerre, 2022",
+                "preço": null,
+                "descrição": "França"
+            },
+            {
+                "nome": "Luis Pato Maria Gomes, 2023",
+                "preço": null,
+                "descrição": "A uva Maria Gomes é um dos maiores achados do vinho português, originando brancos incrivelmente frescos e aromáticos. Um vinho leve, com atraentes notas florais, perfeito para ser bebido como aperitivo ou na companhia de peixes e mariscos, com a assinatura do genial Luis Pato."
+            },
+            {
+                "nome": "Dv Catena Chardonnay, 2022",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "Marcel Deiss, 2018",
+                "preço": null,
+                "descrição": "França"
+            },
+            {
+                "nome": "Alamos Torrontés",
+                "preço": null,
+                "descrição": "Alamos Torrontés é, sem dúvida, um dos melhores vinhos elaborados com esta casta. A safra de 2022 recebeu 90 pontos de Robert Parker. Rico e aromático, com ótimo frescor e elegância, é elaborado com uvas de vinhedos plantados na região de Salta."
+            }
+        ],
+        "Vinho Rose": [
+            {
+                "nome": "Petalis, 2022",
+                "preço": null,
+                "descrição": "No nariz é de uma bela nítidez e muito afeiçoado, começa em perfumes de frutos vermelhos, seguido de uma sedutora fragância de rosas. Aromas intensos de morango fresco, framboesa e pêssego amarelo, com leves adicionais de louro e tomilho-limão. Na boca é de peso médio-leve, com tons frutados, acidez elegante e uma agradável textura vigorosa que se estende até o final."
+            },
+            {
+                "nome": "Chiaretto di Bardolino, 2023",
+                "preço": null,
+                "descrição": "Itália"
+            },
+            {
+                "nome": "Bayanegra Rosé, 2021",
+                "preço": null,
+                "descrição": "O Bayanegra Rosé 2021 é produzido com a uva Tempranillo, cultivada a 800 metros de altitude, na região vitivinícola de Castilla-La Mancha, na Espanha. As uvas são prensadas inteiras. A fermentação alcoólica ocorre em tanques de aço inox sob temperatura controlada. O vinho não estagia em madeira para manter o frescor e os aromas."
+            },
+            {
+                "nome": "La Petite Perriere, 2022",
+                "preço": null,
+                "descrição": "França"
+            },
+            {
+                "nome": "Altano douro , 2022",
+                "preço": null,
+                "descrição": "Portugal"
+            },
+            {
+                "nome": "Miraval rosé, 2022",
+                "preço": null,
+                "descrição": "França"
+            }
+        ],
+        "Vinho Tinto": [
+            {
+                "nome": "Brunello di Montalcino",
+                "preço": null,
+                "descrição": "Brunello di Montalcino é o mais emblemático tinto da Toscana. Robusto, estruturado e elegante. No nariz apresenta notas de frutos negros em geléia, especiarias doces e picante. Na boca é fresco, com final longo! Ótimo para acompanhar carnes com sabores mais intensos e queijos maturados"
+            },
+            {
+                "nome": "Chacayes , 2018",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "Château Petit Boyer, 2022",
+                "preço": null,
+                "descrição": "Nariz muito fino a frutos vermelhos maduros que remetem a cassis, amora e cereja, com um leve toque de torrefação proveniente dos seus 10 meses de estágio em barril francês. Na boca: redondo, flexível , frutado e bom equilíbrio."
+            },
+            {
+                "nome": "Santa Magdalena Reserva Cabernet Sauvignon, 2022",
+                "preço": null,
+                "descrição": "De origem chilena, o vinho Santa Magdalena Reserva Cabernet Sauvignon possui coloração rubi intensa e um aroma de frutas maduras, como cereja, groselha e amora. Além disso, o toque defumado e as notas de cedro deixam um fundo marcante e inigualável no paladar. Vinho tinto concentrado com taninos aveludados e um final longo e persistente. Produzidos com uvas Cabernet Sauvignon selecionadas proporcionando intensidade a bebida."
+            },
+            {
+                "nome": "Santa Magdalena Signature Pinot Noir, 2020",
+                "preço": null,
+                "descrição": "Seu caráter mais sensual cativo com uma boa estrutura, aveludada, taninos suaves e um longo e sedutor final."
+            },
+            {
+                "nome": "Santa Magdalena Reserva Syrah, 2020",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "Masseria Trajone Primitivo Di Manduria, 2021",
+                "preço": null,
+                "descrição": "m vinho rico em coloração e sabor, que encanta pela intensidade aromática de frutas maduras. É fácil de gostar e possui um paladar levemente adocicado, característica típica da uva italiana Primitivo. É um tinto que combina muito bem com a culinária italiana, sendo uma excelente opção para massas e pratos de sabor marcante."
+            },
+            {
+                "nome": "Sangiovese di Toscana , 2022",
+                "preço": null,
+                "descrição": "Após leve maceração a frio, vinificação tradicional em tanque de aço inoxidável com controle de temperatura."
+            },
+            {
+                "nome": "Catena Zapata Angelica Zapata Cabernet Franc Alta, 2019",
+                "preço": null,
+                "descrição": "Elaborado com uvas dos vinhedos Altamira e La Pirámide, de baixíssimos rendimentos, mostra um estilo que lembra alguns dos famosos vinhos de St Emilion em Bordeaux, com uma pronunciada elegância. Um vinho de longa guarda, que deve ficar ainda mais fino após alguns anos em garrafa."
+            },
+            {
+                "nome": "Alma negra , 2021",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "Luis Pato , 2023",
+                "preço": null,
+                "descrição": "Portugal"
+            },
+            {
+                "nome": "Coelheiros, 2022",
+                "preço": null,
+                "descrição": "Portugal"
+            },
+            {
+                "nome": "Chianti Gentilesco, 2021",
+                "preço": null,
+                "descrição": "Itália"
+            },
+            {
+                "nome": "Nicola Catena, 2020",
+                "preço": null,
+                "descrição": "Apontado logo em sua primeira safra como \"o melhor Bonarda da Argentina\" por James Suckling, este tinto é uma homenagem a Nicola Catena, avô de Nicolás Catena. Concebido para ser o melhor Bonarda já produzido, é elaborado com uvas de uma pequena parcela familiar de mais de 80 anos, com rendimentos muito baixos, garantindo concentração e complexidade dificilmente encontradas em um vinho produzido com esta casta. Maturado por 18 meses em barricas de carvalho francês, é a nova referência para esta uva na América do Sul, sendo capaz de evoluir por muitos anos."
+            },
+            {
+                "nome": "JACOPO BIONDI SANTI SASSOALORO",
+                "preço": null,
+                "descrição": "Itália"
+            },
+            {
+                "nome": "Côtes Du Rhône Tradition Côtes Du Rhône, 2021",
+                "preço": null,
+                "descrição": "Nuance de cor vermelha granada com aromas de frutas vermelhas e especiarias como alcaçuz e pimenta cinza."
+            },
+            {
+                "nome": "Pisano Rpf Petit Verdot, 2020",
+                "preço": null,
+                "descrição": "Grande sucesso de Pisano, este varietal de Petit Verdot é complexo e concentrado, mostrando todo o potencial desta grande uva que raramente é majoritária. O bouquet é exuberante e fino. Na boca, mostra potência e elegância."
+            },
+            {
+                "nome": "Catena malbec , 2022",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "Clos Apalta , 2019",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "Catena Zapata Estiba Reservada, 2016",
+                "preço": null,
+                "descrição": "Tinto cultuado, produzido apenas em anos excepcionais, com uma seleção rigorosa das melhores uvas Cabernet Sauvignon, o Catena Zapata Estiba Reservada é, sem dúvida, um dos melhores tintos da Argentina. Mostra uma classe e elegância fora de série. Para Parker, é um vinho maravilhoso que merece ser comparado aos melhores Cabernet Sauvignon do Napa Valley. Maturado 24 meses em barricas novas de carvalho francês (Taransauld)."
+            },
+            {
+                "nome": "Alión Ribera del Duero, 2019",
+                "preço": null,
+                "descrição": "Espanha"
+            },
+            {
+                "nome": "Pintia, 2018",
+                "preço": null,
+                "descrição": "O fantástico Pintia é o grande tinto elaborado por Vega Sicilia na emergente região do Toro. Logo em sua primeira safra, já recebeu 95 pontos de Robert Parker e muitos elogios de Jancis Robinson, que o indicou como o melhor vinho do Toro que já provou. Poderoso e encorpado, mas com classe e elegância, \"um punho de aço em luvas de seda\", nas palavras de Steven Spurrier."
+            },
+            {
+                "nome": "La Vieille Ferme , 2022",
+                "preço": null,
+                "descrição": "França"
+            },
+            {
+                "nome": "Amayna Syrah, 2020",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "Catena Zapata Malbec Argentino Catena Zapata, 2020",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "Vosne Romanee , 2020",
+                "preço": null,
+                "descrição": "França"
+            },
+            {
+                "nome": "Domaine Faiveley Chambolle Musigny, 2017",
+                "preço": null,
+                "descrição": "França"
+            },
+            {
+                "nome": "Angelica Zapata cabernet sauvignon, 2019",
+                "preço": null,
+                "descrição": "Verdadeiro clássico, este Cabernet Sauvignon é o melhor produzido por Catena Zapata para o mercado interno argentino. Elegante, potente e muito concentrado. As videiras estão localizadas em altitudes elevadas, com baixo rendimento, garantindo um perfeito amadurecimento das uvas. Maturação por 18 meses em barricas francesas e americanas novo. Engarrafamento sem filtração."
+            },
+            {
+                "nome": "El Enemigo Bonarda, 2021",
+                "preço": null,
+                "descrição": "Complexo, combina notas de frutas silvestres com um toque defumado. Um dos mais notáveis exemplos desta casta."
+            },
+            {
+                "nome": "DV Catena Malbec Malbec, 2021",
+                "preço": null,
+                "descrição": "Argentina - Mendoza Malbec"
+            },
+            {
+                "nome": "Catena Cabernet Sauvignon, 2021",
+                "preço": null,
+                "descrição": "Elaborado com a Cabernet Sauvignon selecionada de cinco diferentes vinhedos de altitude da família Catena Zapata, é um tinto concentrado, que exibe um distinto caráter varietal. A safra 2016 foi considerada \"soberba\" por Robert Parker, que destacou também seu frescor, os taninos refinados, ótimo foco e final saboroso, merecendo 91+ pontos. Vinho de entrada da linha Catena, já foi descrito por Jancis Robinson como sofisticado, maduro, bastante complexo, com camadas de um Bordeaux, arrematando a mais alta nota num painel com 50 vinhos argentinos avaliados pela jornalista (17,5/20, safra 2010)."
+            },
+            {
+                "nome": "Dv Catena Pinot Noir, 2003",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "Alma Negra Pinot Noir, 2022",
+                "preço": null,
+                "descrição": "Possui uma linda cor rubi clara, translúcida. Aromas com boa complexidade, inicialmente com predomínio frutado (morango, goiaba). Com algum tempo de taça, aparecem toques abaunilhados, cedro e notas florais. Na boca, bastante equilíbrio e elegância, sem excessos. Taninos finos, corpo leve para médio, média acidez e álcool correto. Final de média persistência, agradável. Um excelente exemplar de Pinot Noir, vale a pena ser provado."
+            },
+            {
+                "nome": "Robero Riga",
+                "preço": null,
+                "descrição": "Itália"
+            }
+        ],
+        "Vinho Taça": [
+            {
+                "nome": "Petalis, 2020",
+                "preço": null,
+                "descrição": "No nariz é de uma bela nítidez e muito afeiçoado, começa em perfumes de frutos vermelhos, seguido de uma sedutora fragância de rosas. Aromas intensos de morango fresco, framboesa e pêssego amarelo, com leves adicionais de louro e tomilho-limão. Na boca é de peso médio-leve, com tons frutados, acidez elegante e uma agradável textura vigorosa que se estende até o final."
+            },
+            {
+                "nome": "Santa Magdalena Reserva Chardonnay , 2020",
+                "preço": null,
+                "descrição": "Aroma intenso e um paladar marcante. De origem chilena, o vinho é marcado pelo seu sabor acido e persistente, com textura macia e untuosa. Já o seu aroma possui toques de mineiras e notas cítricas das frutas maduras tropicais que conferem ao olfato uma sensação única e indescritível."
+            },
+            {
+                "nome": "Santa Magdalena Reserva Cabernet Sauvigon, 2022",
+                "preço": null,
+                "descrição": "De origem chilena, o vinho Santa Magdalena Reserva Cabernet Sauvignon possui coloração rubi intensa e um aroma de frutas maduras, como cereja, groselha e amora. Além disso, o toque defumado e as notas de cedro deixam um fundo marcante e inigualável no paladar. Vinho tinto concentrado com taninos aveludados e um final longo e persistente. Produzidos com uvas Cabernet Sauvignon selecionadas proporcionando intensidade a bebida."
+            },
+            {
+                "nome": "Alamos Torrontés",
+                "preço": null,
+                "descrição": "Alamos Torrontés é, sem dúvida, um dos melhores vinhos elaborados com esta casta. A safra de 2022 recebeu 90 pontos de Robert Parker. Rico e aromático, com ótimo frescor e elegância, é elaborado com uvas de vinhedos plantados na região de Salta."
+            },
+            {
+                "nome": "Château Petit Boyer, 2019",
+                "preço": null,
+                "descrição": "Nariz muito fino a frutos vermelhos maduros que remetem a cassis, amora e cereja, com um leve toque de torrefação proveniente dos seus 10 meses de estágio em barril francês. Na boca: redondo, flexível , frutado e bom equilíbrio."
+            }
+        ],
+        "Vinho 375ml": [
+            {
+                "nome": "Catena malbec 375ml, 2022",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "Catena Chardonnay",
+                "preço": null,
+                "descrição": "Catena Chardonnay é uma das grandes referências para brancos maturados em barricas de carvalho produzidos na América do Sul, mostrando muita concentração e finesse. Sempre recebe ótimas notas da imprensa especializada, tendo sido chamado de delicioso pela revista Wine Spectator. Um excelente branco com um bouquet cativante de frutas brancas e nota mineral. Na boca é macio e pleno, com frutas maduras, mel, baunilha e um agradável e sutil toque tostado."
+            },
+            {
+                "nome": "Carmen Insigne Carmenere, 2022",
+                "preço": null,
+                "descrição": "Saboroso tinto elaborado com a mais emblemática casta chilena, a Carmenère. Parcialmente barricado, para manter toda a exuberância da fruta. Na boca mostra taninos suaves e macios, com sabor de geleia de frutas vermelhas, notas de menta e especiarias."
+            }
+        ],
+        "Vinho Sobremesa": [
+            {
+                "nome": "Vinho do Porto",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tokaji Oremus Latest Harvest, 2018",
+                "preço": null,
+                "descrição": "Ótimo vinho de sobremesa elaborado com uvas Furmint selecionadas, com cachos Aszú (botrytizados) e cachos supermaduros. O aroma é intenso, mostrando frutas tropicais e toques herbáceos. Na boca é doce, untuoso, de ótima acidez, fácil de beber. Ótima relação qualidade/preço."
+            }
+        ],
+        "Rolha": [
+            {
+                "nome": "Quarta Feira",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Quinta Feira",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Sexta Feira",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Sábado",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Domingo",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Carta de Vinhos": []
+    },
+    "endereço": "R. Ramos Batista, 443, Vila Olímpia, São Paulo, SP, Brasil",
+    "telefone": "(11) 2893-1733",
+    "email": "reservas@meeteat.com.br",
+    "website": "https://www.instagram.com/meeteatsp/",
+    "name": "Meet & Eat"
+}

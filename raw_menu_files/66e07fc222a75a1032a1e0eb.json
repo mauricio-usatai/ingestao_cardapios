@@ -1,0 +1,473 @@
+{
+    "Entradas": {
+        "ENTRADAS": [
+            {
+                "nome": "Favorita da Romana\nBranca Speciale",
+                "preço": "R$ 34,00",
+                "descrição": "Favorita da Romana"
+            },
+            {
+                "nome": "Filetto ao Creme de Gorgonzola",
+                "preço": "R$ 51,00",
+                "descrição": "Tiras de filé mignon ao creme de gorgonzola. Acompanha torradas"
+            },
+            {
+                "nome": "Bruschetta",
+                "preço": "R$ 35,00",
+                "descrição": "Pão tipo baguete com tomates refogados, parmesão e manjericão."
+            },
+            {
+                "nome": "Fritas",
+                "preço": "R$ 27,00",
+                "descrição": "Porção de fritas sequinhas e crocantes."
+            },
+            {
+                "nome": "Branca Tradicional",
+                "preço": "R$ 28,00",
+                "descrição": "Massa crocante com azeite e parmesão"
+            },
+            {
+                "nome": "Filé com Fritas",
+                "preço": "R$ 49,00",
+                "descrição": "Tiras de filé na manteiga e batatas fritas."
+            },
+            {
+                "nome": "Tábua de Frios",
+                "preço": "R$ 48,00",
+                "descrição": "Salame italiano, lombo canadense, provolone, queijo do reino e azeitonas."
+            },
+            {
+                "nome": "Branca com Alho",
+                "preço": "R$ 29,00",
+                "descrição": "Massa crocante com azeite, parmesão escamas de alho"
+            }
+        ]
+    },
+    "Pizzas ": {
+        "TRADICIONAIS": [
+            {
+                "nome": "Um clássico!\nCalabresa",
+                "preço": null,
+                "descrição": "Um clássico!"
+            },
+            {
+                "nome": "Mozarela",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, azeitona e tomate"
+            },
+            {
+                "nome": "Portuguesa",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, calabresa, ovos, presunto e tomate"
+            },
+            {
+                "nome": "Presunto",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, presunto, tomate e cebola"
+            },
+            {
+                "nome": "Frango com requeijão cremoso",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, frango desfiado coberto com requeijão cremoso, tomate e orégano"
+            },
+            {
+                "nome": "Bacon",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, bacon e tomate"
+            },
+            {
+                "nome": "Americana",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, bacon, presunto, ovos e tomate"
+            },
+            {
+                "nome": "Napolitana",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, tomate seco, manjericão e parmesão"
+            },
+            {
+                "nome": "Milho",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, milho coberto com requeijão cremoso"
+            },
+            {
+                "nome": "Caipira",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, frango desfiado e milho cobertos com requeijão cremoso"
+            },
+            {
+                "nome": "Atum",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, atum, cebola e tomate"
+            },
+            {
+                "nome": "Pepperoni",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela e pepperoni"
+            },
+            {
+                "nome": "Quatro Queijos",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, gorgonzola, provolone e requeijão cremoso"
+            },
+            {
+                "nome": "Salaminho",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, salame italiano, cebola e tomate"
+            },
+            {
+                "nome": "Brócolis",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, brócolis refogado, bacon e parmesão"
+            },
+            {
+                "nome": "Palmito",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela e palmito coberto com requeijão cremoso"
+            },
+            {
+                "nome": "Presunto Speciale",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela e presunto coberto com requeijão cremoso"
+            },
+            {
+                "nome": "Pavarotti",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela e calabresa coberta com requeijão cremoso"
+            },
+            {
+                "nome": "Vegetariana",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, palmito, champignon. tomate seco, rúcula e manjericão"
+            },
+            {
+                "nome": "Bocelli",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela e lombinho coberto com requeijão cremoso"
+            },
+            {
+                "nome": "Lombinho",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, lombinho, tomate e cebola"
+            },
+            {
+                "nome": "Margherita",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, tomate, queijo de búfala e manjericão"
+            }
+        ],
+        "PIZZAS DA ROMANA": [
+            {
+                "nome": "N1 em Vendas!\nCarne de Sol",
+                "preço": null,
+                "descrição": "N1 em Vendas!"
+            },
+            {
+                "nome": "Quatro Queijo Speciale",
+                "preço": null,
+                "descrição": "Mussarela, gorgonzola, provolone, requeijão, tomate seco e manjericão"
+            },
+            {
+                "nome": "Amamos!\nCamarão",
+                "preço": null,
+                "descrição": "Amamos!"
+            },
+            {
+                "nome": "Tonno",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, atum e provolone"
+            },
+            {
+                "nome": "Messina",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, presunto, gorgonzola e requeijão cremoso"
+            },
+            {
+                "nome": "Do Reino",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, gorgonzola, queijo do reino e requeijão cremoso"
+            },
+            {
+                "nome": "Seis Queijos",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, gorgonzola, provolone, requeijão cremoso, cheddar e parmesão"
+            },
+            {
+                "nome": "Arizona",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, bacon, provolone e ovos"
+            },
+            {
+                "nome": "Adeona",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, filé mignon e queijo do reino"
+            },
+            {
+                "nome": "Romana",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, frango desfiado, palmito, champignon e requeijão cremoso"
+            },
+            {
+                "nome": "Filé ao Gorgonzola",
+                "preço": null,
+                "descrição": "Molho de tomate fresco, mussarela, filé mignon e gorgonzola"
+            }
+        ],
+        "DOCES": [
+            {
+                "nome": "A Favorita <3\nBanana",
+                "preço": null,
+                "descrição": "A Favorita <3"
+            },
+            {
+                "nome": "Prestígio",
+                "preço": null,
+                "descrição": "Mussarela, chocolate ao leite e coco ralado"
+            },
+            {
+                "nome": "Romeu e Julieta",
+                "preço": null,
+                "descrição": "Mussarela e goiabada"
+            },
+            {
+                "nome": "Chokito",
+                "preço": null,
+                "descrição": "Mussarela, chocolate ao leite e flocos de arroz"
+            },
+            {
+                "nome": "Nutella",
+                "preço": null,
+                "descrição": "Mussarela e nutella"
+            },
+            {
+                "nome": "Doce de Leite",
+                "preço": null,
+                "descrição": "Mussarela, doce de leite e coco ralado"
+            },
+            {
+                "nome": "Brigadeiro de Panela",
+                "preço": null,
+                "descrição": "Mussarela e brigadeiro caseiro"
+            }
+        ]
+    },
+    "Sobremesas": {
+        "SOBREMESAS": [
+            {
+                "nome": "Brigadeiro de colher",
+                "preço": "R$ 16,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Taça de sorvete de chocolate ou pavê",
+                "preço": "R$ 19,00",
+                "descrição": "2 bolas de sorvete com farofinha e biscoito amanteigado de chocolate e cobertura de chocolate da casa"
+            },
+            {
+                "nome": "Pudim",
+                "preço": "R$ 13,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Taça de sorvete de creme",
+                "preço": "R$ 19,00",
+                "descrição": "2 bolas de sorvete com farofinha e biscoito amanteigado e cobertura de chocolate feita na casa"
+            }
+        ]
+    },
+    "Bebidas": {
+        "BEBIDAS": [
+            {
+                "nome": "Água Mineral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca-cola LS",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Refrigerante",
+                "preço": null,
+                "descrição": "Em lata (350ml)."
+            },
+            {
+                "nome": "Suco (polpa)",
+                "preço": null,
+                "descrição": "Sabores disponíveis: cajú, cajá, goiaba, graviola, morango, acerola e abacaxi."
+            },
+            {
+                "nome": "Suco de Limão",
+                "preço": null,
+                "descrição": "Suco da fruta."
+            },
+            {
+                "nome": "Red Bull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Schweppes Citrus",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Soda Italiana - Xarope Monin",
+                "preço": null,
+                "descrição": "Sabores: morango, limão siciliano, maçã verde, tangerina e cramberry"
+            },
+            {
+                "nome": "Suco de Uva Integral",
+                "preço": null,
+                "descrição": "Vinhedos do Vale"
+            },
+            {
+                "nome": "Shot de Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água com gás",
+                "preço": null,
+                "descrição": "Minalba em lata"
+            }
+        ],
+        "CERVEJAS": [
+            {
+                "nome": "Cerveja 600ml",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cerveja Long Neck",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "CAIPIS": [
+            {
+                "nome": "Caipirinha",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Caipirosca (vodka)",
+                "preço": null,
+                "descrição": "Morango, uva, seriguela e abacaxi (consultar disponibilidade)"
+            },
+            {
+                "nome": "Caipirosca (cachaça)",
+                "preço": null,
+                "descrição": "Morango, uva, seriguela e abacaxi (consultar disponibilidade)"
+            }
+        ],
+        "DESTILADOS": [
+            {
+                "nome": "Black Label - 12 anos (Dose)",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Label - (Dose)",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "White Horse (Dose)",
+                "preço": "R$ 13,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Chivas (Dose)",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Old Parr (Dose)",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Cafés": {
+        "CAFÉZINHO": [
+            {
+                "nome": "Espresso (vibrante)",
+                "preço": null,
+                "descrição": "Intensidade 7/10"
+            },
+            {
+                "nome": "Espresso (forza)",
+                "preço": null,
+                "descrição": "Intensidade 10/10"
+            },
+            {
+                "nome": "Espresso (pleno)",
+                "preço": null,
+                "descrição": "Intensidade 6/10"
+            },
+            {
+                "nome": "Café Coado",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "COM LEITE & OUTROS": [
+            {
+                "nome": "Café com Leite",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cappuccino (classic)",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chocolatto",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Vinhos": {
+        "VINHOS": [
+            {
+                "nome": "Gato Negro Cabernet Sauvignon, 2019",
+                "preço": null,
+                "descrição": "VISUAL: Vermelho Rubi Escuro OLFATIVO: Frutas Vermelhas, Cassis, Baunilha E Chocolate NA BOCA: Médio Corpo. É Frutado Com Taninos Macios"
+            },
+            {
+                "nome": "Casillero Del Diablo",
+                "preço": null,
+                "descrição": "Seus aromas lembram frutas maduras como ameixas pretas e groselha, além de sutis notas de chocolate preto e café tostado. Com harmonização em pratos de carnes, molhos, carnes de caça e legumes."
+            },
+            {
+                "nome": "Almadén Cabernet Sauvignon, 2022",
+                "preço": null,
+                "descrição": "Ideal para acompanhar comidas de média estrutura, petiscos salgados, lasanhas, massas com molhos estruturados, risotos, pizzas, galeto assado ou carnes vermelhas assadas ou grelhadas."
+            },
+            {
+                "nome": "Naturelle Tinto",
+                "preço": null,
+                "descrição": "Naturelle Tinto Suave: Representa a história da Famiglia Valduga e o legado de gerações passadas. É um resgate do belo e simples. São as raízes mais profundas, o alicerce mais resistente, a inspiração mais doce."
+            },
+            {
+                "nome": "Concha Y Toro Reservado",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Santa Helena",
+                "preço": null,
+                "descrição": "É um vinho redondo com acidez muito equilibrada e taninos sedosos. É um vinho diferente, o que surpreende o consumidor que descobre essa variedade. Perfeito com alimentos picantes, como mexicano, chinês e tailandês. Também com carne de porco, pato, aves de caça e queijos."
+            }
+        ]
+    },
+    "endereço": "Lot Parque dos Eucaliptos, 01, Pref. Antonio L de Souza, Rio Largo, Al, Brasil",
+    "telefone": "(82) 98839-2991",
+    "email": "kryssiasouza.azevedo@outlook.com",
+    "website": null,
+    "name": "Romana"
+}

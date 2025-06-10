@@ -1,0 +1,180 @@
+{
+    "Menu Principal": {
+        "Lamen": [
+            {
+                "nome": "Shio Lamen (sabor sal)",
+                "preço": null,
+                "descrição": "Caldo leve de galinha sabor sal."
+            },
+            {
+                "nome": "Shoyu Lamen (sabor shoyu)",
+                "preço": null,
+                "descrição": "Caldo leve de galinha sabor shoyu."
+            },
+            {
+                "nome": "Misso Lamen (sabor missô)",
+                "preço": null,
+                "descrição": "Caldo leve de galinha sabor missô."
+            }
+        ],
+        "Tonkotsu": [
+            {
+                "nome": "Shio Tonkotsu (sabor sal)",
+                "preço": null,
+                "descrição": "Caldo encorpado de porco sabor sal."
+            },
+            {
+                "nome": "Shoyu Tonkotsu (sabor shoyu)",
+                "preço": null,
+                "descrição": "Caldo encorpado de porco no sabor shoyu."
+            },
+            {
+                "nome": "Misso Tonkotsu (sabor missô)",
+                "preço": null,
+                "descrição": "Caldo encorpado de porco sabor missô."
+            }
+        ],
+        "Prato Frio": [
+            {
+                "nome": "Hiyashi Chuka",
+                "preço": null,
+                "descrição": "Macarrão servido frio com molho de shoyu, gengibre, alga kombu e especiarias."
+            }
+        ],
+        "Tsukemen": [
+            {
+                "nome": "Tsukemen",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Toppings": [
+            {
+                "nome": "Naruto (4 Fatias)",
+                "preço": "R$ 4,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Moyashi (Broto de Feijão)",
+                "preço": "R$ 4,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Milho",
+                "preço": "R$ 3,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Negui (Cebolinha Picada)",
+                "preço": "R$ 3,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Chashu (1 Fatia Carne)",
+                "preço": "R$ 2,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Manteiga",
+                "preço": "R$ 2,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Nori (Folha de Alga)",
+                "preço": "R$ 2,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Gengibre Vermelho",
+                "preço": "R$ 2,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Ovo (Cozido e Marinado)",
+                "preço": "R$ 1,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Kaedama (Refil Macarrão)",
+                "preço": "R$ 8,00",
+                "descrição": ""
+            }
+        ],
+        "Porções": [
+            {
+                "nome": "Gyoza Aska (Carne e Cebola)",
+                "preço": "R$ 24,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Gyoza Yasai (Carne e Legumes)",
+                "preço": "R$ 24,00",
+                "descrição": ""
+            }
+        ]
+    },
+    "Bebidas": {
+        "Bebidas": [
+            {
+                "nome": "Água Mineral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Del Valle Laranja",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Del Valle Uva 200ml",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca Cola",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca Cola Zero",
+                "preço": "R$ 6,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Guaraná",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Guaraná Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Budweiser",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Spaten",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Sakê Azumakirin",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Sakê Hakushika",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "endereço": "R Br de Iguape, 260, Liberdade, São Paulo, SP, Brasil",
+    "telefone": "(11) 3277-9682",
+    "email": "indisponível",
+    "website": null,
+    "name": "Lamen Aska"
+}

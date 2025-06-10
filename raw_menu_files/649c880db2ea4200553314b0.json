@@ -1,0 +1,1029 @@
+{
+    "Sugestão do Chef": {
+        "Pratos á La carte": []
+    },
+    "Menu Principal": {
+        "Entradas": [
+            {
+                "nome": "Batata Frita Palito 400gr",
+                "preço": "R$ 39,00",
+                "descrição": "Acompanha ketchup de goiabada."
+            },
+            {
+                "nome": "Batatas Rústicas",
+                "preço": "R$ 42,00",
+                "descrição": "400 gramas de batatas rústicas."
+            },
+            {
+                "nome": "Bolinhos de Alho Poró",
+                "preço": "R$ 38,00",
+                "descrição": "5 Bolinhos artesanais de alho poró. Qualidade diferenciada, crocante por fora e cremoso por dentro."
+            },
+            {
+                "nome": "Bolinhos de Pernil",
+                "preço": "R$ 36,00",
+                "descrição": "5 Bolinhos artesanais de carne suína. Qualidade diferenciada, crocante por fora e cremoso por dentro."
+            },
+            {
+                "nome": "Burrata Artesanal ao Pesto",
+                "preço": "R$ 74,90",
+                "descrição": "Burrata de muçarela de búfala fresca ao pesto de manjericão artesanal e servida com tomates confitados. Acompanha porção de pão focaccia."
+            },
+            {
+                "nome": "Bruschetas Caprese",
+                "preço": "R$ 38,00",
+                "descrição": "4 unidades de pão focaccia, cubos de tomates frescos, parmesão gratinado, azeite extra virgem, finalizado com pesto de manjericão."
+            },
+            {
+                "nome": "Carpaccio",
+                "preço": "R$ 60,00",
+                "descrição": "Carpaccio bovino acompanhada de folhas de rúcula, lascas de parmesão e molho de mostarda."
+            },
+            {
+                "nome": "Ceviche",
+                "preço": "R$ 53,00",
+                "descrição": "Ceviche de Saint Peter com manga e erva doce."
+            },
+            {
+                "nome": "Croqueta do Buenas",
+                "preço": "R$ 44,00",
+                "descrição": "4 Croquetes elaborados com o Brisket bovino (peito). Acompanha molho aioli."
+            },
+            {
+                "nome": "Dadinho de Mandioca com Parmesão",
+                "preço": "R$ 45,00",
+                "descrição": "Dadinho de mandioca cremosa acompanhados de ketchup artesanal de goiabada."
+            },
+            {
+                "nome": "Empanada Argentina",
+                "preço": "R$ 45,00",
+                "descrição": "Massa tradicional Argentina, acompanha salada mix de folhas."
+            },
+            {
+                "nome": "Linguica artesanal",
+                "preço": "R$ 71,00",
+                "descrição": "Linguiça 100% artesanal de provolone ou de ervas finas. Acompanha molho vinagrete e pães."
+            },
+            {
+                "nome": "Polenta Frita do Buenas",
+                "preço": "R$ 35,00",
+                "descrição": "Porção de polenta Italiana crocante acompanhada de molho pomodoro."
+            },
+            {
+                "nome": "Porção Extra de Pães com manteiga de ervas",
+                "preço": "R$ 18,00",
+                "descrição": "Fatias de pão focaccia, aproximadamente 170 gramas."
+            },
+            {
+                "nome": "Provoletta Buenas",
+                "preço": "R$ 75,00",
+                "descrição": "Experimente nossa maravilhosa provoleta argentina. Feito com queijo provolone derretido e grelhado , com tomates confit e um toque de mel pra finalizar. Acompanha pedaços de focacia da casa."
+            },
+            {
+                "nome": "Tábua de Frios",
+                "preço": "R$ 118,00",
+                "descrição": "A tábua de frios é uma opção prática e versátil que combina uma variedade de queijos, Tábua acompanha Parmesão, Brie, Copa Linguiça Defumada, Presunto Parma Azeitona, Damasco"
+            }
+        ],
+        "Saladas ": [
+            {
+                "nome": "Salada Caprese",
+                "preço": "R$ 42,00",
+                "descrição": "Mix de folhas, mussarela de búfala, manjericão e redução de balsâmico e tomate cereja."
+            },
+            {
+                "nome": "Salada di Buenas",
+                "preço": "R$ 38,00",
+                "descrição": "Mix de folhas, picles de cebola roxa, gomos de laranja e croutons."
+            },
+            {
+                "nome": "Ensalada del Pollo",
+                "preço": "R$ 53,00",
+                "descrição": "Salada de mix de folhas, tomate seco, tomate cereja, redução de balsâmico, molho de manjericão e sobrecoxa grelhada."
+            },
+            {
+                "nome": "Salada Verão",
+                "preço": "R$ 44,00",
+                "descrição": "Mix de folhas com palmito e tomate cereja, amêndoas defumadas, nozes caramelizadas servida com redução de balsâmico."
+            }
+        ],
+        "Clássicos na Parrilla": [
+            {
+                "nome": "Ancho Angus (Peça com 250 gramas)",
+                "preço": "R$ 115,00",
+                "descrição": "Um corte saboroso do boi Angus, marmorizado e suculento, muito comum na Argentina. \"Vizinho\" do bife de chorizo, é extraído da região do contra-filé."
+            },
+            {
+                "nome": "Ancho Angus (Peça com 400 gramas)",
+                "preço": "R$ 169,00",
+                "descrição": "Um corte saboroso do boi Angus, marmorizado e suculento, muito comum na Argentina. \"Vizinho\" do bife de chorizo, é extraído da região do contra-filé."
+            },
+            {
+                "nome": "Chorizo Angus (Peça com 250 gramas)",
+                "preço": "R$ 109,00",
+                "descrição": "Linha premium servido em cortes de 250 gramas."
+            },
+            {
+                "nome": "Chorizo Angus (Peça com 400 gramas)",
+                "preço": "R$ 149,00",
+                "descrição": "Linha premium servido em cortes de 400 gramas."
+            },
+            {
+                "nome": "Filé Mignon a Lá Buenas",
+                "preço": "R$ 108,00",
+                "descrição": "Delicioso e suculento bombom mignon de 250 gramas parilhado com nosso incrível molho pomodoro gratinado com parmesão."
+            },
+            {
+                "nome": "Filé Mignon na Parrilla",
+                "preço": "R$ 93,00",
+                "descrição": "250 gramas de filet mignon, preparado na parrilla."
+            },
+            {
+                "nome": "Fraldinha Red - Peça (serve 2 ou 3 pessoas)",
+                "preço": "R$ 251,00",
+                "descrição": "Fibras longas e totalmente limpo é um corte tirado do abdomen (vazio) do boi e com seu corte contra as fibras garantindo a maior maciez. Peça de aproximadamente 700 gramas (Preço por kilo)"
+            },
+            {
+                "nome": "Picanha (Peça)",
+                "preço": "R$ 365,00",
+                "descrição": "Corte tradicional portenho da macia picanha argentina, grelhado em nossa parrilla. (Preço por kilo)."
+            },
+            {
+                "nome": "Tapa de Quadril - Fileto",
+                "preço": "R$ 119,00",
+                "descrição": "Picanha corte tradicional portenho, servido em fileto de 250 gramas da macia picanha argentina, grelhado em nossa parrilla."
+            },
+            {
+                "nome": "Filé de Tilápia",
+                "preço": "R$ 62,00",
+                "descrição": "Acompanha mix de folhas verdes e tomate cereja temperado com banho de ervas."
+            },
+            {
+                "nome": "Salmão Grelhado",
+                "preço": "R$ 80,00",
+                "descrição": "Posta de salmão chileno fresco preparado na brasa (Porção de 300 gramas), acompanha mix de folhas verdes e tomate cereja temperado com banho de ervas."
+            },
+            {
+                "nome": "Carré de Cordeiro Uruguaio",
+                "preço": "R$ 175,00",
+                "descrição": "Carré de cordeiro French Rack (aproximadamente 300 gramas)."
+            }
+        ],
+        "Especiais na Parrilla": [
+            {
+                "nome": "Short Rib",
+                "preço": "R$ 213,50",
+                "descrição": "Retirado do dianteiro da costela, próximo ao acém, é ótimo de sabor no qual ressaltamos sua textura na parrilla, aproximadamente de 550 à 650 gramas. (Preço por Kilo)"
+            },
+            {
+                "nome": "Prime Rib Angus (Uruguay)",
+                "preço": "R$ 273,00",
+                "descrição": "Extremamente saboroso e macio, no centro da peça está o filé de costela, uma carne com muito marmoreio que se torna ainda mais saborosa por estar próxima ao osso. Aproximadamente 700 gramas. (Preço por Kilo)"
+            },
+            {
+                "nome": "Assado de Tira",
+                "preço": "R$ 125,00",
+                "descrição": "Corte transversal da costela deixando pequenos ossos no qual traz muito sabor da carne e preparo mais rápido sendo feito apenas na parrilla. Aproximadamente 500 gramas deste corte clássico de parrilla."
+            }
+        ],
+        "Carnes Suínas": [
+            {
+                "nome": "Ancho Suíno",
+                "preço": "R$ 65,00",
+                "descrição": "Peças de aproximadamente 240 gramas, grelhado na parrilla. Um corte famoso no bovino e que no suíno vai te surpreender pelo sabor e baixo nível de gordura. A peça apresenta um corte mais baixo para atingir o ponto correto e manter sua maciez e suculência."
+            }
+        ],
+        "Pratos à La Carte": [
+            {
+                "nome": "Stinco de Cordeiro",
+                "preço": "R$ 143,00",
+                "descrição": "Stinco de cordeiro marinado 24h em nossos temperos e assado em baixa temperatura até ficar macio e ao ponto. Acompanha polenta italiana cremosa."
+            },
+            {
+                "nome": "Milanesa Buenos Aires",
+                "preço": "R$ 89,00",
+                "descrição": "Um clássico da gastronomia Porteña. O filé mignon é empanado em farinha panko, uma base preparada com molho de tomate italiano pelado e acompanhado de fritas."
+            },
+            {
+                "nome": "Parmegiana di Buenas",
+                "preço": "R$ 125,00",
+                "descrição": "Delicioso filet mignon empanado em farinha Panko ao molho pomodoro gratinado com queijo mussarela e parmesão servido com arroz branco e batata frita."
+            },
+            {
+                "nome": "Filé de pescada com risoto de pupunha",
+                "preço": "R$ 90,00",
+                "descrição": "Filé de pescada confitado, servido com risoto de palmito pupunha."
+            }
+        ],
+        "Massas Artesanais Di Buenas": [
+            {
+                "nome": "Berinjela ao pomodoro e búfala, com talharim",
+                "preço": "R$ 75,00",
+                "descrição": "Massa longa artesanal, na manteiga de sálvia, com berinjela empanada ao pomodoro e mini mussarela de búfala."
+            },
+            {
+                "nome": "Cacio e Pepe à la Buenas",
+                "preço": "R$ 89,00",
+                "descrição": "Receita clássica romana elaborada com nossa massa artesanal (feito com farinha 00 Italiana), pimenta preta moída na hora e queijo pecorino.Tradicionalmente é um prato que se aprecia sem acompanhamento, mas aqui é você que manda, e se quiser, adicione qualquer opção das carnes danossa Parrilla."
+            },
+            {
+                "nome": "Cannelloni Cremoso",
+                "preço": "R$ 85,00",
+                "descrição": "Cannelloni de massa fresca, produzida com farinha italiana 00, recheado com ragu cremoso de filé mignon. Servido gratinado com uma maravilhosa funduta de queijo parmesão, finalizado com aioli e redução de vinho."
+            },
+            {
+                "nome": "Escalope de Mignon com Talharim",
+                "preço": "R$ 83,00",
+                "descrição": "Talharim, molho pomodoro, escalope de mignon."
+            },
+            {
+                "nome": "File de sobrecoxa grelhada com nhoque cremoso",
+                "preço": "R$ 69,00",
+                "descrição": "Suculento filé de sobrecoxa grelhada, acompanhada do nosso nhoque de batata doce ao molho cremoso de espinafre."
+            },
+            {
+                "nome": "Lasanha de Alcachofra e Gorgonzola",
+                "preço": "R$ 85,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Lasanha Bolonhesa",
+                "preço": "R$ 80,00",
+                "descrição": "Lasanha ao molho bolonhesa, feita com massa fresca da casa (elaborada com Farinha 00 italiana). Servida gratinada com uma cremosa funduta de queijo parmesão."
+            },
+            {
+                "nome": "Nhoque da Nonna",
+                "preço": "R$ 64,00",
+                "descrição": "Nhoque artesanal de batata doce, nosso molho de tomate pelado Italiano, pesto fresco e um toque de parmesão. O sabor da infância. Vai muito bem sozinho ou adicione uma de nossas carnes da parrilla para acompanhar."
+            },
+            {
+                "nome": "Nhoque Tartufo",
+                "preço": "R$ 76,00",
+                "descrição": "Nosso nhoque de batata doce ao molho de 3 queijos, gratinado com parmesão e um fio de azeite trufado."
+            },
+            {
+                "nome": "Raviolone Vegano de Abóbora",
+                "preço": "R$ 55,00",
+                "descrição": "Raviolone Vegano com recheio de abóbora. (massa artesanal vegano produzido com pura semolina italiana e agua) com um recheio cremoso de abóbora assada com um toque de noz moscada servido com pesto de manjericão vegano."
+            },
+            {
+                "nome": "Sorrentino de Hortelã Recheado com Ragu de Codeiro e Molho Brie",
+                "preço": "R$ 80,00",
+                "descrição": "Massa artesanal de hortelã recheada com ragu de cordeiro ao molho de queijo brie."
+            },
+            {
+                "nome": "Talharim Artesanal",
+                "preço": "R$ 60,00",
+                "descrição": "Massa artesanal com toque de açafrão (feito com farinha 00 Italiana), leve e saborosa, pode ser degustada sozinha ou escolha uma de nossas carnes da parrilla para acompanhar. Escolha seu molho (Pomodoro ou Bechamel )"
+            },
+            {
+                "nome": "Talharim ao Camarão",
+                "preço": "R$ 95,00",
+                "descrição": "Talharim com tomate confit, alho laminado manteiga e camarões rosa e cinza."
+            },
+            {
+                "nome": "Tortelli com salmão",
+                "preço": "R$ 115,00",
+                "descrição": "Tortelli recheado de mix de queijos e raspas de limão siciliano, acompanhado de uma maravilhosa funduta cremosa de queijo grana padano e pra acompanhar uma bela posta de salmão grelhado."
+            }
+        ],
+        "Risotos": [
+            {
+                "nome": "Escalope de mignon com risoto de parmesão",
+                "preço": "R$ 110,00",
+                "descrição": "Escalope de filé mignon com redução de vinho tinto, acompanhado de risoto de parmesão, finalizado com pangatratto e crispy de parmesão."
+            },
+            {
+                "nome": "Risoto de Alho-poró",
+                "preço": "R$ 78,00",
+                "descrição": "Arroz arbóreo Italiano, caldo de legumes feito no Buenas e alho-poró fresco. Este prato vai muito bem sozinho ou vc pode adicionar qualquer uma das carnes da nossa parrilla."
+            },
+            {
+                "nome": "Risoto de Camarão",
+                "preço": "R$ 109,00",
+                "descrição": "Arroz arbóreo bisque de camarão e vinho branco, acrescidos de pedaços e camarões inteiros acompanhado de telha de parmesão, crispy de alho poró finalizado na manteiga e parmesão ralado."
+            },
+            {
+                "nome": "Risoto de Funghi",
+                "preço": "R$ 84,00",
+                "descrição": "Arroz arbóreo, caldo de legumes feito no Buenas e parmesão com Funghi. Este prato vai muito bem sozinho ou você pode complementar qualquer uma das carnes da nossa parrilla."
+            },
+            {
+                "nome": "Risoto de Gorgonzola e Pera Ao Vinho Tinto",
+                "preço": "R$ 76,00",
+                "descrição": "Arroz arbóreo Italiano, caldo de legumes feito no Buenas e parmesão com queijo gorgonzola e cubos de pera marinada ao vinho tinto. Este prato vai muito bem sozinho ou vc pode adicionar qualquer uma das carnes da nossa parrilla."
+            },
+            {
+                "nome": "Risoto de Maracujá com Ancho Suíno",
+                "preço": "R$ 92,00",
+                "descrição": "Arroz arbório italiano, caldo de legumes feito no Buenas com polpa de maracujá. Este prato vai acompanhado de um delicioso Ancho suíno."
+            },
+            {
+                "nome": "Risoto de Polvo",
+                "preço": "R$ 135,00",
+                "descrição": "Arroz Arbóreo refogado com fundo do mar e vinho tinto, acrescidos de pedaços e tentáculos de Polvo, acompanhado de uma telha de parmesão, crispy de alho Poró e finalizado na manteiga e parmesão ralado."
+            },
+            {
+                "nome": "Risoto de Tomate Seco com Mini Burrata e Pesto",
+                "preço": "R$ 80,00",
+                "descrição": "Risoto de tomate seco com mussarela de búfala e pesto de manjericão."
+            },
+            {
+                "nome": "Filé de peixe grelhado com risoto de Aspargos",
+                "preço": "R$ 98,00",
+                "descrição": "Filé de peixe grelhado e regado na manteiga com um cremoso risoto de parmesão e aspargos, Finalizado com pangratatto e aspargos grelhado."
+            }
+        ],
+        "Acompanhamentos": [
+            {
+                "nome": "Arroz Branco",
+                "preço": "R$ 25,00",
+                "descrição": "porção de aprox. 300g de Arroz."
+            },
+            {
+                "nome": "Arroz Biro-Biro",
+                "preço": "R$ 38,00",
+                "descrição": "porção de aprox. 300g de Arroz."
+            },
+            {
+                "nome": "Legumes da Parrilla",
+                "preço": "R$ 37,00",
+                "descrição": "Legumes frescos selecionados pelo nosso parrillero e preparado na brasa finalizado com fio de azeite."
+            },
+            {
+                "nome": "Mini Risoto de Funghi",
+                "preço": "R$ 56,00",
+                "descrição": "Mini porção para acompanhar sua carne. Arroz Arbóreo Italiano, caldo de legumes feito no Buenas e parmesão com funghi Porcini Italiano."
+            },
+            {
+                "nome": "Mini Risoto de Gorgonzola e Pera ao Vinho Tinto",
+                "preço": "R$ 55,00",
+                "descrição": "Mini porção para acompanhar sua carne. Arroz arbóreo Italiano, caldo de legumes feito no Buenas e parmesão com queijo gorgonzola e cubos de pera marinada ao vinho tinto."
+            },
+            {
+                "nome": "Mini Risoto de Alho-Poró",
+                "preço": "R$ 52,00",
+                "descrição": "Mini porção para acompanhar sua carne. Arroz arbóreo Italiano, caldo de legumes feito no Buenas e alho-poró fresco."
+            }
+        ],
+        "Pratos Kids": [
+            {
+                "nome": "Buenasito di Carne (com 1 acompanhamento)",
+                "preço": "R$ 53,00",
+                "descrição": "Escalopinho de mignon com 1 acompanhamento."
+            },
+            {
+                "nome": "Buenasito di Carne (com 2 acompanhamentos)",
+                "preço": "R$ 59,00",
+                "descrição": "Escalopinho de mignon com 2 acompanhamentos."
+            }
+        ]
+    },
+    "Sobremesas": {
+        "Sobremesas": [
+            {
+                "nome": "Alfajor Desmontado",
+                "preço": "R$ 40,00",
+                "descrição": "Lascas de Alfajor artesanal (massa feita no Buenas), sorvete artesanal, chocolate meio amargo e um toque generoso de doce de leite."
+            },
+            {
+                "nome": "Creme Brulee",
+                "preço": "R$ 38,00",
+                "descrição": "Um delicado creme à base de ovos, baunilha e creme de leite fresco. Coberto por uma casquinha crocante que quebra a batida de uma colher."
+            },
+            {
+                "nome": "Cassata Itália",
+                "preço": "R$ 29,00",
+                "descrição": "Gelato de pistache da Califórnica, gelato de leite, gelato de Frutti di Bosco (frutas vermelhas, amarena, cereja, mirtilo, amora, framboesa e cassis) com cobertura de chocolate ao leite."
+            },
+            {
+                "nome": "Churros Norteño",
+                "preço": "R$ 35,00",
+                "descrição": "Saborosos palitos da massa de churros (feito no Buenas) e dulce de leche artesanal."
+            },
+            {
+                "nome": "Cheesecake com Geleia De Frutas Vermelhas",
+                "preço": "R$ 39,00",
+                "descrição": "Fatia de torta doce de queijo com calda de frutas vermelhas."
+            },
+            {
+                "nome": "Foundant de chocolate com ganache e sorbet de maracujá.",
+                "preço": "R$ 42,00",
+                "descrição": "Bolo leve de chocolate com ganache e sorbet de maracujá."
+            },
+            {
+                "nome": "Gelato Artesanal (2 bolas)",
+                "preço": "R$ 22,00",
+                "descrição": "Sabores tradicionais: Chocolate, Doce de Leite e Creme."
+            },
+            {
+                "nome": "Taça de Papaya do Buenas",
+                "preço": "R$ 34,00",
+                "descrição": "Creme de mamão papaya elaborado com sorvete de creme artesanal e um toque de licor de cassis."
+            }
+        ]
+    },
+    "Pet Food": {
+        "Pet Food": [
+            {
+                "nome": "Pet Food (Sabores com 320g)",
+                "preço": "R$ 41,00",
+                "descrição": "Sabores disponíveis: - Panelinha de Carne 320g; - Risotinho de Frango 320g."
+            },
+            {
+                "nome": "Pet Food (Sabores com 110g)",
+                "preço": "R$ 23,00",
+                "descrição": "Sabores disponíveis: Jardineira de frango 110g; -Cacarolinha de carne 110g."
+            }
+        ]
+    },
+    "Almoço Executivo": {
+        "Almoço Executivo": [
+            {
+                "nome": "Ancho e Biro-Biro",
+                "preço": "R$ 65,00",
+                "descrição": "Ancho 180g, arroz biro-biro e legumes na parrilla. Temos também a opção de arroz branco ou arroz com brócolis."
+            },
+            {
+                "nome": "Brasileirinho",
+                "preço": "R$ 46,00",
+                "descrição": "paillard de mignon (100gr) feito na parrilla acompanhado de arroz branco, feijão carioca e batata palito."
+            },
+            {
+                "nome": "Direto da Roça",
+                "preço": "R$ 42,00",
+                "descrição": "Suculenta sobrecoxa de frango desossada acompanhada de creme de milho e arroz com brócolis."
+            },
+            {
+                "nome": "Filé a Parmegiana",
+                "preço": "R$ 68,00",
+                "descrição": "Delicioso filet mignon empanado em farinha Panko ao molho pomodoro gratinado com queijo mussarela e parmesão servido com arroz branco e fritas."
+            },
+            {
+                "nome": "Milanesa Suíno com Risoto de Açafrão",
+                "preço": "R$ 63,00",
+                "descrição": "Saboroso filé suíno à milanesa acompanhado pelo cremoso risoto de açafrão."
+            },
+            {
+                "nome": "Risoto de Mignon",
+                "preço": "R$ 65,00",
+                "descrição": "Risoto com arroz arbório, tiras de filet mignon, parmesão e manteiga."
+            },
+            {
+                "nome": "Salmão grelhado com Risoto de Maracujá",
+                "preço": "R$ 75,00",
+                "descrição": "Salmão em filé, base de risoto, maracujá in natura.200 gramas de salmão."
+            },
+            {
+                "nome": "Sobrecoxa grelhada, Nhoque de batata doce com molho Bechamel ao Pesto",
+                "preço": "R$ 45,00",
+                "descrição": "Sobrecoxa, nhoque de batata doce, molho bechamel e pesto."
+            },
+            {
+                "nome": "Talharim ao molho sugo com Polpetone",
+                "preço": "R$ 55,00",
+                "descrição": "Nossa massa fresca ao molho sugo, acompanhada de delicioso polpetone recheado de queijo."
+            },
+            {
+                "nome": "Tilápia na Crosta De Castanha com Arroz de limão Siciliano e legumes",
+                "preço": "R$ 66,00",
+                "descrição": "Tilápia na crosta de castanha com arroz de limão Siciliano e legumes."
+            },
+            {
+                "nome": "Tradizionale",
+                "preço": "R$ 35,00",
+                "descrição": "Rigatoni ao molho bolonhesa de filé mignon."
+            },
+            {
+                "nome": "Pudim de leite condensado",
+                "preço": "R$ 14,99",
+                "descrição": "Leite condensado, ovos, leite em pó e água. Calda de caramelo."
+            }
+        ]
+    },
+    "Carta de Vinhos": {
+        "Espumantes": [
+            {
+                "nome": "Almaden Moscatel Rosé",
+                "preço": null,
+                "descrição": "Elaborado pelo método Asti, com uvas Moscato Itália e Moscatel de Hamburgo em vinhedos próprios, na região do Vale do São Francisco/BA. Espumante para sobremesa ou aperitivo. Bebida leve e descontraída (de baixa graduação alcóolica) que encanta pelo seu aroma frutado e pela coloração rosada."
+            },
+            {
+                "nome": "Espumante Chandon Passion Rosé, 2012",
+                "preço": null,
+                "descrição": "Chandon Passion tem uma personalidade única e intensa, com notas de maracujá, pêssego, lichia, acrescidas de toques de rosas; e uma cor rosada inconfundível. Um aperitivo atraente, especialmente quando servido com gelo."
+            },
+            {
+                "nome": "Chandon Riche Demi-sec, 2012",
+                "preço": null,
+                "descrição": "Equilíbrio perfeito entre frescor e cremosidade, com uma doçura deliciosa e um final refrescante. Aromas de manga, figo seco, baunilha e notas de mel."
+            }
+        ],
+        "Brancos": [
+            {
+                "nome": "Almadén Frisante Moscatel Blanc",
+                "preço": null,
+                "descrição": "Desengace total, sem esmagamento; maceração curta (1 a 2 horas na casca) e prensagem em prensa pneumática, com rendimento flor de 60%; clarificação estática do mosto flor a frio; fermentação alcoólica em autoclaves até 7% de álcool com temperatura controlada de 13°C a 15°C, permanecendo com açúcar residual de 40 g/l e pressão de 3 atm e engarrafamento isobárico para manutenção da pressão natural."
+            },
+            {
+                "nome": "Fumata Bianca Sauvignon Blanc, 2020",
+                "preço": null,
+                "descrição": "Atraente cor amarelo dourado, com tons esverdeados e reflexos metalizados; bom brilho. Aromas florais marcantes: acácia ao princípio, depois aparece a fruta representada pelo pêssego branco, e por fim uma delicada nota de hidrocarboneto, que acrescenta complexidade. Na boca, a madeira aparece envolvida com os aromas florais e frutados encontrados no nariz. Vinho equilibrado, com bom volume e frescor."
+            },
+            {
+                "nome": "Reina Rey Chardonnay, 2024",
+                "preço": null,
+                "descrição": "Cor amarelo âmbar com reflexos avermelhados. Notas de frutas tropicais e sabor de mel na boca, atingindo um equilibrio perfeito. Aromas complexos e sabores intensos. O açúcar está em harmonia com a acidez. Final longo"
+            }
+        ],
+        "Rosés": [
+            {
+                "nome": "Frisante Almadén Moscatel Rosé, 2020",
+                "preço": null,
+                "descrição": "Este frisante é elaborado com uvas cultivadas na Vinícola Terranova, Vale do São Francisco / BA, em vinhedo próprio, pelo método de fermentação natural Charmat. É um frisante rosé descontraído, muito agradável e fácil de ser bebido."
+            },
+            {
+                "nome": "Conclave Reserva Rose, 2022",
+                "preço": null,
+                "descrição": "Vinificado em rosé 100% Pinot Noir. Fermentado 50% em recipiente cerâmico e 50% em barris de carvalho francês, 1/3 do seu volume em barris e o restante em cerâmica, que permite um troca gasosa muito favorável ao desenvolvimento de aromas. Cor com tons de cobre de media intensidade, tem uma boa expressão aromática, frutas frescas, notas florais e de caramelo. Sabor equilibrado com bom volume no meio da boca e final longo."
+            },
+            {
+                "nome": "Bodega La Flor de Pulenta Malbec Rosé 2023 750mL, 2023",
+                "preço": null,
+                "descrição": "Tem um rosa suave. Num forte aroma frutado percebe-se uma intensidade que lembra morango e melancia fresca. Delicado no paladar, com sensações que lembram rosas, framboesas e frutas vermelhas."
+            },
+            {
+                "nome": "Montes Cherub Rose",
+                "preço": null,
+                "descrição": "Muito fino e elegante, Cherub é o primeiro rosado de altíssima qualidade na América do Sul e, por seu alto nível, estaria mais próximo da consagrada linha Montes Alpha. Ao contrário de quase todos os rosados, o Cherub não é elaborado a partir de sangria de vinhos tintos, mas de ótimas uvas Syrah e Grenache, especialmente cultivadas para sua produção. É elegante e classudo, com bastante frescor e um longo e complexo retrogosto."
+            }
+        ],
+        "Tintos": [
+            {
+                "nome": "Cobos Felino Malbec, 2020",
+                "preço": null,
+                "descrição": "Um Malbec argentino que combina estrutura, densidade e equilíbrio. Além de tudo, foi feito pelas mãos do enólogo mais respeitado da atualidade: Paul Hobbs. Este tinto frescos e com acidez viva, são a expressão de frutas puras e a riqueza de cada variedade."
+            },
+            {
+                "nome": "Conclave Reserva Cabernet Cabernet, 2020",
+                "preço": null,
+                "descrição": "Cor de atraentes tonalidades rubi. Nariz com aromas de especiarias como páprica, pimenta preta e uma nota fumada, entremeada com aromas de frutos secos. Na boca é doce no início, com um meio de boca largo, taninos bem equilibrados com uma estrutura granulada, que lhe confere frescura e persistência. Para provar as especiarias persistem."
+            },
+            {
+                "nome": "Errazuriz Don Maximiano, 2021",
+                "preço": null,
+                "descrição": "O Don Maximiano, que homenageia o fundador da vinícola, é o rótulo mais icônico e emblemático da Errázuriz. Entre os maiores vinhos do Chile, busca a máxima expressão do Vale do Aconcágua por meio de um corte de maioria Cabernet Sauvignon, equiparando-se a grandes vinhos de Bordeaux, sem deixar o sotaque chileno de lado."
+            },
+            {
+                "nome": "Leyda Pinot Noir, 2009",
+                "preço": null,
+                "descrição": "Notas intensas de frutas vermelhas com um toque herbáceo.Na boca apresenta corpo médio, acidez e álcool bem integrados. Harmonização: Muito bom como acompanhamento de aves assadas de carne branca e mais escuras e fortes, como patos e codornas"
+            },
+            {
+                "nome": "Leyda Reserva Syrah, 2014",
+                "preço": null,
+                "descrição": "Visual: Vermelho rubi. Nariz: Profusão de frutas vermelhas. Boca: Equilibrado e harmonioso."
+            },
+            {
+                "nome": "Leyda Carmenere Reserva, 2020",
+                "preço": null,
+                "descrição": "Sedutora e marcante, uma Carmenère feita para ser apreciada, uma uva tinta que nós brasileiros mais adoramos e esse apreço não é ao acaso. A uva gera vinhos macios, frutados e fáceis de beber. Além de ser representativa do seu terroir, esta linha busca respeitar a fruta e a identidade de cada videira, dando origem a vinhos expressivos, diretos, frescos e suculentos."
+            },
+            {
+                "nome": "Lote 43, 2020",
+                "preço": null,
+                "descrição": "Homenagem ao italiano Giuseppe Miolo, patriarca da família, que chegou ao sul do Brasil no ano de 1897, na região em que hoje está localizado o belo Vale dos Vinhedos. O vinho carrega o nome da terra comprada pelo imigrante no ano da sua chegada. Em 2008, estas terras ficaram dentro da demarcação com DO da primeira região vitivinícola do Brasil. Produzido em um corte harmônico selecionado pelo enólogo da família, Adriano Miolo // Cor rubi muito intensa e profunda. Elevada intensidade aromática, ameixa, tabaco, trufas, cacau, cravinho e subtis e elegantes aromas terciários. Elevada estrutura e bom volume de boca. Taninos redondos que aliados à adequada acidez, fruto da excelente maturação, conferem ao seu desfrute um singular frescor e impar equilíbrio. Temp.: 16 a 18°C. Pede pratos sofisticados, de ingredientes nobres. Os assados de carnes de caça, o churrasco gaúcho, o espeto de medalhões de picanha e as carnes com certo teor de doçura, alta maciez e suculência realçam o seu brilho"
+            },
+            {
+                "nome": "Mancura Merlot, 2021",
+                "preço": null,
+                "descrição": "Descobrimos, a cada dia, novos Merlots que provam o potencial da uva em terras andinas – e este é um belo exemplar! As uvas são provenientes de diferentes produtores no Vale Central do Chile, onde há uma predominância de solos aluviais na maioria das áreas."
+            },
+            {
+                "nome": "Mazzei Poggio Badiola, 2020",
+                "preço": null,
+                "descrição": "Provém de vinhedos localizados a uma grande altitude no coração da região de Chianti Classico, em torno de uma igreja românica que remonta ao século X. Combina de forma única o frescor e a elegância da Sangiovese com a estrutura macia da Merlot, à qual é dado um toque refinado pela Petit Verdot."
+            },
+            {
+                "nome": "Miolo Vinhas Velhas Tannat, 2020",
+                "preço": null,
+                "descrição": "Aromas densos e fechados, vão do chocolate ao tostado, perfeitamente integradocom aromas de frutas vermelhas maduras que lembram geleias.Corpo intenso e potente, de taninos maduroas e envolventes e larguíssima persistência gustativa.Do vinhedo em espaldeira mais antigo do Brasil, plantado em 1976."
+            },
+            {
+                "nome": "Miolo Testardi Syrah 2020, 2010",
+                "preço": null,
+                "descrição": "Coloração rubi intensa com traços violáceos, aroma intenso e complexo, bom equilíbrio fruta, madeira. Os descritores aromáticos lembram ameixa preta, gengibre, noz moscada e nuances defumadas. Boa estrutura e volume em boca, devido à precoce integração ocorrida durante a fermentação entre os taninos da uva e do carvalho. No cômputo geral, apresenta equilíbrio, untuosidade e longa persistência em boca."
+            },
+            {
+                "nome": "Bodega La Flor de Pulenta Malbec, 2013",
+                "preço": null,
+                "descrição": "Oriundo da renomada região vinícola de Mendoza, na Argentina, La Flor de Pulenta Malbec personifica a essência marcante dessa casta que se tornou um ícone do Novo Mundo. Envelhecido em barricas de carvalho, esse rótulo seduz com seu paladar macio, e aromas intensos de frutas pretas, como ameixas e amoras."
+            },
+            {
+                "nome": "Pulenta La Flor Cabernet Sauvignon, 2008",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Quinta Do Seival Castas Portuguesas Touriga Nacional Tinta Roriz, 2020",
+                "preço": null,
+                "descrição": "Na boca o ataque é marcado pelo equilíbrio. Bom corpo, boa acidez, álcool na medida, retrogosto da fruta mas com a lembrança da madeira, um pouco rústico ainda e bom volume de taninos."
+            },
+            {
+                "nome": "San Marzano IL Pumo Primitivo Salento, 2022",
+                "preço": null,
+                "descrição": "No coração de nossas aldeias antigas, de varandas altas e terraços brancos, esse vinho sussurra boa sorte aos transeuntes. Nasce da argila que outrora nutria as vinhas. É uma flor que floresce, um pêssego na árvore, uma uva na videira, sendo um vinho robusto, suave e fácil de beber."
+            },
+            {
+                "nome": "San Marzano Collezione Cinquanta",
+                "preço": null,
+                "descrição": "Os vinhedos de 50 anos que deram origem a este tinto fizeram dele um vinho bastante especial. Com aromas intensos e complexos, este vinho traz notas frutadas de ameixa e geleia vermelha e aroma picante de baunilha e alcaçuz. Intenso na boca, encorpado e macio com um longo retrogosto. Um vinho ideal para longos momentos de meditação."
+            },
+            {
+                "nome": "Sideral, 2019",
+                "preço": null,
+                "descrição": "Apesar da origem chilena, este tinto parece ter vindo de Bordeaux. No nariz, o vinho libera frutas negras frescas, como mirtilo, ameixa e cerejas, com toque de especiarias e tostado. Toda a intensidade aromática surpreende o paladar pela elegância com que passa pela língua. Um vinho macio em boca, que tem acidez, taninos e álcool na medida certa."
+            },
+            {
+                "nome": "Conclave Grand Cabernet Sauvignon, 2019",
+                "preço": null,
+                "descrição": "Gran Cabernet Sauvignon, um vinho tinto de personalidade única elaborado através de uma cofermentação de 85% Cabernet Sauvignon e 15% Cabernet Franc, com uvas provenientes da quinta situada na mítica rua Cobos de Agrelo, Luján de Cuyo."
+            },
+            {
+                "nome": "Errazuriz Max Cabernet Sauvignon",
+                "preço": null,
+                "descrição": "Não tem como negar a tipicidade deste vinho. Ele mostra a pura expressão da Cabernet Sauvignon no Vale do Aconcágua e expressa exatamente aquilo que mais gostamos nos vinhos chilenos. Imponentes aromas de ameixa e cassis ganham a taça, acompanhados por toques herbáceos e de especiarias que surgem entre uma girada e outra na taça. Seus taninos são expressivos, mas macios, e o vinho tem bom peso de boca. Ótimo opção de vinho para aperitivos e para presentear amigos que entendem de vinho (não tem como não se impressionar com este vinho)."
+            },
+            {
+                "nome": "Montes Alpha Malbec",
+                "preço": null,
+                "descrição": "De coloração rubi intensa com reflexos violáceos, revela um bouquet aromático muito expressivo,onde destacam-se aromas de frutas vermelhas, como morango, cereja e ameixa."
+            },
+            {
+                "nome": "Tecedeiras Lilas",
+                "preço": null,
+                "descrição": "Pronto para ser saboreado, este vinho produzido no coração do Douro trata-se de um corte com grande concentração de aromas e sabores. Cor rubi intenso e aroma de frutos pretos do bosque. Na boca revela-se expressivo e volumoso, com taninos sólidos e muito encorpado, devido à seu componente floral dominante."
+            },
+            {
+                "nome": "San Marzano Talo Primitivo di Manduria, 2020",
+                "preço": null,
+                "descrição": "Aromas de cerejas e ameixas maduras, com agradáveis notas de cacau e baunilha. Estrutura notável, suavizado pelo calor suave da uva Primitivo, o final oferece notas de doçura persistente. Passagem de 6 meses em barril de carvalho francês e americano"
+            },
+            {
+                "nome": "Barone Montalto Acquerello Nero D´avola Terre Siciliane Igt, 2014",
+                "preço": null,
+                "descrição": "Logo ao servir este vinho em taça, é possível sentir os aromas frutados de cerejas e ameixa. Bastante fresco, em boca ele se mostra leve, redondo e macio, muito fácil de beber! Os sabores de frutas vermelhas maduras - com um toque de alcaçuz - preenchem toda a boca e convidam para um novo gole. Este varietal não passa por barrica, com intuito de preservar seu frescor e fazer deste um vinho que expresse por completo seu terroir siciliano. A composição do clima e o solo da Sicília são perfeitos para o cultivo da Nero d'Avola, afinal, a ilha é o lar de origem da uva. Não à toa, a cepa dá origem aos melhores vinhos desta região italiana."
+            },
+            {
+                "nome": "Cobos Cocodrilo Malbec, 2020",
+                "preço": null,
+                "descrição": "O enólogo americano Paul Hobbs aterrissou na Argentina em 1989 e por lá deixou-se seduzir subitamente pelo terroir de Mendoza. Foi somente no ano de 1997, porém, quando Paul conheceu dois enólogos da região – Marchiori e Barraud – que decidiu dedicar-se à produção de vinhos. Unidos e descontentes com a imagem da Malbec mundo afora, passaram a produzir vinhos argentinos de reconhecimento internacional. E essa é a natureza da Viña Cobos: o desejo de retomar a posição da Malbec pelo mundo."
+            },
+            {
+                "nome": "Corralillo Syrah, 2018",
+                "preço": null,
+                "descrição": "De cor púrpura e muito vivo, este Syrah se apresenta com intensos aromas de frutas vermelhas, violetas e pimenta. Em boca, o corpo substancioso e suculento vem acompanhado de taninos bem marcados e sabores intensos que reforçam as especiarias e frutas negras. É tudo o que se pode esperar de um Syrah chileno: frescor e intensidade que se equilibram."
+            },
+            {
+                "nome": "Santa Alegra Carménère, 2022",
+                "preço": null,
+                "descrição": "O vinho possui cor rubi profunda com reflexos violetas. O nariz é intenso com aromas de framboesa, chocolate, mentol e uma pitada de fumaça. Na boca, é suave e de paladar equilibrado."
+            },
+            {
+                "nome": "Santa Alegra Reserva Carménère, 2021",
+                "preço": null,
+                "descrição": "O vinho possui cor rubi profunda com reflexos violetas. O nariz é intenso com aromas de framboesa, chocolate, mentol e uma pitada de fumaça. Na boca, é suave e de paladar equilibrado."
+            },
+            {
+                "nome": "Zuccardi Q Malbec 2022, 2022",
+                "preço": null,
+                "descrição": "O Malbec foi originado de vinhedos da Zuccardi de solo vulcânico e ricos em calcário em Gualtallary e El Peral, sub-regiões mendocinas de Tupungato, e fermentado com leveduras nativas, depois envelhecido em carvalho. O resultado? Um Malbec de cor profunda (chegando a tons azulados!) e aroma intenso de frutas vermelhas e flores, como rosa e violeta, além de toques de ervas. Com paladar macio e sedoso, tem boa estrutura e acidez mineral, que proporciona frescor. Um Malbec mais elegante e vertical do que estamos acostumados e encontrar nessa faixa de preço."
+            },
+            {
+                "nome": "Montes Alpha Carménère, 2021",
+                "preço": null,
+                "descrição": "O Montes Alpha Carménère é um vinho de coloração vermelho rubi, com aromas de ameixa, figo, cereja, groselha, chocolate preto e canela. Sua degustação revela um paladar equilibrado, volumoso e persistente."
+            },
+            {
+                "nome": "Montes Alpha Especial Cuvée Carmenère, 2022",
+                "preço": null,
+                "descrição": "Cor vermelho carmim profundo. Alto poder aromático, com fruta madura como ameixa preta, xarope de figo, cerejas e amoras. Apresenta uma interessante presença de carvalho tostado, com notas de chocolate, compota, tabaco e couro, complexo e bem integrado com os aromas de fruta. Você pode sentir seu caráter Carmenère! Na boca é redondo e equilibrado, com sabores apimentados, tostados e lácticos, com bom volume e elegância, persistente."
+            },
+            {
+                "nome": "Nieto senetiner Camila malbec , 2022",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "San Marzano Talo Primitivo Merlot Salento",
+                "preço": null,
+                "descrição": "Vermelho rubi intenso. Um rico buquê de frutas vermelhas maduras, cerejas, frutos macios e algumas notas de canela. Um vinho com uma estrutura notável, enriquecida por uma textura tânica aveludada e uma longa nota final com um agradável final de boca."
+            }
+        ],
+        "Vinhos de Sobremesa": [
+            {
+                "nome": "Vinho do Porto - Tawny",
+                "preço": null,
+                "descrição": "As uvas são provenientes de vinhas de baixa produção na região de Cima Corgo, no Vale do Douro. Um vinho relativamente jovem, resulta do lote de várias colheitas envelhece em média três anos e meio em pequenas barricas de carvalho velho nas Caves Niepoort em Vila Nova de Gaia. De cor viva e brilhante, com leve aroma a nozes e notas de frutos secos bom equilíbrio e um carácter jovem e frutado. Final longo e expressivo. O Porto Tawny mantém-se bem durante vários anos, apesar de não melhorar com a idade.Não contém sedimentos e não precisa de ser decantado."
+            },
+            {
+                "nome": "Late Harvest Miolo",
+                "preço": null,
+                "descrição": "Cor amarelo dourado. No olfato Intenso, rico e complexo, com toque frutado, pêssego em calda, uvas brancas pacificadas, baunilha, caramelo, amêndoas e mel. Doce, de paladar muito intenso, com bom equilíbrio entre o teor de açúcar e ácidos com retrogosto persistente."
+            }
+        ]
+    },
+    "Bebidas Alcoólicas": {
+        "Drinks": [
+            {
+                "nome": "Alexander",
+                "preço": null,
+                "descrição": "Licor de cacau stock, conhaque e creme de leite."
+            },
+            {
+                "nome": "Aperol Spritz",
+                "preço": null,
+                "descrição": "Aperol, espumante, fatia de laranja, agua com gás e ramo de alecrim."
+            },
+            {
+                "nome": "Apple Martini",
+                "preço": null,
+                "descrição": "Vodka, Kaly de maça verde, Triple Sec Stock e limão."
+            },
+            {
+                "nome": "Boulevardier",
+                "preço": null,
+                "descrição": "Whisky bourbon, vermouth e campari."
+            },
+            {
+                "nome": "Caipirinha de Frutas",
+                "preço": null,
+                "descrição": "Consultar frutas disponíveis."
+            },
+            {
+                "nome": "Carajillo",
+                "preço": null,
+                "descrição": "Licor 43 e café"
+            },
+            {
+                "nome": "Cosmopolitan",
+                "preço": null,
+                "descrição": "Vodka, kaly de cranberry, suco do limão e licor de laranja"
+            },
+            {
+                "nome": "Gin Tônica",
+                "preço": null,
+                "descrição": "Sabores: Laranja, canela e anis; Abacaxi, hortelã e cardamomo; Limão siciliano e zimbro; Maracujá e pimenta Jamaica; Tangerina, cravo e canela; Gengibre e limão siciliano"
+            },
+            {
+                "nome": "Jäger-Cola",
+                "preço": null,
+                "descrição": "Delicioso drink a base de Jägermaster, suco de limão e coca-cola."
+            },
+            {
+                "nome": "Margarita",
+                "preço": null,
+                "descrição": "Tequila, suco de limão e triple sec."
+            },
+            {
+                "nome": "Maracujack",
+                "preço": null,
+                "descrição": "Maracujá, Jack Daniel's e agua com gás."
+            },
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": "Fruta, hortelã e rum branco."
+            },
+            {
+                "nome": "Negroni",
+                "preço": null,
+                "descrição": "Gin, campari e vermouth."
+            },
+            {
+                "nome": "Sex On The Beach",
+                "preço": null,
+                "descrição": "Vodka, suco de laranja, licor stock de pêssego e kaly grenadine."
+            },
+            {
+                "nome": "Old fashioned",
+                "preço": null,
+                "descrição": "Whisky, Bitter e Xarope simples"
+            },
+            {
+                "nome": "Daiquiri",
+                "preço": null,
+                "descrição": "Rum, suco de limão taiti, xarope simples"
+            },
+            {
+                "nome": "Clericot",
+                "preço": null,
+                "descrição": "O Clericot é uma bebida refrescante e leve, ideal para ocasiões descontraídas e quentes. Feita com uma combinação de vinho branco ou espumante, frutas frescas!"
+            },
+            {
+                "nome": "Sangria",
+                "preço": null,
+                "descrição": "Sangria ideal para ocasiões descontraídas. Feita com uma combinação de vinho tinto e conhaque, frutas frescas!"
+            }
+        ],
+        "Destilados": [
+            {
+                "nome": "Campari",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Jim Bean",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Jack Daniel's Tennessee Old No 7",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Weber Haus Organica Amburana",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tequila Jose Cuervo",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Licor 43",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Black Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Buchanans 12 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Jameson",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Grey Goose",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Belvedere",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Baileys",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cervejas": [
+            {
+                "nome": "Heineken",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chopp Pilsen",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chopp IPA",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Erdinger Tradicional Weissbier",
+                "preço": null,
+                "descrição": "ERDINGER Weissbier com fermento fino, a glória culminante das habilidades cervejeiras tradicionais da Baviera. Com seu sabor elegante, esta cerveja de trigo é diferente de todas as outras. Cada gole deixa você querendo mais."
+            },
+            {
+                "nome": "Heineken Zero",
+                "preço": null,
+                "descrição": "Heineken zero."
+            },
+            {
+                "nome": "Cerveja Brahma Malzbier, 355ml Long Neck",
+                "preço": null,
+                "descrição": "Para quem procura uma cerveja escura e encorpada com sabor diferenciado, Brahma Malzbier é ideal, pois tem um sabor levemente adocicado e aroma de caramelo. Além disso, é muito nutritiva, por ser rica em carboidratos."
+            }
+        ]
+    },
+    "Bebidas Não Alcoólicas": {
+        "Bebidas Não Alcoólicas": [
+            {
+                "nome": "Água Com ou Sem Gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Soda Italiana",
+                "preço": null,
+                "descrição": "Frutas Vermelhas; Limão Siciliano; Maçã Verde; Morango; Tangerina."
+            }
+        ],
+        "Refrigerantes": [
+            {
+                "nome": "Coca-Cola",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca-Cola Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Guaraná Antarctica",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Guaraná Antarctica Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Schweppes",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Sucos": [
+            {
+                "nome": "Limonada Suíça",
+                "preço": null,
+                "descrição": "Limonada com leite condensado."
+            },
+            {
+                "nome": "Suco de Laranja Natural",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco de Limão Natural",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco de Uva Tinto Integral",
+                "preço": null,
+                "descrição": "Suco de uva integral, sem adição de açúcar, sem conservantes, elaborado com as variedades de uva Isabel e magna, plantadas na região de viticultura tropical vale do são Francisco, Bahia. O suco de uva integral Sunny Days, ideal para acompanhar todos os tipos de alimentos, em especial lanches saudáveis e leves. Também é excelente se apreciado sozinho, pois é nutritivo e saboroso."
+            },
+            {
+                "nome": "Suco de Uva Branco Integral",
+                "preço": null,
+                "descrição": "Suco de uva integral, sem adição de açúcar, sem conservantes, elaborado com as variedades de uva Moscatel, Chenin Blanc e Verdejo, plantadas na região de viticultura tropical vale do São Francisco, Bahia. O suco de uva integral Sunny Days, ideal para acompanhar todos os tipos de alimentos, em especial lanches saudáveis e leves. Também é excelente se apreciado sozinho, pois é nutritivo e saboroso."
+            },
+            {
+                "nome": "Suco de Uva Rosé Integral",
+                "preço": null,
+                "descrição": "Suco de uva integral, sem adição de açúcar, sem conservantes, elaborado com as variedades de uvas Moscatel, Grenache e Syrah, plantadas na região de viticultura tropical vale do são Francisco, Bahia. O suco de uva integral Sunny Days, ideal para acompanhar todos os tipos de alimentos, em especial lanches saudáveis e leves. Também é excelente se apreciado sozinho, pois é nutritivo e saboroso."
+            }
+        ],
+        "Cafés": [
+            {
+                "nome": "Café Ristretto",
+                "preço": null,
+                "descrição": "O Ristretto é um blend de cafés Arábica encorpado e com um caráter de torrado intenso. Mas, em meio a essa intensidade, você degustará as notas de cacau intensas e as notas de madeira sutis que permanecem por um longo tempo nesta cápsula Nespresso."
+            },
+            {
+                "nome": "Café Finezzo",
+                "preço": null,
+                "descrição": "Uma mistura de Arábicas suaves e florais da África Oriental e Arábicas suaves e perfumados da América do Sul e Central. Torrefação suave, revela plenamente os aromas delicados. Tipicamente floral, lembra o jasmim, flor de laranjeira e notas de bergamota."
+            },
+            {
+                "nome": "Café Leggero",
+                "preço": null,
+                "descrição": "Leggero é um blend suave e refrescante de cafés sul-americanos. Arábicas levemente torrads do Brasil e da Colômbia e um Robusta conferem-lhe um corpo leve e aveludado, notas de cereais torrados e cacau com aquele toque de acidez e amargor."
+            },
+            {
+                "nome": "Café Decaffeinato",
+                "preço": null,
+                "descrição": "Decaffeinato é uma mistura complexa de Arábica descafeinado de várias origens, incluindo a Etiópia e a Colômbia, cuja força e riqueza aromática foram cuidadosamente preservadas durante o processo de descafeinização, que respeita a verdadeira natureza dos grãos de café."
+            }
+        ]
+    },
+    "endereço": "Av. Kennedy, 34, Jardim do Mar, São Bernardo do Campo, SP, Brasil",
+    "telefone": "(11) 2564-8400",
+    "email": "adm@buenascarnes.com.br",
+    "website": "https://buenascarnes.com.br/",
+    "name": "Buenas Carnes & Pasta"
+}

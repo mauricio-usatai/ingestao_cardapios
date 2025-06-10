@@ -1,0 +1,770 @@
+{
+    "Mamma Speciale": {
+        "Entradas": [
+            {
+                "nome": "Antipasto da Mamma",
+                "preço": "R$ 89,00",
+                "descrição": "Uma curadoria especial da Casa: Presunto Parma, salame Diavoletti típico da Calábria e abobrinha marinada, acompanhados de queijo gorgonzola,Grana Padano, toques de geleia de pimenta e Mel Trufado. Acompanha azeitonas Azapa, melão cantaloupe e focaccia."
+            },
+            {
+                "nome": "Focaccia Artesanal de Parma",
+                "preço": "R$ 89,00",
+                "descrição": "Focaccia feita com fermentação natural, presunto de Parma, burrata, pesto de rúcula e rúcula fresca."
+            },
+            {
+                "nome": "Focaccia Artesanal de Salmão Defumado",
+                "preço": "R$ 79,00",
+                "descrição": "Focaccia feita com fermentação natural, salmão defumado com raspas de limão Siciliano e cream cheese."
+            }
+        ],
+        "Pizzas": [
+            {
+                "nome": "Canastra Reale",
+                "preço": null,
+                "descrição": "Copa Lombo curada com o premiado Queijo Canastra sobre molho de tomate artesanal, Fior di Latte, cebola roxa e finalizado com orégano fresco."
+            },
+            {
+                "nome": "Alici",
+                "preço": null,
+                "descrição": "Aliche do Mediterrâneo sobre molho de tomate artesanal, Fior di Latte, alho fatiado e salsinha fresca."
+            },
+            {
+                "nome": "Diavoletti",
+                "preço": null,
+                "descrição": "Salame Diavoletti típico da Calábria, sobre molho de tomate artesanal, Fior di Latte, cebola roxa, Mel Trufado e folhas de manjericão."
+            },
+            {
+                "nome": "Burrata Al Verde",
+                "preço": null,
+                "descrição": "Cremosa Burrata ao forno com pesto de rúcula, molho de tomate artesanal e tomate cereja semi seco."
+            },
+            {
+                "nome": "Capra, Parma & Miele",
+                "preço": null,
+                "descrição": "Queijo de cabra, presunto de Parma com um fio delicado de Mel Trufado, Fior di Latte, tomate cereja semi seco e tomilho fresco."
+            },
+            {
+                "nome": "Alcachofra & Pesto",
+                "preço": null,
+                "descrição": "Nobres corações de Alcachofra assados no forno, pesto de manjericão combinados com Fior di Latte, tomate cereja semi seco e tomilho fresco."
+            }
+        ],
+        "Sobremesa": [
+            {
+                "nome": "Torta Mousse Al Cioccolato",
+                "preço": "R$ 32,00",
+                "descrição": "Torta mousse de chocolate meio amargo acompanhada de um suave creme inglês."
+            }
+        ]
+    },
+    "Menu Principal": {
+        "Crostatas": [
+            {
+                "nome": "Alecrim",
+                "preço": "R$ 26,50",
+                "descrição": ""
+            },
+            {
+                "nome": "Alho, Orégano e Parmesão",
+                "preço": "R$ 31,50",
+                "descrição": ""
+            },
+            {
+                "nome": "Parmesão",
+                "preço": "R$ 31,50",
+                "descrição": ""
+            },
+            {
+                "nome": "Pesto de Manjericão Gratinada com Parmesão",
+                "preço": "R$ 37,50",
+                "descrição": ""
+            }
+        ],
+        "Bruschettas": [
+            {
+                "nome": "Parma Al Pesto",
+                "preço": "R$ 28,50",
+                "descrição": "Búfala, Pesto de Rúcula e presunto de Parma."
+            },
+            {
+                "nome": "Gorgonzola e Miele Tartufato",
+                "preço": "R$ 28,50",
+                "descrição": "Queijo Gorgonzola e mel trufado"
+            },
+            {
+                "nome": "Caprese Al Pesto",
+                "preço": "R$ 24,50",
+                "descrição": "Búfala, tomate em cubos e pesto de manjericão."
+            }
+        ],
+        "Insalate": [
+            {
+                "nome": "Caesar Salad",
+                "preço": "R$ 49,00",
+                "descrição": "Alface americana, Grana Padano, croutons e molho Caesar."
+            }
+        ],
+        "Para Começar": [
+            {
+                "nome": "Panino Di Pizza com Salame Italiano",
+                "preço": "R$ 52,50",
+                "descrição": "Massa de pizza, rúcula, mozzarella de búfala, tomates italianos fatiados, salame italiano, pesto de rúcula, azeite e alecrim."
+            },
+            {
+                "nome": "Panino Di Pizza com Parma ao Pesto de Rúcula",
+                "preço": "R$ 52,50",
+                "descrição": "Massa de pizza, tomate italiano, mozzarella de búfala, pesto de rúcula, azeite, alecrim e presunto de Parma."
+            },
+            {
+                "nome": "Carpaccio Tradicional",
+                "preço": "R$ 52,50",
+                "descrição": "Servido com rúcula, molho de alcaparras, parmesão e crostata no azeite."
+            },
+            {
+                "nome": "Pão Calábria",
+                "preço": "R$ 38,50",
+                "descrição": "Pão de Calabresa Artesanal Com Folhas De Manjericão Gratinado com Mozzarella."
+            },
+            {
+                "nome": "Burrata Al Forno",
+                "preço": "R$ 84,50",
+                "descrição": "Com Rúcula, tomate seco e parmesão. Acompanha crostata no azeite."
+            },
+            {
+                "nome": "Burrata Clássica",
+                "preço": "R$ 74,50",
+                "descrição": "Com tomate cereja e manjericão. Acompanha focaccia."
+            },
+            {
+                "nome": "Polpette Al Sugo",
+                "preço": "R$ 38,50",
+                "descrição": "Almôndegas ao molho de tomate. Acompanha focaccia."
+            },
+            {
+                "nome": "Focaccia de Sal Grosso, Alecrim",
+                "preço": "R$ 26,50",
+                "descrição": "Acompanha pesto de azeitonas."
+            },
+            {
+                "nome": "Focaccia Grana Padano",
+                "preço": "R$ 42,50",
+                "descrição": ""
+            }
+        ],
+        "Nossos Pratos": [
+            {
+                "nome": "Lasagna Alla Bolognese",
+                "preço": "R$ 64,50",
+                "descrição": "Ragu de carne, molho de tomate, parmesão e mozzarella gratinada ao forno."
+            },
+            {
+                "nome": "Gnocchi Ai Quattro Formaggi",
+                "preço": "R$ 59,50",
+                "descrição": "Gorgonzola, Parmesão, Brie e Mozzarella."
+            },
+            {
+                "nome": "Spaghetti Con Pesto e Gamberi",
+                "preço": "R$ 74,50",
+                "descrição": "Com camarões, pesto de manjericão e tomate cereja."
+            },
+            {
+                "nome": "Risotto Al Gorgonzola Con Filetto Di Manzo",
+                "preço": "R$ 59,50",
+                "descrição": "Risoto de Gorgonzola e cubos de filé mignon."
+            },
+            {
+                "nome": "Prato Infantil",
+                "preço": "R$ 36,50",
+                "descrição": "(Consulte nossas opções)"
+            }
+        ],
+        "Pizzas Doces": [
+            {
+                "nome": "Gran Finale",
+                "preço": "R$ 38,50",
+                "descrição": "Rodelas de banana cobertas de açúcar com canela e rum cubano."
+            },
+            {
+                "nome": "Delícia Deleite",
+                "preço": "R$ 45,50",
+                "descrição": "Massa aberta ao meio com doce de leite argentino, amêndoas e gotas de chocolate branco."
+            },
+            {
+                "nome": "Delícia de Nutella",
+                "preço": "R$ 45,50",
+                "descrição": "Massa aberta ao meio com Nutella, amêndoas e gotas de chocolate branco."
+            },
+            {
+                "nome": "Delícia Cioccolato",
+                "preço": "R$ 45,50",
+                "descrição": "Chocolate meio amargo, morangos e raspas de chocolate branco."
+            },
+            {
+                "nome": "Delícia de Pistache",
+                "preço": "R$ 45,50",
+                "descrição": "Creme de pistache, calda de chocolate meio amargo, finalizado com farofa de pistache."
+            }
+        ],
+        "Outros Doces": [
+            {
+                "nome": "Piccolo Dolce",
+                "preço": "R$ 12,50",
+                "descrição": "(Consulte nossas opções)"
+            },
+            {
+                "nome": "Mousse de Chocolate Com Nutella",
+                "preço": "R$ 29,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Banana Jamma",
+                "preço": "R$ 34,50",
+                "descrição": "Banana assada com canela, açúcar, raspas de chocolate e sorvete."
+            },
+            {
+                "nome": "Brownie de Chocolate com Nutella, Doce de Leite e Sorvete",
+                "preço": "R$ 45,50",
+                "descrição": ""
+            },
+            {
+                "nome": "Gelato Al Formaggio con Guava",
+                "preço": "R$ 32,50",
+                "descrição": "Gelato Al Formaggio con Guava, sorvete de queijo servido com geleia cremosa de goiaba e pedacinhos de goiabada. Finalizado com amêndoas tostadas."
+            }
+        ]
+    },
+    "Almoço": {
+        "Insalate": [
+            {
+                "nome": "Caesar Salad",
+                "preço": "R$ 49,00",
+                "descrição": "Alface americana, Grana Padano, croutons e molho Caesar."
+            }
+        ],
+        "Mare, Terra e Aria": [
+            {
+                "nome": "Pollo Fritto Con Mayo Al Pepe",
+                "preço": "R$ 49,50",
+                "descrição": "Filé de frango à milanesa com maionese de alho e pimenta do reino. Com risoto de parmesão."
+            },
+            {
+                "nome": "Filetto Di Tilapia In Crosta Di Erbe",
+                "preço": "R$ 59,50",
+                "descrição": "Filé de tilápia em crosta de ervas finas com legumes salteados."
+            },
+            {
+                "nome": "Cotoletta Petroniana",
+                "preço": "R$ 79,50",
+                "descrição": "Cotoleta de filé mignon à milanesa, gratinada ao forno com presunto de Parma e mozzarella. Acompanha purê de batatas trufado."
+            },
+            {
+                "nome": "Filetto Di Manzo Con Tagliatelle Al Burro",
+                "preço": "R$ 84,50",
+                "descrição": "Medalhão de filé mignon ao próprio molho e tagliatelle com fonduta de parmesão, manteiga e sálvia."
+            },
+            {
+                "nome": "Salmone Con Risotto",
+                "preço": "R$ 89,50",
+                "descrição": "Filé de salmão em crosta de ervas finas com risoto de limão siciliano."
+            }
+        ],
+        "Risotto": [
+            {
+                "nome": "Risotto Al Gorgonzola Con Filetto Di Manzo",
+                "preço": "R$ 59,50",
+                "descrição": "Risoto de Gorgonzola e cubos de filé mignon."
+            },
+            {
+                "nome": "Risotto Mare e Monti",
+                "preço": "R$ 69,50",
+                "descrição": "Risoto de camarão, cogumelos e tomilho."
+            }
+        ],
+        "Pasta Fresca": [
+            {
+                "nome": "Paillard Con Fettuccine",
+                "preço": "R$ 69,50",
+                "descrição": "Paillard de filé mignon e fettuccine com fonduta de parmesão, manteiga e sálvia."
+            },
+            {
+                "nome": "Tagliatelle Con Salmone",
+                "preço": "R$ 69,50",
+                "descrição": "Tagliatelle gratinado com cubos de sal- mão e fonduta de parmesão."
+            },
+            {
+                "nome": "Tagliatelle Con Polpettine Al Sugo",
+                "preço": "R$ 54,50",
+                "descrição": "Tagliatelle ao molho de tomate, almôndegas e fonduta de parmesão."
+            },
+            {
+                "nome": "Gnocchi Con Filetto e Funghi",
+                "preço": "R$ 69,50",
+                "descrição": "Nhoque de Batata com cubos de mignon, mix de cogumelos e azeite trufado."
+            },
+            {
+                "nome": "Gnocchi Ai Quattro Formaggi",
+                "preço": "R$ 59,50",
+                "descrição": "Gorgonzola, Parmesão, Brie e Mozzarella."
+            },
+            {
+                "nome": "Lasagna Alla Bolognese",
+                "preço": "R$ 64,50",
+                "descrição": "Ragu de carne, molho de tomate, parmesão e mozzarella gratinada ao forno."
+            }
+        ],
+        "Pasta Secca": [
+            {
+                "nome": "Spaghetti Al Pomodoro",
+                "preço": "R$ 44,50",
+                "descrição": "Ao molho de tomate e manjericão."
+            },
+            {
+                "nome": "Spaghetti Alla Carbonara",
+                "preço": "R$ 59,50",
+                "descrição": "Bacon, parmesão, gema de ovo e pimenta do reino."
+            },
+            {
+                "nome": "Spaghetti Con Pesto e Gamberi",
+                "preço": "R$ 74,50",
+                "descrição": "Com camarões, pesto de manjericão e tomate cereja."
+            }
+        ]
+    },
+    "Pizzas": {
+        "Pizzas Rústicas": [
+            {
+                "nome": "Destaques da Mamma\nMamma Jamma",
+                "preço": null,
+                "descrição": "Destaques da Mamma"
+            },
+            {
+                "nome": "Destaques da Mamma\nMamma Quaresma (Criação da Chef Flávia Quaresma)",
+                "preço": null,
+                "descrição": "Destaques da Mamma"
+            },
+            {
+                "nome": "Destaques da Mamma\nPepe Marmellata",
+                "preço": null,
+                "descrição": "Destaques da Mamma"
+            },
+            {
+                "nome": "Margherita Gourmet",
+                "preço": null,
+                "descrição": "Mozzarella de búfala, tomate cereja, molho de tomate natural, orégano e manjericão."
+            },
+            {
+                "nome": "Caprese",
+                "preço": null,
+                "descrição": "Mozzarella de búfala, pesto de azeitonas pretas, rodelas de tomates, molho de tomate natural, mozzarella, orégano e manjericão."
+            },
+            {
+                "nome": "Mozzarella",
+                "preço": null,
+                "descrição": "Mozzarella, molho de tomate natural e orégano."
+            },
+            {
+                "nome": "Margherita",
+                "preço": null,
+                "descrição": "Mozzarella, molho de tomate natural, fatias de tomate, orégano e manjericão."
+            },
+            {
+                "nome": "Pepe Con Formaggio e Bacon",
+                "preço": null,
+                "descrição": "Mozzarella, Catupiry®, bacon e pimenta do reino."
+            },
+            {
+                "nome": "Calabresa e Gorgonzola",
+                "preço": null,
+                "descrição": "Linguiça calabresa artesanal, Gorgonzola, molho de tomate natural, orégano, mozzarella e cebolas. Finalizada com parmesão."
+            },
+            {
+                "nome": "Gorgonzola e Miele",
+                "preço": null,
+                "descrição": "Gorgonzola, mozzarella e mel."
+            },
+            {
+                "nome": "Peito de Peru e Alho Poró",
+                "preço": null,
+                "descrição": "Peito de peru, Catupiry®, molho de tomate natural, mozzarella, alho poró e orégano."
+            },
+            {
+                "nome": "Mamma Pepe",
+                "preço": null,
+                "descrição": "Linguiça calabresa artesanal, mozzarella de búfala, Catupiry®. Finalizada com pimenta do reino."
+            },
+            {
+                "nome": "Toscana",
+                "preço": null,
+                "descrição": "Linguiça Toscana, mozzarella de búfala, molho de tomate natural, parmesão. Finalizada com pimenta do reino."
+            },
+            {
+                "nome": "Carbonara",
+                "preço": null,
+                "descrição": "Mozzarella, gema de ovo, bacon, parmesão ralado e pimenta do reino."
+            },
+            {
+                "nome": "Camponesa",
+                "preço": null,
+                "descrição": "Frango desfiado com ervas de Provence, Catupiry ®, molho de tomate natural, orégano e mozzarella."
+            },
+            {
+                "nome": "Gamberetti & Catupiry® | Sazonal",
+                "preço": null,
+                "descrição": "Camarões no azeite com alho, Catupiry ®, molho de tomate natural, orégano e mozzarella."
+            },
+            {
+                "nome": "Peperonata",
+                "preço": null,
+                "descrição": "Rodelas de pepperoni, mozzarella, molho de tomate natural e orégano. Finalizada com parmesão."
+            },
+            {
+                "nome": "Zucchine",
+                "preço": null,
+                "descrição": "Abobrinha assada, mozzarella de búfala, molho de tomate natural, com farofa de alho e ervas finas. Finalizada com parmesão."
+            },
+            {
+                "nome": "Parma Tartufata",
+                "preço": null,
+                "descrição": "Presunto de Parma, azeite trufado, alho poró, mozzarella de búfala, pimenta calabresa, molho de tomate natural e orégano."
+            },
+            {
+                "nome": "Mix de Cogumelos",
+                "preço": null,
+                "descrição": "Cardoncelli, Shitake e Paris, mozzarella, molho de tomate natural e orégano. Finalizada com parmesão."
+            },
+            {
+                "nome": "Parma e Formaggi",
+                "preço": null,
+                "descrição": "Presunto de Parma, lâminas de Grana Padano, mozzarella, pesto de basílico e orégano."
+            },
+            {
+                "nome": "Capra e Pesto",
+                "preço": null,
+                "descrição": "Mozzarella, queijo de cabra, pimenta rosa, pesto de manjericão e basílico. Finalizada com pimenta do reino."
+            },
+            {
+                "nome": "Pepperoni e Miele",
+                "preço": null,
+                "descrição": "Pepperoni, mozzarella de búfala e mel."
+            },
+            {
+                "nome": "Giardino (Criação da Chef Tati Lund)",
+                "preço": null,
+                "descrição": "Molho de tomate natural, creme de cebola caramelada, tomate cereja assado, abobrinha, alho poró, lâminas de alho, azeitonas pretas, folhas de manjericão e raspas de limão siciliano."
+            },
+            {
+                "nome": "Quattro Formaggi",
+                "preço": null,
+                "descrição": "Gorgonzola, Catupiry ®, mozzarella, orégano e molho de tomate natural. Finalizada com parmesão."
+            },
+            {
+                "nome": "Portuguesa",
+                "preço": null,
+                "descrição": "Mozzarella, presunto, azeitonas, cebolas, ovos, molho de tomate natural e orégano. Finalizada com queijo parmesão."
+            }
+        ],
+        "Pizzas Doces": [
+            {
+                "nome": "Gran Finale",
+                "preço": "R$ 38,50",
+                "descrição": "Rodelas de banana cobertas de açúcar com canela e rum cubano."
+            },
+            {
+                "nome": "Delícia Deleite",
+                "preço": "R$ 45,50",
+                "descrição": "Massa aberta ao meio com doce de leite argentino, amêndoas e gotas de chocolate branco."
+            },
+            {
+                "nome": "Delícia de Nutella",
+                "preço": "R$ 45,50",
+                "descrição": "Massa aberta ao meio com Nutella, amêndoas e gotas de chocolate branco."
+            },
+            {
+                "nome": "Delícia Cioccolato",
+                "preço": "R$ 45,50",
+                "descrição": "Chocolate meio amargo, morangos e raspas de chocolate branco."
+            },
+            {
+                "nome": "Delícia de Pistache",
+                "preço": "R$ 45,50",
+                "descrição": "Creme de pistache, calda de chocolate meio amargo, finalizado com farofa de pistache."
+            }
+        ]
+    },
+    "Drinks": {
+        "G&T's da Mamma": [
+            {
+                "nome": "Classic",
+                "preço": null,
+                "descrição": "Gin, limão siciliano, alecrim e água tônica."
+            },
+            {
+                "nome": "Colorful",
+                "preço": null,
+                "descrição": "Gin, morango, hortelã, limão siciliano e água tônica."
+            },
+            {
+                "nome": "Orange",
+                "preço": null,
+                "descrição": "Gin, laranja, noz moscada, canela em pau e água tônica."
+            }
+        ],
+        "Signatures": [
+            {
+                "nome": "Blackberry Mamma",
+                "preço": null,
+                "descrição": "Gin, sour mix, suco de abacaxi e xarope de amora."
+            },
+            {
+                "nome": "Pink Mamma",
+                "preço": null,
+                "descrição": "Gin, frutas vermelhas, suco de limão tahiti, xarope de camomila e espuma de hibisco."
+            },
+            {
+                "nome": "Jamma Spritz",
+                "preço": null,
+                "descrição": "Aperol infusionado com tangerina, óleo saccharum de tangerina e espumante."
+            },
+            {
+                "nome": "Melone Citrus",
+                "preço": null,
+                "descrição": "Vodka Absolut Citron, xarope de basílico, xarope de melão e suco de limão siciliano."
+            },
+            {
+                "nome": "Jamma Smash",
+                "preço": null,
+                "descrição": "Gin, suco de limão siciliano e óleo saccharum de limão siciliano."
+            },
+            {
+                "nome": "Licore Fresco",
+                "preço": null,
+                "descrição": "Cachaça Seleta, xarope de manga, suco de limão, finalizada com fios cítricos."
+            }
+        ],
+        "Caipirinhas": [
+            {
+                "nome": "Lichia e Morango",
+                "preço": null,
+                "descrição": "Lychee and Strawberry Tangerine*, Sicilian lemon and Tahiti lemon Green grape and mint *seasonal."
+            },
+            {
+                "nome": "Tangerina, limão siciliano e limão tahiti",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Uva verde e hortelã",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Clássicos": [
+            {
+                "nome": "Clericot",
+                "preço": null,
+                "descrição": "Frutas da estação, Martini Rosso, Cointreau e espumante."
+            },
+            {
+                "nome": "Moscow Mule",
+                "preço": null,
+                "descrição": "Vodka Absolut, suco de limão tahiti, xarope de açúcar e espuma de gengibre."
+            },
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": "Rum, suco de limão tahiti, água com gás, folhas de hortelã e xarope de açúcar."
+            },
+            {
+                "nome": "Cosmopolitan",
+                "preço": null,
+                "descrição": "Vodka Absolut Citron, Cointreau, cranberry e suco de limão tahiti."
+            },
+            {
+                "nome": "Margarita",
+                "preço": null,
+                "descrição": "Tequila, Cointreau e suco de limão tahiti."
+            },
+            {
+                "nome": "Negroni Envelhecido",
+                "preço": null,
+                "descrição": "Gin, Campari, Vermute Rosso, envelhecido num barril de carvalho."
+            },
+            {
+                "nome": "Negroni Clássico",
+                "preço": null,
+                "descrição": "Gin, Campari, Vermute Rosso."
+            }
+        ]
+    },
+    "Bebidas": {
+        "Cervejas": [
+            {
+                "nome": "Chopp Heineken",
+                "preço": null,
+                "descrição": "Uma Larger puro malte, refrescante e de cor amarelo-dourado, produzida com ingredientes 100% naturais: água, malte e lúpulo. VOL 5%"
+            },
+            {
+                "nome": "Heineken",
+                "preço": null,
+                "descrição": "Uma cerrveja larger Puro Malte, refrescante e de cor amarelo-dourado, produzida com ingredientes 100% naturais: água, malte e lúpulo. VOL 5%"
+            },
+            {
+                "nome": "Heineken 0,0%",
+                "preço": null,
+                "descrição": "Lager naturalmente fermentada com levedura exclusiva A, harmonizada para um sabor equilibrado com notas frutadas e corpo suave, refrescante e encorpada."
+            },
+            {
+                "nome": "Blue Moon",
+                "preço": null,
+                "descrição": "A Blue Moon White é uma cerveja de trigo do estilo Witbier, reconhecida por sua textura suave e refrescante. VOL 5,4%"
+            },
+            {
+                "nome": "Baden Baden Cristal",
+                "preço": null,
+                "descrição": "Uma pilsen saborosa, leve e refrescante, com aroma floral do lúpulo e leve dulçor dos maltes especiais. VOL 5%"
+            },
+            {
+                "nome": "Baden Baden Ipa",
+                "preço": null,
+                "descrição": "Uma cerveja artesanal que equilibra o amargor do lúpulo com o intenso aroma e sabor cítricos provenientes do lúpulo e da adição de suco de maracujá. VOL 6,40%"
+            },
+            {
+                "nome": "Baden Baden Golden",
+                "preço": null,
+                "descrição": "Uma cerveja tipo ale diferenciada, com sabor adocicado, coloração dourada e aroma marcante de canela e frutas vermelhas. VOL 4,5%"
+            }
+        ],
+        "Doses": [
+            {
+                "nome": "Vodka Premium",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Super Premium",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Whisky 8",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Whisky 12",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Whisky 18",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bourbon",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tequila",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cachaça",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Não-Alcoólicos": [
+            {
+                "nome": "Água",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água San Pellegrino",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Refrigerantes",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Mates da Casa",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco de Fruta",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Drinks Não Alcoólicos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Espresso",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Ristreto",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Sodas Artesanais": [
+            {
+                "nome": "Maçã Verde com Gengibre",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cranberry com Limão Siciliano",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gengibre com Limão",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Chás da Casa": [
+            {
+                "nome": "Maracujá e Frutas Vermelhas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Hibisco e Frutas Vermelhas",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Carta de Vinhos": {
+        "Especiais Mamma Jamma": [
+            {
+                "nome": "Mamma Jamma Carménère Reserva Central Valley",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Mamma Jamma Malbec Reserva Mendoza",
+                "preço": null,
+                "descrição": "Argentina"
+            }
+        ]
+    },
+    "endereço": "Av. das Américas, 5000, Barra da Tijuca, Rio de Janeiro, RJ, Brasil",
+    "telefone": null,
+    "email": ".",
+    "website": null,
+    "name": "Mamma Jamma NewYorkCityCenter"
+}

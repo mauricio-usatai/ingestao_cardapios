@@ -1,0 +1,40 @@
+{
+    "MENU": {
+        "ENTRADAS": [
+            {
+                "nome": "Entradas para compartilhar",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Entradas para compartilhar",
+                "preço": "",
+                "descrição": ""
+            }
+        ],
+        "PRATOS PRINCIPAIS": [
+            {
+                "nome": "Principais",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Principais",
+                "preço": "",
+                "descrição": ""
+            }
+        ],
+        "SOBREMESAS": [
+            {
+                "nome": "Sobremesas",
+                "preço": "",
+                "descrição": ""
+            }
+        ]
+    },
+    "endereço": "Alameda Tietê, 179, Cerqueira Cesar, São Paulo, SP, Brasil",
+    "telefone": "11 93759-0264",
+    "email": "........",
+    "website": "https://instagram.com/libreria_augusto",
+    "name": "Libreria Augusto"
+}

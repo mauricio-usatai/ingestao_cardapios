@@ -1,0 +1,251 @@
+{
+    "Menu à La Carte": {
+        "Petiscos": [
+            {
+                "nome": "Porção de Pastel - Patacho Camponez",
+                "preço": "R$ 36,00",
+                "descrição": "Queijo meia cura ou carne seca. Porção com quatro unidades"
+            },
+            {
+                "nome": "Bolinho de feijoada ( 2 unidades)",
+                "preço": "R$ 32,00",
+                "descrição": "Vinagrete de bergamota, crispys de bacon e couve refogada"
+            },
+            {
+                "nome": "Batata Rústica Frita - Sumaca Zulmira",
+                "preço": "R$ 19,00",
+                "descrição": "Com molho barbecue"
+            },
+            {
+                "nome": "Caldinho de Feijão- Patacho Social",
+                "preço": "R$ 18,00",
+                "descrição": "caldinho de feijão com crocante de bacon"
+            },
+            {
+                "nome": "Croquete de Cupim - Patacho Feliz do Oriente",
+                "preço": "R$ 36,00",
+                "descrição": "Porção com seis unidades com molho de mostarda"
+            },
+            {
+                "nome": "Sonho salgado de camarão",
+                "preço": "R$ 26,00",
+                "descrição": "Sonho assado recheado com creme de camarão- 2unidades"
+            }
+        ],
+        "Entradas": [
+            {
+                "nome": "Couvert da casa - Bernardo & Motta",
+                "preço": "R$ 49,00",
+                "descrição": "Pastel de fubá com recheio brasileiro de queijo canastra com umbigo de bananeira, brioche de moranga, salame de javali fatiado, pesto de coentro, vela de manteiga clarificada, goiabada cremosa com cachaça."
+            }
+        ],
+        "Pratos Principais": [
+            {
+                "nome": "Moqueca Mista para uma pessoas - Manoel Teixeira Serpa",
+                "preço": "R$ 92,00",
+                "descrição": "Peixe do dia, frutos do mar no molho de moqueca com arroz, pirão, farofa e molho de pimenta"
+            },
+            {
+                "nome": "Bobó de camarão- Rita Inocência Rocha Serra",
+                "preço": "R$ 86,00",
+                "descrição": "Camarão refogado com tomate e especiarias e purê de aipim servido em mini moranga com arroz branco acompanhando"
+            },
+            {
+                "nome": "Polvo brasileiro - Antônio Guimarães Soares",
+                "preço": "R$ 92,00",
+                "descrição": "(Polvo grelhado na manteiga com arroz caldoso de brócolis, milho e queijo)"
+            },
+            {
+                "nome": "Pirarucu Amazônico - Anacleto Martins",
+                "preço": "R$ 92,00",
+                "descrição": "Lombo de pirarucu selvagem grelhado na manteiga e ervas brasileiras, creme de castanhas embrulhado na folha de bananeira e cuzcuz brasileiro com tomate e queijo coalho"
+            },
+            {
+                "nome": "Arroz de Pato - Arthur Moura",
+                "preço": "R$ 86,00",
+                "descrição": "Arroz arbóreo e pato no tucupi e jambu"
+            },
+            {
+                "nome": "Carne na brasa - Barão de Peixoto Serra",
+                "preço": "R$ 92,00",
+                "descrição": "Mignon na brasa com arroz de carreteiro de charque, farofa de bacon, polenta frita recheada com queijo canastra e vinagrete gourmet."
+            },
+            {
+                "nome": "Risoto de caranguejo",
+                "preço": "R$ 86,00",
+                "descrição": "Arroz arbóreo com vinho branco, caldo de legumes, carne de caranguejo."
+            },
+            {
+                "nome": "Feijão tropeiro com costelinha suína - Antônio Lourenço Torres Junior",
+                "preço": "R$ 79,00",
+                "descrição": "Feijão tropeiro clássico com bacon, couve, farofa, feijão carioca, costelinha suína assada com barbecue de goiaba."
+            },
+            {
+                "nome": "Entremet de Matambre Bovino - Aarão Peixoto",
+                "preço": "R$ 92,00",
+                "descrição": "Matambre de Black Angus em formato de mil folhas com ervas, arroz de vinho tinto, legumes e farofa de erva mate"
+            },
+            {
+                "nome": "Salada Brasileira - Francisco da Cunha Brandão",
+                "preço": "R$ 72,00",
+                "descrição": "Mix de folhas, castanha de caju, queijo canastra marinado no pesto de manjericão, e molho de maracujá. com pipoca de queijo coalho"
+            },
+            {
+                "nome": "Prato Kids",
+                "preço": "R$ 49,00",
+                "descrição": "Somente feriados, sábados e domingos. Arroz branco, feijão preto, salada e proteína a escolha. Filé de frango ou filé de mignon em iscas"
+            },
+            {
+                "nome": "Feijoada Tradicional Bernardo Mendes da Costa",
+                "preço": "",
+                "descrição": "Disponível todos os dias! Acompanha arroz branco, farofa de bacon, couve na manteiga, torresmo e laranja"
+            },
+            {
+                "nome": "Capelete veget",
+                "preço": "R$ 76,00",
+                "descrição": "Capelete artesanal feito na casa recheado com moranga e gengibre ao molho de queijos."
+            },
+            {
+                "nome": "Coxa e sobrecoxa de frango orgânico",
+                "preço": "R$ 79,00",
+                "descrição": "Coxa e sobrecoxa de frango orgânico Karin assado ao molho cítrico picante, purê de aipim e maçã assada."
+            },
+            {
+                "nome": "Feijoada Vegetariana Leopoldina Adelaide de Guimarães Serpa",
+                "preço": "",
+                "descrição": "Disponível todos os dias! Feita com batata, cenoura, tofu e cogumelos in natura. Acompanha arroz integral, farofa de panko com alho e coco, couve e laranja"
+            },
+            {
+                "nome": "Entrecot na brasa",
+                "preço": "R$ 89,00",
+                "descrição": "Servido com aligot de aipim e legumes brasileiros quiabo, maxixe, inhame e pimentões"
+            }
+        ]
+    },
+    "Sobremesas": {
+        "Sobremesas": [
+            {
+                "nome": "Mousse de maracujá com açaí (O Renovador dos Cabellos de Hall",
+                "preço": "R$ 26,00",
+                "descrição": "Mousse de maracujá com açaí"
+            },
+            {
+                "nome": "Brigadeiro de café com pimenta- Mata-dores de Perry Davis",
+                "preço": "R$ 21,00",
+                "descrição": "Chocolate, café e pimenta"
+            },
+            {
+                "nome": "Sorvete artesanal de queijo com goiabada e cachaça- O Renovador dos Cabellos de Hall",
+                "preço": "R$ 34,00",
+                "descrição": "Sorvete de queijo com calda de goiaba e cachaça - destilado feito a partir de caldo de cana fermentado"
+            },
+            {
+                "nome": "Torta de Chocolate Sardinha & Araújo",
+                "preço": "R$ 26,00",
+                "descrição": "Torta de cacau ao creme de leite fresco e leite caramelizado"
+            },
+            {
+                "nome": "Pave de tiramissu",
+                "preço": "R$ 24,00",
+                "descrição": "Pave de tiramissu com bolacha champagne e castanha do pará"
+            },
+            {
+                "nome": "Pera em calda",
+                "preço": "R$ 26,00",
+                "descrição": "Pera em calda de vinho branco, massa folhada e sorvete de limão siciliano"
+            }
+        ]
+    },
+    "Bebidas": {
+        "Softs": [
+            {
+                "nome": "Refrigerantes",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca Cola KS",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Sucos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Soda Italiana",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "H2O tradicional ou limoneto",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cervejas": [
+            {
+                "nome": "Cerveja long neck Eisenban",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cerveja long neck Hei",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Drinks": {
+        "Nossas Caipis": [
+            {
+                "nome": "Triple Lemon",
+                "preço": null,
+                "descrição": "Limão cravo, limão taiti e limão siciliano"
+            },
+            {
+                "nome": "Tangerina",
+                "preço": null,
+                "descrição": "Tangerina, xarope de tangerina, pimenta dedo de moça e raspas de limão taiti"
+            },
+            {
+                "nome": "Caju",
+                "preço": null,
+                "descrição": "Xarope de gengibre, caju e açúcar"
+            },
+            {
+                "nome": "Maracujá",
+                "preço": null,
+                "descrição": "Maracujá, tabasco e pimenta rosa"
+            },
+            {
+                "nome": "Morango",
+                "preço": null,
+                "descrição": "Morango, hortelã, xarope de morango e hibisco"
+            }
+        ],
+        "Nossos Drinks Especiais": [
+            {
+                "nome": "Cítrico",
+                "preço": null,
+                "descrição": "Gin, tônica, limão, laranja e tangerina"
+            },
+            {
+                "nome": "Frutas Vermelhas",
+                "preço": null,
+                "descrição": "Gin, tônica, morango, xarope de morango, chá especial de frutas vermelhas, cereja e hibisco"
+            }
+        ]
+    },
+    "endereço": "Rua do Rosário, 34, Centro, Rio de Janeiro, RJ, Brasil",
+    "telefone": "(21) 97978 - 4353",
+    "email": "sobrado.cidade@gmail.com",
+    "website": "https://www.instagram.com/sobradodacidade/",
+    "name": "Sobrado da Cidade"
+}

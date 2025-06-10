@@ -1,0 +1,1407 @@
+{
+    "Menu Botic": {
+        "Especiais": [
+            {
+                "nome": "Day Use Villa do Vale",
+                "preço": "R$ 650,00",
+                "descrição": "Desfrute de um dia excepcional no Villa do Vale com o nosso exclusivo Day Use \"Villa Relax\"! Sem a necessidade de pernoite, você poderá aproveitar o melhor das nossas instalações, incluindo piscina e sauna, das 9h às 18h. Valor: R$650,00 por pessoa, com R$300,00 revertidos em consumação para uso em alimentação e bebidas no local. Taxa de serviço de 10% adicional. Para garantir sua experiência, é necessário realizar reserva antecipada, e a disponibilidade está sujeita à confirmação. Venha viver momentos únicos no Villa do Vale! 🌿✨"
+            },
+            {
+                "nome": "Fondue Tradicional",
+                "preço": "R$ 190,00",
+                "descrição": "Valor por pessoa. Necessário reserva antecipada. Clique em Saiba Mais para visualizar o menu completo."
+            },
+            {
+                "nome": "Fondue Premium",
+                "preço": "R$ 270,00",
+                "descrição": "Valor por pessoa. Necessário reserva antecipada. Clique em Saiba Mais para visualizar o menu completo."
+            },
+            {
+                "nome": "Prato da Boa Lembrança: Spätzle do Villa",
+                "preço": "R$ 145,00",
+                "descrição": "O Villa do Vale Boutique Hotel e o Botic Restaurant têm o prazer de anunciar: 🍽️ O primeiro Prato da Boa Lembrança do Vale Europeu! Agora, o Botic Restaurant & Bar faz parte da renomada Associação dos Restaurantes da Boa Lembrança, e a estreia não poderia ser mais especial: Spätzle do Villa – um prato exclusivo que une tradição e alta gastronomia. 🥬 Spätzle de espinafre 🧀 Creme de parmesão Kraeuterkaese 🥚 Ovo pochê crocante 🥓 Crispy de linguiça Blumenau E o melhor? Ao saborear essa experiência única, você leva para casa o icônico prato de cerâmica pintado à mão, um verdadeiro símbolo da Boa Lembrança!"
+            }
+        ],
+        "Entradas": [
+            {
+                "nome": "Couvert da casa",
+                "preço": "R$ 46,00",
+                "descrição": "Pão italiano de nozes com gorgonzola servido com manteiga com flor de sal,patê de linguiça Blumenau e queijo Kraeuterkaese Vermonth com azeite verde"
+            },
+            {
+                "nome": "Arancini de Linguiça Blumenau",
+                "preço": "R$ 58,00",
+                "descrição": "Bolinho feito de risotto com pomodoro e linguiça Blumenau, recheado com queijo Kraeuterkaese Vermonth e servido com nuvem de parmesão (6 un.)"
+            },
+            {
+                "nome": "CROQUETA DE SALMÃO DEFUMADO",
+                "preço": "R$ 68,00",
+                "descrição": "Croqueta de salmão defumado artesanalmente servido com aioli de limão siciliano (6 un.)"
+            },
+            {
+                "nome": "Dadinho de Tapioca com Geleia",
+                "preço": "R$ 48,00",
+                "descrição": "Dadinho de tapioca flocada com queijo ½ cura servido com geleia de goiabada levemente picante e defumada. 6 unidades."
+            },
+            {
+                "nome": "Burrata Botic",
+                "preço": "R$ 122,00",
+                "descrição": "Burrata tradicional italiana de leite de vaca, servida com chutney de tomate, azeite de manjericão, raspas de limão siciliano e flor de sal. Acompanha pão de nozes com gorgonzola."
+            },
+            {
+                "nome": "Sugestão do Chef!\nHackepeter",
+                "preço": "R$ 82,00",
+                "descrição": "Sugestão do Chef!"
+            },
+            {
+                "nome": "MILHO COZIDO COM ESPUMA DE QUEIJO",
+                "preço": "R$ 56,00",
+                "descrição": "Milho cozido servido em forma de petisco acompanhado de espuma de queijos Vermonth e salsinha em pó."
+            },
+            {
+                "nome": "CARPACCIO DE FILÉ MIGNON",
+                "preço": "R$ 92,00",
+                "descrição": "Filé migon fatiado finamente servido com vinagrete francês de mel, lascas de queijo Vale do Testo, rúcula e azeite extra virgem. Acompanha pão de nozes com gorgonzola."
+            }
+        ],
+        "Saladas": [
+            {
+                "nome": "Salada Caesar de Frango",
+                "preço": "R$ 68,00",
+                "descrição": "Alface americana, croutouns, parmesão e molho caesar tradicional."
+            },
+            {
+                "nome": "Salada Caesar com Lascas de Mignon",
+                "preço": "R$ 89,00",
+                "descrição": "Alface americana, croutouns, parmesão e molho caesar tradicional."
+            },
+            {
+                "nome": "Salada Caesar com Salmão",
+                "preço": "R$ 99,00",
+                "descrição": "Alface americana, croutouns, parmesão e molho caesar tradicional."
+            },
+            {
+                "nome": "Salada de Camarões Botic",
+                "preço": "R$ 122,00",
+                "descrição": "Mix de folhas, grão de bico crocante, tomate cereja, camarões grelhados, fatias de avocado, finalizado com molho oriental trufado"
+            }
+        ],
+        "Principais Individuais": [
+            {
+                "nome": "Prato da Boa Lembrança: Spätzle do Villa",
+                "preço": "R$ 145,00",
+                "descrição": "O Villa do Vale Boutique Hotel e o Botic Restaurant têm o prazer de anunciar: 🍽️ O primeiro Prato da Boa Lembrança do Vale Europeu! Agora, o Botic Restaurant & Bar faz parte da renomada Associação dos Restaurantes da Boa Lembrança, e a estreia não poderia ser mais especial: Spätzle do Villa – um prato exclusivo que une tradição e alta gastronomia. 🥬 Spätzle de espinafre 🧀 Creme de parmesão Kraeuterkaese 🥚 Ovo pochê crocante 🥓 Crispy de linguiça Blumenau E o melhor? Ao saborear essa experiência única, você leva para casa o icônico prato de cerâmica pintado à mão, um verdadeiro símbolo da Boa Lembrança!"
+            },
+            {
+                "nome": "Sugestão do Chef!\nGNOCCHI AL RAGU BLUMENAU",
+                "preço": "R$ 102,00",
+                "descrição": "Sugestão do Chef!"
+            },
+            {
+                "nome": "O mais pedido!\nGNOCCHI COM FILÉ MIGNON E FONDUTA DE QUEIJO DO VALE",
+                "preço": "R$ 135,00",
+                "descrição": "O mais pedido!"
+            },
+            {
+                "nome": "FETTUCINE AL PESCATORE COM PISTACHE",
+                "preço": "R$ 162,00",
+                "descrição": "Fettucine artesanal al limone com açafrão, acompanhado de camarões grelhados, polvo e mexilhão. Finalizado com pistache crocante e azeite verde."
+            },
+            {
+                "nome": "RISOTTO DE FILÉ MIGNON",
+                "preço": "R$ 97,00",
+                "descrição": "Risotto feito com arroz italiano, tiras de mignon e cogumelos, finalizado com queijo parmesão, roti, manteiga e cebola bruleé."
+            },
+            {
+                "nome": "RISOTTO CAPRESE",
+                "preço": "R$ 89,00",
+                "descrição": "Risotto feito com arroz italiano, finalizado com queijo parmesão e manteiga. Em sua finalização leva burrata especial, pesto genovês e sweet tomate"
+            },
+            {
+                "nome": "Risoto de camarão",
+                "preço": "R$ 130,00",
+                "descrição": "Risotto de arroz italiano, feito com manteiga, queijo parmesão e creme de abóbora cabotiá. Em sua finalização leva camarões grelhados, sweet tomate e azeite verde."
+            },
+            {
+                "nome": "Entrecot au Poivre",
+                "preço": "R$ 128,00",
+                "descrição": "Entrecôte grelhado com fritas e molho Au Poivre (molho de pimenta verde)"
+            },
+            {
+                "nome": "Porco Prensado e Cabotiá",
+                "preço": "R$ 98,00",
+                "descrição": "Porco prensado com purê de abóbora e cenoura, picles de cebola roxa e molho roti com vinho do Porto."
+            },
+            {
+                "nome": "BEEF WELLINGTON COM PURÊ TARTUFADO",
+                "preço": "R$ 159,00",
+                "descrição": "Clássico britânico ao estilo Botic. Medalhão de filé mignon envolto em duxelles de cogumelo, mostarda inglesa, presunto parma e massa folhada. Acompanha molho roti e purê de batatas com trufas."
+            },
+            {
+                "nome": "Salmão Botic",
+                "preço": "R$ 124,00",
+                "descrição": "Salmão grelhado, acompanhado de creme de couve-flor tostada, legumes glaceados com sumissô e azeite verde."
+            },
+            {
+                "nome": "POLVO À GALEGA",
+                "preço": "R$ 158,00",
+                "descrição": "Polvo grelhado crocante por fora e macio por dentro servido com mil-folhas de batata, molho romesco e gremolata."
+            }
+        ],
+        "Para Toda Hora": [
+            {
+                "nome": "Fritas Trufada",
+                "preço": "R$ 63,00",
+                "descrição": "Batata Frita trufada com queijo parmesão ralado."
+            },
+            {
+                "nome": "Villa Burguer",
+                "preço": "R$ 68,00",
+                "descrição": "Hamburguer de 160 grs, queijo muçarela, bacon, tomate, alface. Acompanha batata frita, catchup e maionese"
+            },
+            {
+                "nome": "O mais pedido!\nPochê do Villa",
+                "preço": "R$ 44,00",
+                "descrição": "O mais pedido!"
+            },
+            {
+                "nome": "Avocado Toast com Linguiça Blumenau",
+                "preço": "R$ 35,00",
+                "descrição": "Pão de Fermentação Natural, Creme de Avocado, Crispy de Linguiça Blumenau e Ovo Pochê."
+            },
+            {
+                "nome": "Ovos Benedict com Cogumelos",
+                "preço": "R$ 35,00",
+                "descrição": "Pão de Fermentação Natural, Cogumelos Refogados, Ovo Pochê e Molho Holandês."
+            },
+            {
+                "nome": "Ovos Benedict com Parma",
+                "preço": "R$ 35,00",
+                "descrição": "Pão de Fermentação Natural, Presunto Parma, Ovo Pochê e Molho Holandês."
+            },
+            {
+                "nome": "Picolés Bacio di Latte",
+                "preço": "R$ 38,00",
+                "descrição": "Consulte sabores disponíveis."
+            }
+        ],
+        "Sobremesas ": [
+            {
+                "nome": "O mais desejado!\nNinho Gateau",
+                "preço": "R$ 56,00",
+                "descrição": "O mais desejado!"
+            },
+            {
+                "nome": "Irresistível\nCreme Brûlée de Doce de Leite",
+                "preço": "R$ 40,00",
+                "descrição": "Irresistível"
+            },
+            {
+                "nome": "Strawberry Fields",
+                "preço": "R$ 49,00",
+                "descrição": "Creme de mascarpone, morangos macerados, suspiros e chocolate branco."
+            },
+            {
+                "nome": "Picolés Bacio di Latte",
+                "preço": "R$ 38,00",
+                "descrição": "Consulte sabores disponíveis."
+            },
+            {
+                "nome": "Sorbets e Gelatos Artesanais",
+                "preço": "R$ 38,00",
+                "descrição": "Consulte opções do dia. Acompanha Crumble de coco e calda de chocolate."
+            },
+            {
+                "nome": "MOUSSE DE CHOCOLATE E AVELÃ",
+                "preço": "R$ 44,00",
+                "descrição": "Mousse de chocolate 70% com raspas de laranja, avelãs caramelizadas, azeite de oliva e flor de sal."
+            }
+        ]
+    },
+    "Café da Manhã ": {
+        "Valor": [
+            {
+                "nome": "Experiência Completa!\nMenu Café da Manhã Completo (incluído na diária)",
+                "preço": "R$ 140,00",
+                "descrição": "Experiência Completa!"
+            },
+            {
+                "nome": "Café da manhã no quarto (Taxa entrega)",
+                "preço": "R$ 100,00",
+                "descrição": "Taxa para servir o café da manhã na suíte. Apenas para hóspedes."
+            }
+        ],
+        "Os Principais! (Incluído no café da manhã dos hóspedes sem custo extra)": [
+            {
+                "nome": "Ovo mollet",
+                "preço": "R$ 10,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Ovos Mexidos",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Omelete",
+                "preço": "R$ 20,00",
+                "descrição": "Presunto, queijo e orégano"
+            },
+            {
+                "nome": "Tapioca de Linguiça Blumenau",
+                "preço": "R$ 28,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Tapioca Vegana",
+                "preço": "R$ 28,00",
+                "descrição": "Tomate Cereja e Cogumelos"
+            },
+            {
+                "nome": "Croque Monsieur",
+                "preço": "R$ 30,00",
+                "descrição": "Feito com Pão Brioche, Presunto, Molho Bechamel e Queijo Mussarela Gratinada"
+            },
+            {
+                "nome": "Tapioca de Doce de Leite da Casa com Banana",
+                "preço": "R$ 30,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Avocado Toast com Linguiça Blumenau.",
+                "preço": "R$ 35,00",
+                "descrição": "Pão de Fermentação Natural, Creme de Avocado, Crispy de Linguiça Blumenau e Ovo Pochê |"
+            },
+            {
+                "nome": "Ovos Benedict com Parma",
+                "preço": "R$ 35,00",
+                "descrição": "Pão de Fermentação Natural, Presunto Parma, Ovo Pochê e Molho Holandês"
+            },
+            {
+                "nome": "Ovos Benedict com Cogumelos.",
+                "preço": "R$ 35,00",
+                "descrição": "Pão de Fermentação Natural, Cogumelos Refogados, Ovo Pochê e Molho Holandês"
+            },
+            {
+                "nome": "Panqueca Villa do Vale",
+                "preço": "R$ 35,00",
+                "descrição": "Panqueca de chocolate, com recheio de ninho e calda de Nutella."
+            },
+            {
+                "nome": "Waffle Romeu e Julieta",
+                "preço": "R$ 35,00",
+                "descrição": "Waffle, Creme de Cream Cheese, Geléia de Goiaba da Casa e Parmesão"
+            },
+            {
+                "nome": "Waffle Bombom de Uva",
+                "preço": "R$ 35,00",
+                "descrição": "Waffle, Brigadeiro de Leite Ninho, Uva Verde e Chocolate Branco"
+            },
+            {
+                "nome": "O mais pedido!\nPochê do Villa",
+                "preço": "R$ 38,00",
+                "descrição": "O mais pedido!"
+            }
+        ],
+        "Complementos": [
+            {
+                "nome": "Cesto de pães artesanais",
+                "preço": "R$ 30,00",
+                "descrição": "Mini brioche, mini pão francês, pão rústico integral, pão de queijo, mini croissant, mini pain au chocolat"
+            },
+            {
+                "nome": "Prato de frios",
+                "preço": "R$ 25,00",
+                "descrição": "Presunto, mussarela, peito de chester e ricota fresca."
+            },
+            {
+                "nome": "Yogurte Natural Artesanal",
+                "preço": "R$ 29,00",
+                "descrição": "Yogurte Natural Artesanal com granola e mel."
+            },
+            {
+                "nome": "Frutas da Estação",
+                "preço": "R$ 25,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Torre de Doce do Dia",
+                "preço": "R$ 60,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Deseja algo diferente? Faremos o possível para atender",
+                "preço": "",
+                "descrição": "Alérgicos: não possuímos cozinha isolada para o preparo dos itens 100% livres de glúten."
+            }
+        ],
+        "Cafés": [
+            {
+                "nome": "Café Espresso",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Coado",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Descafeinado",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café com Leite",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Drip Coffee",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Sucos ": [
+            {
+                "nome": "Melancia",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco de Laranja Integral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Detox",
+                "preço": null,
+                "descrição": "Couve, Limão, Abacaxi e Gengibre"
+            },
+            {
+                "nome": "Suco de Limão Natural",
+                "preço": null,
+                "descrição": "Limão tahiti, água com ou sem gás. Açúcar opcional"
+            }
+        ],
+        "Vitaminas": [
+            {
+                "nome": "Vitamina de Morango e Banana",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vitamina de Mamão e Banana",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Leites e Yogurte": [
+            {
+                "nome": "Leite Integral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Leite Desnatado",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Leite sem lactose",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Bebidas": [
+            {
+                "nome": "Taça de Espumante",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Mimosa",
+                "preço": null,
+                "descrição": "Espumante Brut e Suco de Laranja"
+            },
+            {
+                "nome": "Água de Coco",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chá",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Bebidas ": {
+        "Soft Drinks ": [
+            {
+                "nome": "Água Acqua Panna",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água San Pellegrino",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água de Coco",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco de Laranja Integral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco de Uva Integral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Sucos Naturais / Polpa",
+                "preço": null,
+                "descrição": "Naturais: Laranja, Limão e Melancia / Polpa: Morango, Abacaxi e Abacaxi com hortelã."
+            },
+            {
+                "nome": "Refrigerantes",
+                "preço": null,
+                "descrição": "Coca-Cola, Guaraná, e opções zero"
+            },
+            {
+                "nome": "Soda",
+                "preço": null,
+                "descrição": "Coke, Guaraná, Schweppes, zero sugar versions"
+            },
+            {
+                "nome": "Red Bull",
+                "preço": "R$ 22,00",
+                "descrição": "original ou sugar free"
+            },
+            {
+                "nome": "Soda italiana",
+                "preço": null,
+                "descrição": "consulte opções"
+            },
+            {
+                "nome": "Chá",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Drip Coffee",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Chope ": [
+            {
+                "nome": "Chope Green Pilsen",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chope Frida Blond Ale",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cerveja": [
+            {
+                "nome": "Heineken",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Heineken Zero",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cerveja artesanal ": [
+            {
+                "nome": "Blumenau Pilsen",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Blumenau Capivara",
+                "preço": null,
+                "descrição": "Little IPA"
+            }
+        ],
+        "Shots": [
+            {
+                "nome": "Single malt",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bourbon and tennessee",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Irish",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cognac",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cachaça",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Rum",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vermouth",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Britter",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Doses Gin ": [
+            {
+                "nome": "Steinhaeger Doble W",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Amázzoni",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Beefeater",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bombay Sapphire",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tanqueray",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Hendricks",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Monkey 47",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Doses Licor ": [
+            {
+                "nome": "Amarula",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Limoncello",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cointreau",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Baileys",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Pernod",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Frangelico",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Amaretto",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Sambuca",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Grand Marnier Rouge",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Licor 43",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Doses de Vodka": [
+            {
+                "nome": "Smirnoff",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Sky",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ketel One",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Absolut",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ciroc",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Grey Goose",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Doses de Tequila": [
+            {
+                "nome": "Jose Cuervo Ouro",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Jose Cuervo Prata",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Doses de Scoth Whisky": [
+            {
+                "nome": "Ballantine´s",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ballantine´s 12",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Black Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Buchanans",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chivas 12",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Old Parr",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ballantine´s 17",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Double Black",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gold Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chivas 18",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dimple 15",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "The Macallan 12",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Blue Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Royal Salute 21",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Drinks": {
+        "Drinks Autorais ": [
+            {
+                "nome": "Por tempo limitado. Clique e confira a coleção completa.\nEspecial Bridgeton",
+                "preço": "",
+                "descrição": "Por tempo limitado. Clique e confira a coleção completa."
+            },
+            {
+                "nome": "Drinks com Picolé Bacio di Latte",
+                "preço": "R$ 69,00",
+                "descrição": "Os \"Drinks com Picolé Bacio di Latte\" são uma experiência única de sabor! Combinando coquetéis autorais meticulosamente misturados com um extra de toque de indulgência, cada bebida é acompanhada de um picolé Bacio di Latte, conhecido por sua cremosidade e qualidade excepcional."
+            },
+            {
+                "nome": "Muda a cada temporada solar!\nDrink do Signo",
+                "preço": "R$ 42,00",
+                "descrição": "Muda a cada temporada solar!"
+            },
+            {
+                "nome": "Novidade!\nMocha Mushroom",
+                "preço": "R$ 42,00",
+                "descrição": "Novidade!"
+            },
+            {
+                "nome": "O Preferido!\nJardim Secreto",
+                "preço": null,
+                "descrição": "O Preferido!"
+            },
+            {
+                "nome": "Uma experiência.\nViolet Potion",
+                "preço": null,
+                "descrição": "Uma experiência."
+            },
+            {
+                "nome": "Apenas 62 kcal!\nHealthy Blossom",
+                "preço": null,
+                "descrição": "Apenas 62 kcal!"
+            },
+            {
+                "nome": "Lady Rose",
+                "preço": null,
+                "descrição": "Drink à base de Vodka, Lichia, Suco de Limão e Xarope de Laranja Sanguínea. Acompanha Glitter e Flor Comestível"
+            },
+            {
+                "nome": "Flamingo",
+                "preço": null,
+                "descrição": "Drink à base de Vodka, Purê de Morango, Suco de Limão, Xarope de Toranja, Xarope de Grenadine e Suco de Abacaxi"
+            },
+            {
+                "nome": "Botic",
+                "preço": null,
+                "descrição": "Drink à base de Rum Branco, Xarope de Manga Picante, Xarope Tropical, Suco de Limão e Suco de Abacaxi"
+            },
+            {
+                "nome": "Smoked Coffee Martini",
+                "preço": null,
+                "descrição": "Drink à base de Brandy, Xarope de Baunilha, Xarope de Mel, Lillet Blanc e Café"
+            },
+            {
+                "nome": "Beeswax",
+                "preço": null,
+                "descrição": "Drink à base de Bourbon, Suco de Limão, Xarope de Gengibre, Xarope de Mel e Espuma de Amaretto"
+            },
+            {
+                "nome": "Bliss",
+                "preço": null,
+                "descrição": "Tequila, Xarope de Toranja e Água Tônica"
+            },
+            {
+                "nome": "Purple Live",
+                "preço": null,
+                "descrição": "Gin, Licor de Pêssego, Xarope de Toranja, Água Tônica e Suco de Limão"
+            },
+            {
+                "nome": "Apfel Bramble 172",
+                "preço": "R$ 44,00",
+                "descrição": "Gin, Jägermeister, Suco de Maçã, Xarope de Limão Siciliano e Frutas Vermelhas"
+            },
+            {
+                "nome": "Bramble do Vale",
+                "preço": "R$ 42,00",
+                "descrição": "Drink à base de Steinhaeger, Xarope de Açúcar, Suco de Limão e Purê de Framboesa"
+            },
+            {
+                "nome": "Red Passion",
+                "preço": null,
+                "descrição": "Gin, Vodka, Lillet, Frutas vermelhas e Soda"
+            },
+            {
+                "nome": "Ideal para compartilhar\nBolsa de Clericot",
+                "preço": null,
+                "descrição": "Ideal para compartilhar"
+            }
+        ],
+        "Gin": [
+            {
+                "nome": "Gin Tônica",
+                "preço": null,
+                "descrição": "Gin com Água Tônica Wewi, saborizada como preferir. Consulte nossas opções de sabores e especiarias. Crie seu mix ideal"
+            },
+            {
+                "nome": "Águas de Botic",
+                "preço": null,
+                "descrição": "Gin, Limão Siciliano, Tangerina, Zimbro e Água Tônica"
+            },
+            {
+                "nome": "Gitano Cigano",
+                "preço": null,
+                "descrição": "Gin, Suco de Limão Siciliano, Xarope de Gengibre e Água Tônica."
+            },
+            {
+                "nome": "Refresh",
+                "preço": null,
+                "descrição": "Gin, Água Tônica e Pepino"
+            },
+            {
+                "nome": "Bitter Sweet",
+                "preço": null,
+                "descrição": "Gin, Água Tônica, Xarope de Toranja e Pimenta Rosa"
+            },
+            {
+                "nome": "Mediterranean",
+                "preço": null,
+                "descrição": "Gin, Água Tônica, Canela e Limão Siciliano"
+            },
+            {
+                "nome": "White Lady",
+                "preço": null,
+                "descrição": "Gin, Suco de Limão Siciliano, Licor de Laranja"
+            },
+            {
+                "nome": "English Tea Breakfast",
+                "preço": null,
+                "descrição": "Gin, Água Tônica e Chá Twinnings Frutas Vermelhas"
+            },
+            {
+                "nome": "Coco D´Água",
+                "preço": null,
+                "descrição": "Gin, Água Tônica e Água de Côco"
+            }
+        ],
+        "Coqueteis ": [
+            {
+                "nome": "Rabo de Galo",
+                "preço": null,
+                "descrição": "Cinzano, Cachaça e Twist de Laranja"
+            },
+            {
+                "nome": "Piña Colad",
+                "preço": null,
+                "descrição": "Rum, Creme de Coco e Abacax"
+            },
+            {
+                "nome": "Cuba Libre",
+                "preço": null,
+                "descrição": "Rum, Cola e Limão"
+            },
+            {
+                "nome": "Alexander",
+                "preço": null,
+                "descrição": "Brandy, Creme de Cacau e Creme de Leite"
+            },
+            {
+                "nome": "Daiquiri",
+                "preço": null,
+                "descrição": "Rum, Suco de Limão, Açúcar"
+            },
+            {
+                "nome": "Mimosa",
+                "preço": null,
+                "descrição": "Espumante Brut e Suco de Laranja"
+            },
+            {
+                "nome": "Royale",
+                "preço": null,
+                "descrição": "Espumante Brut e Licor de Cassis"
+            },
+            {
+                "nome": "Sex on the Beach",
+                "preço": null,
+                "descrição": "Vodca, Licor de Pêssego, Xarope de Groselha e Suco de Laranja"
+            },
+            {
+                "nome": "Bloody Mary",
+                "preço": null,
+                "descrição": "Vodca, Suco de Tomate, Suco de Limão, Molho Inglês, Pimentas e Temperos"
+            },
+            {
+                "nome": "New York Sour",
+                "preço": null,
+                "descrição": "Bourbon, Xarope de Açúcar, Suco de Limão, Angostura Bitter, Albumina e Vinho Tinto Seco"
+            },
+            {
+                "nome": "Margarita",
+                "preço": null,
+                "descrição": "Tequila, Licor de Laranja (Triple-sec) e Limão"
+            },
+            {
+                "nome": "Vesper",
+                "preço": null,
+                "descrição": "Lillet Blanc, Gin, Vodka e Zeste de limão"
+            },
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": "Rum, Suco de Limão, Hortelã, Açúcar, Club Soda ou Água com Gás"
+            },
+            {
+                "nome": "Lillet Live",
+                "preço": null,
+                "descrição": "Lillet Blanc, Água Tônica, Lâminas de Pepino Japonês, Lâminas de Morango e Hortelã"
+            },
+            {
+                "nome": "Caipirinhas",
+                "preço": null,
+                "descrição": "Nossas deliciosas caipirinhas de 400ml. Consulte nossas opções de frutas. Crie sua combinação favorita"
+            },
+            {
+                "nome": "Dry Martini",
+                "preço": null,
+                "descrição": "Gin, Vermute Seco e Azeitona"
+            },
+            {
+                "nome": "Cosmopolitan",
+                "preço": null,
+                "descrição": "Vodca, Licor de Laranja, Suco de Limão e Suco de Cranberry"
+            },
+            {
+                "nome": "Manhattan",
+                "preço": null,
+                "descrição": "Bourbon, Vermouth Rosso e Angostura Bitter"
+            },
+            {
+                "nome": "Um dos mais vendidos!\nAperol Spritz",
+                "preço": null,
+                "descrição": "Um dos mais vendidos!"
+            },
+            {
+                "nome": "Negroni",
+                "preço": null,
+                "descrição": "Bitter Italiano, Vermute Tinto Doce e Gin"
+            },
+            {
+                "nome": "Moscow Mule",
+                "preço": null,
+                "descrição": "Vodca, Ginger Ale e Suco de Limão"
+            },
+            {
+                "nome": "Whiskey Sour",
+                "preço": null,
+                "descrição": "Bourbon, Suco de Limão Siciliano, Açúcar e Clara de Ovo"
+            },
+            {
+                "nome": "Old Fashioned",
+                "preço": null,
+                "descrição": "Bourbon, Açúcar e Bitters"
+            }
+        ],
+        "Drinks autorais sem alcool ": [
+            {
+                "nome": "Green Valley",
+                "preço": null,
+                "descrição": "Suco de abacaxi, suco de limão, agua tônica, xarope de gengibre, pó perolado verde menta"
+            },
+            {
+                "nome": "Orange Bliss",
+                "preço": null,
+                "descrição": "Xarope de Toranja, Água de Côco, Água com Gás e Àgua Tônica"
+            },
+            {
+                "nome": "Virgin Healthy Blossom",
+                "preço": null,
+                "descrição": "Drink à base de Xarope Zero de Cereja, Chá de Hibisco e Suco de Abacaxi"
+            }
+        ]
+    },
+    "Vinhos": {
+        "Nossas Sugestões para Harmonizar": [
+            {
+                "nome": "Perfeito para dias quentes!\nRede Colheita Rosé, 2020",
+                "preço": null,
+                "descrição": "Perfeito para dias quentes!"
+            },
+            {
+                "nome": "Combina com saladas e pratos leves.\nRede Colheita Branco, 2021",
+                "preço": null,
+                "descrição": "Combina com saladas e pratos leves."
+            },
+            {
+                "nome": "Experimente com Gnocchi com Medalhão de Mignon\nChâteau de Garbes Traditionnelle Tinto, 2020",
+                "preço": null,
+                "descrição": "Experimente com Gnocchi com Medalhão de Mignon"
+            },
+            {
+                "nome": "Harmonização: Salmão na Crosta de Panko.\nRede Reserva Branco, 2020",
+                "preço": null,
+                "descrição": "Harmonização: Salmão na Crosta de Panko."
+            },
+            {
+                "nome": "Combina com carnes vermelhas.\nRede Reserva DOC Tinto, 2016",
+                "preço": null,
+                "descrição": "Combina com carnes vermelhas."
+            },
+            {
+                "nome": "Perfeito com nossa Costela\nDelicia de Baco Crianza Tinto, 2019",
+                "preço": null,
+                "descrição": "Perfeito com nossa Costela"
+            },
+            {
+                "nome": "Harmonização: Ravioli de Camarão.\nQuinta da Rede Grande Reserva Branco, 2018",
+                "preço": null,
+                "descrição": "Harmonização: Ravioli de Camarão."
+            },
+            {
+                "nome": "Harmonização: Entrecôte com risoto 3 queijos.\nQuinta da Rede Grande Reserva Tinto, 2016",
+                "preço": null,
+                "descrição": "Harmonização: Entrecôte com risoto 3 queijos."
+            },
+            {
+                "nome": "Harmoniza com Entrecôte\nL’enclos Tinto, 2018",
+                "preço": null,
+                "descrição": "Harmoniza com Entrecôte"
+            },
+            {
+                "nome": "Edição Limitada com garrafa numerada\nMarvellous Number One, 2019",
+                "preço": null,
+                "descrição": "Edição Limitada com garrafa numerada"
+            },
+            {
+                "nome": "Experimente com Gnocchi com Medalhão de Mignon\nChâteau de Garbes Traditionnelle Tinto, 2020",
+                "preço": null,
+                "descrição": "Experimente com Gnocchi com Medalhão de Mignon"
+            }
+        ],
+        "Europa Concept Wines": [
+            {
+                "nome": "Perfeito para dias quentes!\nRede Colheita Rosé, 2020",
+                "preço": null,
+                "descrição": "Perfeito para dias quentes!"
+            },
+            {
+                "nome": "Château De Garbes Rose, 2021",
+                "preço": null,
+                "descrição": "Uma bebida para o verão. Nasceu da ideia de um vinho rosé acessível voltado para consumidores iniciantes. Aromas leves e frutados. Misturando sabores de toranja e amendoas. Região: Bordeaux"
+            },
+            {
+                "nome": "Experimente com Gnocchi com Medalhão de Mignon\nChâteau de Garbes Traditionnelle Tinto, 2020",
+                "preço": null,
+                "descrição": "Experimente com Gnocchi com Medalhão de Mignon"
+            },
+            {
+                "nome": "Combina com saladas e pratos leves.\nRede Colheita Branco, 2021",
+                "preço": null,
+                "descrição": "Combina com saladas e pratos leves."
+            },
+            {
+                "nome": "Experimente com frutos do mar!\nRede Reserva Branco, 2020",
+                "preço": null,
+                "descrição": "Experimente com frutos do mar!"
+            },
+            {
+                "nome": "Combina com carnes vermelhas.\nRede Reserva DOC Tinto, 2016",
+                "preço": null,
+                "descrição": "Combina com carnes vermelhas."
+            },
+            {
+                "nome": "Prêmio Escolha da Imprensa\nQuinta da Rede Reserva Rose, 2021",
+                "preço": null,
+                "descrição": "Prêmio Escolha da Imprensa"
+            },
+            {
+                "nome": "Harmonização: Ravioli de Camarão.\nQuinta da Rede Grande Reserva Branco, 2018",
+                "preço": null,
+                "descrição": "Harmonização: Ravioli de Camarão."
+            },
+            {
+                "nome": "Harmoniza com Entrecôte\nL’enclos Tinto, 2018",
+                "preço": null,
+                "descrição": "Harmoniza com Entrecôte"
+            },
+            {
+                "nome": "Edição Limitada - 2000 garrafas\nQuinta da Rede Vinha do Pinheiro Branco, 2019",
+                "preço": null,
+                "descrição": "Edição Limitada - 2000 garrafas"
+            }
+        ],
+        "Espumantes e Champagnes ": [
+            {
+                "nome": "Don Guerino Brut",
+                "preço": null,
+                "descrição": "Coloração amarelo com reflexos esverdeados, com perlage (bolhinhas) bem fino. Possui aromas florais e frutados, tem pêssego, um cítrico marcante. Em boca é refrescante, equilibrado e cremoso, tem boa acidez."
+            },
+            {
+                "nome": "Don Guerino Rosé Brut",
+                "preço": null,
+                "descrição": "Coloração cereja, brilhante, perlage persistente com borbulhas finas e umas com uma boa formação de coroa de espuma. Aroma com notas de frutas vermelhas, rosas e levedura. Paladar refrescante, com notas de frutas vemelhas, bom corpo, com longa persistência e final de boca agradável."
+            },
+            {
+                "nome": "Freixenet Cordón Negro Brut",
+                "preço": null,
+                "descrição": "Limpo e equilibrado. Tem o paladar fresco de maçã, pera madura e sabores cítricos, com um toque emocionante de gengibre. De aromas finos e delicados com leves matizes de fruta tropical madura."
+            },
+            {
+                "nome": "Moet & Chandon Imperial",
+                "preço": null,
+                "descrição": "Distingue-se por seu paladar sedutor e uma elegante maturidade que seduz e delicia continuamente. Ricamente saboroso, é uma combinação de generosidade e plenitude que evidenciam o equilíbrio mágico desse Champagne. Aromas: Abacaxi, manga, ameixa amarela e damasco,com nuances de especiarias, canela e baunilha. Paladar: Elegante, cremoso e fresco. Final que lembra grapefruit bem maduro, revelando um estilo ousado que surpreende."
+            },
+            {
+                "nome": "Veuve Clicquot Brut",
+                "preço": null,
+                "descrição": "Tem força e maciez em perfeito equilíbrio com uma intensidade aromática e bastante frescor."
+            },
+            {
+                "nome": "Don Guerino Moscatel Villa do Vale",
+                "preço": null,
+                "descrição": "Espumante leve, na boca sensação frutada e de limonada, equilibrando doçura e acidez de forma agradável e refrescante"
+            }
+        ],
+        "Vinhos Brancos": [
+            {
+                "nome": "Ventisqueiro Reserva Chardonnay",
+                "preço": null,
+                "descrição": "Amarelo palha. Complexo e delicado, ressalta aromas de frutas como abacaxi, pêssego, papaia, lima e notas minerais. Paladar redondo e suave"
+            },
+            {
+                "nome": "Go Up Sauvignon Blanc Reserva, 2019",
+                "preço": null,
+                "descrição": "Refrescante, GO UP Sauvignon Blanc Reserva é a companhia perfeita para uma tarde quente de verão! O mais novo integrante da linha GO UP reforça a qualidade e seriedade dos vinhos elaborados pelo enólogo Tiago Dal Pizzol e sua equipe. Elaborado no vale de Curicó, no Chile, região reconhecida por seus vinhos de excelente tipicidade, tem aroma fresco, com destaque para as notas cítricas e de frutas brancas, especialmente pêssego e maracujá. É um Sauvignon Blanc para quem gosta de vinhos de expressão, bastante refrescantes. De alma jovem, este 100% Sauvignon Blanc vai muito bem com pratos leves, como peixes brancos grelhados, peito de frango com molho branco e saladas com folhas e queijo. Sozinho, refrescado, acompanha qualquer ocasião!"
+            },
+            {
+                "nome": "Susana Balbo Crios Torrontés, 2020",
+                "preço": null,
+                "descrição": "Intenso, fresco e com aroma de frutas brancas, este exemplar demonstra a ó ma adaptação da uva torrontés no terroir mendocino."
+            },
+            {
+                "nome": "Cordero Con Piel de Lobo Chardonnay, 2021",
+                "preço": null,
+                "descrição": "O Cordero com Piel de Lobo Chardonnay é um excelente exemplo de um branco muito bem feito. Suas notas de abacaxi e frutas tropicais são muito presentes. No paladar as frutas tropicais estão bem persistentes e marcantes. Ótimo para harmonizar com massas de molho branco, peixes e frutos do mar. Com queijos fica excelente com os que são duros ou os azuis. Um ravioli recheado com damasco e brie, com molho branco e raspas de limão siciliano fica perfeito com ele."
+            },
+            {
+                "nome": "Thera Sauvignon Blanc",
+                "preço": null,
+                "descrição": "Brasil"
+            },
+            {
+                "nome": "Château De Garbes Cadilac Fut De Chene Branco, 2019",
+                "preço": null,
+                "descrição": "Aroma poderoso, frutado e levemente amadeirados. Paladar fresco e agradavelmente cremoso com notas melífluas de frutas cristalizadas. Região: Bordeaux."
+            }
+        ],
+        "Vinhos Rosé ": [
+            {
+                "nome": "Calvet Cinsault Calvet",
+                "preço": null,
+                "descrição": "Cor rosa claro. Paladar com corpo médio, sem passagem por madeira, taninos leves e alta acidez"
+            },
+            {
+                "nome": "Crios Rosé Malbec",
+                "preço": null,
+                "descrição": "Crios Rosé foi criado como uma nova forma de saborear a tão amada uva malbec e, desde 2018, começou a ser feito em um estilo mais suave e delicado. Fresco, seco e delicado, com aromas e sabores de morangos e groselhas levando a um paladar equilibrado e um final refrescante."
+            },
+            {
+                "nome": "Thera Rosé",
+                "preço": null,
+                "descrição": "De coloração rosada, esse vinho traz consigo aromas de frutas vermelhas, pitanga e flores, com paladar equilibrado, fresco e frutado"
+            },
+            {
+                "nome": "Chateau de Pourcieux",
+                "preço": null,
+                "descrição": "Frutado com um leve toque floral. Suave e delicado no paladar com sabores de cerejas e taninos suave e uma acidez média"
+            }
+        ],
+        "Vinhos Tintos": [
+            {
+                "nome": "Go Up Reserva Red Blend, 2018",
+                "preço": null,
+                "descrição": "Se destaca pela delicadeza de suas notas frutadas, com toques de framboesas e ameixas. Final longo e agradável. Um vinho descomplicado, fácil de beber e de gostar."
+            },
+            {
+                "nome": "Ventisquero Reserva",
+                "preço": null,
+                "descrição": "Traz aromas intensos de frutas vermelhas, baunilha e um tanto de madeira. Na boca é um vinho frutado com a madeira em segundo plano"
+            },
+            {
+                "nome": "Ciconia Tinto",
+                "preço": null,
+                "descrição": "Este é um vinho leve, gostoso, fácil de beber. Vermelho profundo. Possui uma complexidade de aromas de especiarias e frutos vermelhos."
+            },
+            {
+                "nome": "Calvet Varietals Cabernet Sauvignon",
+                "preço": null,
+                "descrição": "Vermelho granada intenso com reflexos púrpura. Aromas de frutas vermelhas maduras como groselha. Encorpado e de textura sedosa proporcionada pelos taninos maduros"
+            },
+            {
+                "nome": "Calvet Varietals Merlot",
+                "preço": null,
+                "descrição": "Coloração vermelho rubi profundo. Expressivamente frutado, revelando notas de frutas vermelhas como groselha e cereja."
+            },
+            {
+                "nome": "Cordero con Piel de Lobo Malbec - ARGENTINA",
+                "preço": null,
+                "descrição": "Leva a assinatura da Mosquita Muerta Wines, uma excelente vinícola argentina, fundada por José Millán. O nome do vinho, “Cordero con Piel de Lobo”, pode ser traduzido como “Lobo em Pele de Cordeiro”, fazendo referência à clássica fábula. Produzido com a uva Malbec, cultivada entre 750 e 1.000 metros de altitude, em vinhedos localizados na região vitivinícola de Mendoza, na Argentina. De coloração rubi intensa, revela, no nariz, aromas de frutas vermelhas maduras. Em boca, é um Vinho Tinto fresco, contando com boa acidez, taninos maduros e um final persistente."
+            },
+            {
+                "nome": "EA Cartuxa",
+                "preço": null,
+                "descrição": "A linha de vinhos EA da Cartuxa estão entre os mais vendidos no mundo, foram pensados para te acompanhar no dia a dia e em ocasiões mais informais. Um vinho refrescante e jovem"
+            },
+            {
+                "nome": "Punto Final Reserva Malbec",
+                "preço": null,
+                "descrição": "Visual rubi com reflexos violáceos. Moderno e estruturado revela equilíbrio entre seus taninos doces e a su l presença de madeira"
+            },
+            {
+                "nome": "Pericó Equação Cabernet Sauvignon, 2018",
+                "preço": null,
+                "descrição": "Leve toque de madeira, frutado e macio com taninos redondos e agradáveis."
+            },
+            {
+                "nome": "Leonardo Da Vinci Chianti",
+                "preço": null,
+                "descrição": "Aroma encorpado de framboesa, morango e cereja em calda; leve tanino e excelente acidez, píca de um ó mo chian"
+            },
+            {
+                "nome": "Vegano\nFreixenet Rioja DOC Tempranillo, 2020",
+                "preço": null,
+                "descrição": "Vegano"
+            },
+            {
+                "nome": "Alamos Malbec, 2022",
+                "preço": null,
+                "descrição": "Com imenso prazer, apresento a você o excepcional Vinho Tinto Alamos Malbec 2021."
+            },
+            {
+                "nome": "Cobos Felino Malbec, 2022",
+                "preço": null,
+                "descrição": "Coloração vermelho rubi com tons violeta. Os aromas de frutos pretos, em conjunto com as notas de grafite, tabaco e baunilha, o tornam muito elegante. O frescor das notas herbáceas de orégano recém-cortado e alecrim nos deleita. Em boca é suculento, fresco, estruturado e gastronômico."
+            },
+            {
+                "nome": "Poças Junior Vale Dos Cavalos",
+                "preço": null,
+                "descrição": "Rubi profundo. Notas de frutas vermelhas e especiarias como o cravo. Passagem em madeira rápida, não muito tânico e com baixa acidez"
+            },
+            {
+                "nome": "BenMarco Cabernet Sauvignon, 2020",
+                "preço": null,
+                "descrição": "Vermelho violáceo intenso. Groselha e cereja preta, com toques su s e doces de baunilha. Grande equilibrio, excelente concentração e persistência, com taninos elegantes"
+            },
+            {
+                "nome": "BenMarco Malbec, 2021",
+                "preço": null,
+                "descrição": "Ameixa madura, cereja negra, amora negra, notas de violeta e de especiarias são os aromas desse nto complexo, encorpado, com taninos presentes, acidez agradável e boa persistência"
+            },
+            {
+                "nome": "Catena Zapata Malbec",
+                "preço": null,
+                "descrição": "Vinho rico em sabores, amoras, ameixas maduras, pimenta, chocolate, representa o pico Catena. Vinho grande e largo, com final intenso e taninos macios, sabor de fruta macia pica. Combinação perfeita entre álcool e acidez. Tem uma cor roxa profunda, escura com tons violetas. No olfato é intenso e complexo, com aromas maduros"
+            },
+            {
+                "nome": "Cartuxa de Évora , 2016",
+                "preço": null,
+                "descrição": "Coloração Granada. Aroma evoluído, notando-se a presença da casta Trincadeira misturada com as notas quentes da planície alentejana. Nesse nto encontram-se também as uvas Alfrocheiro, Alicante Bouschet e Aragonez. Boa prova de boca, tudo muito afinado e floral"
+            },
+            {
+                "nome": "Brunello Di Montalcino, 2007",
+                "preço": null,
+                "descrição": "Granada rubi. Aromas intensos e elegantes. Agradavelmente tânico, harmonioso e persistente."
+            },
+            {
+                "nome": "Angelica Zapata Malbec",
+                "preço": null,
+                "descrição": "Este disputado Malbec é produzido para o mercado interno argentino, onde é cultuado e esgota-se rapidamente, alcançando preços estratosféricos em safras antigas. As uvas vêm de vinhas selecionadas, plantadas em grande altitude, com rendimentos muito baixos, que resultam em um vinho muito complexo e exuberante, com excelente presença de boca e enorme capacidade de envelhecimento."
+            },
+            {
+                "nome": "Barolo , 2011",
+                "preço": null,
+                "descrição": "Vermelho rubi, fragrância rica e picante. Toques de cereja madura. O sabor é quente, tânico e suave."
+            },
+            {
+                "nome": "Bramare Lujan de Cuyo Malbec",
+                "preço": null,
+                "descrição": "Rico, intenso e encorpado. No nariz são as notas de figo, ameixa, cereja e cassis que aparecem com elegância. No paladar, são as notas de cacau, ameixa seca, coco"
+            },
+            {
+                "nome": "Amarone Della Valpolicella Classico, 2018",
+                "preço": null,
+                "descrição": "aroma acentuado e picante, notas de geleia de cereja preta, framboesas."
+            },
+            {
+                "nome": "Pericó Basaltino Pinot Noir, 2012",
+                "preço": null,
+                "descrição": "Elegante, com notas expressivas de amora, ameixa, mirtilo e cereja e notas discretas de pimenta-rosa e baunilha, que se entrelaçam com os taninos macios devido à permanência em barricas francesas, tornando-o um vinho envolvente e harmônico."
+            },
+            {
+                "nome": "Menage A Trois Midnight Red, 2017",
+                "preço": null,
+                "descrição": "Cor granada lindo, e seduzir o seu paladar com a amora preta corajosa e pelúcia temperados sabores ameixa. Mas não pára por aí. Nós também lhe trazer alegria com notas de mocha e beijos picantes exóticos, que permanecerá em seus lábios. Nosso gosto suave, expressiva com sua longa acabamento, saborosa mistura com pastilhas de amora e notas de violeta. Depois de abraçar a nossa meia-noite aveludado Red Blend, você vai revelar os seus desejos mais profundos e obscuros."
+            }
+        ],
+        "Vinhos Licorosos": [
+            {
+                "nome": "Rede White Branco Licoroso Doce do Porto",
+                "preço": null,
+                "descrição": "Alto teor alcoólico e de doçura. Região: Douro."
+            }
+        ]
+    },
+    "endereço": "Rua Petropólis, 342, Centro, Blumenau, SC, Brasil",
+    "telefone": "(47) 3434-4441",
+    "email": "resservas@villadovalehotel.com.br",
+    "website": "https://villadovalehotel.com.br",
+    "name": "Botic Restaurante e Bar"
+}

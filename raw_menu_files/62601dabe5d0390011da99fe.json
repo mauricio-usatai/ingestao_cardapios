@@ -1,0 +1,676 @@
+{
+    "Menu Principal - ": {
+        "Pane & Focaccias": [
+            {
+                "nome": "Focaccia fina",
+                "preço": "R$ 73,00",
+                "descrição": "Recheada com mozzarella de búfala, abobrinha e berinjela"
+            },
+            {
+                "nome": "Focaccia",
+                "preço": "R$ 53,00",
+                "descrição": "De alecrim e sal grosso (20 min.)"
+            },
+            {
+                "nome": "Tortina de focacccia",
+                "preço": "R$ 89,00",
+                "descrição": "Tomate defumado, burrata caseira e pesto de manjericão (20 min.) Para duas pessoas!"
+            }
+        ],
+        "Antipasti": [
+            {
+                "nome": "Crudo de Atum",
+                "preço": "R$ 74,00",
+                "descrição": "Crocante de arroz, mayo picante e mini agrião"
+            },
+            {
+                "nome": "Polenta",
+                "preço": "R$ 72,00",
+                "descrição": "Com ragu de calabresa e creme de grana padano (para compartilhar)"
+            },
+            {
+                "nome": "Carpaccio de Mignon",
+                "preço": "R$ 89,00",
+                "descrição": "Com azeitona taggiasca, alcaparras, uva passa, mostarda dijon e grana padano"
+            },
+            {
+                "nome": "Gnocchi Dourado",
+                "preço": "R$ 75,00",
+                "descrição": "Recheado com vitelo e molho ao sugo"
+            },
+            {
+                "nome": "Mix de Folhas MOMA",
+                "preço": "R$ 68,00",
+                "descrição": "Queijo de cabra, nozes carameladas, gomos de laranja e vinagrete de framboesa"
+            }
+        ],
+        "I Primi": [
+            {
+                "nome": "Mezzo Riagtone All'Amatriciana",
+                "preço": "R$ 89,00",
+                "descrição": "Guaciale, San Marzano DOP, pimenta e fonduta de pecorino."
+            },
+            {
+                "nome": "Bigoli Alla Carbonara",
+                "preço": "R$ 89,00",
+                "descrição": "Com guanciale, gema de ovo caipira, pimenta do reino e pecorino romano DOP"
+            },
+            {
+                "nome": "Paccheri",
+                "preço": "R$ 94,00",
+                "descrição": "Com ragu de javali assado, vinho tinto e alecrim"
+            },
+            {
+                "nome": "Sfogliatelle",
+                "preço": "R$ 89,00",
+                "descrição": "Com ragu de berinjela, queijo de cabra, passas e azeitona taggiasca."
+            },
+            {
+                "nome": "Pici (Massa títipa da Toscana)",
+                "preço": "R$ 95,00",
+                "descrição": "Com ragu de linguiça, funghi porcini fresco e fonduta de pecorino."
+            },
+            {
+                "nome": "Tonnarelli Moma Mia",
+                "preço": "R$ 89,00",
+                "descrição": "Pasta leve e fresca com pomodorini, parmegiano reggiano DOP, óleo extra virgem Colavita e pesto de manjerição."
+            },
+            {
+                "nome": "Gnocchi",
+                "preço": "R$ 85,00",
+                "descrição": "De batata dourada com ragu de lula, tomate fresco e rúcula"
+            },
+            {
+                "nome": "Capellaccio",
+                "preço": "R$ 115,00",
+                "descrição": "Recheado de mozzarella fiori de latte com tartare de atum e San Marzano D.O.P"
+            },
+            {
+                "nome": "Pasta fresca alla chitarra",
+                "preço": "R$ 89,00",
+                "descrição": "Ao cacio pepe"
+            },
+            {
+                "nome": "Quadrucci",
+                "preço": "R$ 94,00",
+                "descrição": "Recheado com brasato de fraldinha e creme de grana padano"
+            },
+            {
+                "nome": "Linguine",
+                "preço": "R$ 165,00",
+                "descrição": "Com polvo pomodorini camarão e azeitona taggiaca"
+            },
+            {
+                "nome": "Spaguetti all’assassina",
+                "preço": "R$ 89,00",
+                "descrição": "burrata, nudja e gremolata de manjerica"
+            },
+            {
+                "nome": "Ravioli",
+                "preço": "R$ 82,00",
+                "descrição": "De ricota de búfala, limão siciliano ao sugo de tomate"
+            }
+        ],
+        "Nostre Lasanhete Dorate": [
+            {
+                "nome": "Lasanha de pato assado",
+                "preço": "R$ 116,00",
+                "descrição": "E ervas com molho de laranja"
+            },
+            {
+                "nome": "Lasanheta Vitelo",
+                "preço": "R$ 106,00",
+                "descrição": "Creme de grana padano e trufas negras"
+            }
+        ],
+        "I Secondi": [
+            {
+                "nome": "Polpetone",
+                "preço": "R$ 99,00",
+                "descrição": "Grelhado no carvão, recheado com mozzarella de búfala e mini bauletti de sêmola e tomilho."
+            },
+            {
+                "nome": "Paleta de Cordeiro da Patagônia",
+                "preço": "R$ 160,00",
+                "descrição": "Assada com alecrim e tagliorini na manteiga e sálvia"
+            },
+            {
+                "nome": "Tagliatta Black Angus",
+                "preço": "R$ 135,00",
+                "descrição": "Grelhado no carvão, com gnocchi dourado, rúcula e gorgonzola italiano"
+            },
+            {
+                "nome": "Atum fresco semi grelhado",
+                "preço": "R$ 116,00",
+                "descrição": "Com tomates orgânicos, mozzarella de búfala e redução de vinho tinto"
+            }
+        ]
+    },
+    "Sobremesa -": {
+        "Dolce": [
+            {
+                "nome": "Torta de chocolate 70%",
+                "preço": "R$ 46,00",
+                "descrição": "Com crocante de avelã sorvete de baunilha e caramelo Baileys."
+            },
+            {
+                "nome": "Meringata de Morango",
+                "preço": "R$ 46,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Il Tiramisu Della Osteria",
+                "preço": "R$ 46,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Crumble de Maçã",
+                "preço": "R$ 46,00",
+                "descrição": "Com sorvete de mascarpone"
+            }
+        ]
+    },
+    "Bebidas - ": {
+        "Drinks Não Alcóolicos": [
+            {
+                "nome": "Maracujá Cocktail",
+                "preço": null,
+                "descrição": "Gin 00, maracujá, xarope de amêndoas e limão."
+            },
+            {
+                "nome": "GT 0.0",
+                "preço": null,
+                "descrição": "Gin Nulla (gin 0,0% de álcool), água tônica e hortelã"
+            },
+            {
+                "nome": "Strawberry Mule",
+                "preço": null,
+                "descrição": "Morangos frescos, suco de limão, açúcar e espuma de gengibre."
+            },
+            {
+                "nome": "Fiorito",
+                "preço": null,
+                "descrição": "Framboesas, suco de limão, xarope de pêssegos, ginger ale e espuma de gengibre"
+            },
+            {
+                "nome": "Mescolato",
+                "preço": null,
+                "descrição": "Hortelã suco de limão e ginger ale."
+            },
+            {
+                "nome": "Soda Italiana",
+                "preço": null,
+                "descrição": "Jabuticaba ,tangerina, cranberry, maçã verde"
+            }
+        ],
+        "Sucos e refrigerantes": [
+            {
+                "nome": "Refrigerantes",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Natural",
+                "preço": null,
+                "descrição": "Laranja, Melancia, Limão"
+            },
+            {
+                "nome": "Suco de Tomate",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água com ou sem gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água São Pellegrino",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Café": [
+            {
+                "nome": "Espresso",
+                "preço": null,
+                "descrição": "Nespresso Leggero, Ristreto ou descafeinado"
+            },
+            {
+                "nome": "Cappuccino",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chá Natural",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Bebidas Alcóolicas -": {
+        "Gin & Tonic's/Highballs": [
+            {
+                "nome": "Lime Citrus",
+                "preço": null,
+                "descrição": "Bourbon, triple sec licor, suco de laranja e ginger ale."
+            },
+            {
+                "nome": "Framboesa Spritz",
+                "preço": null,
+                "descrição": "Vodka, limoncello Villa Massa, Purê de framboesa e espumante."
+            },
+            {
+                "nome": "Moma",
+                "preço": "R$ 44,00",
+                "descrição": "Gin, Amora, Tomilho, Laranja, Tônica."
+            },
+            {
+                "nome": "Florada Highball",
+                "preço": "R$ 44,00",
+                "descrição": "Gin, limão, framboesa, ginger ale"
+            },
+            {
+                "nome": "Zamora",
+                "preço": null,
+                "descrição": "Licor 43, suco de laranja e espumante."
+            }
+        ],
+        "Autorais": [
+            {
+                "nome": "Kojac",
+                "preço": "R$ 48,00",
+                "descrição": "Vodka Ketel One, Saquê, Purê de Lichia, Maracujá, Espumante de Gengibre. Esse coquetel já é um clássico do Moma, frutado, leve e cremoso, combina perfeitamente com aqueles paladares que procuram por coquetéis complexos em sabor e faceis de beber."
+            },
+            {
+                "nome": "Rosmarino Cocktail",
+                "preço": null,
+                "descrição": "Gin, limoncello artesanal, capim limão cordial, mix cítrico e alecrim."
+            },
+            {
+                "nome": "Cipriano",
+                "preço": "R$ 47,00",
+                "descrição": "Vodka, morangos, peachtree e espumante."
+            },
+            {
+                "nome": "América Smash",
+                "preço": "R$ 48,00",
+                "descrição": "Bourbon, lichia, limão siciliano, açúcar demerara, hortelã e bitter"
+            },
+            {
+                "nome": "Bella Donna",
+                "preço": null,
+                "descrição": "Gin, licor amaretto, purê de morango e manjericão."
+            },
+            {
+                "nome": "Nona Rosetta",
+                "preço": null,
+                "descrição": "Rum bacardi , licor 43, abacaxi, amora e Bitter de laranja."
+            }
+        ],
+        "Caipirinha": [
+            {
+                "nome": "Caipirinha Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Caipirinha de Uva Thompson com Hortelã",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Caipirinha Lima e Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Caipirinha de Frutas vermelhas",
+                "preço": null,
+                "descrição": "Abacaxi, manga, maracujá, pêssego e carambola"
+            },
+            {
+                "nome": "Caipirinha de Tangerina com Manjericão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Caipirinha Cajú e Siciliano",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Clássicos Moma": [
+            {
+                "nome": "Dry Martini",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "God Father",
+                "preço": null,
+                "descrição": "Scotch whisky e amaretto"
+            },
+            {
+                "nome": "Limoncello Spritz",
+                "preço": null,
+                "descrição": "Nosso licor artesanal Limoncello vodka manjericão fresco finalizado com espumante."
+            },
+            {
+                "nome": "Amaretto Sour",
+                "preço": null,
+                "descrição": "Licor Amaretto e limao"
+            },
+            {
+                "nome": "Cardinale",
+                "preço": null,
+                "descrição": "Gin, Campari, vermute dry, zest de laranja e azeitona gordal"
+            },
+            {
+                "nome": "Old Hickory",
+                "preço": null,
+                "descrição": "Vermute Carpano, Vermute Dry, Bitter de Laranja e Cereja."
+            },
+            {
+                "nome": "Negroni Amadurecido",
+                "preço": null,
+                "descrição": "Gin, blend vermutes, Campari, envelhecidos em barril de carvalho."
+            }
+        ],
+        "Twisted Classics": [
+            {
+                "nome": "Basil Smash",
+                "preço": "R$ 47,00",
+                "descrição": "Gin, manjericão fresco, mix cítrico e açucar."
+            },
+            {
+                "nome": "Negroni 332",
+                "preço": "R$ 45,00",
+                "descrição": "Gin, Campari, Vermute clássico, ameixas frescas e laranja Bahia"
+            },
+            {
+                "nome": "Lichia Cosmo Martini",
+                "preço": null,
+                "descrição": "Vodka, licor de lichia, cramberrry juice e limão"
+            }
+        ],
+        "Clássicos": [
+            {
+                "nome": "Aperol Spritz",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bloodmary",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Boulevardier",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Carajillo",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cosmopolitan",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Fitzgerald",
+                "preço": "R$ 47,00",
+                "descrição": "Gim, limão, açucar e bitter"
+            },
+            {
+                "nome": "Manhattan",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Moscow Mule",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Rabo De Galo",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": "Rum, hortelã, limão e água com gás."
+            },
+            {
+                "nome": "Whisky Sour",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Margarita",
+                "preço": null,
+                "descrição": "Tequila, licor de triple sec e limão."
+            },
+            {
+                "nome": "Espesso Martini",
+                "preço": null,
+                "descrição": "Vodka, licor de café e café."
+            },
+            {
+                "nome": "New Yourk Sour",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Negroni Classico",
+                "preço": "R$ 44,00",
+                "descrição": "Gin, Campari, vermute rosso e zest de laranja"
+            }
+        ],
+        "Cervejas": [
+            {
+                "nome": "Heineken",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Heineken Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cerveja Blue Moon",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cerveja Lagunitas",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Licores": [
+            {
+                "nome": "Sugestão do nosso bartender! Nossa receita!\nNostro Limoncello",
+                "preço": null,
+                "descrição": "Sugestão do nosso bartender! Nossa receita!"
+            },
+            {
+                "nome": "Licor 43",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Amaretto",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cointreau",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bayles",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Di Moscato",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Averna",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Fernet",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Destilados": [
+            {
+                "nome": "Gin Hendricks",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tanqueray n° Ten",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VODKA",
+                "preço": null,
+                "descrição": "Consulte sabores."
+            },
+            {
+                "nome": "Grey Goose",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Absolut",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ciroc",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "WHISKY ESCOCÊS",
+                "preço": null,
+                "descrição": "Consulte sabores."
+            },
+            {
+                "nome": "Johnnie Walker Red Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Johnnie Walker Black Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Johnnie Walker Blue Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chivas Regal 12",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chivas Regal 15",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chivas Regal 18",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "SINGLE MALT",
+                "preço": null,
+                "descrição": "Consulte sabores."
+            },
+            {
+                "nome": "Sington 12",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Glenfiddich 12",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ardberg",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BOURBON",
+                "preço": null,
+                "descrição": "Consulte sabores."
+            },
+            {
+                "nome": "Jack Daniel's",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Woodford",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "RUM",
+                "preço": null,
+                "descrição": "Consulte sabores."
+            },
+            {
+                "nome": "Zacapa 23",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "COGNAC",
+                "preço": null,
+                "descrição": "Consulte sabores."
+            },
+            {
+                "nome": "Remy Martin (VSOP)",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Campari",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Grappa Villa Prato Invecchiata",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "endereço": "Rua Ferreira de Araújo, 342, Pinheiros, São Paulo, SP, Brasil",
+    "telefone": "(11) 93083-8387",
+    "email": "info@bymomagroup.com.br",
+    "website": null,
+    "name": "Moma Pinheiros (Rua Ferreira de Araújo)"
+}

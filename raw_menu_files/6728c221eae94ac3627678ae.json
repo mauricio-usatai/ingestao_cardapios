@@ -1,0 +1,885 @@
+{
+    "Dia dos Namorados": {
+        "Entradas": [
+            {
+                "nome": "Arancini",
+                "preço": "",
+                "descrição": "Bolinho de risotto com recheio de queijo Caciocavallo"
+            },
+            {
+                "nome": "Burrata com cogumelos salteados",
+                "preço": "",
+                "descrição": "Burrata fresca, creme de alcachofra e cogumelos salteados."
+            },
+            {
+                "nome": "Crudo de Atum",
+                "preço": "",
+                "descrição": "Atum, creme de ricotta, ervas frescas, azeite de manjericão e bottarga."
+            }
+        ],
+        "Prato Principal": [
+            {
+                "nome": "Spaghetti al nero di seppia",
+                "preço": "",
+                "descrição": "Pasta fresca, lulinhas, camarão e mollica."
+            },
+            {
+                "nome": "Caramelle al tartufo",
+                "preço": "",
+                "descrição": "Pasta fresca recheada com ricotta, queijo tulha e cebola caramelizada. Finalizada na manteiga de trufas brancas com cogumelo portobello."
+            },
+            {
+                "nome": "Tagliata di Manzo",
+                "preço": "",
+                "descrição": "Baby beef grelhado sobre molho glace com gnocchi dourado na manteiga de sálvia."
+            },
+            {
+                "nome": "Risotto Frutos do mar",
+                "preço": "",
+                "descrição": "Lula, polvo, camarão e açafrão."
+            },
+            {
+                "nome": "Carbonara",
+                "preço": "",
+                "descrição": "Spaghetti, gema de ovo, guanciale, pecorino e pimenta do reino."
+            },
+            {
+                "nome": "Amatriciana",
+                "preço": "",
+                "descrição": "Mezze Rigatte, molho de tomate italiano, guanciale, pecorino e pimenta do reino."
+            },
+            {
+                "nome": "Cacio e pepe",
+                "preço": "",
+                "descrição": "Mezze Rigatte, pecorino e pimenta do reino"
+            }
+        ],
+        "Sobremesas": [
+            {
+                "nome": "Brioche, pistache & gianduia",
+                "preço": "",
+                "descrição": "Brioche feito na casa, com Gelato Artisano Pistache Puro servido com calda de chocolate belga e gianduia."
+            },
+            {
+                "nome": "Torta de Maçã",
+                "preço": "",
+                "descrição": "Finalizada no forno, servida com sorvete de baunilha."
+            },
+            {
+                "nome": "Tiramisù",
+                "preço": "",
+                "descrição": "Receita clássica com mascarpone, biscoito savoiardi e café"
+            }
+        ],
+        "Vinho": [
+            {
+                "nome": "Bráz Toscano Tinto",
+                "preço": "",
+                "descrição": "Sangiovese e Alicante Nero Mazzei • Toscana, Itália"
+            }
+        ]
+    },
+    "Menu Principal": {
+        "Queijos Frescos": [
+            {
+                "nome": "Burrata Caprese",
+                "preço": "R$ 74,00",
+                "descrição": "Burrata fresca e tomates marinados e pesto."
+            },
+            {
+                "nome": "Mozzarela & Carne Cruda",
+                "preço": "R$ 85,00",
+                "descrição": "Muçarela fresca de búfala com crudo de carne temperada, limão siciliano e pistache."
+            },
+            {
+                "nome": "Stracciatella & Mortadela Italiana",
+                "preço": "R$ 69,00",
+                "descrição": "O recheio da burrata e mortadela italiana com limão siciliano e pistache."
+            },
+            {
+                "nome": "Ricotta & Crudo de Atum",
+                "preço": "R$ 82,00",
+                "descrição": "Atum, creme de ricotta, ervas frescas, azeite de manjericão e bottarga."
+            }
+        ],
+        "Entrada": [
+            {
+                "nome": "Pão de Calabresa",
+                "preço": "R$ 45,00",
+                "descrição": "Massa leve de fermentação natural e nossa calabresa exclusiva e artesanal. Aceitamos encomenda de pães inteiros."
+            },
+            {
+                "nome": "Cornicione Bráz",
+                "preço": "R$ 34,00",
+                "descrição": "Massa fininha com azeite, alecrim e sal grosso."
+            },
+            {
+                "nome": "Cornicione Primo",
+                "preço": "R$ 38,00",
+                "descrição": "Massa fininha com molho de tomate, alho, azeite e parmesão."
+            },
+            {
+                "nome": "Arancini Bráz",
+                "preço": "R$ 44,00",
+                "descrição": "Bolinho de risotto com recheio de queijo Caciocavallo."
+            },
+            {
+                "nome": "Polenta Crocante",
+                "preço": "R$ 59,00",
+                "descrição": "Molho de Ragu de linguiça ou Parmegiano Trufado"
+            },
+            {
+                "nome": "Queijo Morro Azul",
+                "preço": "R$ 69,00",
+                "descrição": "Levamos o melhor queijo do mundo ao forno e servimos com pão da casa e mel florada angico."
+            },
+            {
+                "nome": "Carpaccio",
+                "preço": "R$ 65,00",
+                "descrição": "Carpaccio, molho da casa, rúcula, alcaparras e parmesão."
+            },
+            {
+                "nome": "Figo & Parma",
+                "preço": "R$ 75,00",
+                "descrição": "Mix de folhas, figo assado, queijo de cabra, prosciutto, avelãs tostadas e parmesão."
+            },
+            {
+                "nome": "Caesar com Frango",
+                "preço": "R$ 65,00",
+                "descrição": "Alface romana, molho caesar, crouton de pão da casa e queijo parmesão."
+            }
+        ],
+        "Pasta ": [
+            {
+                "nome": "Carbonara",
+                "preço": "R$ 89,00",
+                "descrição": "Spaghetti, gema de ovo, guanciale, pecorino e pimenta do reino."
+            },
+            {
+                "nome": "Pappardelle Ragù de Costela",
+                "preço": "R$ 92,00",
+                "descrição": "Pasta fresca feita na casa e molho de costela cozido lentamente por 48 horas."
+            },
+            {
+                "nome": "Cavatelli Ragù de Linguiça",
+                "preço": "R$ 74,00",
+                "descrição": "Massa feita na casa, molho de tomate, linguiça artesanal e parmesão."
+            },
+            {
+                "nome": "Ravioli di Burrata",
+                "preço": "R$ 80,00",
+                "descrição": "Pasta fresca recheada com burrata, papa ao pomodoro e azeite de manjericão."
+            },
+            {
+                "nome": "Lasagna Alla Bolognese",
+                "preço": "R$ 85,00",
+                "descrição": "Receita clássica, preparada como manda a tradição: massa fresca, bolonhesa e bechamel."
+            },
+            {
+                "nome": "Capelacci Ai Gamberi",
+                "preço": "R$ 89,00",
+                "descrição": "Pasta fresca recheada com camarão, tomate concassé e mascarpone. Finalizada na manteiga, mollica e bottarga."
+            },
+            {
+                "nome": "Gnocchi Romano",
+                "preço": "R$ 79,00",
+                "descrição": "Gnocchi de semolina gratinado, fonduta de queijos, espinafre e cogumelo."
+            },
+            {
+                "nome": "Caramelle al Tartufo",
+                "preço": "R$ 92,00",
+                "descrição": "Pasta fresca recheada com ricotta, queijo tulha e cebola caramelizada. Finalizada na manteiga de trufas brancas com cogumelo portobello."
+            },
+            {
+                "nome": "Tortelli di Ossobuco",
+                "preço": "R$ 89,00",
+                "descrição": "Pasta fresca recheada com ragù de ossobuco. Finalizado com brodo de cogumelos e queijo tulha."
+            },
+            {
+                "nome": "Amatriciana",
+                "preço": "R$ 85,00",
+                "descrição": "Mezze Rigatte, molho de tomate italiano, guanciale, pecorino e pimenta do reino."
+            },
+            {
+                "nome": "Cacio & Pepe",
+                "preço": "R$ 69,00",
+                "descrição": "Mezze Rigatte, pecorino e pimenta do reino."
+            },
+            {
+                "nome": "Bolognesa",
+                "preço": "R$ 74,00",
+                "descrição": "Pappardelle feito na casa, molho bolonhesa e queijo parmesão."
+            }
+        ],
+        "Carne & Pesce": [
+            {
+                "nome": "Saltimbocca alla Romana",
+                "preço": "R$ 110,00",
+                "descrição": "Escalopes de mignon, presunto cru e sálvia, dourados na manteiga & risoto bianco"
+            },
+            {
+                "nome": "Bistecca alla Fiorentina",
+                "preço": "R$ 348,00",
+                "descrição": "Porterhouse Angus grelhado em fogo alto, servido com tomatinhos em rama, cogumelos e cebolas assados, além de espinafre salteado no alho e óleo."
+            },
+            {
+                "nome": "Tagliata Di Manzo com Rúcula",
+                "preço": "R$ 110,00",
+                "descrição": "Baby beef grelhado com cogumelos e rúcula selvagem."
+            },
+            {
+                "nome": "Filé à Parmegiana",
+                "preço": "R$ 110,00",
+                "descrição": "O clássico de cantina paulistana à moda Bráz com fettucine fresco."
+            },
+            {
+                "nome": "Polpettone Bráz",
+                "preço": "",
+                "descrição": "Polpeta recheada com gorgonzola dolce, provolone, muçarela e fontina, acompanha fettucine fresco. Individual ou para compartilhar"
+            },
+            {
+                "nome": "Cotoletta Alla Milanese",
+                "preço": "R$ 120,00",
+                "descrição": "Filé de vitelo empanado, risotto de açafrão e aioli."
+            },
+            {
+                "nome": "Galeto Siciliano",
+                "preço": "R$ 79,00",
+                "descrição": "Galeto assado com alcaparras e limão siciliano, abobrinhas e batatas rústicas."
+            },
+            {
+                "nome": "Pesce & Verdure",
+                "preço": "R$ 98,00",
+                "descrição": "Peixe do dia, tomatinho concassé, azeitona, alcaparra, abobrinhas e batatas rústicas."
+            },
+            {
+                "nome": "Risotto Frutos do Mar",
+                "preço": "R$ 119,00",
+                "descrição": "Lula, polvo, camarão e açafrão."
+            },
+            {
+                "nome": "Tagliata Di Manzo com Gnocchi",
+                "preço": "R$ 110,00",
+                "descrição": "gnocchi dourado na manteiga de salvia."
+            }
+        ]
+    },
+    "Pizzas": {
+        "Nossas Massas ": [
+            {
+                "nome": "Grano Nostrum-Massa da Casa",
+                "preço": "",
+                "descrição": "Feita com farinha italiana, passa por um processo especial de alta hidratação e longa fermentação natural. Uma criação extremamente leve, do mestre em panificação da Bráz Raffaele Mostaccioli."
+            },
+            {
+                "nome": "Massa sem Glúten",
+                "preço": "R$ 20,00",
+                "descrição": "Feita com farinha italiana sem glúten e longa fermentação. Pode conter traços de glúten. Versão individual"
+            }
+        ],
+        "Especiais da Bráz": [
+            {
+                "nome": "50TOP",
+                "preço": "R$ 144,00",
+                "descrição": "Molho de tomate italiano e cinco queijos especiais: fior di latte La Bufalina, Catupiry, Cuesta Azul Pardinho, ricota Búfala Almeida Prado, Tulha Fazenda Atalaia e manjericão."
+            },
+            {
+                "nome": "Caprese",
+                "preço": "R$ 141,00",
+                "descrição": "Molho de tomate italiano, muçarela, tomate Caqui, muçarela de búfala, tapenade e manjericão."
+            },
+            {
+                "nome": "Castelões",
+                "preço": "R$ 135,00",
+                "descrição": "Molho de tomate italiano, muçarela e nossa calabresa exclusiva."
+            },
+            {
+                "nome": "Primo",
+                "preço": "R$ 141,00",
+                "descrição": "Molho de tomate italiano, muçarela, tomate caqui e fatias de presunto parma."
+            },
+            {
+                "nome": "Carbonara",
+                "preço": "R$ 135,00",
+                "descrição": "Molho de tomate italiano, muçarela, gema de ovo, pancetta, pecorino e pimenta do reino."
+            },
+            {
+                "nome": "Bráz",
+                "preço": "R$ 130,00",
+                "descrição": "Molho de tomate italiano, fatias de abobrinha ao alho assadas, muçarela e parmesão."
+            },
+            {
+                "nome": "Tacchino",
+                "preço": "R$ 133,00",
+                "descrição": "Molho de tomate italiano, peito de peru defumado, catupiry e alho poró."
+            },
+            {
+                "nome": "Bologna",
+                "preço": "R$ 141,00",
+                "descrição": "Pizza bianca com mortadela italiana, fior di latte, stracciatella, pistache, manjericão e raspas de limão siciliano"
+            },
+            {
+                "nome": "Margherita Paulistana",
+                "preço": "R$ 129,00",
+                "descrição": "Há mais de 20 anos no cardápio, nossa interpretação da receita original. Molho de tomate italiano, muçarela, tomate Caqui, azeite de alho, parmesão e manjericão"
+            },
+            {
+                "nome": "Calabrese Diavola",
+                "preço": "R$ 137,00",
+                "descrição": "Molho de tomate italiano, muçarela, calabresa artesanal apimentada, tomatinhos confit, manjericão e orégano."
+            },
+            {
+                "nome": "Alcachofrinha",
+                "preço": "R$ 143,00",
+                "descrição": "Molho de tomate italiano, alcachofrinhas assadas em azeite de ervas, queijo caciocavallo e tomatinhos confit"
+            },
+            {
+                "nome": "Favorita",
+                "preço": "R$ 122,00",
+                "descrição": "Molho de tomate italiano e queijos taleggio, pecorino, caciocavallo e gorgonzola."
+            },
+            {
+                "nome": "Castelões Vegana",
+                "preço": "R$ 135,00",
+                "descrição": "Molho de tomate italiano, muçarela e calabresa vegetal Plant Choice e orégano."
+            }
+        ],
+        "Tradicionais": [
+            {
+                "nome": "Muçarela",
+                "preço": "R$ 114,00",
+                "descrição": "Molho de tomate italiano, muçarela e orégano."
+            },
+            {
+                "nome": "Calabresa",
+                "preço": "R$ 129,00",
+                "descrição": "Mollho de tomate italiano, calabresa artesanal em fatias, cebola e azeitonas pretas."
+            },
+            {
+                "nome": "Portuguesa",
+                "preço": "R$ 131,00",
+                "descrição": "Molho de tomate italiano, muçarela, presunto, ovos cozidos, cebola e azeitonas pretas."
+            },
+            {
+                "nome": "Romana",
+                "preço": "R$ 144,00",
+                "descrição": "Molho de tomate italiano, muçarela e filés de aliche."
+            },
+            {
+                "nome": "Margherita Verace",
+                "preço": "R$ 123,00",
+                "descrição": "Molho de tomate, fior di latte, manjericão e azeite."
+            },
+            {
+                "nome": "Quatro Queijos",
+                "preço": "R$ 137,00",
+                "descrição": "Molho de tomate italiano, Muçarela, gorgonzola, parmesão e catupiry."
+            }
+        ],
+        "Coberturas Adicionais ": [
+            {
+                "nome": "Coberturas Adicionais",
+                "preço": "R$ 22,00",
+                "descrição": "Muçarela, Catupiry, Parmesão ou Gorgonzola"
+            }
+        ]
+    },
+    "Sobremesa": {
+        "Sobremesa": [
+            {
+                "nome": "Tiramisù",
+                "preço": "R$ 42,00",
+                "descrição": "O clássico italiano."
+            },
+            {
+                "nome": "Fondant de Chocolate",
+                "preço": "R$ 44,00",
+                "descrição": "Creme de chocolate belga finalizado no forno e sorvete de baunilha."
+            },
+            {
+                "nome": "Piquenique Nuttelina",
+                "preço": "R$ 44,00",
+                "descrição": "Massa de pizza recheada com creme de avelã sem açúcar e pistache."
+            },
+            {
+                "nome": "Torta de maçã",
+                "preço": "R$ 45,00",
+                "descrição": "Finalizada no forno, servida com sorvete de baunilha."
+            },
+            {
+                "nome": "Brioche, Pistache & Gianduia",
+                "preço": "R$ 42,00",
+                "descrição": "Brioche feito na casa, com Gelato Artisano Pistache Puro servido com calda de chocolate belga e gianduia."
+            }
+        ],
+        "Para Finalizar": [
+            {
+                "nome": "Café Espresso",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chá de Hortelã",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Limoncello Bráz",
+                "preço": null,
+                "descrição": "Idealizado para finalizar a refeição ao estilo Napolitano, nosso Limoncello é uma receita exclusiva para o Bráz, produzida artesanalmente pela APTK Spirits."
+            },
+            {
+                "nome": "Licor 43",
+                "preço": null,
+                "descrição": "Licor espanhol derivado de frutas cítricas e plantas aromáticas. Desde tempos remotos, antes da conquista da Antiga Espanha em 209 a.C., já existia a tradição de produzir este licor, os conquistadores chamavam essa poção de \"Liquor Mirabilis\", que logo começou a ser exportada para a Roma. A história recente desse licor começa com a descoberta, pela Diego Zamora S.A., em 1924, de um método secreto de refinar o primitivo licor para torná-lo mais suave e delicioso, por meio da adição de ingredientes especiais e obtenção de maior precisão na mistura. O resultado foi o Licor Cuarenta y Tres, composto por 43 ingredientes de primeiríssima qualidade, ele se tornou o mais popular da Espanha e exportado para mais de 60 países."
+            },
+            {
+                "nome": "Amaretto Disaronno",
+                "preço": null,
+                "descrição": "O licor Disaronno Originale é um amaretto com um característico sabor de amêndoas produzido na cidade de Saronno, Itália. O fabricante diz que a receita remonta ao ano de 1525. Até 2001 era nomeado Amaretto di Saronno, sendo renomeado para somente Disaronno por questões de posicionamento de marca."
+            }
+        ]
+    },
+    "Bebidas": {
+        "Caipirinhas": [
+            {
+                "nome": "Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Abacaxi",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Morango",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Maracujá",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Whisky": [
+            {
+                "nome": "Johnnie Walker Black Label",
+                "preço": null,
+                "descrição": "Whisky escocês. Quando se bebe Johnnie Walker Black Label, na verdade estão apreciando o resultado de uma arte: a arte de criar um blend harmonioso, de cerca de 40 dos melhores maltes e whiskies de grãos escoceses, envelhecidos por, no mínimo, 12 anos, para formar um único Scotch Whisky de sabor e qualidade inigualáveis, como queria John Walker. Os quatro aromas mais significativos de Johnnie Walker Black Label são: Creme de baunilha, frutas frescas, frutas encorpadas e aromas da terra. Hoje, Johnnie Walker Black Label é reconhecido pelos consumidores não só como símbolo de progresso, mas de sofisticação e estilo."
+            },
+            {
+                "nome": "Bulleit Bourbon",
+                "preço": null,
+                "descrição": "Whiskey robusto, no paladar apresente notas picantes e sabor residual leve. Produzido com água pura filtrada em calcário e repousado em barris de carvalho americano carbonizados, seguindo a tradição da família Bulleit."
+            }
+        ],
+        "Cervejas": [
+            {
+                "nome": "Stella Artois",
+                "preço": null,
+                "descrição": "Uma das marcas de cerveja mais conceituadas e antigas do mundo. Comercializada em mais de 80 países, conquistou a maioria de seus adeptos no segmento de luxo e tornou-se um dos ícones do mercado europeu."
+            },
+            {
+                "nome": "Goose Island IPA",
+                "preço": null,
+                "descrição": "A Cerveja Goose Island IPA 355ml é inspirada nas tradicionais Pale Ales que eram enviadas da Inglaterra para a Índia - altamente lupuladas para preservarem seu sabor distinto durante a longa viagem. O resultado dessa IPA é um aroma frutado, desencadeada por um malte médio seco e acabamento de lúpulo longo."
+            },
+            {
+                "nome": "Corona Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Becks",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Stella Artois Pure Gold",
+                "preço": null,
+                "descrição": "Sem glúten"
+            },
+            {
+                "nome": "Corona",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Chopp": [
+            {
+                "nome": "Brahma Claro",
+                "preço": null,
+                "descrição": "Não pasteurizado e por isso sempre fresco. Aí fica fácil saber por que o sabor e leveza dele são tão únicos."
+            },
+            {
+                "nome": "Brahma Black",
+                "preço": null,
+                "descrição": "Cremoso e surpreendente. Assim é o Chopp Brahma Black, que, além de não ser pasteurizado, tem sabor encorpado e um toque levemente adocicado. A escolha certa para quem gosta de bebidas marcantes."
+            }
+        ],
+        "Soft Drinks": [
+            {
+                "nome": "Água Com ou Sem Gás",
+                "preço": null,
+                "descrição": "A água Sempre Pura é produzida neste local em respeito ao meio ambiente."
+            },
+            {
+                "nome": "Acqua Panna",
+                "preço": null,
+                "descrição": "Excelência e qualidade, diretamente da Toscana, trás consigo o estilo de vida italiano que representa o ideal da simplicidade. Fonte localizada em uma área 25 quilômetros quadrados ao norte de Florença, próximo ao vilarejo de Scarperia."
+            },
+            {
+                "nome": "San Pellegrino",
+                "preço": null,
+                "descrição": "Reverenciada como o Champagne das águas minerais, a Água Mineral San Pellegrino Com Gás é conhecida em todo mundo como simbolo de vida italiana (Nazionalitá). Sua fonte está localizada a 70 km de Milão na cidade de San Pellegrino Terme, região da Lombardia, norte da Itália. Começou a ser engarrafada em 1899 e, década após década, vem se consolidando como a água preferida dos grandes chefs e sommeliers, além de ser parceira dos melhores prêmios de gastronomia do mundo. Com sua \"perlage\" (borbulhas) intensa e seu sabor delicado e equilibrado, acompanha e valoriza vinhos tintos e pratos a base de carne e molhos intensos."
+            },
+            {
+                "nome": "Suco de Uva Integral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco de Maçã Integral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco de Limão Siciliano",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Refrigerante",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "H2OH!",
+                "preço": null,
+                "descrição": "Refrigerante de limão de baixa caloria. H2OH! é uma bebida levemente gaseificada, com zero de açúcar, fonte de vitaminas B e suco natural de limão. Especialmente desenvolvida para quem quer se refrescar de uma forma saborosa e sem açúcar!"
+            }
+        ]
+    },
+    "Especial de Almoço ": {
+        "Pinheiros ": [
+            {
+                "nome": "Escolha entre as opções de pizza ou prato",
+                "preço": "R$ 77,00",
+                "descrição": "Confira as opções de entrada e sobremesa do dia"
+            }
+        ],
+        "Alphaville ": [
+            {
+                "nome": "Escolha entre as opções de pizza ou prato",
+                "preço": "R$ 69,00",
+                "descrição": "Confira as opções de entrada e sobremesa do dia"
+            }
+        ]
+    },
+    "Menu Infantil ": {
+        "Pratos": [
+            {
+                "nome": "Pizza Muçarela",
+                "preço": "R$ 62,00",
+                "descrição": "Molho de tomate, muçarela e orégano"
+            },
+            {
+                "nome": "Parmegiana & Spaghetti",
+                "preço": "R$ 62,00",
+                "descrição": "O clássico de cantina paulistana à moda Bráz com fettuccine fresco."
+            },
+            {
+                "nome": "Fettucine bolognese",
+                "preço": "R$ 62,00",
+                "descrição": "Fettucine feito na casa, molho bolonhesa e queijo parmesão."
+            },
+            {
+                "nome": "Rigatoni & Filé Mignon",
+                "preço": "R$ 62,00",
+                "descrição": "Rigatoni feito na casa, molho bolonhesa e bifinhos de Filé Mignon."
+            },
+            {
+                "nome": "Polpetinhas & Spaghetti",
+                "preço": "R$ 62,00",
+                "descrição": "Polpetinhas recheadas com provolone e muçarela, acompanha spaghetti fresco."
+            }
+        ],
+        "Sobremesa": [
+            {
+                "nome": "Sorvete com Calda",
+                "preço": "R$ 26,00",
+                "descrição": "2 Bolas"
+            }
+        ],
+        "Sucos": [
+            {
+                "nome": "Uva integral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Maça Integral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Limão Siciliano",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Carta de Vinhos": {
+        "Escolha do Sommelier": [
+            {
+                "nome": "Bráz Chianti DOCG, 2021",
+                "preço": null,
+                "descrição": "Fomos buscar na centenária vinícola Marzocchi o tradicional Chianti em garrafa de palha. Produto elaborado com as uvas Sangiovese e uma pequena parcela de Canaiolo. Vinho de médio corpo, vívido, levemente tânico. Um vinho perfeito para ser desfrutado com pizzas e massas."
+            }
+        ],
+        "Espumantes": [
+            {
+                "nome": "Évidence Cuvée Brut",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Villa Marcello Prosecco DOC",
+                "preço": null,
+                "descrição": "Alegria refrescante em borbulhas."
+            }
+        ],
+        "Brancos": [
+            {
+                "nome": "Bráz Novo Mundo",
+                "preço": null,
+                "descrição": "Brasil"
+            },
+            {
+                "nome": "Collezione Viognier",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bráz Toscano Branco, 2018",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Pinot Grigio Delle Venezie, 2015",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Arenile",
+                "preço": null,
+                "descrição": "Itália - Abruzzo | Pinot Grigio"
+            },
+            {
+                "nome": "Azisa",
+                "preço": null,
+                "descrição": "Itália"
+            },
+            {
+                "nome": "Era dos Ventos Moscato Antigo",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Beyra Branco",
+                "preço": null,
+                "descrição": "Portugal"
+            },
+            {
+                "nome": "Era dos Ventos Moscato Antigo, 2021",
+                "preço": null,
+                "descrição": "\"Traz um aroma bastante peculiar, que combina laranja kinkan, maçã batida e um toque terroso de argila. Na boca temos um vinho seco, sápido e intenso, com um ataque furioso, repleto de flores desidratadas, frescor na medida certa e um final de boa amplitude.\""
+            },
+            {
+                "nome": "Odfjell Armador Sauvignon Blanc, 2010",
+                "preço": null,
+                "descrição": "Belo branco refrescante e marcadamente cítrico. Encanta com seus aromas intensos e seu paladar jovial, destacando-se por acidez equilibrada e agradáveis notas de limão, grapefruit e toques de maracujá. Ideal para acompanhar entradas leves, como saladas ou pratos da culinária japonesa."
+            },
+            {
+                "nome": "Masi Passo Blanco Orgânico, 2020",
+                "preço": null,
+                "descrição": "Uma explosão de sabores e aromas frescos, intensos e elegantes. Este é um vinho inovador, produzido em estilo não convencional, exclusivamente a partir de uvas orgânicas produzidas na propriedade Masi Tupungato La Arboleda em Mendoza, na Argentina."
+            }
+        ],
+        "Rosés": [
+            {
+                "nome": "Bráz Toscano Rosé, 2021",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Horgelus Rosé Orgânico, 2018",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Tintos": [
+            {
+                "nome": "Bráz 25 Anos",
+                "preço": null,
+                "descrição": "Brasil"
+            },
+            {
+                "nome": "Bráz Toscano Tinto, 2019",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bráz Chianti DOCG, 2021",
+                "preço": null,
+                "descrição": "Garrafa clássica de Chianti, envolta em palha."
+            },
+            {
+                "nome": "Poggio Badiola, 2018",
+                "preço": null,
+                "descrição": "."
+            },
+            {
+                "nome": "Doppiozeta , 2016",
+                "preço": null,
+                "descrição": "."
+            },
+            {
+                "nome": "Montepulciano D' Abruzzo Bonacchi, 2020",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Philip , 2015",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Padrão Dos Povos , 2014",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Montes Alpha Carménère",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "El Enemigo Malbec, 2020",
+                "preço": null,
+                "descrição": "A premiada vinícola El Enemigo é o projeto conjunto de Alejandro Vigil, enólogo chefe de Catena Zapata, e de Adrianna Catena, filha mais nova de Nicolás Catena. Esse tinto elegante e estiloso mereceu nada menos que 93+ pontos de Robert Parker na safra 2019 - excelente pontuação para um vinho dessa faixa de preço! Para o crítico, ele é \"profundo, saboroso e repleto de camadas de fruta\". É elaborado com 92% de Malbec e 8% de Cabernet Franc plantadas em três diferentes vinhedos da zona de Gualtallary, em Mendoza. Rico, concentrado e intenso, mas com um final de boca preciso e elegante, bastante longo!"
+            },
+            {
+                "nome": "Mazzei Fonterutoli Chianti Classico, 2015",
+                "preço": null,
+                "descrição": "\"Com aromas de ameixas pretas, violetas e pimenta, este vinho promete surpreender. Em boca aparecem as expressões típicas de sua região: amoras, carvalho tostado, café e pimenta branca que se completam com taninos redondos. Não é para menos, este é o principal vinho da propriedade e é referência entre os vinhos da denominação Chianti Classico. A região de Toscana é famosa pela alta qualidade de seus vinhos, pelas paisagens envolventes e pela marca da tradição. A uva Sangiovese reina soberana nos vinhedos e nas garrafas provenientes desse terroir, e corresponde a, pelo menos, 80% da composição dos cortes.\""
+            },
+            {
+                "nome": "Barbaresco DOCG, 2017",
+                "preço": null,
+                "descrição": "Itália"
+            },
+            {
+                "nome": "Lifili Primitivo Salento",
+                "preço": null,
+                "descrição": "Quem ama pratos robustos e carnes vermelhas durante o almoço ou jantar precisa experimentar esse vinho tinto. Extremamente encorpado, macio e harmonioso, é considerado fácil de beber e agradável. Sempre será uma boa pedida."
+            },
+            {
+                "nome": "William Cole Pinot Noir, 2009",
+                "preço": null,
+                "descrição": "Com uma cor vermelho cereja com corantes rubis, translúcidos e luminosos. No nariz proeminente com notas de frutos vermelhos bem maduros como cerejas, úmido, chá preto e algo de grafite. Médio encorpado e persistente, esta semi Pinot Noir é refrescante com acidez equilibrada e taninos sensíveis."
+            },
+            {
+                "nome": "Mario Salton Gerações",
+                "preço": null,
+                "descrição": "Brasil"
+            },
+            {
+                "nome": "Masi Tupungato Corbec, 2009",
+                "preço": null,
+                "descrição": "Rico e espantosamente elegante. Mescla as uvas Corvina, nativa do Vêneto e Malbec, seguindo o peculiar processo de passificação - marca registrada do Amarone e na qual a Masi é perita - desidrata naturalmente as uvas concentrando açúcar, aromas e sabores, originando vinhos intensos."
+            },
+            {
+                "nome": "Masi Tupungato Passo Doble, 2010",
+                "preço": null,
+                "descrição": "Cor: vermelho rubi intenso. Nariz: cerejas maduras e especiarias doces. Paladar: cereja rico e intenso e sabores frutas-da-floresta; bom comprimento e taninos macios."
+            },
+            {
+                "nome": "Classic Tannat",
+                "preço": null,
+                "descrição": "Aromas frescos e frutados, com notas de groselha e ameixa, além de notas mentoladas"
+            },
+            {
+                "nome": "Masi Passo Doble | Argentina, 2016",
+                "preço": null,
+                "descrição": "Argentina"
+            }
+        ],
+        "Taças | 180ml": [
+            {
+                "nome": "Bráz Novo Mundo",
+                "preço": null,
+                "descrição": "Brasil"
+            },
+            {
+                "nome": "Bráz Toscano Branco, 2018",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bráz Toscano Rosé, 2021",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bráz 25 Anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bráz Toscano Tinto, 2019",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bráz Chianti, 2021",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Poggio Badiola, 2018",
+                "preço": null,
+                "descrição": "Provém de vinhedos localizados a uma grande altitude no coração da região de Chianti Classico, em torno de uma igreja românica que remonta ao século X. Combina de forma única o frescor e a elegância da Sangiovese com a estrutura macia da Merlot, à qual é dado um toque refinado pela Petit Verdot."
+            },
+            {
+                "nome": "Taxa Rolha",
+                "preço": "R$ 90,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Masi Passo Blanco Orgânico, 2020",
+                "preço": null,
+                "descrição": "Uma explosão de sabores e aromas frescos, intensos e elegantes. Este é um vinho inovador, produzido em estilo não convencional, exclusivamente a partir de uvas orgânicas produzidas na propriedade Masi Tupungato La Arboleda em Mendoza, na Argentina."
+            },
+            {
+                "nome": "Masi Passo Doble | Argentina, 2016",
+                "preço": null,
+                "descrição": "Argentina"
+            }
+        ],
+        "Fortificado": [
+            {
+                "nome": "Graham`s",
+                "preço": null,
+                "descrição": "Portugal"
+            }
+        ]
+    },
+    "endereço": "., ., ., ., ., .",
+    "telefone": null,
+    "email": ".",
+    "website": null,
+    "name": "Bráz Trattoria"
+}

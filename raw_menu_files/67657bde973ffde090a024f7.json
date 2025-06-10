@@ -1,0 +1,1930 @@
+{
+    "Arraiá do Praia - Festa Junina": {
+        "Salgados": [
+            {
+                "nome": "Mais Vendido\nEspetinho",
+                "preço": "R$ 11,90",
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Hot Dog",
+                "preço": "R$ 14,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Pastel",
+                "preço": "R$ 14,00",
+                "descrição": "Sabores: Carne / Queijo / Pizza / Frango com Catupiry"
+            },
+            {
+                "nome": "Pipoca Salgada",
+                "preço": "R$ 10,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Milho",
+                "preço": "R$ 12,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Lanche de Pernil",
+                "preço": "R$ 20,00",
+                "descrição": "Pernil no pão Francês e vinagrete."
+            },
+            {
+                "nome": "Lanche de Linguiça",
+                "preço": "R$ 18,00",
+                "descrição": "Linguiça Toscana no pão Francês e vinagrete."
+            }
+        ],
+        "Doces": [
+            {
+                "nome": "Maçã do Amor",
+                "preço": "R$ 14,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Espetinho de Morango com Chocolate",
+                "preço": "R$ 18,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Pipoca Doce",
+                "preço": "R$ 12,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Cural",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            }
+        ],
+        "Bebidas": [
+            {
+                "nome": "Quentão",
+                "preço": "R$ 12,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Vinho Quente",
+                "preço": "R$ 12,00",
+                "descrição": ""
+            }
+        ]
+    },
+    "Acessorios": {
+        "Copo": [
+            {
+                "nome": "Copo Termico",
+                "preço": "R$ 39,90",
+                "descrição": "Esse copo mantém a bebida gelada por horas, é estiloso e vem com o selo Praia de curtição. É quase um acessório obrigatório pro rolê!"
+            }
+        ]
+    },
+    "Destaques": {
+        "Mais Vendidos": [
+            {
+                "nome": "Mais Vendido\nCheddar e Bacon",
+                "preço": "R$ 54,90",
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Mais Vendido\nGin Praia Blue",
+                "preço": null,
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Mais Vendido\nÀ Parmegiana de Mignon",
+                "preço": "R$ 64,90",
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Mais Vendido\nSalmão Defumado com Molho Citrico",
+                "preço": "R$ 79,90",
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Mais Vendido\nCamarão Crocante",
+                "preço": "R$ 115,00",
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Mais Vendido\nCorona - Long Neck 330ml",
+                "preço": null,
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Mais Vendido - Serve 2 Pessoas\nPrime Rib Angus",
+                "preço": "R$ 239,90",
+                "descrição": "Mais Vendido - Serve 2 Pessoas"
+            },
+            {
+                "nome": "Mais Vendido\nCombo Tanqueray",
+                "preço": null,
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Mais Vendido\nCombo Whisky Jack Daniels",
+                "preço": null,
+                "descrição": "Mais Vendido"
+            }
+        ]
+    },
+    "Café da Manhã ": {
+        "Tapiocas": [
+            {
+                "nome": "Tapioca De Presunto E Queijo",
+                "preço": "R$ 17,90",
+                "descrição": "Tapioca recheada com queijo mussarela, presunto e tomate."
+            },
+            {
+                "nome": "Tapioca De Marguerita",
+                "preço": "R$ 16,90",
+                "descrição": "Tapioca recheada com queijo mussarela, tomate e manjericão."
+            },
+            {
+                "nome": "Tapioca Com Queijo Mussarela",
+                "preço": "R$ 15,90",
+                "descrição": "Tapioca recheada com queijo mussarela."
+            },
+            {
+                "nome": "Tapioca Com Queijo Branco",
+                "preço": "R$ 18,90",
+                "descrição": "Tapioca recheada com queijo branco."
+            },
+            {
+                "nome": "Tapioca Com Queijo Branco E Peito De Peru",
+                "preço": "R$ 19,90",
+                "descrição": "Tapioca recheada com queijo branco e peito de peru."
+            },
+            {
+                "nome": "Tapioca Com Ovos Mexidos",
+                "preço": "R$ 16,90",
+                "descrição": "Tapioca recheada com ovos mexidos."
+            }
+        ],
+        "Lanches": [
+            {
+                "nome": "Lanche Natural De Frango",
+                "preço": "R$ 22,90",
+                "descrição": "Pão com recheio de patê de frango ao curry e alface americano."
+            },
+            {
+                "nome": "Lanche Natural De Frango (Integral)",
+                "preço": "R$ 22,90",
+                "descrição": "Pão integral com recheio de patê de frango ao curry e alface americano."
+            },
+            {
+                "nome": "Lanche Misto Quente",
+                "preço": "R$ 16,90",
+                "descrição": "Pão de forma, tostado na manteiga com queijo prato e peito de peru."
+            },
+            {
+                "nome": "Pão Tostado Amanteigado",
+                "preço": "R$ 9,90",
+                "descrição": "Pão de forma, tostado na manteiga."
+            }
+        ],
+        "Ovos ": [
+            {
+                "nome": "Ovos Mexidos Cremosos",
+                "preço": "R$ 13,90",
+                "descrição": "Ovos mexidos cremosos."
+            },
+            {
+                "nome": "Ovos Mexidos Cremosos E Bacon",
+                "preço": "R$ 16,90",
+                "descrição": ""
+            }
+        ],
+        "Panqueca, Wrap & Salada de Frutas": [
+            {
+                "nome": "Panqueca Proteica",
+                "preço": "R$ 19,90",
+                "descrição": "Panqueca proteica acompanha banana, aveia e mel."
+            },
+            {
+                "nome": "Wrap-Oca",
+                "preço": "R$ 17,90",
+                "descrição": "Farinha de tapioca batida com ovos."
+            }
+        ],
+        "Nespresso": [
+            {
+                "nome": "Café Expresso",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Curto",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Duplo",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Americano",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cappuccino",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café com Leite Curto",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café com Leite",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cappuccino Alpino",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Achocolatado Alpino",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Mokaccino",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Achocolatado Dois Frades",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Achocolatado Nescau",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Lanches e Porções": {
+        "Porções ": [
+            {
+                "nome": "Mais Vendido\nCamarão Crocante",
+                "preço": "R$ 115,00",
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Batata Frita McCain",
+                "preço": "R$ 39,90",
+                "descrição": "400g de batatas fritas McCain. Acompanha maionese da casa."
+            },
+            {
+                "nome": "Batata Frita Especial McCain",
+                "preço": "R$ 49,90",
+                "descrição": "400g de batatas fritas McCain Acompanha cheddar e bacon"
+            },
+            {
+                "nome": "Anéis de Cebola",
+                "preço": "R$ 34,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Crispy de Queijo Gouda McCain",
+                "preço": "R$ 39,90",
+                "descrição": "12 unidades crispy recheados de queijo gouda. Acompanha molho Barbecue"
+            },
+            {
+                "nome": "Palitos de Mussarela McCain",
+                "preço": "R$ 39,90",
+                "descrição": "12 unidades de palitos recheados de mussarela. Acompanha geleia de pimenta."
+            },
+            {
+                "nome": "Mandioca Frita",
+                "preço": "R$ 39,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Quarta-Feira e Sábado\nTorresmo",
+                "preço": "R$ 49,90",
+                "descrição": "Quarta-Feira e Sábado"
+            },
+            {
+                "nome": "Isca De Peixe Praiana",
+                "preço": "R$ 54,90",
+                "descrição": "Deliciosas tiras de peixe empanadas e fritas até ficarem douradas e crocantes. Acompanha molho tártaro cremoso, perfeito para realçar o sabor"
+            },
+            {
+                "nome": "Isca De Frango",
+                "preço": "R$ 49,90",
+                "descrição": "400g de iscas de frango empanado. Acompanha maionese da casa"
+            },
+            {
+                "nome": "Batata Brava",
+                "preço": "R$ 49,00",
+                "descrição": "Batatas rústicas fritas, temperadas com ervas finas, cobertas com molho de maionese apimentado e finalizadas com parmesão ralado. Uma combinação perfeita de crocância, cremosidade"
+            },
+            {
+                "nome": "Surpresa de Queijo",
+                "preço": "R$ 39,90",
+                "descrição": "12 Unidades de surpresas de queijo com recheio de catupiry. Acompanha geleia de pimenta."
+            },
+            {
+                "nome": "Mini Coxinha",
+                "preço": "R$ 34,90",
+                "descrição": "12 unidades de coxinhas de frango. Acompanha maionese da casa"
+            },
+            {
+                "nome": "Bolinha De Queijo",
+                "preço": "R$ 34,90",
+                "descrição": "12 unidades de bolinhas de queijo. Acompanha maionese da casa."
+            },
+            {
+                "nome": "Frango à passarinho",
+                "preço": "R$ 39,90",
+                "descrição": "Tradicional frango à passarinho, temperado com alho e ervas, frito até ficar crocante por fora e suculento por dentro. Servido com um toque de limão para realçar o sabor. Ideal para compartilhar!"
+            },
+            {
+                "nome": "Mini Pastéis",
+                "preço": "R$ 32,90",
+                "descrição": "Porção com 12 mini pastéis crocantes, disponíveis nos sabores carne, queijo ou misto. Acompanha vinagrete para dar ainda mais sabor à sua experiência."
+            }
+        ],
+        "Adicional ": [
+            {
+                "nome": "Cheddar",
+                "preço": "R$ 4,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Barbecue",
+                "preço": "R$ 3,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Bacon",
+                "preço": "R$ 4,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Maionese da Casa",
+                "preço": "R$ 3,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Vinagrete",
+                "preço": "R$ 3,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Geléia de Pimenta",
+                "preço": "R$ 4,90",
+                "descrição": ""
+            }
+        ],
+        "Lanches ": [
+            {
+                "nome": "Mais Vendido\nCheddar e Bacon",
+                "preço": "R$ 54,90",
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Porção Mini-Hambúrguer",
+                "preço": "R$ 43,90",
+                "descrição": "Escolha seu favorito entre 4 sabores campeões: X-Burguer, X-Salada, X-Bacon ou Cheddar com Bacon. Cada porção vem com 2 mini-hambúrgueres do mesmo sabor e uma porção de batata frita pra completar a festa. Pequenos no tamanho, gigantes no sabor!"
+            },
+            {
+                "nome": "X Burguer",
+                "preço": "R$ 45,90",
+                "descrição": "Blend bolvino (150g), queijo prato, pão brioche. Porção de batata McCain e Maionese da casa."
+            },
+            {
+                "nome": "X Bacon",
+                "preço": "R$ 51,90",
+                "descrição": "Blend bolvino (150g), queijo prato, pão brioche e bacon. Porção de batata McCain e maionese da casa."
+            },
+            {
+                "nome": "X Salada",
+                "preço": "R$ 49,90",
+                "descrição": "Blend bolvino (150g), queijo prato, pão brioche, cebola roxa, alface americano, tomate. Acompanha Porção de batata McCain e maionese da casa."
+            }
+        ]
+    },
+    "Churrasco": {
+        "Churrasco ": [
+            {
+                "nome": "Serve 2 pessoas\nPrime Rib Angus",
+                "preço": "R$ 239,90",
+                "descrição": "Serve 2 pessoas"
+            },
+            {
+                "nome": "Serve 2 pessoas\nLinguiça Artesanal Cuiabana",
+                "preço": "R$ 79,90",
+                "descrição": "Serve 2 pessoas"
+            },
+            {
+                "nome": "Serve 2 pessoas\nLinguiça Artesanal Pernil",
+                "preço": "R$ 89,90",
+                "descrição": "Serve 2 pessoas"
+            },
+            {
+                "nome": "Serve 2 pessoas\nPicanha",
+                "preço": "R$ 209,00",
+                "descrição": "Serve 2 pessoas"
+            },
+            {
+                "nome": "Serve 2 pessoas\nChorizo Angus",
+                "preço": "R$ 159,90",
+                "descrição": "Serve 2 pessoas"
+            },
+            {
+                "nome": "Serve 2 pessoas\nEntrecôte Angus",
+                "preço": "R$ 189,90",
+                "descrição": "Serve 2 pessoas"
+            },
+            {
+                "nome": "Serve 2 pessoas\nCarré de Cordeiro Angus",
+                "preço": "R$ 249,90",
+                "descrição": "Serve 2 pessoas"
+            }
+        ],
+        "Combo Espetinho": [
+            {
+                "nome": "Quarta-feira\nCombo de Espeto",
+                "preço": "R$ 54,90",
+                "descrição": "Quarta-feira"
+            }
+        ],
+        "Rodízio de Espeto": [
+            {
+                "nome": "Quarta-Feira\nRodízio de Espetinho e Comida de Boteco",
+                "preço": "R$ 54,90",
+                "descrição": "Quarta-Feira"
+            },
+            {
+                "nome": "Quarta-Feira\nRodízio de Espetinho e Comida de Boteco - All Inclusive",
+                "preço": "R$ 129,90",
+                "descrição": "Quarta-Feira"
+            }
+        ],
+        "Espetinho": [
+            {
+                "nome": "Espetinho",
+                "preço": "R$ 11,90",
+                "descrição": "Disponível apenas Quarta-Feira e em dias Shows Grandes Escolha entre nossas opções de espetinhos, servidos no ponto ideal para você aproveitar cada mordida. Perfeitos para petiscar ou montar seu prato do jeito que preferir. Opções disponíveis: 🍢 Frango | 🍢 Carne Bovina | 🍢 Linguiça | 🍢 Linguiça Apimentada | 🍢 Queijo Coalho| 🍢 Pão de Alho Valor unitário por espeto."
+            }
+        ]
+    },
+    "Pratos Principais": {
+        "Pratos Kids": [
+            {
+                "nome": "Pfinho de Mignon",
+                "preço": "R$ 38,90",
+                "descrição": "Filezinho Mignon, acompanha arrozinho, feijãozinho e batatinha frita ."
+            },
+            {
+                "nome": "Pfinho de Frango",
+                "preço": "R$ 34,90",
+                "descrição": "Filezinho frango, acompanha arrozinho, feijãozinho e batatinha frita."
+            }
+        ],
+        "Especialidades do Chef ": [
+            {
+                "nome": "Mais Vendido\nSalmão Defumado com Molho Citrico",
+                "preço": "R$ 79,90",
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Costela de Colher",
+                "preço": "R$ 62,90",
+                "descrição": "Costela com mandioca cremosa molho francês demi-glace. Acompanha arroz e farofa. 📍Quer incrementar seu prato? Saladas e adicionais são pedidos à parte! Consulte o nosso cardápio de adicionais."
+            },
+            {
+                "nome": "Filé Mignon à Poivre",
+                "preço": "R$ 72,90",
+                "descrição": "📍Quer incrementar seu prato? Saladas e adicionais são pedidos à parte! Consulte o nosso cardápio de adicionais."
+            },
+            {
+                "nome": "Fettuccine com Carré de Cordeiro",
+                "preço": "R$ 89,90",
+                "descrição": "Fettuccine com azeite de ervas e carré de cordeiro"
+            },
+            {
+                "nome": "Fettuccine Del Mare",
+                "preço": "R$ 71,90",
+                "descrição": "Fettuccine ao molho bisquê com camarões salteados"
+            },
+            {
+                "nome": "Fettuccine ao Molho de Ossobuco",
+                "preço": "R$ 59,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Fettuccine ao Molho de Ervas e Filé Mignon",
+                "preço": "R$ 49,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Servida aos Domingos\nMoqueca Praiana",
+                "preço": null,
+                "descrição": "Servida aos Domingos"
+            }
+        ],
+        "À La Carte": [
+            {
+                "nome": "Mais Vendido\nÀ Parmegiana de Mignon",
+                "preço": "R$ 64,90",
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "À Parmegiana de Frango",
+                "preço": "R$ 49,90",
+                "descrição": "Filé frango empanado, com molho de tomate natural por cima, e queijo coalho e mussarela gratinados no forno. Acompanha arroz e batata frita McCain. 📍Quer incrementar seu prato? Saladas e adicionais são pedidos à parte! Consulte o nosso cardápio de adicionais."
+            }
+        ],
+        "Feijoada": [
+            {
+                "nome": "Sábado\nFeijoada",
+                "preço": null,
+                "descrição": "Sábado"
+            }
+        ],
+        "Pratos do Dia ": [
+            {
+                "nome": "Segunda-Feira\nVirado à Paulista",
+                "preço": "R$ 39,90",
+                "descrição": "Segunda-Feira"
+            },
+            {
+                "nome": "Terça-Feira\nPicadinho",
+                "preço": "R$ 39,90",
+                "descrição": "Terça-Feira"
+            },
+            {
+                "nome": "Quarta-Feira\nFeijoada",
+                "preço": "R$ 39,90",
+                "descrição": "Quarta-Feira"
+            },
+            {
+                "nome": "Quinta-Feira\nFettuccine ao Molho de Ossobuco",
+                "preço": "R$ 39,90",
+                "descrição": "Quinta-Feira"
+            },
+            {
+                "nome": "Sexta-Feira\nPeixe Empanado",
+                "preço": "R$ 39,90",
+                "descrição": "Sexta-Feira"
+            }
+        ],
+        "Executivos ": [
+            {
+                "nome": "Filé de Frango Simples",
+                "preço": "R$ 39,90",
+                "descrição": "Acompanha arroz, feijão e batata frita McCain. 📍Quer incrementar seu prato? Saladas e adicionais são pedidos à parte! Consulte o nosso cardápio de adicionais."
+            },
+            {
+                "nome": "Filé de Frango com Brócolis",
+                "preço": "R$ 40,90",
+                "descrição": "Acompanha arroz com brócolis salteados no azeite, feijão e purê de batata. 📍Quer incrementar seu prato? Saladas e adicionais são pedidos à parte! Consulte o nosso cardápio de adicionais."
+            },
+            {
+                "nome": "Filé de Frango à Milanesa",
+                "preço": "R$ 40,90",
+                "descrição": "Filé de frango empanado. Acompanha arroz, feijão e batata frita McCain. 📍Quer incrementar seu prato? Saladas e adicionais são pedidos à parte! Consulte o nosso cardápio de adicionais."
+            },
+            {
+                "nome": "Contra Filé Acebolado",
+                "preço": "R$ 39,90",
+                "descrição": "Contra filé preparado na churrasqueira, com cebolas. Acompanha arroz, feijão e batata frita McCain. 📍Quer incrementar seu prato? Saladas e adicionais são pedidos à parte! Consulte o nosso cardápio de adicionais."
+            },
+            {
+                "nome": "Contra Filé à Cavalo",
+                "preço": "R$ 42,90",
+                "descrição": "Contra filé preparado na churrasqueira, com ovo frito. Acompanha arroz, feijão e batata frita McCain. 📍Quer incrementar seu prato? Saladas e adicionais são pedidos à parte! Consulte o nosso cardápio de adicionais."
+            },
+            {
+                "nome": "Linguiça Toscana",
+                "preço": "R$ 39,90",
+                "descrição": "Linguiça toscana com cebolas. Acompanha arroz, feijão e batata frita McCain. 📍Quer incrementar seu prato? Saladas e adicionais são pedidos à parte! Consulte o nosso cardápio de adicionais."
+            },
+            {
+                "nome": "Omelete com Queijo e Legumes",
+                "preço": "R$ 36,90",
+                "descrição": "📍Quer incrementar seu prato? Consulte o nosso cardápio de adicionais."
+            },
+            {
+                "nome": "Omelete Simples",
+                "preço": "R$ 32,90",
+                "descrição": "📍Quer incrementar seu prato? Consulte o nosso cardápio de adicionais."
+            }
+        ],
+        "Adicional": [
+            {
+                "nome": "Porção de Salada",
+                "preço": "R$ 5,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Porção de Arroz",
+                "preço": "R$ 7,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Porção de Feijão",
+                "preço": "R$ 7,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Porção de Farofa",
+                "preço": "R$ 3,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Ovo Frito",
+                "preço": "R$ 3,90",
+                "descrição": ""
+            }
+        ]
+    },
+    "Pizza e Rodízio ": {
+        "Rodízio": [
+            {
+                "nome": "Rodízio de Pizza: Variedade e Sabor a Cada Dia",
+                "preço": "R$ 64,90",
+                "descrição": "Nosso rodízio de pizza conta com uma programação especial que varia conforme o dia da semana. Às quintas-feiras, o rodízio é servido juntamente com mini-hambúrgueres, oferecendo uma experiência mais variada. Já nas sextas-feiras, o rodízio acompanha uma seleção de comidas de boteco, ideal para quem busca um clima descontraído para iniciar o fim de semana. Crianças de até 6 anos não pagam o rodízio, e crianças de 7 a 12 anos pagam meia."
+            }
+        ],
+        "Pizzas": [
+            {
+                "nome": "Pizza Salgada\n3 queijos",
+                "preço": "R$ 89,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\n4 Queijos",
+                "preço": "R$ 97,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nAtum com Mussarela",
+                "preço": "R$ 85,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nBaiana",
+                "preço": "R$ 75,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nBambino",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nBauru",
+                "preço": "R$ 75,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nBrócolis",
+                "preço": "R$ 75,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nCalabresa",
+                "preço": "R$ 75,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nCalabresa Especial",
+                "preço": "R$ 75,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nCanadense",
+                "preço": "R$ 85,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nEscarola",
+                "preço": "R$ 75,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nEscarola Especial",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nFrango e Catupiry",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nGrand Prix",
+                "preço": "R$ 98,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nMadrid",
+                "preço": "R$ 98,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nMargherita",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nMussarela",
+                "preço": "R$ 75,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nMilho",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nNapolitana",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nPepperoni",
+                "preço": "R$ 85,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nPeruana",
+                "preço": "R$ 98,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nPortuguesa",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Salgada\nToscana",
+                "preço": "R$ 75,90",
+                "descrição": "Pizza Salgada"
+            },
+            {
+                "nome": "Pizza Doce\nAbacaxi Flambado",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Doce"
+            },
+            {
+                "nome": "Pizza Doce\nBanana Flambada",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Doce"
+            },
+            {
+                "nome": "Pizza Doce\nBanana I",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Doce"
+            },
+            {
+                "nome": "Pizza Doce\nBanana II",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Doce"
+            },
+            {
+                "nome": "Pizza Doce\nBrigadeiro",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Doce"
+            },
+            {
+                "nome": "Pizza Doce\nPraia Uva",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Doce"
+            },
+            {
+                "nome": "Pizza Doce\nM&M's",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Doce"
+            },
+            {
+                "nome": "Pizza Doce\nMorango",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Doce"
+            },
+            {
+                "nome": "Pizza Doce\nPraia Ninho",
+                "preço": "R$ 79,90",
+                "descrição": "Pizza Doce"
+            },
+            {
+                "nome": "Pizza Doce\nPrestígio",
+                "preço": "R$ 75,90",
+                "descrição": "Pizza Doce"
+            }
+        ],
+        "Esfihas": [
+            {
+                "nome": "Calabresa",
+                "preço": "R$ 12,90",
+                "descrição": "Deliciosa esfiha massa grega com recheio de calabresa."
+            },
+            {
+                "nome": "Mussarela",
+                "preço": "R$ 12,90",
+                "descrição": "Deliciosa esfiha massa grega com recheio de Mussarela."
+            },
+            {
+                "nome": "Atum com Catupiry",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha massa grega com recheio de atum com catupiry."
+            },
+            {
+                "nome": "Bacon",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha massa grega com recheio de bacon e mussaela."
+            },
+            {
+                "nome": "Bauru",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha massa grega com recheio de mussarela, presunto e tomate."
+            },
+            {
+                "nome": "Canadense",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha com massa artesanal grega e recheio de lombo, bacon e catupiry."
+            },
+            {
+                "nome": "Carne",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha de massa grega com recheio de carne."
+            },
+            {
+                "nome": "Dois queijos",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha de massa grega com recheio de dois queijos."
+            },
+            {
+                "nome": "Atum",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha de massa grega com recheio de Atum."
+            },
+            {
+                "nome": "Marguerita",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha de massa grega com recheio de mussarela, tomate e manjericão."
+            },
+            {
+                "nome": "Milho",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha de massa grega com recheio de milho e mussarela."
+            },
+            {
+                "nome": "Palmito",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha de massa grega com recheio de palmito e mussarela."
+            },
+            {
+                "nome": "Pepperoni",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha de massa grega com recheio de pepperoni."
+            },
+            {
+                "nome": "Quatro queijos",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha de massa grega com recheio de quatro queijos."
+            },
+            {
+                "nome": "Chocolate Misto",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce de massa grega com recheio de Chocolate ao leite e Chocolate branco."
+            },
+            {
+                "nome": "Abacaxi Flambado",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce de massa grega com recheio de abacaxi flambado."
+            },
+            {
+                "nome": "Amendoim",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce de massa grega com recheio de Amendoim e chocolate branco"
+            },
+            {
+                "nome": "Banana com Chocolate",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce de massa grega com recheio de banana com chocolate ao leite."
+            },
+            {
+                "nome": "Banoffee",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce com massa grega e recheio de Banana com doce de leite."
+            },
+            {
+                "nome": "Banana Flambada",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce com massa grega e recheio de banana flambada."
+            },
+            {
+                "nome": "Brigadeiro",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce com massa grega e recheio de brigadeiro."
+            },
+            {
+                "nome": "Coco",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce com massa artesanal grega e recheio de chocolate ao leite com coco."
+            },
+            {
+                "nome": "Choco Ball",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce com massa grega e recheio de chocolate branco e choco ball."
+            },
+            {
+                "nome": "M&M's",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce com massa grega e recheio de chocolate ao leite com M&M's."
+            },
+            {
+                "nome": "Chocolate com Morango",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce com massa grega e recheio de chocolate ao leite com morango."
+            },
+            {
+                "nome": "Ninho",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce com massa grega e recheio creme de ninho."
+            },
+            {
+                "nome": "Chocolate com Uva",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce com massa grega e recheio de chocolate com uva."
+            },
+            {
+                "nome": "Calabresa com catupiry",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha com massa artesanal grega e recheio de calabresa e catupiry"
+            },
+            {
+                "nome": "Toscana",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha com massa artesanal grega e recheio mussarela e calabresa."
+            },
+            {
+                "nome": "Chocolate",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha doce com massa artesanal grega e recheio de chocolate ao leite."
+            },
+            {
+                "nome": "Queijo",
+                "preço": "R$ 15,90",
+                "descrição": "Deliciosa esfiha com massa artesanal grega com recheio de mussarela."
+            }
+        ]
+    },
+    "Sobremesas ": {
+        "Sobremesas do Chef": [
+            {
+                "nome": "Pudim de Nutella",
+                "preço": "R$ 24,90",
+                "descrição": "Uma colherada e você entende… É pudim, é Nutella e é impossível parar no primeiro pedaço"
+            },
+            {
+                "nome": "Pudim de Leite Condensado",
+                "preço": "R$ 20,90",
+                "descrição": "Clássico que nunca decepciona: cremoso, lisinho e com aquela calda que abraça a alma."
+            },
+            {
+                "nome": "Cocada Cremosa Brûlée",
+                "preço": "R$ 20,90",
+                "descrição": "Uma verdadeira sobremesa praiana, cocada cremosa por dentro, com casquinha crocante por cima e sorvete de creme para você se deliciar!"
+            }
+        ],
+        "Açaí": [
+            {
+                "nome": "Açaí Batido 380ml",
+                "preço": "R$ 17,90",
+                "descrição": "Não acompanha frutas"
+            },
+            {
+                "nome": "Açaí Batido 590ml",
+                "preço": "R$ 25,90",
+                "descrição": "Não acompanha frutas"
+            },
+            {
+                "nome": "Açai no Copo 380ml",
+                "preço": "R$ 17,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Açaí no Copo 590ml",
+                "preço": "R$ 25,90",
+                "descrição": ""
+            }
+        ],
+        "Picolés": [
+            {
+                "nome": "Picolé de Limão",
+                "preço": "R$ 8,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Picolé de Morango",
+                "preço": "R$ 8,90",
+                "descrição": ""
+            }
+        ],
+        "Milk-Shake": [
+            {
+                "nome": "Milk-Shake de Chocolate 380ml",
+                "preço": "R$ 17,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Milk-Shake de Morango 380ml",
+                "preço": "R$ 17,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Milk-Shake de Doce de Leite 380ml",
+                "preço": "R$ 17,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Milk-Shake de Nutella 380ml",
+                "preço": "R$ 22,80",
+                "descrição": ""
+            },
+            {
+                "nome": "Milk-Shake de Ovomaltine 380ml",
+                "preço": "R$ 22,80",
+                "descrição": ""
+            },
+            {
+                "nome": "Milk-Shake de Chocolate 590ml",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Milk-Shake de Morango 590ml",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Milk-Shake de Doce de Leite 590ml",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Milk-Shake de Nutella 590ml",
+                "preço": "R$ 26,80",
+                "descrição": ""
+            },
+            {
+                "nome": "Milk-Shake de Ovomaltine 590ml",
+                "preço": "R$ 26,80",
+                "descrição": ""
+            }
+        ],
+        "Adicionais ": [
+            {
+                "nome": "Nutella",
+                "preço": "R$ 4,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Morango",
+                "preço": "R$ 3,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Leite Condensado",
+                "preço": "R$ 3,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Paçoca",
+                "preço": "R$ 3,90",
+                "descrição": ""
+            }
+        ]
+    },
+    "Bebidas não alcoólicas": {
+        "Soft Drinks e Isotonicos ": [
+            {
+                "nome": "Água Sem Gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água Com Gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água de Coco Natural",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gatorade Morango c/ Maracujá",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gatorade Maracujá",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gatorade Tangerina",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gatorade Limão",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Sucos": [
+            {
+                "nome": "Suco Natural de Laranja",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Natural de Laranja com Acerola",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Natural de Goiaba",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Natural de Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Natural de Abacaxi",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Natural de Abacaxi com Hortelã",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Natural de Maracujá",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Natural de Morango",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Natural de Manga",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Natural de Maracujá com Leite",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Natural de Morango com Leite",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Limonada Suíça",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Del Valle Maracujá",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Del Valle Manga",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Del Valle Uva",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Refrigerantes": [
+            {
+                "nome": "Água Tônica",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água Tônica Zero Açúcar",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Pepsi Black",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca Cola Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca Cola",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Schweppes",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "H2O Limoneto",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Fanta Uva",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Fanta Laranja",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Guaraná",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Guarana Zero",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Enegerticos ": [
+            {
+                "nome": "Red Bull Tradicional",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bull Melancia",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bull Tropical",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bull Tradicional Zero",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Caipirinhas": {
+        "Caipirinhas De Cachaça Velho Barreiro": [
+            {
+                "nome": "Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Maracujá",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Morango",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Kiwi",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Especial 3 Limões",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Especial Frutas Vermelhas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Especial Tropical",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Caipivodka Importada Vodka Absolut": [
+            {
+                "nome": "Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Maracujá",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Morango",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Kiwi",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Especial 3 Limões",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Especial Frutas Vermelhas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Especial Tropical",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Caipirinhas De Sakê Sakê Soft": [
+            {
+                "nome": "Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Maracujá",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Morango",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Kiwi",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Especial 3 Limões",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Especial Frutas Vermelhas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Especial Tropical",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Caipivodka Nacional Vodka Smirnoff": [
+            {
+                "nome": "Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Maracujá",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Morango",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Kiwi",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Especial 3 Limões",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Especial Frutas Vermelhas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Especial Tropical",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Drinks": {
+        "Classicos": [
+            {
+                "nome": "Pina Colada",
+                "preço": null,
+                "descrição": "Rum, leite de coco, leite condensado, gelo, pedaços de abacaxi e pétalas de abacaxi como guarnição."
+            },
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": "Rum, suco de limão, água com gás, xarope de açúcar e folhas de hortelã."
+            },
+            {
+                "nome": "Margarita",
+                "preço": null,
+                "descrição": "Tequila ouro, cointreau e suco de limão"
+            },
+            {
+                "nome": "Negroni",
+                "preço": null,
+                "descrição": "30 ml campari 30 ml vermute rosso 30 ml gin nacional lasca de laranja como guarnição."
+            },
+            {
+                "nome": "Drink Moscow Mule",
+                "preço": null,
+                "descrição": "Destilado de 60 ml vodka, suco de limão, xarope de açúcar, extrato de gengibre, espuma de gengibre, hortelã"
+            },
+            {
+                "nome": "Aperol Spritz",
+                "preço": null,
+                "descrição": "Aperol, espumante seco, água com gás e rodela de laranja bahia."
+            },
+            {
+                "nome": "Sexy On The Beach",
+                "preço": null,
+                "descrição": "Vodka, suco de laranja, licor de pêssego e groselha."
+            },
+            {
+                "nome": "Ferrugem",
+                "preço": null,
+                "descrição": "Amarula, jack daniels, sorvete de creme, calda de chocolate, chantilly e biscoito oreo como guarnição."
+            },
+            {
+                "nome": "Jack Beer",
+                "preço": null,
+                "descrição": "Jack Daniels, suco de limão, geléia de maracujá , laranja desidratada e espuma de gengibre."
+            },
+            {
+                "nome": "Bag Beach",
+                "preço": null,
+                "descrição": "Vodka nacional, coquetel de frutas vermelhas e água tônica."
+            }
+        ],
+        "Gin's": [
+            {
+                "nome": "Gin Tônica Tradicional",
+                "preço": null,
+                "descrição": "Destilado de 60ml Gin importado, limão siciliano e água tônica (normal ou zero)."
+            },
+            {
+                "nome": "Gin Tônica Frutas Vermelhas",
+                "preço": null,
+                "descrição": "Destilado de 60 ml Gin importado, polpa de ,morango, amora, framboesa e agua tônica"
+            },
+            {
+                "nome": "Gin Tropical",
+                "preço": null,
+                "descrição": "Destilado de 60ml Gin importado, polpa de maracujá, laranja bahia e energético tropical."
+            },
+            {
+                "nome": "Gin Melancia",
+                "preço": null,
+                "descrição": "Destilado de 60ml Gin importado, polpa de melancia e energético de melancia."
+            },
+            {
+                "nome": "Mais Vendido\nGin Praia Blue",
+                "preço": null,
+                "descrição": "Mais Vendido"
+            }
+        ],
+        "Drinks Sem Alcool ": [
+            {
+                "nome": "Geladinho",
+                "preço": null,
+                "descrição": "Suco de limão, geléia de maracujá, purê de morango e gelo britado."
+            },
+            {
+                "nome": "Moussezinho",
+                "preço": null,
+                "descrição": "Suco de limão siciliano, mix de leite, espuma de gengibre e laranja desidratada."
+            }
+        ]
+    },
+    "Bebidas Alcoolicas": {
+        "Combos ": [
+            {
+                "nome": "Combo Blue Label",
+                "preço": null,
+                "descrição": "4 red bull (tradicional, tropical ou melancia) + 4 gelos (coco ou maracujá) ou 6 sucos del valle (maracujá, laranja ou pêssego) + 6 gelos (coco ou maracujá)"
+            },
+            {
+                "nome": "Combo Royal Salute",
+                "preço": null,
+                "descrição": "4 red bull (tradicional, tropical ou melancia) + 4 gelos (coco ou maracujá) ou 6 sucos del valle (maracujá, laranja ou pêssego) + 6 gelos (coco ou maracujá)"
+            },
+            {
+                "nome": "Combo Whisky Red Label",
+                "preço": null,
+                "descrição": "4 red bull (tradicional, tropical ou melancia) + 4 gelos (coco ou maracujá) ou 6 sucos del valle (maracujá, laranja ou pêssego) + 6 gelos (coco ou maracujá)"
+            },
+            {
+                "nome": "Combo Whisky Old Parr",
+                "preço": null,
+                "descrição": "4 red bull (tradicional, tropical ou melancia) + 4 gelos (coco ou maracujá) ou 6 sucos del valle (maracujá, laranja ou pêssego) + 6 gelos (coco ou maracujá)"
+            },
+            {
+                "nome": "Mais Vendido\nCombo Whisky Jack Daniels",
+                "preço": null,
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Combo Whisky Gold Label",
+                "preço": null,
+                "descrição": "4 red bull (tradicional, tropical ou melancia) + 4 gelos (coco ou maracujá) ou 6 sucos del valle (maracujá, laranja ou pêssego) + 6 gelos (coco ou maracujá)"
+            },
+            {
+                "nome": "Combo Whisky Black Label",
+                "preço": null,
+                "descrição": "4 red bull (tradicional, tropical ou melancia) + 4 gelos (coco ou maracujá) ou 6 sucos del valle (maracujá, laranja ou pêssego) + 6 gelos (coco ou maracujá)"
+            },
+            {
+                "nome": "Combo Whisky Buchanans",
+                "preço": null,
+                "descrição": "4 red bull (tradicional, tropical ou melancia) + 4 gelos (coco ou maracujá) ou 6 sucos del valle (maracujá, laranja ou pêssego) + 6 gelos (coco ou maracujá)"
+            },
+            {
+                "nome": "Combo Whisky Green Label",
+                "preço": null,
+                "descrição": "4 red bull (tradicional, tropical ou melancia) + 4 gelos (coco ou maracujá) ou 6 sucos del valle (maracujá, laranja ou pêssego) + 6 gelos (coco ou maracujá)"
+            },
+            {
+                "nome": "Combo Vodka Smirnoff",
+                "preço": null,
+                "descrição": "4 red bull (tradicional, tropical ou melancia)"
+            },
+            {
+                "nome": "Combo Vodka Absolut",
+                "preço": null,
+                "descrição": "4 red bull (tradicional, tropical ou melancia)"
+            },
+            {
+                "nome": "Combo Vodka Ciroc",
+                "preço": null,
+                "descrição": "4 red bull (tradicional, tropical ou melancia)"
+            },
+            {
+                "nome": "Combo Gin Beefeater",
+                "preço": null,
+                "descrição": "4 red bull (tradicional, tropical ou melancia) ou 6 águas tônicas 1 porção de frutas (laranja e limão)"
+            },
+            {
+                "nome": "Mais Vendido\nCombo Tanqueray",
+                "preço": null,
+                "descrição": "Mais Vendido"
+            }
+        ],
+        "Garrafas": [
+            {
+                "nome": "Tequila Jose Cuervo",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Licor 43",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cachaça Busca Vida",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Amarula",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Espírito de Minas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Campari Milano",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ballena",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Blue Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Royal Salute",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Whisky Red Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Whisky Old Parr",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Whisky Jack Daniels",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Whisky Gold Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Whisky Black Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Whisky Buchanans",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Whisky Green Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Smirnoff",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Ciroc",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Absolut",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Beefeater",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tanqueray",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Extras": [
+            {
+                "nome": "Porção de Frutas",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Gelo de Sabor",
+                "preço": null,
+                "descrição": "Maracujá"
+            },
+            {
+                "nome": "Gelo de Sabor",
+                "preço": null,
+                "descrição": "Água de Coco"
+            }
+        ],
+        "Espumantes": [
+            {
+                "nome": "Chandon Brut",
+                "preço": null,
+                "descrição": "Espumante de origem francesa"
+            },
+            {
+                "nome": "Chandon Brut Rosé",
+                "preço": null,
+                "descrição": "Espumante de origem francesa"
+            }
+        ],
+        "Doses": [
+            {
+                "nome": "Vodka Smirnoff",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Ciroc",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Absolut",
+                "preço": null,
+                "descrição": "Dose de 100ml"
+            },
+            {
+                "nome": "Whisky Red Label",
+                "preço": null,
+                "descrição": "Dose de 100ml"
+            },
+            {
+                "nome": "Whisky Jack Daniels",
+                "preço": null,
+                "descrição": "Dose de 100ml"
+            },
+            {
+                "nome": "Whisky Black Label",
+                "preço": null,
+                "descrição": "Dose de 100ml"
+            },
+            {
+                "nome": "Amarula",
+                "preço": null,
+                "descrição": "Dose"
+            },
+            {
+                "nome": "Cachaça Espírito de Minas",
+                "preço": null,
+                "descrição": "Dose"
+            },
+            {
+                "nome": "Gin Beefeater",
+                "preço": null,
+                "descrição": "Dose de 100ml"
+            },
+            {
+                "nome": "Campari",
+                "preço": null,
+                "descrição": "Dose"
+            },
+            {
+                "nome": "Cachaça Busca Vida",
+                "preço": null,
+                "descrição": "Dose"
+            },
+            {
+                "nome": "Cachaça Seleta",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tequila Jose Cuervo Ouro",
+                "preço": "R$ 35,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Licor 43",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ballena",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cervejas": [
+            {
+                "nome": "Heineken - Garrafa 600 ml",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Heineken Zero - Long Neck 330 ml",
+                "preço": null,
+                "descrição": "A Heineken Zero é uma cerveja sem álcool."
+            },
+            {
+                "nome": "Heineken - Long Neck 330 ml",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Original - Garrafa 600 ml",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Spaten - Garrafa 600 ml",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Corona - Long Neck 330ml",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Budweiser - Long Neck 330 ml",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Baldes": [
+            {
+                "nome": "Heineken - Garrafa 600ml",
+                "preço": null,
+                "descrição": "Com 4 unidades"
+            },
+            {
+                "nome": "Heineken Zero - Long Neck 330ml",
+                "preço": null,
+                "descrição": "Com 6 unidades"
+            },
+            {
+                "nome": "Heineken - Long Neck 330ml",
+                "preço": null,
+                "descrição": "Com 6 unidades"
+            },
+            {
+                "nome": "Original - Garrafa 600ml",
+                "preço": null,
+                "descrição": "Com 4 unidades"
+            },
+            {
+                "nome": "Spaten - Garrafa 600ml",
+                "preço": null,
+                "descrição": "Com 4 unidades"
+            },
+            {
+                "nome": "Mais Vendido\nCorona - Long Neck 330ml",
+                "preço": null,
+                "descrição": "Mais Vendido"
+            },
+            {
+                "nome": "Budweiser - Long Neck 330ml",
+                "preço": null,
+                "descrição": "Com 6 unidades"
+            }
+        ],
+        "Beats & Ices": [
+            {
+                "nome": "Skol Beats",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Smirnoff Ice",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "endereço": "Av. Prof. Francisco Morato, 2718, Butantã, São Paulo, SP, Brasil",
+    "telefone": "1197451-8243",
+    "email": ".",
+    "website": "https://www.instagram.com/praiahalloficial?igsh=cDVyNDlqYnY5dXgz",
+    "name": "Praia Hall"
+}

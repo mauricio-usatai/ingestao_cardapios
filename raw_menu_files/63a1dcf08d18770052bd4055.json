@@ -1,0 +1,713 @@
+{
+    "RODÍZIO DE FRUTOS DO MAR": {
+        "Rodízio de Frutos do Mar - Cobrado Taxa de Serviço de 13%.": [
+            {
+                "nome": "Rodízio jantar TRADICIONAL + Caranguejo Terça a Quinta",
+                "preço": "R$ 109,90",
+                "descrição": "Buffet de Saladas, Caranguejo, Arroz de Moqueca, Salpicão de Camarão, Chiclete de Camarão, Moqueca de Peixe, Bobó de Camarão, Camarão Empanado, Bolinho de Bacalhau, Espaguete de Frutos do Mar, Paella, Strogonoff de Camarão, Filé de Peixe Grelhado, Camarão Alho e Óleo e Porquinho a dorê."
+            },
+            {
+                "nome": "Rodízio de Frutos do Mar PREMIUM + Caranguejo de Sexta a Domingo Almoço e Jantar",
+                "preço": "R$ 129,90",
+                "descrição": "Buffet de saladas, Caranguejo, Paella, Camarão Pistola, Casquinha de Siri, Coxinha de Camarão com Queijo, Salmão grelhado, Ceviche, Chiclete de Camarão, Moqueca de Peixe, Bobó de Camarão, Camarão Empanado, Bolinho de Bacalhau, Espaguete de Frutos do Mar, Paella, Strogonoff de Camarão, Filé de peixe grelhado, Camarão Alho e Óleo e Porquinho a dorê."
+            }
+        ]
+    },
+    "Bebidas Não Alcoólicas": {
+        "Sucos Naturais": [
+            {
+                "nome": "Laranja",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Laranja com Acerola",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Maracujá com Morango",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Limonada Suíça",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Laranja com Morango",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Maracujá",
+                "preço": "R$ 12,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Maracujá com Leite",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            }
+        ],
+        "Suco Polpas": [
+            {
+                "nome": "Abacaxi",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Abacaxi com Hortelã",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Acerola",
+                "preço": "R$ 11,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Frutas Vermelhas",
+                "preço": "R$ 13,00",
+                "descrição": ""
+            }
+        ],
+        "Água e Café": [
+            {
+                "nome": "Água Sem Gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água Com Gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "H2OH/ H2O Limoneto",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Três Corações",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água mamba water",
+                "preço": "R$ 8,00",
+                "descrição": "(água sem plástico) mamba water com ou sem gás"
+            }
+        ],
+        "Refrigerante": [
+            {
+                "nome": "Guaraná Antarctica",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Guaraná Antarctica Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Soda Antarctica",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água Tônica Antarctica",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Schweppes Citrus",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca-Cola KS",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca-Cola Zero KS",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Fanta Uva",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Fanta Laranja",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Itubaína 355ml long neck",
+                "preço": "R$ 9,00",
+                "descrição": ""
+            }
+        ],
+        "Energético": [
+            {
+                "nome": "Red Bull Trad",
+                "preço": "R$ 14,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bull Trop",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bull Melancia",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            }
+        ]
+    },
+    "Bebidas Alcoólicas": {
+        "Cervejas": [
+            {
+                "nome": "Original",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Stella Artois",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Heineken",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Serramalte",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Spaten",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Corona",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Brahma Malzbier",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cerveja Heineken Zero Long Neck",
+                "preço": null,
+                "descrição": "Cerveja Heineken Zero Long Neck"
+            },
+            {
+                "nome": "Amstel",
+                "preço": "R$ 17,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Baden Baden",
+                "preço": "R$ 22,00",
+                "descrição": "(ipa, golden, witbier ou cristal)"
+            },
+            {
+                "nome": "Praya Witbier",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            }
+        ],
+        "Chopps": [
+            {
+                "nome": "Brahma",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Whiskys": [
+            {
+                "nome": "Red Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Jack Daniel's",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Gins": [
+            {
+                "nome": "Tanqueray",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bombay",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Vodkas": [
+            {
+                "nome": "Vodka Nacional",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Absolut",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Rum": [
+            {
+                "nome": "Bacardí Prata",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cachaças": [
+            {
+                "nome": "Espírito de Minas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Salinas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Seleta",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Licores": [
+            {
+                "nome": "Licor Nacional",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dose Licor 43",
+                "preço": "R$ 32,00",
+                "descrição": ""
+            }
+        ],
+        "Vermuth Bitters": [],
+        "Tequila": [
+            {
+                "nome": "Tequila Prata José Cuervo",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tequila Ouro José Cuervo",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Menu Principal": {
+        "Entradas": [
+            {
+                "nome": "Batata Frita",
+                "preço": "R$ 34,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Coxinha de Camarão com Queijo",
+                "preço": "R$ 48,00",
+                "descrição": "12 unidades"
+            },
+            {
+                "nome": "Casquinha de Siri",
+                "preço": "R$ 29,00",
+                "descrição": "1 Unidade"
+            },
+            {
+                "nome": "Ceviche Peixe e Camarão",
+                "preço": "R$ 44,00",
+                "descrição": "Individual"
+            },
+            {
+                "nome": "Ceviche Peixe",
+                "preço": "R$ 44,00",
+                "descrição": "Ceviche Peixe - Tilápia"
+            }
+        ],
+        "Petiscos": [
+            {
+                "nome": "Camarão Alho e Óleo",
+                "preço": "R$ 79,00",
+                "descrição": "400 gramas, Foto e Quantidade ilustrativa."
+            },
+            {
+                "nome": "Camarão Crocante",
+                "preço": "R$ 79,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Lula pops",
+                "preço": "R$ 75,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Isca de Cação",
+                "preço": "R$ 89,00",
+                "descrição": "À Dorê"
+            },
+            {
+                "nome": "Isca de Tilápia",
+                "preço": "R$ 89,00",
+                "descrição": "À Dorê"
+            },
+            {
+                "nome": "Batata Frita 350g",
+                "preço": "R$ 34,00",
+                "descrição": ""
+            }
+        ],
+        "Saladas": [],
+        "Prato Kids - Somente para Crianças": [
+            {
+                "nome": "Filezinho de Peixe Grelhado, Arroz e Fritas",
+                "preço": "R$ 32,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Filezinho de Frango Grelhado, Arroz e Fritas",
+                "preço": "R$ 27,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Filezinho de Carne Grelhado, Arroz e Fritas",
+                "preço": "R$ 30,00",
+                "descrição": ""
+            }
+        ],
+        "Servidos de terça a Sexta no almoço, exceto feriados.": [
+            {
+                "nome": "Executivo de filé de peixe",
+                "preço": "R$ 44,00",
+                "descrição": "Arroz, Feijão, Fritas e Salada"
+            },
+            {
+                "nome": "Executivo de Carne",
+                "preço": "R$ 36,00",
+                "descrição": "Arroz, Feijão e Salada."
+            },
+            {
+                "nome": "Executivo de Filé de Frango",
+                "preço": "R$ 34,00",
+                "descrição": "Arroz, Feijão e Salada."
+            },
+            {
+                "nome": "Parmegiana de Filé de Peixe",
+                "preço": "R$ 44,00",
+                "descrição": "Acompanha arroz e batata frita."
+            },
+            {
+                "nome": "Parmegiana de Carne ou Frango",
+                "preço": "R$ 42,00",
+                "descrição": "Acompanha arroz e batata frita."
+            },
+            {
+                "nome": "Strogonoff de Camarão",
+                "preço": "R$ 59,00",
+                "descrição": "Acompanha arroz e batata frita."
+            },
+            {
+                "nome": "Executivo de Peixe",
+                "preço": "R$ 37,00",
+                "descrição": "Acompanha arroz e purê de batata."
+            },
+            {
+                "nome": "Executivo de Camarão Empanado",
+                "preço": "R$ 39,00",
+                "descrição": "Acompanha arroz e purê de batata."
+            }
+        ],
+        "Pratos Individuais": [
+            {
+                "nome": "Salmão grelhado",
+                "preço": "R$ 69,00",
+                "descrição": "Acompanha legumes e arroz."
+            },
+            {
+                "nome": "Bobó de Camarão com Arroz e Farofa de Dendê",
+                "preço": "R$ 79,00",
+                "descrição": "Bobó de Camarão com Arroz e Farofa de Dendê"
+            },
+            {
+                "nome": "Fettuccine de Frutos do Mar",
+                "preço": "R$ 89,00",
+                "descrição": "Camarão , Tentáculos de lula , Tentáculos de polvo e Mexilhão."
+            },
+            {
+                "nome": "Tilápia à parmegiana",
+                "preço": "R$ 59,00",
+                "descrição": "Filé de tilápia à parmegiana com arroz e fritas."
+            },
+            {
+                "nome": "Polvo a galega",
+                "preço": "R$ 94,00",
+                "descrição": "Acompanha batata cozida."
+            }
+        ],
+        "Moquecas Para 2 Pessoas": [
+            {
+                "nome": "Moqueca Peixe do Dia",
+                "preço": "R$ 149,00",
+                "descrição": "Acompanha arroz, pirão, fritas e farofa de dendê."
+            },
+            {
+                "nome": "Moqueca Peixe e Camarão",
+                "preço": "R$ 179,00",
+                "descrição": "Acompanha arroz, pirão, fritas e farofa de dendê."
+            }
+        ],
+        "Pratos Para 2 Pessoas": [
+            {
+                "nome": "Filé de Peixe à Dorê",
+                "preço": "R$ 109,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Filé de Tilápia à Dorê",
+                "preço": "R$ 149,00",
+                "descrição": "Acompanha arroz, pirão e fritas."
+            },
+            {
+                "nome": "Bobó de Camarão",
+                "preço": "R$ 149,00",
+                "descrição": "Acompanha arroz, batata frita e farofa de dendê."
+            },
+            {
+                "nome": "Strogonoff de Camarão",
+                "preço": "R$ 129,00",
+                "descrição": "Acompanha Arroz e Batata Frita"
+            },
+            {
+                "nome": "Chiclete de Camarão",
+                "preço": "R$ 165,00",
+                "descrição": "Acompanha Arroz e Batata Frita Foto e quantidade ilustrativa."
+            }
+        ],
+        "CARANGUEJO": [
+            {
+                "nome": "Caranguejo unidade",
+                "preço": "R$ 15,00",
+                "descrição": "acompanha pirão de caranguejo"
+            }
+        ]
+    },
+    "Drinks": {
+        "Queridinhos Santo Mar": [
+            {
+                "nome": "Santo Mar",
+                "preço": null,
+                "descrição": "Gyn, Syrup Artesanal de Maracujá, Manjericão Fresco, Água Tônica e Pimenta Rosa."
+            },
+            {
+                "nome": "Sangue de Tubarão",
+                "preço": null,
+                "descrição": "Saquê, Xarope de Cranberry, Suco de Limão e Licor 43."
+            },
+            {
+                "nome": "Ocean Love",
+                "preço": null,
+                "descrição": "Gin, Syrup Artesanl de Morango, Sumo de Limão-Taiti, Água Tônica, Espuma de Gengibre e Anis Estrelados."
+            },
+            {
+                "nome": "Mar Vermelho",
+                "preço": null,
+                "descrição": "Gin, Morango, Amora, Melância e Red Bull."
+            },
+            {
+                "nome": "Maldivas",
+                "preço": null,
+                "descrição": "Gyn , Canela Ralada,Canela Defumada , Rodelas de Limão Siciliano e Red Bull Tropical."
+            }
+        ],
+        "Clássicos Santo Mar": [
+            {
+                "nome": "Moscow Mule",
+                "preço": null,
+                "descrição": "Vodka, Sumo de Limão-Taiti, Syrup Artesanal de Gengibre e Espuma Artesanal de Gengibre."
+            },
+            {
+                "nome": "Negroni",
+                "preço": null,
+                "descrição": "Bitter Campari, Vermut Rosso, Gin e Bitter Angustura."
+            },
+            {
+                "nome": "Gin Tônica Clássica",
+                "preço": null,
+                "descrição": "Gin, Tônica, Fatia de Limão Siciliano, Zimbro e Alecrim Fresco."
+            },
+            {
+                "nome": "Lagoa Azul",
+                "preço": null,
+                "descrição": "Vodka, Soda, Sumo de Limão Taiti e Curaçau Blue."
+            },
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": "Run Ouro, Syrup Simples, Sumo de Limão-Taiti, Hortelã Fresca e Água Gaseificada."
+            },
+            {
+                "nome": "Margarita",
+                "preço": null,
+                "descrição": "Tequila Prata, Licor de Laranja Triple Sec, Sumo de Limão-Taiti e Borda com Sal Marinho."
+            },
+            {
+                "nome": "Aperol Sprits",
+                "preço": null,
+                "descrição": "Bitter Aperol, Espumante Brut Seco, Água Gaseificada e Laranja."
+            },
+            {
+                "nome": "Sex on the Beach",
+                "preço": null,
+                "descrição": "Vodka, Sumo de Laranja, Triple Sec Peach e Xarope de Cranberry."
+            }
+        ],
+        "Caipirinha": [
+            {
+                "nome": "Caipirinha Exótica",
+                "preço": null,
+                "descrição": "Maracujá, Pimenta e Manjericão."
+            },
+            {
+                "nome": "Caipirinha Cítrica",
+                "preço": null,
+                "descrição": "Tangerina, Carambola, Limão Siciliano e Hortelã."
+            },
+            {
+                "nome": "Morango, Maracujá ou Frutas Vermelhas.",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Limão",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Sobremesas": {
+        "Sobremesas": [
+            {
+                "nome": "Creme de Papaya",
+                "preço": "R$ 22,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Brownie com Sorvete",
+                "preço": "R$ 24,00",
+                "descrição": "Sorvete sabor creme."
+            },
+            {
+                "nome": "Petit Gateau",
+                "preço": "R$ 26,00",
+                "descrição": "Chocolate ou doce de leite com sorvete de creme."
+            },
+            {
+                "nome": "Pudim de Leite Condensado",
+                "preço": "R$ 16,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Sorvete de Creme 2 bolas",
+                "preço": "R$ 12,00",
+                "descrição": "Delicioso sorvete de creme na taça com cobertura de chocolate"
+            },
+            {
+                "nome": "Cocada Cremosa",
+                "preço": "R$ 16,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Cocada Cremosa com Sorvete",
+                "preço": "R$ 24,00",
+                "descrição": "Cocada cremosa com sorvete de creme"
+            },
+            {
+                "nome": "Cheesecake",
+                "preço": "R$ 26,00",
+                "descrição": "Com calda de frutas vermelhas."
+            }
+        ]
+    },
+    "Vinhos": {
+        "Brancos": [
+            {
+                "nome": "Mancura Etnia Chardonnay",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Mancura etnia branco",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Nieto Benjamin",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Rose": [
+            {
+                "nome": "Portada rose",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Tintos": [
+            {
+                "nome": "Portada tinto",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Mancura etnia tinto",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Leyda Carmenere",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Siegel",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "endereço": "Rua Francisco Marengo, 773, Tatuapé, São Paulo, SP, Brasil",
+    "telefone": "(11) 94467-2523",
+    "email": "santomarrestaurante@gmail.com",
+    "website": "https://www.instagram.com/santomarestaurante/",
+    "name": "Santo Mar Tatuapé"
+}

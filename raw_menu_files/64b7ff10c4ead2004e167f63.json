@@ -1,0 +1,254 @@
+{
+    "Coquetéis": {
+        "Biomas do Brasil": [
+            {
+                "nome": "Amazônia",
+                "preço": null,
+                "descrição": "Leve, vegetal e frutado. Manteiga de mastruz, clorofila, gin, amaro bianco, néctar de goiaba, falernum e xarope de ruibarbo. *contém lactose"
+            },
+            {
+                "nome": "Caatinga",
+                "preço": null,
+                "descrição": "Encorpado, ácido e seco. Óleo de babaçu, amaro cola, jerez tio pepe, amaro rosato e vinagre de amora."
+            },
+            {
+                "nome": "Cerrado",
+                "preço": null,
+                "descrição": "Amendoado, intenso e encorpado. Cold brew Um Coffee Co. bourbon rosa, tequila don julio blanco, bacuri e óleo de coco."
+            },
+            {
+                "nome": "Mata Atlântica",
+                "preço": null,
+                "descrição": "Ácido, cítrico e frutado. Cordial de cambuci, whisky Bulleit Bourbon, aguardente de pera e orange bitter."
+            },
+            {
+                "nome": "Pampa",
+                "preço": null,
+                "descrição": "Leve, refrescante e floral. Vinho do porto Graham’s n°5, licor de ederflower com cardamomo, licor bergamontello Single Fin e fermentado de bergamota."
+            },
+            {
+                "nome": "Pantanal",
+                "preço": null,
+                "descrição": "Leve, aromático e umami. Pequi, água de tomate, champagne acid, awamori, saquê, camomila e pó de batata doce."
+            }
+        ],
+        "SubClássicos": [
+            {
+                "nome": "Bijoux Caju",
+                "preço": null,
+                "descrição": "Refrescante, ácido e frutado. Gin, Chartreuse Amarelo, Amêndoas, Licor de Lúpulo, Limão-taiti e Borbulhante de Caju."
+            },
+            {
+                "nome": "Rosalía Rosita",
+                "preço": null,
+                "descrição": "Frutado, seco e amargo. Tequila Don Julio Blanco, Aperitivo Rosato, Campari, Vermute Bianco e Melancia."
+            },
+            {
+                "nome": "Tropical Old Fashioned",
+                "preço": null,
+                "descrição": "Frutado e encorpado. Whiskey Singleton, Cachaça Princesa Isabel Carvalho, Banana, Abacaxi, Cocoa Bitter e Licor de Ervas."
+            },
+            {
+                "nome": "Fluffy Paloma",
+                "preço": null,
+                "descrição": "Refrescante, frutado e cítrico. Tequila Don Julio Blanco, Grapefruit, Limão Siciliano, Xarope de Agave, Kefir e Sal Secreto."
+            },
+            {
+                "nome": "Sub-Zero Martini",
+                "preço": null,
+                "descrição": "Seco e aveludado. Gin Tanqueray Ten, Vermute Dry, Azeitona, Picles, Alcaparrone e Twist de Limão"
+            },
+            {
+                "nome": "Porn Star On The Rocks",
+                "preço": null,
+                "descrição": "Frutado, floral e refrescante. Vodka Ketel One, Macadâmia, Baunilha, Maracujá, Cítricos e Borbulhante de Cambuci."
+            },
+            {
+                "nome": "Sub Espresso",
+                "preço": null,
+                "descrição": "Intenso e encorpado. Rum com Cumaru, Licor de Café Tia Maria, Licor de Ervas e Espuma de Café."
+            },
+            {
+                "nome": "Painkiller (+55)",
+                "preço": null,
+                "descrição": "Refrescante e frutado. Rum Spice, Laranja, Abacaxi, Leite de Coco e Marsala."
+            }
+        ],
+        "Clássicos Brasileiros": [
+            {
+                "nome": "Caipirinha Clássica",
+                "preço": null,
+                "descrição": "Cítrico e refrescante. Cachaça Princesa Isabel Prata, Limão-taiti e Açúcar."
+            },
+            {
+                "nome": "Macunaíma (By Boca De Ouro)",
+                "preço": null,
+                "descrição": "Cítrico e refrescante. Cachaça Mato Dentro Prata, Limão-taiti, Fernet-Branca e Açúcar."
+            },
+            {
+                "nome": "Rabo De Galo",
+                "preço": null,
+                "descrição": "Encorpado e amargo. Blend de Cachaça, Cynar, Vermute Tinto e Orange Bitter."
+            }
+        ],
+        "Mocktails": [
+            {
+                "nome": "Colada",
+                "preço": null,
+                "descrição": "Frutado, leve e floral. Cupuaçu, Mel de Cacau, Abacaxi e Água de Coco."
+            },
+            {
+                "nome": "Mango Shirley Temple",
+                "preço": null,
+                "descrição": "Picante, refrescante e frutado. Manga, Grenadine, Limão Siciliano e Ginger Beer Artesanal. *contém lactose"
+            },
+            {
+                "nome": "Check-in Mate",
+                "preço": null,
+                "descrição": "Refrescante e leve. Mate, Capim-limão, Tangerina, Limão-taiti e Mel. *contém lactose"
+            }
+        ]
+    },
+    "Comidas": {
+        "Comidinhas": [
+            {
+                "nome": "Mandiopan & Zaatar",
+                "preço": "R$ 25,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Croqueta de Pupunha",
+                "preço": "R$ 47,00",
+                "descrição": "Com queijo serra da canastra e limão siciliano. (5 un)"
+            },
+            {
+                "nome": "Croquete de Carne",
+                "preço": "R$ 49,00",
+                "descrição": "Recheado com mussarela. (8 un)"
+            },
+            {
+                "nome": "Besteira à Milanesa",
+                "preço": "R$ 70,00",
+                "descrição": "Pão tostado, milanesa e queijo derretido."
+            },
+            {
+                "nome": "Pastéis Clássicos",
+                "preço": "R$ 49,00",
+                "descrição": "Queijo, Carne, Camarão ou Misto (6 Uni)"
+            },
+            {
+                "nome": "Canapés & Croquetas",
+                "preço": "R$ 63,00",
+                "descrição": "Canapés de steak tartare e de berinjela & croquetas de carne e de pupunha. (2 un de cada)"
+            },
+            {
+                "nome": "Sub Burger",
+                "preço": "R$ 62,00",
+                "descrição": "Com cheddar inglês e batata frita."
+            },
+            {
+                "nome": "Club Sandwich de Salmão",
+                "preço": "R$ 72,00",
+                "descrição": "Salmão defumado, maionese de wasabi, ovo poché e avocado no brioche."
+            },
+            {
+                "nome": "Steak Tartare",
+                "preço": "R$ 48,00",
+                "descrição": "Com batata gaufrette."
+            },
+            {
+                "nome": "Burrata Caprese",
+                "preço": "R$ 75,00",
+                "descrição": "Com tomates crus grelhados e azeite extra virgem."
+            },
+            {
+                "nome": "Berinjela à moda Casablanca",
+                "preço": "R$ 51,00",
+                "descrição": "Com coalhada, romã e ervas frescas."
+            },
+            {
+                "nome": "Sanduíche de Carpaccio",
+                "preço": "R$ 44,00",
+                "descrição": "(4 un)"
+            },
+            {
+                "nome": "Filé à Palmira",
+                "preço": "R$ 67,00",
+                "descrição": "Mignon com queijo e tomate na baguete francesa."
+            }
+        ],
+        "Sobremesas": [
+            {
+                "nome": "Caramel Sundae",
+                "preço": "R$ 38,00",
+                "descrição": "Sorvete, calda de caramelo e conhaque com pipoca."
+            }
+        ]
+    },
+    "Bebidas": {
+        "Soft Drinks": [
+            {
+                "nome": "Acqua Panna",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "San Pellegrino",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Perrier",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ginger Beer Artesanal",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Refrigerante",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água (com ou sem gás)",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cervejas": [
+            {
+                "nome": "Stella Artois",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Goose Island IPA",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Beck's",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Corona",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "endereço": "Av. Paulista, 1842, Bela Vista, São Paulo, SP, Brasil",
+    "telefone": null,
+    "email": "ciatradicional@ciatc.com.br",
+    "website": null,
+    "name": "SubAstor Paulista"
+}

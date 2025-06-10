@@ -1,0 +1,488 @@
+{
+    "Pizzas": {
+        "Pizzas Tradicionais ": [
+            {
+                "nome": "Marinara´A Clássica napolitana´- vegana",
+                "preço": null,
+                "descrição": "Molho de tomate italiano e lâminas de alho marinadas no azeite."
+            },
+            {
+                "nome": "Mussarela",
+                "preço": null,
+                "descrição": "Molho de tomate italiano, mussarela artesanal Roni, finalizada com axeite italiana"
+            },
+            {
+                "nome": "Marguerita",
+                "preço": null,
+                "descrição": "Molho de tomate italiano, mussarela de búfala, finalizado com folhas de manjerição fresco"
+            },
+            {
+                "nome": "Calabresa Artesanal",
+                "preço": null,
+                "descrição": "Molho de tomate , calabresa artesanal, finas rodelas de cebola roxa, finalizada com pimenta biquino e fio de mel trufado"
+            },
+            {
+                "nome": "Quatro Queijos",
+                "preço": null,
+                "descrição": "Pizza bianca(sem molho), coberta com seleção de queijos que harmonizam em perfeição: Queijo Caccio cavalo, ricota Roni, gorgonzola Dolce italiana e queijo Tulha."
+            },
+            {
+                "nome": "Portuguesa",
+                "preço": null,
+                "descrição": "Molho de tomate, presunto royale elaborado com pernil, marinado por 60 horas em vinho branco com especiarias, salpicado com ovos cozidos, cobertos com cebola roxa finamente fatiadas em rodelas, mussarela Roni e azeitonas azapas prestas."
+            },
+            {
+                "nome": "Tulha",
+                "preço": null,
+                "descrição": "Molho de tomate italiano e queijo Tulha gratinado*Queijo nacional medalha de ouro no Wold Cheese Awards"
+            }
+        ],
+        "Pizzas Especiais ": [
+            {
+                "nome": "Pepperoni",
+                "preço": null,
+                "descrição": "Molho de tomate, coberto com mussarela artesanal Roni e pepperoni italiano (picante) pré assados."
+            },
+            {
+                "nome": "Brie",
+                "preço": null,
+                "descrição": "Pizza bianca (sem molho), coberta com queijo brie, finalizada com geleia de pimenta artesanal."
+            },
+            {
+                "nome": "Parma",
+                "preço": null,
+                "descrição": "Molho de tomate, mussarela de búfala artesanal Roni e finalizada com lascas de prosciutto italiano."
+            },
+            {
+                "nome": "Burrata",
+                "preço": null,
+                "descrição": "Molho de tomate, mussarela, folhas frescas de rúcula, tomates cereja conflitados, uma burrata inteira, finalizada com um pesto de azeitonas azapas espanholas."
+            },
+            {
+                "nome": "Frango com catupiry",
+                "preço": null,
+                "descrição": "Pizza bianca a base de catupiry, frango korin orgânico finamente desfiado marinado no vinho branco, temperado com bouquet, garni tulha gratinado e bacon."
+            },
+            {
+                "nome": "Magnani",
+                "preço": null,
+                "descrição": "Molho de tomatwe com base de fina camada de catupiry, coberto com pepperoni italiano(picante), finalizada com queijo tulha gratinado e pesto de majerição caseiro."
+            },
+            {
+                "nome": "Flor de Burrata",
+                "preço": null,
+                "descrição": "Molho de tomate, prosciutto italiano em fatias, manjericão basílico e burrata cortada em forma de flor, regada com mel de laranjeira, finalizada com azeite italiano."
+            },
+            {
+                "nome": "Zucchini",
+                "preço": null,
+                "descrição": "Molho de tomate, queijo Caccio Cavalo e finas laminas de abobrinha, polvilhadas por parmesão, finalizada com mascarpone e pimenta do reino moida na hora."
+            },
+            {
+                "nome": "Pizza de Baiacatu",
+                "preço": null,
+                "descrição": "Calabresa italiana moída levemente apimentada, com molho de tomate pomita e finalizada com catupiry"
+            },
+            {
+                "nome": "Pizza de Brocolli",
+                "preço": null,
+                "descrição": "Pizza de brócolis, com Mussarela de búfala, crispy de bacon e finalizada com pimenta calabresa"
+            }
+        ],
+        "Pizzas Doces": [
+            {
+                "nome": "Nutella",
+                "preço": null,
+                "descrição": "Fina camada de creme de leite por baixo do recheio de Nutella finalizada com farofa de pistache torrado."
+            },
+            {
+                "nome": "Brigadeiro com morango",
+                "preço": null,
+                "descrição": "Pizza de brigadeiro caseiro de chocolate 70% cacau, finalizada com lâminas de morango."
+            },
+            {
+                "nome": "Banana Caramelizada",
+                "preço": null,
+                "descrição": "Banana finamente fatiada, caramelizada com açúcar e canela mopida na hora"
+            },
+            {
+                "nome": "Pizza de Banofe",
+                "preço": null,
+                "descrição": "Banana finamente fatiada, caramelizada com açúcar finalizada com doce de leite e merengue"
+            }
+        ]
+    },
+    "Entradas": {
+        "Entradas": [
+            {
+                "nome": "Porção de Fritas Xadrez",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Porção de Fritas Palito",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Crostini de Alecrim com Flor de sal",
+                "preço": "R$ 37,00",
+                "descrição": "Crostini caseiro finalizado com flor de sal e alecrim desidratado no forno de casa"
+            },
+            {
+                "nome": "Crostini de Lemon Pepper",
+                "preço": "R$ 37,00",
+                "descrição": "Crostini caseiro finalizado com tempero lemom pepper Bombay spices"
+            },
+            {
+                "nome": "Crostini de Queijo Tulha",
+                "preço": "R$ 39,00",
+                "descrição": "Queijo caseiro, gratinado no forno com queijo tulha"
+            },
+            {
+                "nome": "Rottoloni de Pepperoni",
+                "preço": "R$ 42,00",
+                "descrição": "Massa de pizza fermentada por 48h, pré assada e recheada com pepperoni e queijo mussarela, enrolados e finalizados com queijo tulha gratinado no forno."
+            }
+        ]
+    },
+    "Hambúrguer na Massa de Pizza": {
+        "Hambúrgueres na Massa de Pizza": [
+            {
+                "nome": "Cheddar Burguer - Pizza",
+                "preço": "R$ 49,00",
+                "descrição": "Cheddar Burguer com Blend de fraldinha muito queijo cheddar derretido, tudo envolto em uma massa de pizza napolitana deliciosa."
+            },
+            {
+                "nome": "Bacon Burguer na massa de Pizza",
+                "preço": "R$ 56,00",
+                "descrição": "Bacon Burguer com 481g de carne Angus Blend, muito queijo cheddar derretido, bacon em pedaços crocantes e tudo envolto em uma massa de pizza napolitana deliciosa."
+            },
+            {
+                "nome": "BLUE CHEESE BURGUER NA MASSA DE PIZZA",
+                "preço": "R$ 56,00",
+                "descrição": "Blue Cheese Burguer com 481g de carne Angus Blend, muito queijo blue cheese derretido, cebola roxa, mel de laranjeira e tudo envolto em uma massa de pizza napolitana deliciosa."
+            },
+            {
+                "nome": "BRIE BURGUER NA MASSA DE PIZZA",
+                "preço": "R$ 56,00",
+                "descrição": "Brie Burguer com 481g de carne Angus Blend, muito queijo brie derretido, geleia de pimenta, crispy de bacon crocante e tudo envolto em uma massa de pizza napolitana deliciosa."
+            },
+            {
+                "nome": "PEPPERONI BURGUER NA MASSA DE PIZZA",
+                "preço": "R$ 56,00",
+                "descrição": "Pepperoni da Mama Burguer com 481g de carne Angus Blend, molho de tomate artesanal, muito queijo cheddar derretido, pepperoni italiano picante, finas fatias de cebola roxa e tudo envolto em uma massa de pizza napolitana deliciosa."
+            },
+            {
+                "nome": "CACCIO CAVALO BURGUER NA MASSA DE PIZZA",
+                "preço": "R$ 56,00",
+                "descrição": "Caccio Cavalo Burguer com 481g de carne Angus Blend, muito queijo caccio cavalo derretido, tomate cereja, rúcula, maionese da casa e tudo envolto em uma massa de pizza de fermentação natural deliciosa."
+            },
+            {
+                "nome": "Smash Burguer na massa de Pizza",
+                "preço": "R$ 37,90",
+                "descrição": "Smash Burguer com duas carnes Smash Angus, muito queijo american cheese Scar derretido, maionese da casa e tudo envolto em uma massa de pizza de fermentação natural deliciosa."
+            },
+            {
+                "nome": "Smash Bacon Burguer na massa de Pizza",
+                "preço": "R$ 41,90",
+                "descrição": "Smash Bacon Burguer com duas carnes Smash Angus, muito queijo american cheese Scar derretido, bacon em fatia crocante maionese da casa e tudo envolto em uma massa de pizza de fermentação natural deliciosa."
+            },
+            {
+                "nome": "Original Smash Burguer na massa de Pizza",
+                "preço": "R$ 42,90",
+                "descrição": "Original Smash Burguer com duas carnes Smash Angus, muito queijo american cheese Scar derretido, ketchup, mostarda, picles, cebola roxa e tudo envolto em uma massa de pizza de fermentação natural deliciosa."
+            },
+            {
+                "nome": "Catupiry Smash Burguer - Pizza",
+                "preço": "R$ 46,90",
+                "descrição": "Catupiry Smash Burguer com duas carnes Smash Angus 65g, Catupiry Original, crispy de bacon crocante, cebola roxa e tudo envolto em uma massa de pizza de fermentação natural deliciosa."
+            }
+        ]
+    },
+    "Bebidas ": {
+        "Não Alcóolicas ": [
+            {
+                "nome": "Suco Del Valle",
+                "preço": null,
+                "descrição": "Goiaba, manga, maracujá, uva e pessego"
+            },
+            {
+                "nome": "Refrigerante",
+                "preço": null,
+                "descrição": "Guaraná, Coca Cola, Água Tônic, Schweppes, Fanta laranja, Fanta uva."
+            },
+            {
+                "nome": "Água Mineral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "H2O & H2O Limoneto",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Natural",
+                "preço": null,
+                "descrição": "Laranja, limão, Abacaxi com hortelã, Maracujá, morango"
+            },
+            {
+                "nome": "Milk Shake de Baunilha",
+                "preço": null,
+                "descrição": "Milk shake feito com gelato de creme , com cobertura de caramelo"
+            },
+            {
+                "nome": "Milk Shake de Morango",
+                "preço": null,
+                "descrição": "Milk shake feito com gelato de morango, com cobertura de frutas vermelhas"
+            },
+            {
+                "nome": "Milk Shake de Chocolate Belga",
+                "preço": null,
+                "descrição": "Milk shake feito com gelato de chocolate belga, com cobertura de chocolate com lascas de ovomaltine"
+            }
+        ],
+        "Café ": [
+            {
+                "nome": "Café Espresso",
+                "preço": null,
+                "descrição": "Delicioso café, com grão moídos na hora do preparo"
+            }
+        ],
+        "Chopp Tarantino": [
+            {
+                "nome": "Miracle Ipa",
+                "preço": null,
+                "descrição": "Cerveja equilibrada com lúpulos intensos no aroma e sabor remetendo a frutas cítricas e amarelas. ABV 6.2% IBU 44"
+            },
+            {
+                "nome": "Znlager",
+                "preço": null,
+                "descrição": "Tradicional premium lager, 100% malte pilsen, aroma de cereais e casca de pão, corpo leve e amargor suave. ABV 4,5% IBU 20."
+            }
+        ],
+        "Carta de Vinhos": [
+            {
+                "nome": "Castilo de Jumilla Rosé 2021",
+                "preço": null,
+                "descrição": "Vinho Rosé Espanhol- Jumilla-100%Monastrell Aromas Florais e frutados, Paladar amplo e elegante com bom acabamennto."
+            },
+            {
+                "nome": "Dandelion Torrontés Orgânicos 2022",
+                "preço": null,
+                "descrição": "Vinho Branco Argentino- 100% Torrontés,Aromas florais e notas frutadas, boa acidez e persistência"
+            },
+            {
+                "nome": "Dandelion Criollas Orgânico 2022",
+                "preço": null,
+                "descrição": "Vinho Tinto Argentino- Medoza- 100% Variedades Criollas Aroma frutado, frescor, jovem com taninos maciose corpo medio"
+            },
+            {
+                "nome": "Kalós Sin Rodeo Malbec 2019",
+                "preço": null,
+                "descrição": "Vinho Tinto Argentino- Medoza- 100%Malbec Aromas de frutas vermelhas e especiarias, paladar forte com taninos marcantes"
+            },
+            {
+                "nome": "Santa Ema Blocks Reserva Carménère 2021",
+                "preço": null,
+                "descrição": "Vinho Tinto Chileno-Vale Cachapoal- 100% Carménère aromas de frutas negras e especiarias, paladar aveludado com taninos maduros"
+            },
+            {
+                "nome": "William Cole Pinot Noir Vineyard 2022",
+                "preço": null,
+                "descrição": "Vinho Tinto Chileno- Vale central-100%Pinot Noir Aromas florais, corpo medio e paladar fresco com taninos redondos"
+            },
+            {
+                "nome": "Willian Cole Reserve Shiraz 2019",
+                "preço": null,
+                "descrição": "Vinho Tinto Chileno-Vale de Casablanca-100%Shiraz Aromas de frutas negras, picante, paladar persistente e taninos aveludados"
+            },
+            {
+                "nome": "Artesana Tannat Zinfaldel Reserva 2021",
+                "preço": null,
+                "descrição": "Vinho Tinto Uruguaio - Carnes vermelhas e suínas"
+            },
+            {
+                "nome": "Castelli Martinozzi Brunello Di Montalcino 2016",
+                "preço": null,
+                "descrição": "Vinho Tinto Italino- Montalcino-100% Sangiovese Aromas florais e herbáceos,paladar intenso e elegante com taninos agradaveis"
+            }
+        ],
+        "Sugestão Do Somelier": [
+            {
+                "nome": "Sin Rodeo Malbec",
+                "preço": null,
+                "descrição": "VinhoTinto Argentino em Taça 150ml"
+            },
+            {
+                "nome": "Dandellion Torrontes",
+                "preço": null,
+                "descrição": "Vinho Branco Biodinâmico Argentino em Taça 150ml"
+            },
+            {
+                "nome": "William Cole Chardonnay",
+                "preço": null,
+                "descrição": "Vinho Branco Chileno em Taça 150ml"
+            }
+        ]
+    },
+    "Cervejas": {
+        "Cervejas": [
+            {
+                "nome": "Stella Artois",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Budweiser",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Heineken",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Corona",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Drinks": {
+        "Clássicos": [
+            {
+                "nome": "NEGRONI CLÁSSICO",
+                "preço": "R$ 37,00",
+                "descrição": "Gin Vermute Rosso e Amaro Scarlatti"
+            },
+            {
+                "nome": "NEGRONI JEREZ",
+                "preço": "R$ 37,00",
+                "descrição": "Gin, Jerez Fino, Vermute Bianco e Amaro Scarlatti"
+            },
+            {
+                "nome": "BOULEVARDIER",
+                "preço": "R$ 37,00",
+                "descrição": "Bourbon, Amaro Scarlatti e Vermute Rosso"
+            },
+            {
+                "nome": "FITZGERALD",
+                "preço": "R$ 37,00",
+                "descrição": "Gin, Míx Cítricos, Limão e Açúcar"
+            },
+            {
+                "nome": "OLD FASHIONED",
+                "preço": "R$ 37,00",
+                "descrição": "Bourbon, Bitter e Açúcar"
+            },
+            {
+                "nome": "COSMOPOLITAN",
+                "preço": "R$ 37,00",
+                "descrição": "Vodka, Cranberry, Limão e Licor de Laranja"
+            },
+            {
+                "nome": "DRY MARTINI",
+                "preço": "R$ 37,00",
+                "descrição": "Gin e Vermute Seco"
+            },
+            {
+                "nome": "MOSCOW MULE",
+                "preço": "R$ 35,00",
+                "descrição": "Vodka, Mix Cítricos, Açúcar e Especiarias"
+            }
+        ],
+        "Drinks com Gin": [
+            {
+                "nome": "Gin Tônica Tradicional",
+                "preço": "R$ 35,00",
+                "descrição": "Gin, Limão siciliano e tônica"
+            },
+            {
+                "nome": "Gin Cítrico",
+                "preço": "R$ 35,00",
+                "descrição": "Gin, Limão Taiti, Limão Siciliano e Tônica"
+            },
+            {
+                "nome": "Gin Silvestre",
+                "preço": "R$ 35,00",
+                "descrição": "Gin, Hibisco, Morango e Tônica"
+            }
+        ],
+        "Caipirinhas": [
+            {
+                "nome": "Caipiroska",
+                "preço": "R$ 37,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Caipirinha",
+                "preço": "R$ 37,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Saquerita",
+                "preço": "R$ 37,00",
+                "descrição": ""
+            }
+        ],
+        "Whisky": [
+            {
+                "nome": "Whisky Jim Beam",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Johnnie Walker Red Label",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Shots": [
+            {
+                "nome": "Shot Limoncello",
+                "preço": null,
+                "descrição": "Limão, álcool de cereais"
+            },
+            {
+                "nome": "Sur L'Orange",
+                "preço": null,
+                "descrição": "Licor de Amêndoas e Laranja"
+            }
+        ],
+        "Drinks Autorais": [
+            {
+                "nome": "Scarlatti Orange",
+                "preço": "R$ 32,00",
+                "descrição": "Amaro e Suco de Laranja"
+            },
+            {
+                "nome": "Scarlatti Ginger",
+                "preço": "R$ 32,00",
+                "descrição": "Scarlatti e Ginger Ale"
+            },
+            {
+                "nome": "Sur Ginger",
+                "preço": "R$ 32,00",
+                "descrição": "Sur L'Orange e Ginger Ale"
+            },
+            {
+                "nome": "Limoncello Fritz",
+                "preço": "R$ 32,00",
+                "descrição": "Limoncello, Suco de limão siciliano e Água com gás"
+            },
+            {
+                "nome": "Bianco Citric",
+                "preço": "R$ 32,00",
+                "descrição": "Vermute Bianco, Suco de Limão siciliano e Taiti e Água com gás"
+            }
+        ]
+    },
+    "endereço": "Av. Duquesa de Goiás, 594, Real Parque, São Paulo , SP, Brasil",
+    "telefone": null,
+    "email": "Pizzas@sorrymama.com.br",
+    "website": "Sorry Mama Pizzas",
+    "name": "Sorry Mama Pizzas"
+}

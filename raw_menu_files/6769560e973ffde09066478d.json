@@ -1,0 +1,1371 @@
+{
+    "Rodízio Tradicional R$165": {
+        "Pratos": [
+            {
+                "nome": "Sunomono",
+                "preço": "",
+                "descrição": "Salada de pepino com molho su e gergelim"
+            },
+            {
+                "nome": "Vinagrete de Lula",
+                "preço": "",
+                "descrição": "Fatias de Lula, tomate, pepino e cebola temperados com vinagre, azeite e sal."
+            },
+            {
+                "nome": "Salada Massao",
+                "preço": "",
+                "descrição": "Mix de folhas, cenoura, com molho à base de maçã e batata palha"
+            },
+            {
+                "nome": "Shimeji na Chapa",
+                "preço": "",
+                "descrição": "Shimeji preparado com shoyu, manteiga e cebolinha."
+            },
+            {
+                "nome": "Hot Roll",
+                "preço": "",
+                "descrição": "Sushi de salmão e shari (arroz japonês) empanado e frito. Coberto com molho tarê."
+            },
+            {
+                "nome": "Edamame *",
+                "preço": "",
+                "descrição": "Vagem de soja verde temperada com sal do himalaia."
+            },
+            {
+                "nome": "Guioza *",
+                "preço": "",
+                "descrição": "Guioza de carne bovina ou de legumes, no vapor ou frito. Servido com molho ponzu."
+            },
+            {
+                "nome": "Tempurá de Legumes",
+                "preço": "",
+                "descrição": "Vegetais variados, empanados e fritos. Servidos com molho ponzu."
+            },
+            {
+                "nome": "Robata de Legumes",
+                "preço": "",
+                "descrição": "Espetinho de vegetais grelhados, temperados com sal, pimenta e azeite."
+            },
+            {
+                "nome": "Robata de Frango",
+                "preço": "",
+                "descrição": "Espetinho de filé de sobrecoxa grelhado. Servido com molho tarê"
+            },
+            {
+                "nome": "Robata de Filé Mignon *",
+                "preço": "",
+                "descrição": "Espetinho de Filé Mignon grelhado."
+            },
+            {
+                "nome": "Pastéis Variados",
+                "preço": "",
+                "descrição": "Pastéis de cream cheese, shimeji, carne com curry e escarola"
+            },
+            {
+                "nome": "Trouxinha de Kabocha",
+                "preço": "",
+                "descrição": "Trouxinha com recheio de abóbora japonesa e cream cheese."
+            },
+            {
+                "nome": "Trouxinha de Salmão",
+                "preço": "",
+                "descrição": "Trouxinha recheada com salmão, cenoura e maionese."
+            },
+            {
+                "nome": "Bolinho de Bacalhau",
+                "preço": "",
+                "descrição": "Bolinho feito com massa de batata e recheio de bacalhau."
+            },
+            {
+                "nome": "Harumaki de Legumes",
+                "preço": "",
+                "descrição": "Rolinho primavera recheado com repolho, cenoura e nirá."
+            },
+            {
+                "nome": "Harumaki de Queijo",
+                "preço": "",
+                "descrição": "Rolinho primavera recheado com queijo mussarela."
+            },
+            {
+                "nome": "Robata de Camarão",
+                "preço": "",
+                "descrição": "Espetinho de camarão temperado com alho, levemente empanado e frito."
+            },
+            {
+                "nome": "Camarão Empanado",
+                "preço": "",
+                "descrição": "Camarões grandes e empanados, servidos com molho tonkatsu."
+            },
+            {
+                "nome": "Lula Empanada",
+                "preço": "",
+                "descrição": "Anéis de lulas empanadas, servidas com molho tonkatsu."
+            },
+            {
+                "nome": "Sushis Variados",
+                "preço": "",
+                "descrição": "Uramakis, hossomakis, niguiris e dyos variados, de salmão, atum e peixe branco servidos à vontade."
+            },
+            {
+                "nome": "Ceviche *",
+                "preço": "",
+                "descrição": "Pedaços de peixe branco e salmão marinados no suco de limão e de laranja, temperados com cebola roxa, pimenta dedo de moça e salsa."
+            },
+            {
+                "nome": "Carpaccio *",
+                "preço": "",
+                "descrição": "Finas fatias de peixe cru temperadas com molho de alcaparras ou molho ponzu. Opção de azeite com limão para o de peixe branco."
+            },
+            {
+                "nome": "Temakis *",
+                "preço": "",
+                "descrição": "Arroz de sushi (Shari), folha de nori e recheios variados como peixe cru, frutos do mar, kani, ovas, legumes ou vegetais."
+            },
+            {
+                "nome": "Casquinha de Siri *",
+                "preço": "",
+                "descrição": "Carne de siri desfiada, preparada com cream cheese, azeite de dendê e leite de coco. Gratinadas e servidas na casquinha."
+            },
+            {
+                "nome": "Ostras *",
+                "preço": "",
+                "descrição": "Ostras depuradas provenientes de Florianópolis, Santa Catarina."
+            },
+            {
+                "nome": "Sashimi *",
+                "preço": "",
+                "descrição": "Fatias de peixe cru servidos com wasabi e gari."
+            },
+            {
+                "nome": "Poke *",
+                "preço": "",
+                "descrição": "Combinação de peixe, cru ou grelhado, arroz, fruta, folha, shimeji, edamame entre outros a escolher. Opção vegetariana com tofu."
+            },
+            {
+                "nome": "Salmão no Papelote *",
+                "preço": "",
+                "descrição": "Salmão grelhado com molho de shimeji e cream cheese, no abacaxi, finalizado no forno."
+            },
+            {
+                "nome": "Teppan de Salmão *",
+                "preço": "",
+                "descrição": "Salmão grelhado e servido na chapa de ferro, com diversos acompanhamentos."
+            },
+            {
+                "nome": "Teppans variados *",
+                "preço": "",
+                "descrição": "Anchova, frango e filé mignon servidos na chapa de ferro, com legumes."
+            },
+            {
+                "nome": "Filé Mignon com Shitake *",
+                "preço": "",
+                "descrição": "Tiras de filé mignon com molho de shiitake à base de shoyu e manteiga."
+            },
+            {
+                "nome": "Yakissoba *",
+                "preço": "",
+                "descrição": "Macarrão com molho à base de shoyu e óleo de gergelim. Opções: com legumes, carne, frango e camarão."
+            },
+            {
+                "nome": "Lámen *",
+                "preço": "",
+                "descrição": "Macarrão servido com caldo quente à base shoyu, frango e alho poró. Ingredientes: Ovo cozido, alga marinha, Kamaboco (pasta de peixe processada), tiras de frango e cebolinha."
+            },
+            {
+                "nome": "Frango Xadrez *",
+                "preço": "",
+                "descrição": "Pedaços de frango, pimentão vermelho e amarelo servidos com molho à base de shoyu e amendoim."
+            },
+            {
+                "nome": "Filé Katsu *",
+                "preço": "",
+                "descrição": "Filé mignon empanado e frito, cortado em tiras e servido com molho tonkatsu."
+            },
+            {
+                "nome": "Chicken Katsu *",
+                "preço": "",
+                "descrição": "Filé de frango empanado e frito, cortado em tiras e servido com molho tonkatsu."
+            },
+            {
+                "nome": "Gohan *",
+                "preço": "",
+                "descrição": "Arroz japonês cozido apenas com água, sem temperos."
+            },
+            {
+                "nome": "Yakimeshi *",
+                "preço": "",
+                "descrição": "Arroz japonês preparado na frigideira com ovos, cenoura, vagen e cebolinha. Temperado com óleo de gergelim."
+            },
+            {
+                "nome": "Missoshiro *",
+                "preço": "",
+                "descrição": "Sopa de missô (pasta de soja fermentada) servida com macarrão somen, pedaços de tofu e cebolinha."
+            }
+        ],
+        "Sobremesas": [
+            {
+                "nome": "Banana com Calda de Laranja e Sorvete",
+                "preço": "",
+                "descrição": "Fatias de banana aquecidas em calda de laranja e conhaque, servidas com sorvete."
+            },
+            {
+                "nome": "Mousse de Chocolate",
+                "preço": "",
+                "descrição": "Mousse de chocolate ao leite servido na taça com raspas de chocolate."
+            },
+            {
+                "nome": "Tempurá de Sorvete",
+                "preço": "",
+                "descrição": "Sorvete empanado em massa de pão de ló, frito, servido com bola de sorvete e calda a escolher."
+            },
+            {
+                "nome": "Harumaki Sensação Morango com Chocolate",
+                "preço": "",
+                "descrição": "Rolinho primavera doce, recheado com chocolate cremoso e pedaços de morango. Acompanha bola de sorvete."
+            },
+            {
+                "nome": "Harumaki de Banana com Goiabada",
+                "preço": "",
+                "descrição": "Rolinho primavera doce, recheado com banana e goiabada. Acompanha bola de sorevete."
+            },
+            {
+                "nome": "Pudim",
+                "preço": "",
+                "descrição": "Pudim de leite condensado."
+            },
+            {
+                "nome": "Abacaxi com Raspas de Limão",
+                "preço": "",
+                "descrição": "Fatias de abacaxi servidas com raspas de limão."
+            },
+            {
+                "nome": "Salada de Frutas",
+                "preço": "",
+                "descrição": "Pedaços de abacaxi, mamão, morango e manga."
+            },
+            {
+                "nome": "Salada de Frutas com Sorvete",
+                "preço": "",
+                "descrição": "Pedaços de abacaxi, mamão, morango e manga.Servida com sorvete."
+            },
+            {
+                "nome": "Bola de sorvete",
+                "preço": "",
+                "descrição": "Creme, Morango, Flocos, Chocolate, Canela, Pera, Banana com avelã e Limão siciliano."
+            }
+        ]
+    },
+    "Rodízio Executivo R$115": {
+        "Pratos": [
+            {
+                "nome": "Sunomono",
+                "preço": "",
+                "descrição": "Salada de pepino com molho su e gergelim"
+            },
+            {
+                "nome": "Vinagrete de Lula",
+                "preço": "",
+                "descrição": "Fatias de Lula, tomate, pepino e cebola temperados com vinagre, azeite e sal."
+            },
+            {
+                "nome": "Salada Massao",
+                "preço": "",
+                "descrição": "Mix de folhas, cenoura, com molho à base de maçã e batata palha."
+            },
+            {
+                "nome": "Shimeji na Chapa",
+                "preço": "",
+                "descrição": "Shimeji preparado com shoyu, manteiga e cebolinha. Opção vegana com azeite."
+            },
+            {
+                "nome": "Hot Roll",
+                "preço": "",
+                "descrição": "Sushi de salmão e shari (arroz japonês) empanado e frito. Coberto com molho tarê."
+            },
+            {
+                "nome": "Tempurá de Legumes",
+                "preço": "",
+                "descrição": "Vegetais variados, empanados e fritos. Servidos com molho ponzu."
+            },
+            {
+                "nome": "Pastéis Variados",
+                "preço": "",
+                "descrição": "Pastéis de cream cheese, shimeji, carne com curry e escarola."
+            },
+            {
+                "nome": "Guioza *",
+                "preço": "",
+                "descrição": "Guioza de carne bovina ou de legumes, no vapor ou frito. Servido com molho ponzu."
+            },
+            {
+                "nome": "Harumaki de Legumes",
+                "preço": "",
+                "descrição": "Rolinho primavera recheado com repolho, cenoura e nirá."
+            },
+            {
+                "nome": "Harumaki de Queijo",
+                "preço": "",
+                "descrição": "Rolinho primavera recheado com queijo mussarela."
+            },
+            {
+                "nome": "Trouxinha de Salmão",
+                "preço": "",
+                "descrição": "Trouxinha recheada com salmão, cenoura e maionese."
+            },
+            {
+                "nome": "Trouxinha de Kabocha",
+                "preço": "",
+                "descrição": "Trouxinha com recheio de abóbora japonesa e cream cheese."
+            },
+            {
+                "nome": "Robata de Camarão",
+                "preço": "",
+                "descrição": "Espetinho de camarão temperado com alho, levemente empanado e frito."
+            },
+            {
+                "nome": "Robata de Frango",
+                "preço": "",
+                "descrição": "Espetinho de filé de sobrecoxa grelhado. Servido com molho tarê"
+            },
+            {
+                "nome": "Robata de Legumes",
+                "preço": "",
+                "descrição": "Espetinho de vegetais grelhados, temperados com sal, pimenta e azeite."
+            },
+            {
+                "nome": "Sushi Variados",
+                "preço": "",
+                "descrição": "Uramakis, hossomakis, niguiris e dyos variados, de salmão, atum e peixe branco servidos à vontade."
+            },
+            {
+                "nome": "Ceviche *",
+                "preço": "",
+                "descrição": "Pedaços de salmão e peixe branco marinados no suco de limão e de laranja, temperados com cebola roxa, pimenta dedo de moça e salsa."
+            },
+            {
+                "nome": "Sashimi *",
+                "preço": "",
+                "descrição": "Fatias de peixe cru servidos com wasabi e gari."
+            },
+            {
+                "nome": "Temakis *",
+                "preço": "",
+                "descrição": "Arroz de sushi (Shari), folha de nori e recheios variados como peixe cru, frutos do mar, kani, ovas, legumes ou vegetais."
+            },
+            {
+                "nome": "Poke *",
+                "preço": "",
+                "descrição": "Combinação de peixe, cru ou grelhado, arroz, fruta, folha, shimeji, edamame entre outros a escolher. Opção vegetariana com tofu."
+            },
+            {
+                "nome": "Teppan de Frango *",
+                "preço": "",
+                "descrição": "Filé de frango grelhado com ou sem legumes, servido na chapa de ferro."
+            },
+            {
+                "nome": "Teppan de Anchova *",
+                "preço": "",
+                "descrição": "Filé de anchova grelhada com legumes, servido na chapa de ferro."
+            },
+            {
+                "nome": "Teppan de Salmão *",
+                "preço": "",
+                "descrição": "Salmão grelhado e servido na chapa de ferro, com diversos acompanhamentos."
+            },
+            {
+                "nome": "Chicken Katsu *",
+                "preço": "",
+                "descrição": "Filé de frango empanado e frito, cortado em tiras e servido com molho tonkatsu."
+            },
+            {
+                "nome": "Yakissoba *",
+                "preço": "",
+                "descrição": "Macarrão com molho à base de shoyu e óleo de gergelim. Opções: com legumes, carne e frango."
+            },
+            {
+                "nome": "Gohan *",
+                "preço": "",
+                "descrição": "Arroz japonês cozido apenas com água, sem temperos."
+            },
+            {
+                "nome": "Yakimeshi *",
+                "preço": "",
+                "descrição": "Arroz japonês preparado na frigideira com ovos, cenoura, vagen e cebolinha. Temperado com óleo de gergelim."
+            },
+            {
+                "nome": "Missoshiro *",
+                "preço": "",
+                "descrição": "Sopa de missô (pasta de soja fermentada) servida com macarrão somen, pedaços de tofu e cebolinha."
+            }
+        ],
+        "Sobremesas": [
+            {
+                "nome": "Banana com Calda de Laranja e Sorvete",
+                "preço": "",
+                "descrição": "Fatias de banana aquecidas em calda de laranja e conhaque, servidas com sorvete."
+            },
+            {
+                "nome": "Mousse de Chocolate",
+                "preço": "",
+                "descrição": "Mousse de chocolate ao leite servido na taça com raspas de chocolate."
+            },
+            {
+                "nome": "Abacaxi com Raspas de Limão",
+                "preço": "",
+                "descrição": "Fatias de abacaxi servidas com raspas de limão."
+            },
+            {
+                "nome": "Pudim",
+                "preço": "",
+                "descrição": "Pudim de leite condensado."
+            },
+            {
+                "nome": "Salada de Frutas",
+                "preço": "",
+                "descrição": "Pedaços de abacaxi, mamão, morango e manga."
+            },
+            {
+                "nome": "Salada de Frutas com Sorvete",
+                "preço": "",
+                "descrição": "Pedaços de abacaxi, mamão, morango e manga. Servida com sorvete."
+            },
+            {
+                "nome": "Bola de sorvete",
+                "preço": "",
+                "descrição": "Creme, Morango, Flocos, Chocolate, Canela, Pera, Banana com avelã e Limão siciliano."
+            }
+        ]
+    },
+    "Rodízio Vegetariano/Vegano R$105": {
+        "Pratos": [
+            {
+                "nome": "Sunomono",
+                "preço": "",
+                "descrição": "Salada de pepino com molho su (vinagre e açúcar) e gergelim."
+            },
+            {
+                "nome": "Edamame",
+                "preço": "",
+                "descrição": "Vagem de soja verde temperada com sal do himalaia."
+            },
+            {
+                "nome": "Salada Massao *",
+                "preço": "",
+                "descrição": "Mix de folhas, cenoura, com molho à base de maçã e batata palha. Opção vegana com molho à base de mostarda."
+            },
+            {
+                "nome": "Shimeji na chapa *",
+                "preço": "",
+                "descrição": "Shimeji preparado com shoyu, manteiga e cebolinha. Opção vegana com manteiga germinou."
+            },
+            {
+                "nome": "Shiitake na chapa *",
+                "preço": "",
+                "descrição": "Shiitake preparado com shoyu, manteiga e cebolinha. Opção vegana com manteiga germinou."
+            },
+            {
+                "nome": "Guioza de Legumes *",
+                "preço": "",
+                "descrição": "Guioza de legumes no vapor ou frito. Servido com molho ponzu."
+            },
+            {
+                "nome": "Pastéis Variados",
+                "preço": "",
+                "descrição": "Pastéis de cream cheese, shimeji e escarola."
+            },
+            {
+                "nome": "Harumaki de Legumes",
+                "preço": "",
+                "descrição": "Rolinho primavera recheado com repolho, cenoura e nirá."
+            },
+            {
+                "nome": "Harumaki de Queijo",
+                "preço": "",
+                "descrição": "Rolinho primavera recheado com queijo mussarela."
+            },
+            {
+                "nome": "Harumaki de Cream Gourmet de Inhame com Shiitake *",
+                "preço": "",
+                "descrição": "Rolinho primavera recheado com creme de inhame e pedaços de shiitake temperados com cebola."
+            },
+            {
+                "nome": "Berinjela Recheada *",
+                "preço": "",
+                "descrição": "Fatia de berinjela recheada com tofu e shiitake, temperados com shoyu e cebola."
+            },
+            {
+                "nome": "Trouxinha Kabotcha *",
+                "preço": "",
+                "descrição": "Trouxinha com recheio de abóbora japonesa e cream cheese. Opção vegana sem cream cheese."
+            },
+            {
+                "nome": "PANC – Peixinho Empanado *",
+                "preço": "",
+                "descrição": "Planta alimentícia não convencional - Peixinho da horta empanada e frita. Servida com molho a base de gengibre."
+            },
+            {
+                "nome": "Tempurá de Legumes",
+                "preço": "",
+                "descrição": "Vegetais variados, empanados e fritos. Servidos com molho ponzu."
+            },
+            {
+                "nome": "Robata de Legumes",
+                "preço": "",
+                "descrição": "Espetinho de vegetais grelhados, temperados com sal, pimenta e azeite."
+            },
+            {
+                "nome": "Robata de Tofu *",
+                "preço": "",
+                "descrição": "Espetinho de tofu e pimentão vermelho, grelhado, temperado com gengibre e pimenta branca."
+            },
+            {
+                "nome": "Carpaccio de Abobrinha *",
+                "preço": "",
+                "descrição": "Lâminas de abobrinha cozidas, temperadas com azeite, sal e cebolinha."
+            },
+            {
+                "nome": "Combinado Vegetariano *",
+                "preço": "",
+                "descrição": "Sushis variados com legumes, couve, wakame, shiitake, shimeji, pimentão e edamame. Acompanha fatias de tofu temperado e grelhado. Opção vegana: feitos com creme de inhame."
+            },
+            {
+                "nome": "Temaki*",
+                "preço": "",
+                "descrição": "Califórnia sem kani, shimeji, shiitake, tofu e tempurá. Opções veganas com creme de inhame."
+            },
+            {
+                "nome": "Teppan de Tofu com Legumes*",
+                "preço": "",
+                "descrição": "Fatias de tofu grelhadas ou empanadas com legumes. Servidas na chapa de ferro."
+            },
+            {
+                "nome": "Teppan de Legumes*",
+                "preço": "",
+                "descrição": "Brócolis, couve-flor e cenoura grelhados, temperados com azeite, sal e pimenta. Servidos na chapa de ferro."
+            },
+            {
+                "nome": "Poke *",
+                "preço": "",
+                "descrição": "Combinação de tofu grelhado, arroz, fruta, folha, shimeji, edamame entre outros a escolher. Opção vegana com shimeji vegano."
+            },
+            {
+                "nome": "Risoto de Shitake com Tofu Grelhado *",
+                "preço": "",
+                "descrição": "Tiras de tofu grelhado ou empanado, servidas com risoto (gohan) de shiitake no creme de castanha e shoyu."
+            },
+            {
+                "nome": "Yakissoba *",
+                "preço": "",
+                "descrição": "Macarrão com molho à base de shoyu e óleo de gergelim, com legumes ou não."
+            },
+            {
+                "nome": "Gohan *",
+                "preço": "",
+                "descrição": "Arroz japonês cozido apenas com água, sem temperos."
+            },
+            {
+                "nome": "Missoshiro *",
+                "preço": "",
+                "descrição": "Sopa de missô (pasta de soja fermentada) servida com macarrão somen, pedaços de tofu e cebolinha."
+            }
+        ],
+        "Sobremesas": [
+            {
+                "nome": "Banana com Calda de laranja e Sorvete",
+                "preço": "",
+                "descrição": "Fatias de banana aquecidas em calda de laranja e conhaque, servidas com sorvete. Opção vegana com sorvete vegano."
+            },
+            {
+                "nome": "Mousse de Chocolate",
+                "preço": "",
+                "descrição": "Mousse de chocolate ao leite servido na taça com raspas de chocolate."
+            },
+            {
+                "nome": "Tempurá de Sorvete",
+                "preço": "",
+                "descrição": "Sorvete empanado em massa de pão de ló, frito, servido com bola de sorvete e calda a escolher."
+            },
+            {
+                "nome": "Harumaki Sensação Morango com Chocolate",
+                "preço": "",
+                "descrição": "Rolinho primavera doce, recheado com chocolate cremoso e pedaços de morango. Acompanha bola de sorvete."
+            },
+            {
+                "nome": "Harumaki de Banana com Goiabada",
+                "preço": "",
+                "descrição": "Rolinho primavera doce, recheado com banana e goiabada. Acompanha bola de sorevete."
+            },
+            {
+                "nome": "Pudim",
+                "preço": "",
+                "descrição": "Pudim de leite condensado."
+            },
+            {
+                "nome": "Bola de sorvete",
+                "preço": "",
+                "descrição": "Creme, Morango, Tangerina, Flocos, Chocolate, Canela, Pera, Banana com avelã, Limão siciliano. Sabores veganos: Creme, Morango, Manga e Chocolate."
+            },
+            {
+                "nome": "Salada de Frutas",
+                "preço": "",
+                "descrição": "Pedaços de abacaxi, mamão, morango e manga."
+            },
+            {
+                "nome": "Salada de Frutas com Sorvete",
+                "preço": "",
+                "descrição": "Pedaços de abacaxi, mamão, morango e manga. Servida com sorvete, pode ser vegano."
+            },
+            {
+                "nome": "Abacaxi com Raspas de Limão",
+                "preço": "",
+                "descrição": "Fatias de abacaxi servidas com raspas de limão."
+            }
+        ]
+    },
+    "Bebidas": {
+        "Soft Drinks": [
+            {
+                "nome": "Suco de Frutas",
+                "preço": null,
+                "descrição": "Laranja, abacaxi, limão e morango"
+            },
+            {
+                "nome": "Suco com 2 Frutas",
+                "preço": null,
+                "descrição": "Opções - frutas: laranja, limão, morango e abacaxi, polpas: acerola, maracujá e manga."
+            },
+            {
+                "nome": "Suco de Polpa",
+                "preço": null,
+                "descrição": "Acerola • maracujá • manga"
+            },
+            {
+                "nome": "Suco de Tomate",
+                "preço": null,
+                "descrição": "Suco de tomate, molho inglês, tabasco, sal, suco de limão e pimenta do reino."
+            },
+            {
+                "nome": "Chá Verde Gelado Caseiro",
+                "preço": null,
+                "descrição": "Feito com banchá (cha verde japonês), abacaxi e suco de limão."
+            },
+            {
+                "nome": "Banchá",
+                "preço": null,
+                "descrição": "É um tipo de chá verde japonês produzido a partir de folhas maduras da planta Camellia sinensis. É considerado o chá do dia a dia no Japão, sendo apreciado pelo sabor suave e baixo teor de cafeína."
+            },
+            {
+                "nome": "Red Bull",
+                "preço": null,
+                "descrição": "Bebida energética originária da Áustria. Por seu alto teor de cafeína e taurina que prometem aumentar os níveis de energia e desempenho físico e mental."
+            },
+            {
+                "nome": "Ice Tea",
+                "preço": null,
+                "descrição": "Pêssego"
+            },
+            {
+                "nome": "H2OH!",
+                "preço": null,
+                "descrição": "Limão ou Limoneto"
+            },
+            {
+                "nome": "Chá Verde Yai",
+                "preço": null,
+                "descrição": "Lichia • frutas vermelhas • limão siciliano com hortelã"
+            },
+            {
+                "nome": "Suco de Uva Dell Vale",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Refrigerantes",
+                "preço": null,
+                "descrição": "Coca Cola, Coca Cola Zero, Guaraná, Guaraná Zero, Soda Limonada, Soda Limonada Zero, Tônica e Tônica Zero."
+            },
+            {
+                "nome": "Água Mineral",
+                "preço": null,
+                "descrição": "Com gás ou sem."
+            }
+        ],
+        "Destilados": [
+            {
+                "nome": "Ciroc",
+                "preço": null,
+                "descrição": "Ciroc é uma vodca premium que se destaca por ser feita a partir de uvas, em vez do tradicional grão utilizado na maioria das vodcas."
+            },
+            {
+                "nome": "Belvedere",
+                "preço": null,
+                "descrição": "Belvedere é uma renomada marca de vodca polonesa, conhecida por sua qualidade e pureza."
+            },
+            {
+                "nome": "Grey Goose",
+                "preço": null,
+                "descrição": "Grey Goose é uma marca de vodca de prestígio, originária da França. É amplamente reconhecida por sua produção de alta qualidade e sabor refinado."
+            },
+            {
+                "nome": "Conhaque Fundador",
+                "preço": null,
+                "descrição": "O Conhaque Fundador, também conhecido como \"Fundador\", é uma marca de conhaque de origem espanhola, muito respeitada e apreciada por sua qualidade e tradição."
+            },
+            {
+                "nome": "Absolut",
+                "preço": null,
+                "descrição": "Absolut é uma das marcas de vodca mais conhecidas e consumidas no mundo, originária da Suécia."
+            },
+            {
+                "nome": "Cachaça Busca Vida",
+                "preço": null,
+                "descrição": "A Cachaça Busca Vida é uma marca de cachaça artesanal brasileira, conhecida por sua qualidade e sabor. Produzida na região da Bahia, a Busca Vida é feita a partir da fermentação e destilação do caldo de cana-de-açúcar, seguindo métodos tradicionais que preservam as características únicas da bebida."
+            },
+            {
+                "nome": "Tequila José Cuervo Prata / Ouro",
+                "preço": null,
+                "descrição": "A José Cuervo oferece duas variedades populares de tequila: a José Cuervo Prata e a José Cuervo Ouro. Ambas têm características distintas que atendem a diferentes preferências de sabor e uso.A Prata é conhecida por seu sabor fresco e leve, com notas de agave e um toque de especiarias. Por ser não envelhecida, mantém o caráter puro do agave. A Ouro tem um sabor mais robusto e encorpado, com notas de caramelo e baunilha, resultantes do envelhecimento em barris de carvalho. É um pouco mais doce em comparação com a Prata."
+            },
+            {
+                "nome": "Cachaça Espírito de Minas",
+                "preço": null,
+                "descrição": "A cachaça Espírito de Minas é uma marca brasileira que se destaca pela qualidade e pelo cuidado em seu processo de produção. Originária de Minas Gerais, essa cachaça é feita a partir da fermentação do caldo de cana-de-açúcar, seguindo métodos tradicionais que preservam o sabor autêntico da cana."
+            },
+            {
+                "nome": "Campari",
+                "preço": null,
+                "descrição": "Campari é um aperitivo italiano conhecido por seu sabor amargo e intenso, além de sua cor vermelha vibrante. Ele é feito a partir de uma infusão de ervas, frutas e especiarias, embora a receita exata seja um segredo bem guardado"
+            },
+            {
+                "nome": "Smirnoff",
+                "preço": null,
+                "descrição": "Originalmente criada na Rússia, a Smirnoff é famosa por sua pureza e suavidade, sendo destilada várias vezes e filtrada para garantir um sabor limpo."
+            },
+            {
+                "nome": "Gin Nacional / Importado",
+                "preço": null,
+                "descrição": "O gin é uma bebida alcoólica destilada que tem como base o zimbro, o que lhe confere um sabor característico. Ele é bastante versátil e pode ser usado em diversos coquetéis, como o famoso gin tônica."
+            },
+            {
+                "nome": "Steinhaeger Nacional / Importado",
+                "preço": null,
+                "descrição": "Steinhaeger é uma bebida alcoólica típica da Alemanha, especialmente popular na região de Westfália. É um destilado feito a partir de batatas ou grãos, e é semelhante ao gin, mas com um sabor mais forte e terroso. Tradicionalmente, é consumido puro e muitas vezes acompanhado de petiscos."
+            },
+            {
+                "nome": "Cachaça Sagatiba",
+                "preço": null,
+                "descrição": "A cachaça Sagatiba é uma marca brasileira conhecida por sua qualidade e sabor. Produzida a partir da fermentação e destilação do caldo de cana-de-açúcar, a Sagatiba se destaca por seu processo de produção cuidadoso, que busca preservar as características naturais da cana."
+            },
+            {
+                "nome": "Cachaça Seleta",
+                "preço": null,
+                "descrição": "A cachaça Seleta é uma marca conhecida por sua qualidade e sabor. Produzida no Brasil, ela é feita a partir da fermentação e destilação do caldo de cana-de-açúcar. A Seleta é apreciada tanto em coquetéis quanto pura, e é famosa por seu aroma e paladar característicos"
+            },
+            {
+                "nome": "Bacardi Prata / Ouro",
+                "preço": null,
+                "descrição": "O rum Bacardi é uma marca de rum muito conhecida, originária de Cuba, mas atualmente produzida em vários países. É famoso por sua suavidade e versatilidade, sendo utilizado em diversos coquetéis, como o Mojito e a Piña Colada. A Bacardi oferece uma variedade de runs incluindo opções brancas, douradas e envelhecidas, cada uma com seu próprio perfil de sabor."
+            }
+        ],
+        "Caipirinhas": [
+            {
+                "nome": "Belvedere • Ciroc • Grey Goose",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Absolut • Stolichnaya",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Smirnoff • Saquê • Stainhaeger • Bacardi •Espírito de Minas • Cachaça Seleta",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "51 • Velho Barreiro • Sagatiba",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cervejas": [
+            {
+                "nome": "Heineken",
+                "preço": null,
+                "descrição": "A Heineken é uma famosa marca de cerveja originária da Holanda, conhecida por seu sabor refrescante e seu icônico rótulo verde."
+            },
+            {
+                "nome": "Stella Artois",
+                "preço": null,
+                "descrição": "Uma cerveja premium belga, com sabor equilibrado, leve amargor e final refrescante. Perfeita para quem aprecia uma cerveja sofisticada e suave."
+            },
+            {
+                "nome": "Corona",
+                "preço": null,
+                "descrição": "Leve e refrescante, a Corona é uma cerveja mexicana clássica, perfeita para beber bem gelada, acompanhada de uma fatia de limão. Ideal para momentos descontraídos!"
+            },
+            {
+                "nome": "Cerpa",
+                "preço": null,
+                "descrição": "Cerveja premium de origem paraense, leve e refrescante, com um sabor equilibrado e levemente maltado. Ideal para quem aprecia uma cerveja de qualidade."
+            },
+            {
+                "nome": "Erdinger",
+                "preço": null,
+                "descrição": "Erdinger é uma marca de cerveja alemã, conhecida principalmente por sua cerveja de trigo (weissbier). Fundada em 1886, a cervejaria Erdinger é uma das maiores cervejarias de trigo do mundo e é famosa por sua tradição e qualidade. A cerveja Erdinger é feita com ingredientes selecionados, como malte de trigo, lúpulo e levedura, e é apreciada por seu sabor frutado e refrescante."
+            },
+            {
+                "nome": "Therezópolis",
+                "preço": null,
+                "descrição": "A Cerveja Theresópolis Gold é uma das variedades da marca de cervejas artesanais Teresópolis, conhecida por sua qualidade e sabor.Uma cerveja do estilo Pilsen, caracterizada por ser leve, refrescante e de coloração dourada. Ela apresenta um sabor equilibrado, com um leve amargor e notas de malte, tornando-a uma opção popular para quem aprecia cervejas mais suaves e fáceis de beber. É uma escolha ideal para dias quentes ou para acompanhar refeições, especialmente pratos leves."
+            },
+            {
+                "nome": "Malzbier",
+                "preço": null,
+                "descrição": "Cerveja escura, adocicada e levemente encorpada, com um toque suave de malte e caramelo. Perfeita para quem prefere um sabor mais doce e suave."
+            },
+            {
+                "nome": "Heineken Zero",
+                "preço": null,
+                "descrição": "Uma cerveja refrescante e sem álcool, com o mesmo sabor equilibrado e maltado da Heineken tradicional. Ideal para quem quer aproveitar sem abrir mão do prazer de uma boa cerveja"
+            }
+        ],
+        "Whisky": [
+            {
+                "nome": "Johnnie Walker Blue Label",
+                "preço": null,
+                "descrição": "Blue Label é famoso por seu perfil rico e complexo. Ele apresenta notas de frutas secas, especiarias, chocolate amargo e um toque defumado sutil. Cada gole revela uma profundidade de sabor que é resultado da mistura de whiskies raros e envelhecidos."
+            },
+            {
+                "nome": "Johnnie Walker Swing",
+                "preço": null,
+                "descrição": "Uma das particularidades do Swing é sua garrafa, que tem um formato exclusivo e distinto, projetada para permanecer em pé, mesmo em superfície inclinada. Isso é uma referência ao próprio nome \"Swing\". Oferece um perfil de sabor suave e equilibrado, com notas de caramelo, frutas secas e um toque de especiarias. É conhecido por sua maciez."
+            },
+            {
+                "nome": "Johnnie Walker Double",
+                "preço": null,
+                "descrição": "O Double Black possui um perfil de sabor mais robusto e defumado, com notas de frutas escuras, especiarias e um toque de carvalho tostado. A complexidade vem da combinação de whiskies envelhecidos em barris mais carbonizados."
+            },
+            {
+                "nome": "Johnnie Walker Reserva",
+                "preço": null,
+                "descrição": "O Johnnie Walker Reserva é uma expressão menos comum da linha Johnnie Walker, e pode se referir a diferentes edições que estão disponíveis em alguns mercados."
+            },
+            {
+                "nome": "Johnnie Walker Black Label",
+                "preço": null,
+                "descrição": "Johnnie Walker Black Label é conhecido por seu perfil robusto e complexo, apresenta notas de frutas secas, baunilha, caramelo e um leve toque de defumado"
+            },
+            {
+                "nome": "Chivas",
+                "preço": null,
+                "descrição": "Chivas é conhecido por seu perfil suave e equilibrado, apresentando notas de mel, frutas, nozes e um leve toque de baunilha e madeira. É uma bebida acessível e fácil de beber, ideal tanto para iniciantes quanto para apreciadores."
+            },
+            {
+                "nome": "Old Parr",
+                "preço": null,
+                "descrição": "Old Parr é conhecido por seu sabor encorpado, com notas de frutas secas, baunilha, especiarias e um toque defumado. É apreciado por sua suavidade e riqueza aromática."
+            },
+            {
+                "nome": "Buchanan’s",
+                "preço": null,
+                "descrição": "Buchanan's se destaca por seu perfil de sabor equilibrado, com notas de frutas secas, caramelo, especiarias e um leve toque de defumado. É um whisky suave e acessível, ideal tanto para degustações puras quanto em coquetéis."
+            },
+            {
+                "nome": "Jack Daniel’s",
+                "preço": null,
+                "descrição": "Jack Daniel´s tem um perfil de sabor suave e doce, com notas de caramelo, baunilha, e um leve toque de fumaça. O uso de carvão de madeira de açúcar durante o processo de filtragem (o famoso \"Lincoln County Process\") contribui para sua suavidade."
+            },
+            {
+                "nome": "Johnnie Walker Red Label",
+                "preço": null,
+                "descrição": "Johnnie Walker Red Label é um dos whiskies escoceses mais populares e amplamente reconhecidos no mundo. É conhecido por sua mistura vibrante e acessível, ideal para cocktails ou para ser apreciado puro."
+            }
+        ]
+    },
+    "Drinks": {
+        "Da Casa": [
+            {
+                "nome": "Djapa",
+                "preço": null,
+                "descrição": "Limão, gengibre, saquê e um toque especial"
+            },
+            {
+                "nome": "Akai",
+                "preço": null,
+                "descrição": "Frutas vermelhas e saquê"
+            },
+            {
+                "nome": "Ninja",
+                "preço": null,
+                "descrição": "Lima, maracujá, laranja e vodka"
+            },
+            {
+                "nome": "Samurai",
+                "preço": null,
+                "descrição": "Limão, abacaxi, hortelã e saquê"
+            },
+            {
+                "nome": "Fuji",
+                "preço": null,
+                "descrição": "Suco de abacaxi, licor de kiwi, licor de pêssego e saquê"
+            },
+            {
+                "nome": "Mix",
+                "preço": null,
+                "descrição": "Mistura de frutas e saquê"
+            }
+        ],
+        "Clássicos": [
+            {
+                "nome": "Manhatan",
+                "preço": null,
+                "descrição": "O Manhattan é um coquetel clássico, geralmente feito com whisky Bourbon, vermute doce e um toque de angostura."
+            },
+            {
+                "nome": "Moscow Mule",
+                "preço": null,
+                "descrição": "O Moscow Mule é um coquetel refrescante que combina vodka, gengibre e suco de limão, tradicionalmente servido em uma caneca de cobre."
+            },
+            {
+                "nome": "Carajillo",
+                "preço": null,
+                "descrição": "O Carajillo é uma bebida tradicional que combina café com licor, sendo especialmente popular em países de língua espanhola, como Espanha e México. É feito com café expresso e licor 43."
+            },
+            {
+                "nome": "Margarita",
+                "preço": null,
+                "descrição": "A margarita é um clássico coquetel mexicano, conhecido por seu sabor refrescante e equilibrado. Feita com três ingredientes principais: tequila, licor de laranja e suco de limão fresco."
+            },
+            {
+                "nome": "Margarita Frozen Red",
+                "preço": null,
+                "descrição": "A margarita red frozen é uma deliciosa variação da clássica margarita, feita com ingredientes que trazem um toque refrescante. Preparada com tequila, licor de laranja, suco de limão fresco e uma base de frutas vermelhas."
+            },
+            {
+                "nome": "Margarita Frozen Yelow",
+                "preço": null,
+                "descrição": "A Margarita Frozen Yellow é uma deliciosa variação da clássica margarita, feita com ingredientes que trazem um toque refrescante. Preparada com tequila, licor de laranja, suco de limão fresco e uma base de maracujá."
+            },
+            {
+                "nome": "Aperol Spritz",
+                "preço": null,
+                "descrição": "O Aperol Spritz é um coquetel refrescante e muito popular, feito com Aperol, prosecco e água com gás."
+            },
+            {
+                "nome": "Gin Tropical",
+                "preço": null,
+                "descrição": "O Gin Tropical é uma variação refrescante do gin, que combina os sabores clássicos da bebida com notas frutadas e tropicais. Geralmente, ele é preparado com gin, água tônica e uma mistura de frutas tropicais"
+            },
+            {
+                "nome": "Gin Tônica Importado",
+                "preço": null,
+                "descrição": "A gin tônica é uma bebida refrescante que combina gin e água tônica, geralmente servida com gelo e uma fatia de limão ou limão siciliano."
+            },
+            {
+                "nome": "Negroni",
+                "preço": null,
+                "descrição": "Negroni é um coquetel clássico italiano, conhecido por seu sabor equilibrado e amargo. Ele é feito com partes iguais de gin, vermute rosso (vermelho) e Campari."
+            },
+            {
+                "nome": "Bloody Mary",
+                "preço": null,
+                "descrição": "O Bloody Mary é um coquetel famoso, normalmente feito com vodka, suco de tomate, molho inglês, suco de limão e pimenta ."
+            },
+            {
+                "nome": "Dry Martini",
+                "preço": null,
+                "descrição": "O Dry Martini é um coquetel clássico, conhecido por sua elegância e simplicidade. É composto por gin e vermute seco."
+            },
+            {
+                "nome": "Sex on the Beach",
+                "preço": null,
+                "descrição": "Sex on the Beach é um coquetel clássico que combina sabores frutados e refrescantes, ideal para dias quentes de verão. A receita típica inclui vodka, licor de pêssego, suco de laranja e xarope de frutas vermelhas."
+            },
+            {
+                "nome": "Cosmopolitan",
+                "preço": null,
+                "descrição": "O Cosmopolitan é um coquetel elegante e refrescante.. Ele é conhecido por sua cor rosa vibrante e sabor equilibrado. Preparado com vodka, licor de laranja, suco de limão e suco de cranberry."
+            },
+            {
+                "nome": "Cuba Libre",
+                "preço": null,
+                "descrição": "O Cuba Libre é um coquetel clássico, que combina rum, coca cola e rodela de limão."
+            },
+            {
+                "nome": "Clericot",
+                "preço": null,
+                "descrição": "O Clericot é uma bebida refrescante e saborosa, geralmente feita com vinho branco, espumante, frutas e água com gás."
+            },
+            {
+                "nome": "Fitzgerald",
+                "preço": null,
+                "descrição": "O Fitzgerald é um coquetel que combina gin, suco de limão, açúcar e um toque de angostura."
+            },
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": "O Mojito é um coquetel clássico de origem cubana, conhecido por sua refrescância e sabor equilibrado. Ele é feito com rum, açúcar, suco de limão, soda limonada e folhas de hortelã."
+            },
+            {
+                "nome": "South Side",
+                "preço": null,
+                "descrição": "O South Side é um coquetel, refrescante e tem uma combinação de sabores de hortelã, limão e gin."
+            },
+            {
+                "nome": "Whisky Sour",
+                "preço": null,
+                "descrição": "O Whisky Sour é um coquetel que combina whisky, suco de limão e açúcar, resultando em uma bebida refrescante e equilibrada."
+            }
+        ],
+        "Mocktail": [
+            {
+                "nome": "Mix sem Álcool",
+                "preço": null,
+                "descrição": "Mistura de frutas e H2OH!"
+            },
+            {
+                "nome": "Soda Italiana",
+                "preço": null,
+                "descrição": "Cranberry • limão siciliano • tangerina • maçã verde"
+            }
+        ]
+    },
+    "Vinhos": {
+        "Espumantes": [
+            {
+                "nome": "Chandon Réserve Brut",
+                "preço": null,
+                "descrição": "Refrescante, frutado e fácil de beber.Aromas elegantes e nítidos, com notas de frutas cítricas, frutas secas, flores brancas e toques de pão fresco. Harmonização: Ostras; sushi; frutos do mar; queijos leves."
+            },
+            {
+                "nome": "Itinera Prosecco Doc Brut, 2017",
+                "preço": null,
+                "descrição": "Veneto é a região da Itália conhecida por produzir o espumante Prosecco. Lá foram cultivadas as uvas Glera para a elaboração deste rótulo Brut pela vinícola Itinera, uma das marcas do grupo MGM Mondo Del Vino que busca pela excelência na produção de vinhos."
+            },
+            {
+                "nome": "Vinho Italiano Espumante Rose Brut Costa Blu, 2021",
+                "preço": null,
+                "descrição": "Vinho espumante leve e bem humorado Este é um espumante produzido nas colinas próximas a Bologna, na terra Emiliana. Feito com Trebbiano (90%) e Sangiovese, tem a coloração levemente rosada, aroma floral e de frutas verdes. Sabor leve, seco, mas não muito."
+            }
+        ],
+        "Brancos": [
+            {
+                "nome": "Esencial Naranjo",
+                "preço": null,
+                "descrição": "Este vinho laranja permanece três meses em contato com madeira de acácia. VISUAL: Leve coloração laranja, límpido com notas alaranjadas profundas e brilhantes. OLFATO: Fruta muito intensa e viva, os aromas sutis de peras e pêssegos se destacam, deixando para o final aromas cremosos como manteiga devido à sua fermentação maloláctica. PALADAR: Acidez muito equilibrada, conferindo uma sensação de preenchimento no paladar. Vinho volumoso e com uma estrutura delicada, ideal para acompanhar refeições ou para ser degustado sozinho. Persistência justa e elegante."
+            },
+            {
+                "nome": "White & Sea, 2019",
+                "preço": null,
+                "descrição": "Cor: Amarelo palha e traços cristalinos. Aroma: Branco seco e fresco com notas cítricas e alguns aromas tropicais. Limão, maçã verde e um toque de maracujá no palato. Equilibrado por uma acidez refrescante e um belo final picante."
+            },
+            {
+                "nome": "Cadet d´ac Chardonnay, 2018",
+                "preço": null,
+                "descrição": "Cadet d'Oc Chardonnay possui cor amarela brilhante. Aromas sutis de pêssego e flores brancas que combinam com um toque de brioche levemente tostado. O paladar médio encorpado e amplo mistura frutado e mineralidade levando a um final longo e fresco."
+            },
+            {
+                "nome": "Aragon Sauvignon Blanc, 2018",
+                "preço": null,
+                "descrição": "Visão: Cor Amarelo com nuances Olfato: Aromas de frutas frescas, banana, abacaxi e melão, notas florais e ervas aromáticas Paladar: Untuoso, elegante, trazendo equilíbrio e frescor no paladar"
+            },
+            {
+                "nome": "La Piuma Pecorino Terre Di Chieti, 2022",
+                "preço": null,
+                "descrição": "\"Das encantadoras colinas de Terre Di Chieti, na Itália, emerge o Vinho Branco Italiano Pecorino Terre Di Chieti La Piuma, uma verdadeira obra-prima que seduzirá seus sentidos com sua elegância cativante. Aroma: Ao servir este vinho, você será saudado por um bouquet aromático fresco e frutado. Notas cítricas vibrantes, como limão e grapefruit, dançam harmoniosamente com nuances florais sutis, criando uma experiência olfativa envolvente e convidativa. Sabor: No paladar, o Pecorino Terre Di Chieti La Piuma revela sua complexidade e elegância. Sua acidez equilibrada ressalta os sabores frutados, enquanto uma leve mineralidade acrescenta profundidade e sofisticação à experiência de degustação. Uma delicada doçura floral pode ser detectada, proporcionando uma dimensão adicional de prazer ao paladar."
+            },
+            {
+                "nome": "Oveja Black Chardonnay, 2022",
+                "preço": null,
+                "descrição": "Acidez equilibrada, bom volume com estrutura delicada. Boa persistência e elegante."
+            },
+            {
+                "nome": "Magnifico Chardonay, 2023",
+                "preço": null,
+                "descrição": "O vinho Magnífico Chardonnay tem as seguintes características: Visão: Amarelo Palha brilhante e límpido. Olfato: Apresenta aromas notáveis de pêssego, banana madura e frutas tropicais. Paladar: Traz um equilíbrio de frutas tropicais, acidez e ótimo frescor com boa persistência no final."
+            },
+            {
+                "nome": "Vieira Campos",
+                "preço": null,
+                "descrição": "No nariz, a sedução começa. O Vinho Verde Vieira Campos Branco Meio Seco libera uma fragrância fresca e envolvente, com notas de frutas cítricas, como limão e laranja, entrelaçadas com aromas florais delicados e nuances de maçã verde. É como um aroma que sussurra a paixão pela viticultura portuguesa e convida você a mergulhar em sua frescura e complexidade. Na boca, a paixão se intensifica. Este Vinho Verde desliza suavemente sobre a língua, enchendo-a com sabores cítricos e frutados, uma acidez vibrante que realça os sabores e uma doçura equilibrada que é típica dos vinhos meio secos. É uma experiência refrescante que desperta os sentidos e faz você ansiar pelo próximo gole."
+            },
+            {
+                "nome": "Longitud, Chardonnay",
+                "preço": null,
+                "descrição": "O Vinho Longitud Chardonnay 375ml é uma escolha perfeita para os amantes de vinhos brancos de qualidade. Produzido no Chile, esse vinho é elaborado com uvas da variedade Chardonnay, selecionadas cuidadosamente para garantir um produto de alto padrão. Com uma coloração amarelo palha brilhante, esse vinho possui aromas intensos de frutas tropicais, como abacaxi e maracujá, além de notas sutis de baunilha e tostado, provenientes do envelhecimento em barricas de carvalho francês."
+            },
+            {
+                "nome": "Longitud Chardonnay, 2024",
+                "preço": null,
+                "descrição": "Visão: Amarelo limão médio Olfato: Com aromas de abacaxi e pêssegos. Paladar: Na boca é equilibrado e seus sabores nos lembra frutas tropicais"
+            }
+        ],
+        "Tintos": [
+            {
+                "nome": "Château Tuquet de Gaillard Bordeaux, 2020",
+                "preço": null,
+                "descrição": "Cor rubi profundo. Aromas de framboesas, morangos, ameixas, frutas vermelhas e alcaçuz. Uma obra-prima Bordeaux com sabor sedoso de alta qualidade, sabor equilibrado e final longo."
+            },
+            {
+                "nome": "Tupac Reserva Bonarda, 2021",
+                "preço": null,
+                "descrição": "Apresenta uma cor vermelha intensa, com tons roxos. Aroma de frutas vermelhas, como framboesas e morangos. Um vinho complexo por sua maturação em barris. Voluptuoso, equilibrado e amplo em sua expressão."
+            },
+            {
+                "nome": "Origens Regional Alentejo, 2022",
+                "preço": null,
+                "descrição": "Em boca, tem a presença amadeirada e um fundo de chocolate. Tem corpo médio,e, em boca, tem uma sensação doce e amarga. Bem potente, é um típico vinho para se nos dias frios."
+            },
+            {
+                "nome": "Il Sarone Negroamaro Puglia , 2022",
+                "preço": null,
+                "descrição": "Vermelho-rubi. Olfativo de ameixas, cerejas e amoras, com notas de canela, cacau e couro. Gustativo frutado, redondo e equilibrado, de acidez moderada e com taninos médios e macios."
+            },
+            {
+                "nome": "Primitivo Di Puglia La Piuma, 2022",
+                "preço": null,
+                "descrição": "Nosso Primitivo di Puglia requer fermentação em aço e posterior refinamento na garrafa; daqui surge um vinho de cor vermelha rubi intensa com reflexos a condizer. O buquê é cheio de frutas vermelhas, especiarias e geléia de frutas escuras. Encorpado, redondo e frutado com taninos equilibrados e elegantes. O final é macio e persistente."
+            },
+            {
+                "nome": "OVEJA BLACK CABERNET SAUVIGNON, 2019",
+                "preço": null,
+                "descrição": "Uva Utilizada: Principalmente Cabernet Sauvignon, uma das uvas tintas mais famosas e amplamente plantadas no mundo, conhecida por sua estrutura firme, aromas intensos e capacidade de envelhecer bem. Aromas e Sabores: O Oveja Black Cabernet Sauvignon geralmente apresenta aromas concentrados de frutas escuras como cassis, amora e ameixa, complementados por notas de especiarias como pimenta preta, e possivelmente toques sutis de ervas e tabaco, dependendo do estilo de vinificação e do envelhecimento em carvalho. Cor: Tipicamente uma cor vermelho-rubi profunda e intensa, refletindo sua concentração e estrutura. Paladar: Rico e encorpado, com taninos firmes e bem estruturados que conferem uma textura aveludada na boca. O equilíbrio entre acidez, fruta e taninos é uma característica marcante dos bons Cabernet Sauvignon. Envelhecimento: Pode ter sido envelhecido em barris de carvalho por um período que varia conforme a decisão do enólogo, buscando suavizar seus taninos e desenvolver complexidade. Harmonização: Combina bem com pratos de carne vermelha grelhada ou assada, churrasco argentino (asado), cordeiro, queijos maturados e pratos robustos em geral."
+            },
+            {
+                "nome": "Bergamo Syrah Apassimento, 2023",
+                "preço": null,
+                "descrição": "Itália"
+            },
+            {
+                "nome": "Sanama Reserva Carmenere, 2020",
+                "preço": null,
+                "descrição": "Coloração vermelha intensa e profunda. Um vinho de aromas de frutas vermelhas e escuras, apresenta ainda notas de especiarias e pimenta vermelha. No paladar o vinho se apresenta frutado, bom corpo e taninos macios."
+            },
+            {
+                "nome": "Magnífico Cabernet Sauvignon, 2022",
+                "preço": null,
+                "descrição": "Olfato: Apresenta aromas de cereja preta, ameixa, amora, groselha e notas de especiarias como pimenta. Paladar: Frutas vermelhas e negras maduras, pimenta do reino, com taninos maduros. Harmonização: Lomo a lo Pobre (Filet Mignon coberto com Ovos e Batatas Fritas), Cazuela-de-vaca, (Batata, Cebola, Abóbora, Cenoura, Milho cortada em pedaços, Pimentão vermelho, Aipo, Alho-Poró, Coentro, Páprica, Orégano, Sal e Pimenta), Picadinho de Mignon com Legumes."
+            },
+            {
+                "nome": "Sierra Verde Varietal Merlot, 2021",
+                "preço": null,
+                "descrição": "Olfato: Apresenta aroma frutado, como ameixas pretas, jabuticaba e notas especiarias. Paladar: Um vinho agrádavel e bem estruturado, muito aromático e macio com taninos aveludados no paladar Harmonização:Ideal para acompanhar carne vermelha, como cordeiro e vitela, massas e queijos como brie, muçarela de búfala e o camenbert"
+            },
+            {
+                "nome": "OVEJA BLACK BLEND, 2023",
+                "preço": null,
+                "descrição": "Notas de especiarias e um sutil toque de baunilha, proveniente do envelhecimento em barricas de carvalho"
+            },
+            {
+                "nome": "Longitud Cabernet Sauvignon, 2022",
+                "preço": null,
+                "descrição": "Visual: Cor vermelho profundo Olfativo: Notas de cerejas pretas e toques de cacau também podem ser notados Paladar: Notas de couro, especiarias e cerejas, Taninos elegantes e maduros"
+            },
+            {
+                "nome": "Longitud Cabernet Sauvignon, 2024",
+                "preço": null,
+                "descrição": "Visual: Cor vermelho profundo Olfativo: Notas de cerejas pretas e toques de cacau também podem ser notados Paladar: Notas de couro, especiarias e cerejas, Taninos elegantes e maduros"
+            }
+        ],
+        "Roses": [
+            {
+                "nome": "Mateus Rosé, 2019",
+                "preço": null,
+                "descrição": "Mateus Rose é um vinho de uma leveza que se destaca, fresco, jovem e delicadamente espumante. A sua qualidade, extrema versatilidade e estilo consistente, torna o vinho ideal para acompanhar os momentos felizes da vida. Apresenta tons rosáceos e cor brilhante. Globalmente, é um vinho fresco e sedutor com boa intensidade aromática e jovialidade. No palato, é um vinho muito equilibrado e sedutor, brilhantemente complementado por um final leve, suave e saboroso. Harmonização : Ideal para acompanhar aperitivos."
+            },
+            {
+                "nome": "Jean D'Alibert XXX Milles Bisous, 2021",
+                "preço": null,
+                "descrição": "Este delicioso vinho rosé nasceu no Languedoc, no rosé sul da França, em uma pequena vila no sopé da Montagne Noire. As uvas Grenache se beneficiam do clima mediterrâneo: encostas voltadas para o sul, clima quente e seco, terroirs de cascalho.”"
+            },
+            {
+                "nome": "Sirene Mediterranée Rosé Pays D'OC , 2022",
+                "preço": null,
+                "descrição": "Expressivo com notas frutadas remetendo à frutas vermelhas frescas como morangos silvestres. Acompanha e confirma os aromas com notas frutadas e acidez equilibrada com suavidade agradável."
+            },
+            {
+                "nome": "Longitud Rosé, 2021",
+                "preço": null,
+                "descrição": "O vinho rosé Longitud é frutado, macio e vibrante, tem notas de morangos frescos, além de nuances florais e de especiarias. Harmoniza bem com frutos do mar e antepastos."
+            },
+            {
+                "nome": "Longitud Rosé, 2021",
+                "preço": null,
+                "descrição": "O vinho rosé Longitud é frutado, macio e vibrante, tem notas de morangos frescos, além de nuances florais e de especiarias. Harmoniza bem com frutos do mar e antepastos."
+            }
+        ]
+    },
+    "Saquês": {
+        "Saquês Japoneses": [
+            {
+                "nome": "Hakutsuru Tokusen Hisho Suave",
+                "preço": null,
+                "descrição": "Este rótulo é bastante saboroso e convém apreciá-lo aquecido para potencializar o seu sabor. Apesar de ser produzido pela maior fábrica de sakês do Japão, o cuidado na produção garante a sua qualidade. O nihonshudo é neutro e combina bem com diversos tipos de pratos.Teor alcoólico: 15,5%"
+            },
+            {
+                "nome": "Hakutsuru Tokusen Hisho Dry",
+                "preço": null,
+                "descrição": "Leve, equilibrado e com um toque seco. A adição do álcool após a fermentação confere o frescor deste sake. Perfeito para ser desfrutado puro, revelando completamente seu sabor único e refrescante. Pode ser apreciado em diversas ocasiões, sejam formais ou informais. Teor alcoólico: 15,5 %"
+            },
+            {
+                "nome": "Hakutsuru Joysen Dry",
+                "preço": null,
+                "descrição": "Sakê feito com a técnica tradicional de Nada, este rótulo seco possui um sabor limpo e agradável. Se apreciado morno (35°C), o aroma e o sabor pode ser sentido com mais intensidade. Teor alcoólico: 15,3%"
+            },
+            {
+                "nome": "Hakutsuru Joysen Suave",
+                "preço": null,
+                "descrição": "Josen Suave, um dos rótulos mais vendidos no Brasi. Este rótulo é de baixa complexidade e fácil de beber. Do tipo neutro (SMV +1), combina com quase todos os pratos, sejam japoneses ou não. Experimente morno. Este rótulo é utilizado como referência aos sakês nacionais, que buscam atingir as características que este rótulo possui. Diferente de muitos Futsuushu do mercado, este não adiciona açúcares em sua produção. Teor alcoólico: 15,3%"
+            },
+            {
+                "nome": "Hakutsuru Tokusen Junmai Dry",
+                "preço": null,
+                "descrição": "Sake Hakutsuru Junmai Seco é um produto de destaque com uma tradição de mais de 250 anos pela renomada Hakutsuru. Este sake de 720ml traz um sabor de arroz distintamente presente, com uma finalização seca que naturalmente convida ao próximo gole, elevando a experiência de cada degustação. O Hakutsuru Tokusen Especial Dry é conhecido por sua ótima reputação e uma base de clientes leais e de longa data. Este sake é bem-amadurecido, encorpado e possui um toque levemente seco, características que o tornam extremamente versátil e de fácil harmonização com uma variedade de pratos. Harmonização: Combina com qualquer prato. Se servido quente, tem boa afinidade com pratos mais salgado ou temperados com shoyu. Exemplos: tempurá, sukiyaki, pratos com tofu, shabu-shabu, entre outros. Teor alcoólico:15,5%"
+            },
+            {
+                "nome": "Nama Chozou",
+                "preço": null,
+                "descrição": "Namachozo é um saquê da linha Hakushika mais leve e refrescante. Isto porque passa apenas uma vez pelo processo de pateurização, diferentemente dos demais que são pasteurizados duas vezes. Teor alcoólico: 13%"
+            },
+            {
+                "nome": "Hakushika Namachozo",
+                "preço": null,
+                "descrição": "Namachozo é um saquê da linha Hakushika mais leve e refrescante. Isto porque passa apenas uma vez pelo processo de pateurização, diferentemente dos demais que são pasteurizados duas vezes. Teor alcoólico: 13%"
+            }
+        ],
+        "Saquês Californianos": [
+            {
+                "nome": "Gekkeikan Silver",
+                "preço": null,
+                "descrição": "O Saquê Gekkeikan Silver foi desenvolvido no Estados Unidos e após passar por alguns processos de produção, apresenta coloração límpido e brilhante, ao nariz, entrega aromas cítrico e fresco. Na boca é seco, com boa acidez, apresenta notas cítricas de luz e um final seco refrescante. Teor alcoólico:14.6%"
+            }
+        ],
+        "Saquê Brasileiro": [
+            {
+                "nome": "Azuma Kirin Dourado",
+                "preço": null,
+                "descrição": "O Azuma Kirin Dourado é um saquê da categoria Honjozo, com o grau de polimento do arroz de 30%. De caráter discreto, fresco e agradável. Sabor suave, com notas frutadas e final seco. Apresenta excelente acidez, ideal para ser degustado puro ou em coquetéis. Pioneira na produção de saquê no Brasil, a Azuma Kirin atua no país há mais de 80 anos, sempre utilizando métodos tradicionais e matérias primas nobres, resultando em produtos com nível de qualidade de um autêntico saquê japonês. Essa qualidade é atestada por premiações internacionais, além do reconhecimento da marca junto aos consumidores e profissionais da coquetelaria. Teor Alcoólico: 15.5%"
+            }
+        ]
+    },
+    "Licores e Cafés": {
+        "Licores": [
+            {
+                "nome": "Vinho – Porto Adriano",
+                "preço": null,
+                "descrição": "O Vinho do Porto Adriano é uma das variedades de vinho do Porto, um vinho fortificado produzido na região do Douro, em Portugal. Este vinho é conhecido por sua doçura, sabor rico e encorpado, além de ser muito apreciado como aperitivo ou sobremesa."
+            },
+            {
+                "nome": "Amaretto di Saronno",
+                "preço": null,
+                "descrição": "O Amaretto di Saronno é um licor italiano reconhecido por seu sabor doce e intenso de amêndoas. Originário da cidade de Saronno, na Lombardia, sua receita é um segredo guardado desde o século XVII e, embora o sabor característico seja de amêndoas, a bebida também pode conter outros ingredientes, como ervas e especiarias, que adicionam complexidade ao perfil de sabor."
+            },
+            {
+                "nome": "Drambuie",
+                "preço": null,
+                "descrição": "O Drambuie é um licor escocês conhecido por seu sabor doce e complexo, feito à base de uísque escocês, mel e ervas. A receita do Drambuie remonta ao século XVIII e está ligada a uma lenda sobre um príncipe escocês, que teria criado a bebida como um remédio."
+            },
+            {
+                "nome": "Frangélico",
+                "preço": null,
+                "descrição": "O Frangelico é um licor italiano de avelã, caracterizado por seu sabor doce e rico, com notas sutis de baunilha e ervas. Sua receita remonta a séculos atrás, embora a marca atual tenha sido lançada em 1980. O licor é feito a partir da destilação de avelãs, combinadas com outros ingredientes, como ervas e especiarias, proporcionando um perfil de sabor complexo."
+            },
+            {
+                "nome": "Licor 43",
+                "preço": null,
+                "descrição": "O Licor 43, também conhecido como \"Cuarenta y Tres\", é um licor espanhol famoso por seu sabor doce e complexo. Ele é produzido na região de Cartagena, na Espanha, e leva esse nome devido à sua receita original, que consiste em 43 ingredientes, incluindo ervas, especiarias e frutas, sendo a baunilha uma das notas mais predominantes."
+            },
+            {
+                "nome": "Cointreau",
+                "preço": null,
+                "descrição": "O Cointreau é um licor francês de laranja, conhecido por seu sabor equilibrado e aroma intenso. Ele é feito a partir da destilação de cascas de laranja doces e amargas, o que resulta em um sabor distintivo que combina a doçura das laranjas com um leve toque amargo."
+            },
+            {
+                "nome": "Amarula",
+                "preço": null,
+                "descrição": "A Amarula é um licor sul-africano, produzido a partir do fruto da árvore maruleira (Sclerocarya birrea). O licor é conhecido por seu sabor cremoso e tropical, combinando notas de caramelo, baunilha e um leve toque de fruta."
+            },
+            {
+                "nome": "Baileys",
+                "preço": null,
+                "descrição": "O licor Baileys é uma bebida cremosa e doce, famosa por sua combinação de uísque irlandês e creme de leite fresco. Lançado em 1974, é conhecido por seu sabor rico e suave, que combina notas de chocolate, baunilha e caramelo."
+            },
+            {
+                "nome": "Café Expresso Nespresso",
+                "preço": null,
+                "descrição": "O café Nespresso é conhecido por sua conveniência e qualidade. Ele é preparado a partir de cápsulas de café que contêm grãos de café moídos, selados para preservar frescor e sabor. As máquinas Nespresso são projetadas para extrair o café de maneira rápida e eficiente, resultando em uma bebida rica e aromática com uma crema suave no topo. Opções: Ristretto (Forte), Leggero (suave) e Descaffeinato."
+            }
+        ]
+    },
+    "Sobremesas à La Carte": {
+        "Sobremesas": [
+            {
+                "nome": "Petit Gateau com Sorvete",
+                "preço": "R$ 35,00",
+                "descrição": "Bolinho de chocolate assado de forma a manter o interior cremoso e derretido, enquanto o exterior fica levemente crocante. Servido com sorvete."
+            },
+            {
+                "nome": "Creme de Papaia com Cassis",
+                "preço": "R$ 30,00",
+                "descrição": "Feita com purê de papaia combinada com licor de cassis, que traz um sabor frutado e levemente ácido."
+            },
+            {
+                "nome": "Banana com Calda de Laranja e Sorvete",
+                "preço": "R$ 12,00",
+                "descrição": "Fatias de banana aquecidas em calda de laranja e conhaque, servidas com sorvete."
+            },
+            {
+                "nome": "Tempurá de Sorvete",
+                "preço": "R$ 12,00",
+                "descrição": "Sorvete empanado em massa de pão de ló, frito, servido com bola de sorvete e calda a escolher."
+            },
+            {
+                "nome": "Salada de Frutas com Sorvete",
+                "preço": "R$ 12,00",
+                "descrição": "Pedaços de abacaxi, mamão, morango e manga, servidos com sorvete."
+            },
+            {
+                "nome": "Harumaki Sensação Morango com Chocolate",
+                "preço": "R$ 11,00",
+                "descrição": "Rolinho primavera doce, recheado com chocolate cremoso e pedaços de morango. Acompanha bola de sorvete."
+            },
+            {
+                "nome": "Harumaki de Banana com Goiabada",
+                "preço": "R$ 11,00",
+                "descrição": "Rolinho primavera doce, recheado com banana e goiabada. Acompanha bola de sorevete."
+            },
+            {
+                "nome": "Mousse de Chocolate",
+                "preço": "R$ 9,00",
+                "descrição": "Mousse de chocolate ao leite servido na taça com raspas de chocolate."
+            },
+            {
+                "nome": "Abacaxi com Raspas de Limão",
+                "preço": "R$ 9,00",
+                "descrição": "Fatias de abacaxi servidas com raspas de limão."
+            },
+            {
+                "nome": "Salada de Frutas",
+                "preço": "R$ 9,00",
+                "descrição": "Pedaços de abacaxi, mamão, morango e manga."
+            },
+            {
+                "nome": "Bola de sorvete",
+                "preço": "R$ 7,00",
+                "descrição": "Creme, Morango, Tangerina, Flocos, Chocolate, Canela, Pera, Banana com avelã e Limão siciliano."
+            },
+            {
+                "nome": "Bola de Sorvete Vegano",
+                "preço": "R$ 15,00",
+                "descrição": "Creme, Chocolate, Morango e Manga"
+            }
+        ]
+    },
+    "endereço": "Avenida Cap Manoel Rudge, 1170, Vila Oliveira, Mogi das Cruzes, SP, Brasil",
+    "telefone": "(11) 4726-8773",
+    "email": ".",
+    "website": null,
+    "name": "Djapa Mogi"
+}

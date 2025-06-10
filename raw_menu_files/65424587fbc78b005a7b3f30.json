@@ -1,0 +1,812 @@
+{
+    "Ceias Natal e Ano Novo 2024": {},
+    "Menu Principal": {
+        "Entradas & Petiscos": [
+            {
+                "nome": "Couvert",
+                "preço": "R$ 29,90",
+                "descrição": "Cesta de Pães Variados | Manteiga."
+            },
+            {
+                "nome": "Caesar Salad com Pipoca de Frango Empanado",
+                "preço": "R$ 62,90",
+                "descrição": "Cubinhos de Frango Empanados | Alface Americana e Romana | Molho Caesar | Croutons | Lascas de Parmesão"
+            },
+            {
+                "nome": "Carpaccio de Rosbife",
+                "preço": "R$ 62,30",
+                "descrição": "Fatias de Rosbife frio | Azeite de Alcaparras e Limão Taiti | Salada de Rúcula | Torradas."
+            },
+            {
+                "nome": "Porção de Mini Salgadinhos",
+                "preço": "R$ 35,00",
+                "descrição": "12 unidades de mini salgadinhos variados"
+            },
+            {
+                "nome": "Salada Verde",
+                "preço": "R$ 29,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Salpicão de Frango Defumado",
+                "preço": "R$ 73,90",
+                "descrição": "Salada de Frango | Frango Defumado desfiado Maionese | Cenoura | Milho | Batata Palha."
+            }
+        ],
+        "Pratos": [
+            {
+                "nome": "Bacalhau Gomes de Sá",
+                "preço": "R$ 149,90",
+                "descrição": "Lascas de bacalhau refogadas no alho e azeite, batatas coradas, ovos e cebola"
+            },
+            {
+                "nome": "Camarão Crocante com Arroz de Abacaxi",
+                "preço": "R$ 98,90",
+                "descrição": "Camarões Empanados e fritos servido com arroz cremoso de abacaxi e molho bárbaro."
+            },
+            {
+                "nome": "Frango Cordon Bleu",
+                "preço": "R$ 83,30",
+                "descrição": "Peito de frango empanado recheado com queijo e presunto com arroz cremoso."
+            },
+            {
+                "nome": "Penne ao Pomodoro",
+                "preço": "R$ 72,90",
+                "descrição": "Massa ao dente com molho de tomate fresco, manjericão e muçarela de búfala."
+            },
+            {
+                "nome": "Massa ao Limone com Lascas de Salmão",
+                "preço": "R$ 86,90",
+                "descrição": "Massa cozida ao dente com molho a base de queijo, raspas de limão siciliano e lascas de salmão"
+            },
+            {
+                "nome": "Mignon Jack",
+                "preço": "R$ 119,90",
+                "descrição": "Escalope de mignon ao molho de whisky servido com pequenas batatas rústicas assadas e farofa crocante"
+            },
+            {
+                "nome": "Milanesa de Porco",
+                "preço": "R$ 81,90",
+                "descrição": "Filet suino servido com salada de batata, ovos, bacon e maionese"
+            },
+            {
+                "nome": "Omelete de Queijo e Presunto",
+                "preço": "R$ 44,90",
+                "descrição": "Omelete de Queijo e Presunto. Acompanhada de Salada Verde."
+            },
+            {
+                "nome": "*Picadinho Cristovão",
+                "preço": "R$ 81,90",
+                "descrição": "Cubinhos de Carne Ensopada | Molho de Vinho Arroz Branco | Farofa Crocante de Panko com Bacon Linguicinha e Ervas | Ovo Pochê | Couve Frita."
+            },
+            {
+                "nome": "*Prato Infantil",
+                "preço": "R$ 57,90",
+                "descrição": "Carne ou Frango | Arroz Branco | Feijão | Batata."
+            },
+            {
+                "nome": "Quiche com Salada",
+                "preço": "R$ 54,90",
+                "descrição": "Quiche do dia servida com Salada Variada | Tomate | Vinagrete de Mostarda"
+            },
+            {
+                "nome": "Guarnições",
+                "preço": "R$ 27,90",
+                "descrição": "Arroz | Feijão | Batata frita | Farofa | Ovo Mexido | Salada Verde."
+            }
+        ],
+        "Cafés da Manhã & Chá Especial": [
+            {
+                "nome": "Duplo\nCafé Colombo Especial",
+                "preço": "R$ 139,90",
+                "descrição": "Duplo"
+            },
+            {
+                "nome": "Triplo\nCafé Colombo Especial",
+                "preço": "R$ 184,90",
+                "descrição": "Triplo"
+            },
+            {
+                "nome": "Duplo\nChá Rio Antigo",
+                "preço": "R$ 139,90",
+                "descrição": "Duplo"
+            }
+        ],
+        "Torradas, Waffles & Croissants": [
+            {
+                "nome": "Croissant",
+                "preço": "R$ 17,90",
+                "descrição": "1 Croissant servido com Manteiga, Geleia da Casa e Pasta de Queijo."
+            },
+            {
+                "nome": "Misto Quente Colombo",
+                "preço": "R$ 32,90",
+                "descrição": "Servido no Croissant ou na Torrada Petrópolis com Queijo Prato e Presunto."
+            },
+            {
+                "nome": "Queijo Quente Colombo",
+                "preço": "R$ 32,90",
+                "descrição": "Queijo Quente servido na Torrada Petrópolis."
+            },
+            {
+                "nome": "Torrada Americana",
+                "preço": "R$ 37,90",
+                "descrição": "2 Torradas Petrópolis gratinadas com Parmesão, Geleia da Casa, Pasta de Queijo Branco e Manteiga."
+            },
+            {
+                "nome": "Torrada Breakfast: Ovo, Bacon, Tomate e Rúcula",
+                "preço": "R$ 42,90",
+                "descrição": "1 Torrada Petrópolis servida com Ovo Frito, Bacon, Tomate e Rúcula."
+            },
+            {
+                "nome": "Torrada Caprese: Mozarela de Búfala, Tomate e Manjericão",
+                "preço": "R$ 45,90",
+                "descrição": "1 Torrada Petrópolis servida com Mozarela de Búfala, Tomate e Manjericão e Aceto Balsâmico."
+            },
+            {
+                "nome": "Torrada de Cogumelos",
+                "preço": "R$ 61,90",
+                "descrição": "1 torrada Petrópolis com cogumelo paris salteados, envoltos no molho bechamel e gratinados"
+            },
+            {
+                "nome": "Torrada Rabanada Bar Jardim",
+                "preço": "R$ 32,90",
+                "descrição": "1 torrada Petrópolis umedecida no leite levemente adocicado e frita. Finalizada com açúcar e canela. Geleia da casa , pasta de queijo branco e manteiga"
+            },
+            {
+                "nome": "Torrada Petrópolis",
+                "preço": "R$ 34,90",
+                "descrição": "2 Torradas Petrópolis servidas com Manteiga e Geleia."
+            },
+            {
+                "nome": "Waffle de Pão de Queijo",
+                "preço": "R$ 44,90",
+                "descrição": "Tradicional Waffle feito com massa de Pão de Queijo acompanhado de Geleia da Casa, Manteiga e Pasta de Queijo Branco."
+            },
+            {
+                "nome": "Waffles Simples",
+                "preço": "R$ 42,90",
+                "descrição": "Waffle servido com geleia da casa, pasta de queijo branco e manteiga"
+            }
+        ],
+        "Sanduíches": [
+            {
+                "nome": "Club Sanduíche",
+                "preço": "R$ 65,90",
+                "descrição": "Peito de Peru Defumado | Bacon | Tomate | Alface | Maionese na Torrada Petrópolis. Acompanha Fritas ou Salada Verde."
+            },
+            {
+                "nome": "Colomburguer",
+                "preço": "R$ 65,90",
+                "descrição": "Pão Brioche da Casa | Hambúrguer Artesanal de Fraldinha | Queijo Minas Padrão | Bacon | Tomate Rúcula | Maionese de Ervas. Acompanha Fritas ou Salada Verde."
+            },
+            {
+                "nome": "Croissant com Salpicão de Frango Defumado",
+                "preço": "R$ 65,90",
+                "descrição": "Salpicão de Frango, 2 Croissants. Acompanha Fritas ou Salada Verde."
+            },
+            {
+                "nome": "Hotdog Colombo",
+                "preço": "R$ 63,90",
+                "descrição": "Linguiça Fina Grelhada | Queijo | Bacon. Servido com maionese de chimichurri à parte. Acompanha fritas ou salada verde"
+            },
+            {
+                "nome": "Sanduíche Beirute",
+                "preço": "R$ 72,90",
+                "descrição": "Pão Árabe | Filé Mignon grelhado | Queijo Prato Presunto | Ovo | Alface | Tomate. Acompanha Fritas ou Salada Verde"
+            },
+            {
+                "nome": "Sanduíche de Camarão Empanado",
+                "preço": "R$ 69,90",
+                "descrição": "Camarão Empanado e Frito | Molho Tártaro | Alface Pão Brioche. Acompanha Fritas ou Salada Verde."
+            },
+            {
+                "nome": "Smach Burguer Cristovão",
+                "preço": "R$ 65,90",
+                "descrição": "Pão australiano da casa , 2 hambúrgueres artesanais de fraldinha, queijo cheddar , cebola caramelizada e bacon. Acompanha fritas ou salada verde."
+            },
+            {
+                "nome": "Sanduíche de Carne Desfiada",
+                "preço": "R$ 66,90",
+                "descrição": "Cupim cozido lentamente e desfiado, queijo gratinado servido na baguete crocante e chutney de maracujá à parte. Acompanha fritas ou salada verde"
+            }
+        ],
+        "Salgados Colombo": [
+            {
+                "nome": "Bolinho de Bacalhau",
+                "preço": "R$ 17,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Camarão VG Empanado",
+                "preço": "R$ 39,90",
+                "descrição": "Camarão VG Fresco empanado na tradicional receita da Confeitaria Colombo."
+            },
+            {
+                "nome": "Camarão VG Empanado com Queijo",
+                "preço": "R$ 42,90",
+                "descrição": "Camarão VG Fresco empanado com queijo cremoso na tradicional receita da Confeitaria Colombo."
+            },
+            {
+                "nome": "Coxa Creme",
+                "preço": "R$ 27,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Coxinha de Galinha",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Coxinha da Galinha com Queijo",
+                "preço": "R$ 15,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Croquete de Carne",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Empada de Camarão",
+                "preço": "R$ 16,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Empada de Galinha",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Empada de Costela Bovina e Agrião",
+                "preço": "R$ 16,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Folhado de Queijo",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Folhado de Queijo e Presunto",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Maravilha de Camarão",
+                "preço": "R$ 22,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Pastel de Camarão",
+                "preço": "R$ 16,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Pastel de Carne",
+                "preço": "R$ 14,50",
+                "descrição": ""
+            },
+            {
+                "nome": "Pastel de Costela Bovina e Agrião",
+                "preço": "R$ 16,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Pastel de Forno de Frango",
+                "preço": "R$ 14,50",
+                "descrição": ""
+            },
+            {
+                "nome": "Pastel de Forno de Palmito",
+                "preço": "R$ 14,30",
+                "descrição": ""
+            }
+        ]
+    },
+    "Doces Colombo": {
+        "Doces": [
+            {
+                "nome": "Brigadeiro",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Éclair de Chocolate",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Éclair de Pistache",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Éclair de Tiramissu",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Mil Folhas de Chocolate",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Mil Folhas de Creme",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Mil Folhas de Doce de Leite",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Pastel de Belém",
+                "preço": "R$ 15,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Pudim",
+                "preço": "R$ 27,90",
+                "descrição": "Forma ou fatia"
+            },
+            {
+                "nome": "Quindim Colombo",
+                "preço": "R$ 15,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Tartelete de Chocolate c/ Avelã",
+                "preço": "R$ 20,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Tartelete de Limão",
+                "preço": "R$ 20,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Tartelete de Maracujá c/ Banana",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Tartelete de Morango",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Tartelete de Nozes",
+                "preço": "R$ 21,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Torta Inteira",
+                "preço": "R$ 199,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Tortas Variadas",
+                "preço": "R$ 25,90",
+                "descrição": "Fatia"
+            }
+        ],
+        "Sorvetes & Sobremesas": [
+            {
+                "nome": "Banana Split",
+                "preço": "R$ 42,90",
+                "descrição": "Sorvete de Chocolate, Creme e Morango | Banana Chantilly | Calda de Chocolate | Farofa de Castanha."
+            },
+            {
+                "nome": "Cheesecake de Doce de Leite",
+                "preço": "R$ 39,90",
+                "descrição": "Servida com coulis de frutas vermelhas e balsâmico."
+            },
+            {
+                "nome": "Paixão por Chocolate",
+                "preço": "R$ 52,90",
+                "descrição": "Brownie | Sorvete de Chocolate | Calda de Chocolate | Farofa de Castanha | Chantilly."
+            },
+            {
+                "nome": "Profiteroles",
+                "preço": "R$ 49,90",
+                "descrição": "Massa Açucarada | Sorvete de Creme | Calda de Chocolate Quente | Farofa de Castanha | 1 unidade."
+            },
+            {
+                "nome": "Rabanada Real",
+                "preço": "R$ 49,90",
+                "descrição": "Rabanada de Torrada Petrópolis Quente | Sorvete de Creme | Calda de Vinho do Porto com Passas."
+            },
+            {
+                "nome": "Taça Simples",
+                "preço": "R$ 32,90",
+                "descrição": "2 Bolas de Sorvete | Calda | Biscoito Waffle | Chantilly."
+            },
+            {
+                "nome": "Vaca Preta",
+                "preço": "R$ 42,90",
+                "descrição": "Sorvete de Creme batido com Coca-Cola."
+            },
+            {
+                "nome": "Waffle Pão de Açúcar",
+                "preço": "R$ 61,90",
+                "descrição": "Waffle | Creme de Avelã e Chocolate | 2 Bolas de Sorvete de Creme | Chantilly."
+            }
+        ],
+        "Milk Shake Colombo": [
+            {
+                "nome": "Cookies and Cream",
+                "preço": "R$ 42,90",
+                "descrição": "Milk Shake de vanilla , biscoito oreo, calda de chocola\u0002te e chantilly"
+            },
+            {
+                "nome": "Brownie com Doce de Leite",
+                "preço": "R$ 42,90",
+                "descrição": "Milk Shake de doce de leite com brownie da casa , calda de chocolate e chantilly."
+            },
+            {
+                "nome": "Paçoca",
+                "preço": "R$ 42,90",
+                "descrição": "Milk Shake de amendoim e paçoca, calda de caramelo e chantilly."
+            },
+            {
+                "nome": "Red Velvet",
+                "preço": "R$ 42,90",
+                "descrição": "Milkshake de cheesecake , bolo aveludado de chocolate , calda de morango e chantilly."
+            },
+            {
+                "nome": "Doce de Leite e Flor de Sal",
+                "preço": "R$ 42,90",
+                "descrição": "Milkshake de doce de leite, flor de sal , calda de caramelo e chantilly."
+            }
+        ]
+    },
+    "Carta de Drinks": {
+        "Drinks & Coquetéis": [
+            {
+                "nome": "MaracuJack",
+                "preço": null,
+                "descrição": "Drink com feito com o renomado whiskey Jack Daniels Old, maracujá e refrigerante cítrus"
+            },
+            {
+                "nome": "Aperol Spritz",
+                "preço": null,
+                "descrição": "Espumante | Aperol | Água com Gás."
+            },
+            {
+                "nome": "Gin Tônica",
+                "preço": null,
+                "descrição": "Gin | Água Tônica | Limão."
+            },
+            {
+                "nome": "Bloody Mary",
+                "preço": null,
+                "descrição": "Vodka | Suco de tomate"
+            },
+            {
+                "nome": "Caipirinha",
+                "preço": null,
+                "descrição": "Cachaça | Limão | Açúcar | Gelo"
+            },
+            {
+                "nome": "Caipiríssima",
+                "preço": null,
+                "descrição": "Rum | Limão | Açúcar | Gelo."
+            },
+            {
+                "nome": "Caipivodka",
+                "preço": null,
+                "descrição": "Vodka Nacional | Limão | Açúcar | Gelo"
+            },
+            {
+                "nome": "Caipivodka",
+                "preço": null,
+                "descrição": "Vodka Importada | Limão | Açúcar | Gelo"
+            },
+            {
+                "nome": "Coquetéis com Álcool",
+                "preço": null,
+                "descrição": "Suco de Maracujá | Uva | Abacaxi | Caju | Groselha | Leite Condensado | Vodka."
+            },
+            {
+                "nome": "Daikiri",
+                "preço": null,
+                "descrição": "Suco de Limão | Rum Prata | Açúcar."
+            },
+            {
+                "nome": "Drink Colombo",
+                "preço": null,
+                "descrição": "Licor Amargo Português | Vinho do Porto Branco Suco de Abacaxi."
+            },
+            {
+                "nome": "Dry Martini",
+                "preço": null,
+                "descrição": "Martini Dry | Gin | Azeitona."
+            },
+            {
+                "nome": "Kir Royal",
+                "preço": null,
+                "descrição": "Licor de Cassis | Espumante."
+            },
+            {
+                "nome": "Margarita",
+                "preço": null,
+                "descrição": "Rum Prata | Suco de Limão | Cointreau | Sal na Borda."
+            },
+            {
+                "nome": "Mimosa",
+                "preço": null,
+                "descrição": "Suco de Laranja | Espumante."
+            },
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": "Rum | Hortelã | Club Soda."
+            },
+            {
+                "nome": "Negroni",
+                "preço": null,
+                "descrição": "Gin | Campari | Vermute Tinto."
+            },
+            {
+                "nome": "Piña Colada",
+                "preço": null,
+                "descrição": "Suco de Abacaxi | Rum | Leite de Coco | Açúcar."
+            },
+            {
+                "nome": "Tequila Sunrise",
+                "preço": null,
+                "descrição": "Tequila | Suco de Laranja | Groselha."
+            },
+            {
+                "nome": "Taça Espumante",
+                "preço": null,
+                "descrição": "Taça Espumante"
+            }
+        ]
+    },
+    "Bebidas": {
+        "Cafés": [
+            {
+                "nome": "Café Espresso",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Espresso com Leite",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Espresso com Chantilly",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Espresso Duplo",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Espresso Mochaccino",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cappuccino Colombo",
+                "preço": "R$ 18,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Cappuccino Italiano",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chocolate Quente",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chocolate Quente Cremoso",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Espresso Macchiato",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Latte Macchiato",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Média",
+                "preço": null,
+                "descrição": "Café filtrado com Leite."
+            },
+            {
+                "nome": "Cappuccino Aromatizado",
+                "preço": null,
+                "descrição": "Menta, Avelã ou Baunilha"
+            },
+            {
+                "nome": "Chocognac",
+                "preço": null,
+                "descrição": "Chocolate / Brandy / Chantilly"
+            },
+            {
+                "nome": "Cointreau",
+                "preço": null,
+                "descrição": "Espresso / Cointreau / Chantilly"
+            }
+        ],
+        "Drinks de Café-Gelado": [
+            {
+                "nome": "Affogato Panna",
+                "preço": null,
+                "descrição": "Espresso Duplo | Sorvete de Creme | Chantilly Calda de Caramelo"
+            },
+            {
+                "nome": "Amarula",
+                "preço": null,
+                "descrição": "Espresso | Sorvete de Creme | Licor de Amarula"
+            },
+            {
+                "nome": "Barista",
+                "preço": null,
+                "descrição": "Espresso | Sorvete de Creme | Licor Baileys | Chantilly."
+            },
+            {
+                "nome": "Coffee Shake",
+                "preço": null,
+                "descrição": "Espresso Duplo | Sorvete de Creme."
+            }
+        ],
+        "Bebidas Não Alcoólicas": [
+            {
+                "nome": "Água Mineral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água Tônica",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca-cola",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Guaraná Antártica",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Limonada Suíça",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Mate",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco de Laranja",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Bebidas Alcoólicas": [
+            {
+                "nome": "Cachaça Envelhecida",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cachaça Prata",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Campari",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cerveja",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Domecq",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Fundador",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gin Beefeater",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Licor Importado",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Rum Bacardi",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tequila José Cuervo",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Nacional",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Importada",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Whisky 8 Anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Whisky 12 Anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VINHO PORTUGUÊS TINTO 375 ML",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VINHO PORTUGUÊS BRANCO 375 ML",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VINHO CHILENO BRANCO 375 ML",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VINHO CHILENO TINTO 375 ML",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "TAÇA ESPUMANTE",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "                      Presentes": {
+        "LEMBRANÇAS CONFEITARIA COLOMBO. VISITE NOSSA LOJA !": []
+    },
+    "endereço": "Rua Gonçalves Dias, 32, Centro, Rio de Janeiro, RJ, Brasil",
+    "telefone": "(21) 2505-1500",
+    "email": "03388128000162",
+    "website": null,
+    "name": "Confeitaria Colombo Centro"
+}

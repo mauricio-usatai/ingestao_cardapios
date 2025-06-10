@@ -1,0 +1,798 @@
+{
+    "Café da manhã": {
+        "Café da manhã": [
+            {
+                "nome": "Monte seu Café da Manhã",
+                "preço": "",
+                "descrição": "Veja aqui as opções para montar um café da Manhã Clássico"
+            },
+            {
+                "nome": "Sugestão Clássico\nCombo café da manhã",
+                "preço": "R$ 210,00",
+                "descrição": "Sugestão Clássico"
+            },
+            {
+                "nome": "Frutas laminadas do dia",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Ovo do rancho",
+                "preço": "R$ 59,00",
+                "descrição": "Ovos com molho base de tomate, alho, cebola, azeite, queijo minas padrão e espinafre. Acompanha pão de fermentação natural."
+            },
+            {
+                "nome": "Ovos mexidos",
+                "preço": "R$ 42,00",
+                "descrição": "Com ou sem bacon. Acompanha pão de fermentação natural."
+            },
+            {
+                "nome": "Tapioca Brasileira",
+                "preço": "R$ 41,00",
+                "descrição": "Tapioca com queijo coalho, banana, mel e canela."
+            },
+            {
+                "nome": "Toast Guacamole e ovos",
+                "preço": "R$ 53,00",
+                "descrição": "Toast guacamole, ovos, tomate cereja, folhas de salsa, azeite, sal e pimenta no pão de fermentação natural."
+            },
+            {
+                "nome": "Croque Monsieur",
+                "preço": "R$ 50,00",
+                "descrição": "Sanduíche de 3 queijos derretidos, presunto, molho de queijo especial da Chef, no pão de fermentação natural. Gratinado com queijo parmesão."
+            },
+            {
+                "nome": "Croque Madame",
+                "preço": "R$ 50,00",
+                "descrição": "Sanduíche de 3 queijos derretidos, presunto, molho de queijo especial da Chef, no pão de fermentação natural. Gratinado com queijo parmesão e um ovo estalado por cima."
+            },
+            {
+                "nome": "Café Expresso",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Sucos",
+                "preço": null,
+                "descrição": "Laranja, Limão, Melancia, Abacaxi com Hortelã e Maracujá"
+            },
+            {
+                "nome": "Água de Coco",
+                "preço": "R$ 12,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Açaí",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chocolatto",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Capuccino",
+                "preço": "R$ 22,00",
+                "descrição": ""
+            }
+        ]
+    },
+    "Comida": {
+        "De leve": [
+            {
+                "nome": "Couvert",
+                "preço": "R$ 35,00",
+                "descrição": "Nachos à base de milho, com dois molhos: Tzatziki, molho à base de iogurte e pepino e Hummus: molho à base de grão de bico."
+            },
+            {
+                "nome": "Ceviche Clássico",
+                "preço": "R$ 74,00",
+                "descrição": "Confira a nossa versão Clássico com o peixe em ponta de faca, cebola roxa, especiarias e milho torrado."
+            },
+            {
+                "nome": "Camarões Grelhados",
+                "preço": "R$ 149,00",
+                "descrição": "Ao alho e óleo."
+            },
+            {
+                "nome": "Salmão Tartar Trufado",
+                "preço": "R$ 89,00",
+                "descrição": "Tartar de salmão temperado com azeite trufado e amêndoas assadas. Acompanha chips de mandioca."
+            },
+            {
+                "nome": "Tataki de Atum",
+                "preço": "R$ 87,00",
+                "descrição": "Tataki de atum com emulsão de avocado."
+            }
+        ],
+        "Clássicos": [
+            {
+                "nome": "Batata Clássico",
+                "preço": "R$ 55,00",
+                "descrição": "Batatas crocantes e maionese trufada"
+            },
+            {
+                "nome": "Pastéis",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Peixe em Panko",
+                "preço": "R$ 86,00",
+                "descrição": "Iscas empanadas em farinha panko e servidas com chantilly de limão."
+            },
+            {
+                "nome": "Dadinhos com Melaço",
+                "preço": "R$ 54,00",
+                "descrição": "Dadinhos feitos com tapioca, queijo coalho e melaço apimentado."
+            },
+            {
+                "nome": "Croquete de Camarão",
+                "preço": "R$ 56,00",
+                "descrição": "6 unidades"
+            },
+            {
+                "nome": "Croquete de Costela",
+                "preço": "R$ 58,00",
+                "descrição": "6 unidades"
+            },
+            {
+                "nome": "Camarão em Panko",
+                "preço": null,
+                "descrição": "Camarões empanados em farinha panko e servidos com chantilly de limão ."
+            },
+            {
+                "nome": "Filé Aperitivo",
+                "preço": "R$ 123,00",
+                "descrição": "Filé mignon ao molho de vinho com cebola roxa, tomate cereja e parmesão gratinado. Acompanha torrada."
+            },
+            {
+                "nome": "Camarão Salteados",
+                "preço": "R$ 86,00",
+                "descrição": "Camarões salteados no alho ao molho de vinho brando"
+            }
+        ],
+        "Sandubas": [
+            {
+                "nome": "Du Chef",
+                "preço": "R$ 72,00",
+                "descrição": "Blend de carne, mozzarella, tomates grelhados e maionese trufada, servido com fritas."
+            },
+            {
+                "nome": "B.B.",
+                "preço": "R$ 76,00",
+                "descrição": "Blend de carne, queijo cheddar cremoso, maionese de pimenta defumada, fatias crocantes de bacon e cebolas chips. Servido com fritas."
+            }
+        ],
+        "Saladas ": [
+            {
+                "nome": "Poke Bowl",
+                "preço": "R$ 61,00",
+                "descrição": "A salada moderninha feita com quinoa, rúcula, cenoura, pepino, tomates, cebola crispy e amêndoas."
+            },
+            {
+                "nome": "Salada Grega",
+                "preço": "R$ 75,00",
+                "descrição": "Salada composta por azeitona galega, cebola roxa,limão, orégano, pepino, pimenta preta, queijo de cabra, tomate, tomate cherry vermelho, tomate cherry amarelo"
+            },
+            {
+                "nome": "Salada de Cuzcuz",
+                "preço": "R$ 72,00",
+                "descrição": "Salada a base de cuzcuz, combinada com beterraba, grão de bico, pepino, limão, laranja, mel, amêndoa, iogurte grego, pimenta preta, azeite, cominho, pimentão doce."
+            }
+        ],
+        "Salada Caesar": [
+            {
+                "nome": "Salada Caesar com Camarão",
+                "preço": "R$ 86,00",
+                "descrição": "Folhas de alface frisée fresquinhas com camarões grelhados, bacon crocante, lascas nobres de Grana Padano e nosso molho Caesar artesanal. Leve, sofisticada e cheia de sabor."
+            },
+            {
+                "nome": "Salada Caesar com Frango",
+                "preço": "R$ 64,00",
+                "descrição": "Alface frisée fresca, frango grelhado suculento, bacon crocante, lascas de Grana Padano e nosso molho Caesar artesanal. Clássica, leve e cheia de sabor"
+            }
+        ],
+        "Pratos Principais": [
+            {
+                "nome": "Sugestão Clássico\nLagosta",
+                "preço": "",
+                "descrição": "Sugestão Clássico"
+            },
+            {
+                "nome": "Moquequinha Baiana - Prêmio Sabores da Orla",
+                "preço": "R$ 109,00",
+                "descrição": "Moquequinha baiana de camarão e banana da terra com lascas de coco e folha de arroz. Acompanha arroz e farofa de dendê."
+            },
+            {
+                "nome": "Peixe com Arroz ao Limone",
+                "preço": null,
+                "descrição": "Peixe com arroz ao limone, legumes orgânicos, lâmina de amêndoas assadas e salsa vierge."
+            },
+            {
+                "nome": "Atum selado",
+                "preço": "R$ 101,00",
+                "descrição": "File de atum selado com gergelim, purê de batata baroa com wasabi e molho teriyaki"
+            },
+            {
+                "nome": "Mignon com batata trufada",
+                "preço": "R$ 108,00",
+                "descrição": "Com batata calabresa e azeite trufado"
+            }
+        ],
+        "Para Compartilhar (2 a 3 pessoas)": [
+            {
+                "nome": "Sugestão Clássico\nPeixe do dia grelhado",
+                "preço": "R$ 282,00",
+                "descrição": "Sugestão Clássico"
+            },
+            {
+                "nome": "Moqueca Baiana",
+                "preço": null,
+                "descrição": "Acompanha, arroz, farofa com páprica e pirão."
+            },
+            {
+                "nome": "Plancha frutos do mar",
+                "preço": "R$ 270,00",
+                "descrição": "Polvo, lula, peixe, camarão, cebola roxa, rabanete, tomate cereja e brócolis. Serve de 3 a 4 pessoas."
+            }
+        ],
+        "Enfim, Nós!": [
+            {
+                "nome": "Banoffe",
+                "preço": "R$ 46,00",
+                "descrição": "Banana com doce de leite com chantilly e calda de chocolate meio amargo belga e biscoito."
+            },
+            {
+                "nome": "Merengue Clássico",
+                "preço": "R$ 46,00",
+                "descrição": "Mousse de limão, suspiro e morango"
+            }
+        ],
+        "Boné Clássico": [
+            {
+                "nome": "Boné O Rio é Clássico",
+                "preço": "R$ 89,99",
+                "descrição": "Disponível em 5 cores: preto, cinza, verde, azul, rosa e lilás"
+            },
+            {
+                "nome": "Boné feliz no simples",
+                "preço": "R$ 89,99",
+                "descrição": "Disponível em 5 cores: preto, cinza, verde, azul, rosa e lilás"
+            },
+            {
+                "nome": "Boné \"Do your jumps\"",
+                "preço": "R$ 89,99",
+                "descrição": "Disponível em 5 cores: preto, cinza, verde, azul, rosa e lilás"
+            },
+            {
+                "nome": "Boné País tropical",
+                "preço": "R$ 89,99",
+                "descrição": "Disponível em 5 cores: preto, cinza, verde, azul, rosa e lilás"
+            },
+            {
+                "nome": "Boné Calor da porra",
+                "preço": "R$ 89,99",
+                "descrição": "Disponível em 5 cores: preto, cinza, verde, azul, rosa e lilás"
+            }
+        ]
+    },
+    "Bebidas": {
+        "Parcerias": [],
+        "Drinks ": [
+            {
+                "nome": "Caipvodka",
+                "preço": null,
+                "descrição": "R$ 42,00"
+            },
+            {
+                "nome": "Caipsaquê",
+                "preço": null,
+                "descrição": "R$ 49,00"
+            },
+            {
+                "nome": "Caipivodka Grey Goose",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Caipirinha Premium",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Caipirinha",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Classic Drinks ": [
+            {
+                "nome": "Sugestão Clássico\nIpanema",
+                "preço": null,
+                "descrição": "Sugestão Clássico"
+            },
+            {
+                "nome": "Aperol Spritz",
+                "preço": null,
+                "descrição": "Brut com Aperol."
+            },
+            {
+                "nome": "Moscow Mule",
+                "preço": null,
+                "descrição": "Vodka, ginger beer, limão e espuma de gengibre."
+            },
+            {
+                "nome": "Downwind",
+                "preço": null,
+                "descrição": "Ir na direção do vento, como se fosse a primeira vez. Um mix de Vodka, morango, uva red globe, abacaxi e limão siciliano."
+            },
+            {
+                "nome": "Urca",
+                "preço": null,
+                "descrição": "Gin, triple sec, gengibre, tangerina, limao e água tonica de gengibre."
+            },
+            {
+                "nome": "Grape Love",
+                "preço": null,
+                "descrição": "Gin, uva thompson verde, abacaxi, manjericão fresco e limão siciliano."
+            },
+            {
+                "nome": "Postinho",
+                "preço": null,
+                "descrição": "Gin, aperitivo italiano de hibisco com flor de laranjeira, uvas red globe, morango, bitter e espuma de gengibre."
+            },
+            {
+                "nome": "Recreio",
+                "preço": null,
+                "descrição": "Gin, gengibre fresco, hortelã, limão, simple syrup e água tonica."
+            },
+            {
+                "nome": "Grumari",
+                "preço": null,
+                "descrição": "Rum Bacardi Carta Ouro, mate da praia com hortela gaseificado, rapadura, limao e bitters."
+            },
+            {
+                "nome": "Caparica",
+                "preço": null,
+                "descrição": "Gin com infusão de hibisco, triple sec, limão e soda artesanal de gengibre."
+            },
+            {
+                "nome": "Expresso Martini",
+                "preço": null,
+                "descrição": "Vodka, Licor 43 de chocolate, Café expresso"
+            },
+            {
+                "nome": "Piña Colada",
+                "preço": null,
+                "descrição": "Rum Bacardi Carta Blanca, Suco de Abacaxi, Leite de coco"
+            },
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": "Rum Bacardi Carta Blanca, Hortelã, Água com gás, Limão Taiti, Angostura"
+            },
+            {
+                "nome": "Margarita",
+                "preço": null,
+                "descrição": "Tequila, Licor Triple Sec, Limão Taiti"
+            }
+        ],
+        "Gins e Tônicas": [
+            {
+                "nome": "Limão Siciliano",
+                "preço": null,
+                "descrição": "Gin, água tônica, limão siciliano e alecrim."
+            },
+            {
+                "nome": "Tangerina",
+                "preço": null,
+                "descrição": "Gin, água tônica, angustura e anis estrelado"
+            },
+            {
+                "nome": "Maçã Verde",
+                "preço": null,
+                "descrição": "Gin, água tônica, xarope de maçã verde e manjericão"
+            },
+            {
+                "nome": "Gin Tônica",
+                "preço": null,
+                "descrição": "Gin e água tônica"
+            }
+        ],
+        "Mistura Clássica ": [
+            {
+                "nome": "Caju",
+                "preço": null,
+                "descrição": "Caju, limão siciliano e rapadura"
+            }
+        ],
+        "Frozens ": [
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": "Rum Barcardi Carta Blanca, soda, limão e hortelã."
+            },
+            {
+                "nome": "Strawberry",
+                "preço": null,
+                "descrição": "Morango e Vodka."
+            }
+        ],
+        "Bebidas ": [
+            {
+                "nome": "Água",
+                "preço": null,
+                "descrição": "R$ 8,00"
+            },
+            {
+                "nome": "Água com Gás",
+                "preço": null,
+                "descrição": "R$ 9,00"
+            },
+            {
+                "nome": "Refrigerante",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água de Coco",
+                "preço": null,
+                "descrição": "R$ 12,00"
+            },
+            {
+                "nome": "Red Bull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Expresso",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Soda da casa",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Mate da casa",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Jarra de Drinks ": [
+            {
+                "nome": "Clericot Chandon Tradicional",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Clericot Especial Clássico",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Sucos Naturais ": [
+            {
+                "nome": "Laranja",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Melancia",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Abacaxi com Hortelã",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Açaí",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Maracujá",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cervejas ": [
+            {
+                "nome": "Chopp",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Stella Artois",
+                "preço": null,
+                "descrição": "Long Neck."
+            },
+            {
+                "nome": "Stella Pure Gold",
+                "preço": null,
+                "descrição": "Sem glúten e reduzida em calorias"
+            },
+            {
+                "nome": "Budweiser",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Budweiser Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Becks",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Corona",
+                "preço": null,
+                "descrição": "Long Neck"
+            },
+            {
+                "nome": "Corona Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Spaten",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Michelob ultra",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Colorado Ribeirão",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Combo": [
+            {
+                "nome": "Combo Bombay Sapphire",
+                "preço": null,
+                "descrição": "Uma garrafa Gin Bombay Sapphire, cinco unidades redbull, duas garrafinhas xarope 50ml"
+            },
+            {
+                "nome": "Combo Grey Goose",
+                "preço": null,
+                "descrição": "Uma garrafa Grey Goose, cinco redbull, duas garrafinhas xarope 50ml"
+            },
+            {
+                "nome": "Combo Bombay & Tonic",
+                "preço": null,
+                "descrição": "Uma garrafa Gin Bombay Sapphire, uma garrafa tônica 500ml, duas garrafinhas xarope 50ml"
+            }
+        ],
+        "Doses": [
+            {
+                "nome": "Dose Cachaça",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dose Tequila",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dose Grey Goose",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dose Vodka",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dose Bombay Sapphire",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dose Licor Cointreau",
+                "preço": null,
+                "descrição": "R$ 30,00"
+            },
+            {
+                "nome": "Dose Licor 43",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dose Bacardi Carta Blanca",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dose Whisky Chivas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dose Whisky Jack Daniel's",
+                "preço": null,
+                "descrição": "R$ 37,00"
+            },
+            {
+                "nome": "Dose Whisky Red Label",
+                "preço": null,
+                "descrição": "R$ 35,00"
+            },
+            {
+                "nome": "Dose Whisky Black Label",
+                "preço": null,
+                "descrição": "R$ 45,00"
+            },
+            {
+                "nome": "Dose Whisky Ballantines",
+                "preço": null,
+                "descrição": "R$ 37,00"
+            },
+            {
+                "nome": "Dose Dewar's 12",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dose Cachaça Premium",
+                "preço": "R$ 24,00",
+                "descrição": ""
+            }
+        ]
+    },
+    "Carta de Vinhos": {
+        "Rose": [
+            {
+                "nome": "Clássico Rose, 2021",
+                "preço": null,
+                "descrição": "Nariz: Mistura expressiva de frutas vermelhas, frutas brancas, e um toque de doce Sabor: Elegante e fresco com toques de morango e framboesa. Seco no paladar com um toque suave de doçura Harmonização: Como aperitivo ou peixe grelhado"
+            },
+            {
+                "nome": "Berne AOP Emotion, 2018",
+                "preço": null,
+                "descrição": "A coloração rosa salmão é a coloração elegante que a maioria dos produtores de rosé procuram, frescor em boca e carater frutado."
+            }
+        ],
+        "Brancos": [
+            {
+                "nome": "San Marzano Miluna Bianco Puglia, 2019",
+                "preço": null,
+                "descrição": "Foi neste rótulo que a casta internacional Chardonnay encontrou a tradicional Malvasia Bianca, do sul da Itália. O resultado, harmonioso, emprestou aromas florais deliciosos, além de notas de pêssego e abacaxi em calda à taça."
+            },
+            {
+                "nome": "Errazuriz Sauvignon Blanc Estate Series, 2013",
+                "preço": null,
+                "descrição": "Cor palha amarela com tons esverdeados e prateados. No nariz, este Sauvignon Blanc apresenta aromas cítricos, juntamente com algumas notas de ervas e melão. Consistente com o nariz, o paladar apresenta aromas de pele de tangerina, toranja, além de algumas frutas tropicais e notas de ervas. Um vinho com uma acidez refrescante, grande profundidade e persistência"
+            },
+            {
+                "nome": "Errazuriz Estate Series Pinot Grigio Reserva, 2019",
+                "preço": null,
+                "descrição": "Amarelo palha. Nariz intenso e limpo, com aromas de pera e maçã, nuances florais e toques cítricas. Paladar intenso, com ótima estrutura e suavidade, final longo."
+            },
+            {
+                "nome": "Mancura Etnia Sauvignon Blanc, 2021",
+                "preço": null,
+                "descrição": "Um Sauvignon Blanc aromático e muito fresco. ótima acidez. As uvas vêm de diferentes produtores no Vale Central do Chile, onde há predominância de solos aluviais na maioria das áreas. Harmonização : Ideal com frutos do mar, carnes brancas, peixes brancos cozidos e entradas leves"
+            },
+            {
+                "nome": "Mancura Etnia Chardonnay, 2013",
+                "preço": null,
+                "descrição": "Cor amarelo ouro em cores vibrantes, manchado com sutis tons de verde. Aromas tropicais maduras como pêssego, melão e abacaxi em um paladar que é ao mesmo tempo suave e arredondado ainda refrescante e nítido no final."
+            },
+            {
+                "nome": "Nieto Senetiner Chardonnay, 2021",
+                "preço": null,
+                "descrição": "Apresenta cor amarela clara. Aromaticamente, expressa frutas tropicais como abacaxi e manga, algumas notas cítricas e mel. Na boca, denota a sua passagem por barricas com notas cremosas, uma acidez refrescante e um excelente sabor prolongado."
+            },
+            {
+                "nome": "Zuccardi Q Chardonnay , 2019",
+                "preço": null,
+                "descrição": "Zuccardi Q é um \"Vinho de Região\" É um corte de uvas de vinhedos selecionados, das melhores regiões de Mendoza Cada parcela é colhida separada em diferentes momentos com o objetivo de obter a melhor expressão varietal."
+            },
+            {
+                "nome": "Zuccardi Seria A Torrontes",
+                "preço": null,
+                "descrição": "Os vinhos da linha Zuccardi Serie A buscam mostrar a expressão clássica das variedades mais emblemáticas do país – o A que dá nome ao rótulo vem de Argentina. E não poderia faltar um belíssimo Torrontés de Salta. Ele foi originado nas extremas condições da região de Salta, no norte da Argentina, onde estão alguns dos vinhedos mais altos do mundo. Elegante desde a cor, tem nariz delicado e que traz aromas típicos de flores brancas, rosas e frutas cítricas. Armazenado em borras finas por seis meses, é um vinho branco mais estruturado e com acidez viva. Seus sabores são concentrados e perfumam o paladar por longos segundos após cada gole, tudo com acabamento muito bem delineado. O perfeito equilíbrio entre doçura, frescor e acidez fazem deste Torrontés uma ótima opção para harmonizar comida tailandesa."
+            }
+        ],
+        "Tintos": [
+            {
+                "nome": "Cobos Felino Malbec, 2007",
+                "preço": null,
+                "descrição": "Aromas de frutas negras frescas, ameixa e notas de grafite. Persistente, equilibrado, maciez nos taninos e frescor de uma safra jovem.Passagem de 8 meses em barril de carvalho americano."
+            },
+            {
+                "nome": "Mancura Etnia Cabernet Sauvignon, 2009",
+                "preço": null,
+                "descrição": "Caracteristicamente Cabernet, este vinho apresenta uma cor vermelho-rubi brilhante, com aromas de amora pronunciados no nariz misturando com toques de couro e chocolate. Na boca o vinho é macio e frutado, perfeitamente equilibrado com taninos finos e suaves."
+            },
+            {
+                "nome": "Leyda Reserva Pinot Noir, 2010",
+                "preço": null,
+                "descrição": "Coloração vermelho bordô e aroma de frutas vermelha e herbáceo. Em boca mostrou boa acidez e equilíbrio com álcool."
+            },
+            {
+                "nome": "Miluna Rosso Puglia, 2021",
+                "preço": null,
+                "descrição": "O Miluna Rosso é um rótulo de entrada aos deliciosos vinhos da Puglia. Ele é feito num corte das uvas típicas da Puglia, a Malvasia Nera e Negroamaro, com a uva mais emblemática da Toscana, a Sangiovese. O resultado é surpreendente! Não é preciso girar a taça para sentir os exuberantes aromas de cerejas maduras e ameixas negras com pitadas de especiarias. Encorpado e com taninos redondos, o vinho é equilibrado e fácil de beber e agradar. Um ótimo italiano para bebericar numa roda com os amigos ou para harmonizar com um tradicional antipasti."
+            }
+        ],
+        "Espumantes ": [
+            {
+                "nome": "Chandon Réserve Brut",
+                "preço": null,
+                "descrição": "O aroma apresenta características florais (flores brancas) e frutadas (cítricos, maçã e um toque de abacaxi) com uma nuance de pão fresco. O paladar começa por um ataque franco de uma acidez equilibrada, continua com uma nítida sensação de redondeza e frescor; e finaliza com notas de frutas secas e cítricas com uma persistência média."
+            },
+            {
+                "nome": "Chandon Brut Rosé",
+                "preço": null,
+                "descrição": "A degustação do Chandon Brut Rosé começa pela sedução da reluzente e delicada cor rosada lembrando a goiaba junto às características de uma ótima efervescência: borbulhas finas, ativas e numerosas com uma espuma abundante formando um colarinho persistente na taça. Continua conquistando pela sinfonia de aromas a frutas vermelhas com toques sutis de especiarias doces. E leva ao prazer de uma experiência sensorial única de um paladar extremamente equilibrado."
+            },
+            {
+                "nome": "Chandon Passion On Ice",
+                "preço": null,
+                "descrição": "Surpreendente e refrescante, Chandon Passion é \"On Ice\"! Perfeita para todas as estações do ano. Chandon Passion é para curtir com os amigos, num sunset especial ou, ainda, para recebê-los em casa. Coloque alguns cubos de gelo e pronto!"
+            },
+            {
+                "nome": "Sugestão Clássico\nLouis Bourgon Grande Réserve Blanc de Blancs Brut",
+                "preço": null,
+                "descrição": "Sugestão Clássico"
+            },
+            {
+                "nome": "Sugestão Clássico\nLouis Bourgon Grande Réserve Brut Rosé",
+                "preço": null,
+                "descrição": "Sugestão Clássico"
+            }
+        ],
+        "Champanhe": [
+            {
+                "nome": "Perrier Jouet Brut Rosé",
+                "preço": null,
+                "descrição": "Aroma de frutas vermelhas, com notas de morango e framboesa. Paladar suave e refinado, notas harmoniosas e frutadas, onde se pode sentir a presença de cerejas e aromas frescos, provenientes dos melhores vinhos tintos produzidos na região de Champagne."
+            },
+            {
+                "nome": "Perrier Jouet Grand Brut",
+                "preço": null,
+                "descrição": "Cor dourada, aroma com equilíbrio floral, flores brancas, acácia, espinheiro, notas de frutas brancas, vivaz, dinâmica, fresca, sutil, riqueza aromática com aromas que evoluem numa paleta grande, mas com um toque leve. No paladar as frutas primárias se misturam num vinho completo, com amêndoas e levedura que enche a boca com sua concentração e toque cítrico."
+            },
+            {
+                "nome": "Moet Ice Imperial",
+                "preço": null,
+                "descrição": "O primeiro champagne para ser apreciado com gelo, o Moët & Chandon Ice Impérial tem um estilo moderno, mas sem perder a essência e elegância dos aclamados champagnes. Em seu assemblage, a Pinot Noir domina a maior parcela, seguida da Pinot Meunier e Chardonnay. Com um paladar adocicado, pode ser degustado com gelo, frutas ou até na elaboração de drinks."
+            },
+            {
+                "nome": "Moet Chandon Brut",
+                "preço": null,
+                "descrição": "Sua cor é amarela dourada com reflexos verdes. Seu aroma é composto pela intensidade picante da maçã verde e das frutas cítricas, com frescor de nuances minerais e flores. Já o paladar fica a cargo das frutas brancas (pêra, maçã e pêssego) com borbulhas delicadas, leve vivacidade de frutas cítricas e nuances de groselha."
+            },
+            {
+                "nome": "Veuve Clicquot",
+                "preço": null,
+                "descrição": "Em 1805, Madame Clicquot, uma jovem viúva de 27 anos, assumiu as rédeas da Casa fundada em Reims em 1772 e tornou-se uma das primeiras empresárias da história. Ousada e visionária, ela tornou seu champanhe conhecido pelo mundo Know How & Craftsmanship: Por mais de 200 anos, a House manteve-se fiel ao seu lema: ‘Apenas uma qualidade, a melhor’."
+            }
+        ]
+    },
+    "endereço": "Avenida Vieira Souto, 16, Ipanema, Rio de Janeiro, RJ, Brasil",
+    "telefone": "(21) 3489-9217",
+    "email": "financeiro@classicobeachclub.com",
+    "website": "https://www.classicobeachclub.com/",
+    "name": "Clássico Beach Club Ipanema"
+}

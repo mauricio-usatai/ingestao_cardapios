@@ -1,0 +1,725 @@
+{
+    "Menu Principal": {
+        "Esfihas": [
+            {
+                "nome": "Aberta\nCarne",
+                "preço": "R$ 8,70",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nCarne com Queijo",
+                "preço": "R$ 12,90",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nQueijo",
+                "preço": "R$ 8,70",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nCalabresa",
+                "preço": "R$ 8,70",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nCalabresa com Queijo",
+                "preço": "R$ 12,90",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nAtum",
+                "preço": "R$ 10,45",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nAtum com Queijo",
+                "preço": "R$ 14,65",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Fechada\nEscarola",
+                "preço": "R$ 8,70",
+                "descrição": "Fechada"
+            },
+            {
+                "nome": "Aberta\nEscarola com Queijo",
+                "preço": "R$ 12,90",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Fechada\nFrango",
+                "preço": "R$ 8,70",
+                "descrição": "Fechada"
+            },
+            {
+                "nome": "Aberta\nFrango com Queijo",
+                "preço": "R$ 12,90",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nQueijo com Milho",
+                "preço": "R$ 10,90",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nQueijo com Palmito",
+                "preço": "R$ 13,50",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nQueijo com Pepperoni",
+                "preço": "R$ 12,95",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nQueijo com calabresa defumada",
+                "preço": "R$ 11,90",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nQueijo com Bacon",
+                "preço": "R$ 12,95",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nEscarola com Bacon",
+                "preço": "R$ 11,90",
+                "descrição": "Aberta"
+            }
+        ],
+        "Esfihas com Catupiry": [
+            {
+                "nome": "Aberta\nCarne com Catupiry",
+                "preço": "R$ 13,20",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nQueijo com Catupiry",
+                "preço": "R$ 13,20",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nCalabresa com Catupiry",
+                "preço": "R$ 13,20",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nAtum com Catupiry",
+                "preço": "R$ 14,95",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nEscarola com Catupiry",
+                "preço": "R$ 13,20",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta ou Fechada\nFrango com Catupiry",
+                "preço": "R$ 13,20",
+                "descrição": "Aberta ou Fechada"
+            },
+            {
+                "nome": "Fechada\nCatupiry",
+                "preço": "R$ 10,40",
+                "descrição": "Fechada"
+            },
+            {
+                "nome": "Aberta\nCatupiry com Milho",
+                "preço": "R$ 12,95",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nCatupiry com Palmito",
+                "preço": "R$ 14,60",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nCatupiry com Pepperoni",
+                "preço": "R$ 13,50",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nCatupiry com Bacon",
+                "preço": "R$ 13,50",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Aberta\nCatupiry com Calabresa Defumada",
+                "preço": "R$ 12,95",
+                "descrição": "Aberta"
+            }
+        ],
+        "Pratos Quentes": [
+            {
+                "nome": "Charuto de Repolho",
+                "preço": "R$ 48,90",
+                "descrição": "Folhas de repolho com recheio de carne moída e arroz ao molho de tomate"
+            },
+            {
+                "nome": "Charuto de Uva",
+                "preço": "R$ 52,90",
+                "descrição": "Folhas de uva com recheio de carne moída e arroz, ao molho de tomate"
+            },
+            {
+                "nome": "Charutos Mistos",
+                "preço": "R$ 52,90",
+                "descrição": "Meia porção de charuto de uva e meia porção de charuto de repolho"
+            },
+            {
+                "nome": "Abobrinha Recheada",
+                "preço": "R$ 42,90",
+                "descrição": "Abobrinhas recheadas com carne moída e arroz, ao molho de tomate"
+            },
+            {
+                "nome": "Berinjela Recheada",
+                "preço": "R$ 42,90",
+                "descrição": "Berinjelas recheadas com carne moída e arroz, ao molho de tomate"
+            },
+            {
+                "nome": "Kafta no Espeto",
+                "preço": "R$ 48,90",
+                "descrição": "Carne moída temperada assada | Acompanhada de molho vinagrete"
+            },
+            {
+                "nome": "Linguiça Marroquina",
+                "preço": "R$ 52,90",
+                "descrição": "Linguiça de carneiro cozida recheada com carne moída e arroz, ao molho de tomate"
+            },
+            {
+                "nome": "Linguiça Marroquina Frita",
+                "preço": "R$ 57,90",
+                "descrição": "Linguiça de carneiro cozida recheada com carne moída e arroz, frita ao alho e óleo"
+            },
+            {
+                "nome": "Arroz com Lentilha",
+                "preço": "R$ 37,50",
+                "descrição": "Arroz, lentilha e cebola"
+            },
+            {
+                "nome": "4 Unidades\nFalafel 1/2 porção",
+                "preço": "R$ 22,90",
+                "descrição": "4 Unidades"
+            },
+            {
+                "nome": "8 Unidades\nFalafel",
+                "preço": "R$ 39,90",
+                "descrição": "8 Unidades"
+            }
+        ],
+        "Menu Executivo": [
+            {
+                "nome": "Menu execuivo",
+                "preço": "R$ 49,90",
+                "descrição": "Prato principal + pasta + acompanhamento. (Disponível de Segunda a sexta.)"
+            }
+        ],
+        "Pratos Frios": [
+            {
+                "nome": "kibe Cru",
+                "preço": "R$ 48,90",
+                "descrição": "Carne moída com trigo, acompanhada de cebola e hortelã"
+            },
+            {
+                "nome": "Homus",
+                "preço": "R$ 39,90",
+                "descrição": "Pasta de grão-de-bico com tahine e alho"
+            },
+            {
+                "nome": "Babaganoush",
+                "preço": "R$ 37,90",
+                "descrição": "Patê de berinjela com tahine e alho"
+            },
+            {
+                "nome": "Coalhada Seca",
+                "preço": "R$ 44,90",
+                "descrição": "Pasta de coalhada salgada"
+            },
+            {
+                "nome": "Monte Seu Trio",
+                "preço": "R$ 52,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Coalhada Fresca",
+                "preço": "R$ 10,35",
+                "descrição": "Leite reidratado e coalho natural"
+            },
+            {
+                "nome": "Coalhada Fresca com Mel",
+                "preço": "R$ 14,50",
+                "descrição": "Leite reidratado e coalho natural, com mel"
+            },
+            {
+                "nome": "Coalhada com Pepino",
+                "preço": "R$ 31,90",
+                "descrição": "Coalhada fresca com pepino, alho e hortelã seca"
+            },
+            {
+                "nome": "Tabule",
+                "preço": "R$ 35,90",
+                "descrição": "Salada de pepino, salsa, tomate, trigo e folhas de alface"
+            },
+            {
+                "nome": "Chancliche Preparado",
+                "preço": "R$ 31,25",
+                "descrição": "Queijo sírio de ricota apimentada, preparado com tomate e cebola"
+            }
+        ],
+        "Sobremesas": [
+            {
+                "nome": "Pudim de Leite",
+                "preço": "R$ 13,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Mousse",
+                "preço": "R$ 13,00",
+                "descrição": "Chocolate ou maracujá"
+            },
+            {
+                "nome": "Brigadeiro",
+                "preço": "R$ 7,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Quindim",
+                "preço": "R$ 7,00",
+                "descrição": ""
+            }
+        ],
+        "Sobremesas Geladas": [
+            {
+                "nome": "Torta Almendrada",
+                "preço": "R$ 15,90",
+                "descrição": "Com farofa crocante e amêndoas picadas"
+            },
+            {
+                "nome": "Bombom Brigadeiro",
+                "preço": "R$ 15,90",
+                "descrição": "Sorvete de brigadeiro recheado"
+            },
+            {
+                "nome": "Torta de Limão",
+                "preço": "R$ 15,90",
+                "descrição": "Massa sablee com recheio de creme de limão, decorado com mashmallow e raspas de limão"
+            },
+            {
+                "nome": "Chocomenta",
+                "preço": "R$ 15,90",
+                "descrição": "Torta de chocolate com amêndoas coberta com sorvete de menta e calda de chocolate"
+            },
+            {
+                "nome": "Torta de Maçã",
+                "preço": "R$ 14,90",
+                "descrição": "Torta de maçã caramelizada com sorvete de creme e canela"
+            },
+            {
+                "nome": "Surprise",
+                "preço": "R$ 15,90",
+                "descrição": "Torta de chocolate, castanha, coberta com chocolate e calda"
+            },
+            {
+                "nome": "Bombom de Avelã",
+                "preço": "R$ 15,90",
+                "descrição": "Sorvete de avelã recheado com sorvete de chocolate coberto com calda de chocolate e pedaços de avelã"
+            },
+            {
+                "nome": "Bombom Tartufo",
+                "preço": "R$ 15,90",
+                "descrição": "Sabor chocolate recheado com sorvete de nata e cobertura de cacau"
+            },
+            {
+                "nome": "Bombom Tropical",
+                "preço": "R$ 15,90",
+                "descrição": "Sorvete de coco com bombom de chocolate e doce de leite"
+            },
+            {
+                "nome": "Torta Alemã",
+                "preço": "R$ 15,90",
+                "descrição": "Bolacha com creme e passas ao rum com calda de chocolate"
+            },
+            {
+                "nome": "Torta Holandesa",
+                "preço": "R$ 15,90",
+                "descrição": "Creme holandês com biscoitos Calipso e calda de chocolate"
+            },
+            {
+                "nome": "Banoffee",
+                "preço": "R$ 15,90",
+                "descrição": "Torta de banana, doce de leite, canela e chantilly"
+            }
+        ],
+        "Doces Sírios": [
+            {
+                "nome": "Belewa",
+                "preço": "R$ 9,90",
+                "descrição": "Massa folhada, recheio de nozes"
+            },
+            {
+                "nome": "Burma",
+                "preço": "R$ 9,90",
+                "descrição": "Doce de fios no formato de charuto, recheio de nozes"
+            },
+            {
+                "nome": "Dedo Aberto",
+                "preço": "R$ 9,90",
+                "descrição": "Massa folhada, recheio de nozes"
+            },
+            {
+                "nome": "Fataier",
+                "preço": "R$ 9,90",
+                "descrição": "Massa de semolina, recheio de nozes"
+            },
+            {
+                "nome": "Faisalim",
+                "preço": "R$ 9,90",
+                "descrição": "Doce em fios no formato quadrado ou triangular, recheio de nozes"
+            },
+            {
+                "nome": "Halawi",
+                "preço": "R$ 9,90",
+                "descrição": "Doce de gergelim"
+            },
+            {
+                "nome": "Mantecal",
+                "preço": "R$ 9,90",
+                "descrição": "Com recheio de nozes"
+            },
+            {
+                "nome": "Mamul",
+                "preço": "R$ 9,90",
+                "descrição": "Massa de semolina recheada com nozes e coberto com açúcar"
+            },
+            {
+                "nome": "Ninho",
+                "preço": "R$ 9,90",
+                "descrição": "Doce em fios no formato de ninho, recheio de nozes ou pistache"
+            },
+            {
+                "nome": "Semolina",
+                "preço": "R$ 9,90",
+                "descrição": "Doce de semolina"
+            },
+            {
+                "nome": "Torta de Semolina",
+                "preço": "R$ 10,90",
+                "descrição": "Doce de semolina com geléia de damasco"
+            },
+            {
+                "nome": "10 Unidades\nMinidoces Sírios",
+                "preço": "R$ 28,90",
+                "descrição": "10 Unidades"
+            },
+            {
+                "nome": "15 Unidades\nMinidoces Sírios",
+                "preço": "R$ 39,90",
+                "descrição": "15 Unidades"
+            },
+            {
+                "nome": "Unidade\nRahat",
+                "preço": "R$ 2,00",
+                "descrição": "Unidade"
+            },
+            {
+                "nome": "Pacote 500g\nRahat",
+                "preço": "R$ 17,90",
+                "descrição": "Pacote 500g"
+            },
+            {
+                "nome": "Torrão de Gergelim",
+                "preço": "R$ 3,50",
+                "descrição": "Sementes de gergelim com caramelo"
+            },
+            {
+                "nome": "Em lata 500g\nHalawi",
+                "preço": "R$ 46,50",
+                "descrição": "Em lata 500g"
+            }
+        ],
+        "Sorvetes": [
+            {
+                "nome": "Picolé de Pistache",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Picolé de Caramelo com flor de sal",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Picolé de torta de limão",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Picolé de Baunilha de madagascar",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Picolé de Morango",
+                "preço": "R$ 12,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Picolé de limão",
+                "preço": "R$ 12,90",
+                "descrição": ""
+            },
+            {
+                "nome": "Picolé Chocolate 70% cacau",
+                "preço": "R$ 14,90",
+                "descrição": ""
+            }
+        ]
+    },
+    "Salgados": {
+        "Salgados": [
+            {
+                "nome": "Frito\nKibe",
+                "preço": "R$ 11,50",
+                "descrição": "Frito"
+            },
+            {
+                "nome": "Coxinha",
+                "preço": "R$ 11,50",
+                "descrição": "Com recheio de frango desfiada e cebolada"
+            },
+            {
+                "nome": "1 Unidade\nPão Sírio",
+                "preço": "R$ 2,90",
+                "descrição": "1 Unidade"
+            },
+            {
+                "nome": "6 Unidades\nPão Sírio",
+                "preço": "R$ 14,90",
+                "descrição": "6 Unidades"
+            },
+            {
+                "nome": "12 Unidades\nPão Sírio",
+                "preço": "R$ 23,90",
+                "descrição": "12 Unidades"
+            }
+        ],
+        "Salgados com Catupiry": [
+            {
+                "nome": "Novidade\nKibe com Catupiry",
+                "preço": "R$ 14,50",
+                "descrição": "Novidade"
+            },
+            {
+                "nome": "Novidade\nCoxinha com Catupiry",
+                "preço": "R$ 14,50",
+                "descrição": "Novidade"
+            }
+        ]
+    },
+    "Doces": {
+        "Esfihas Doces": [
+            {
+                "nome": "Aberta\nQueijo, Banana, Doce de Leite e Canela",
+                "preço": "R$ 11,90",
+                "descrição": "Aberta"
+            },
+            {
+                "nome": "Fechada\nChocolate com Avelã",
+                "preço": "R$ 9,90",
+                "descrição": "Fechada"
+            },
+            {
+                "nome": "Fechada\nDoce de Leite",
+                "preço": "R$ 9,90",
+                "descrição": "Fechada"
+            },
+            {
+                "nome": "Novidade\nEsfiha de Pistache",
+                "preço": "R$ 14,90",
+                "descrição": "Novidade"
+            }
+        ]
+    },
+    "Bebidas": {
+        "Soft Drinks": [
+            {
+                "nome": "Água Mineral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Refrigerante",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "H2OH! Limão",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Bebidas da Casa": [
+            {
+                "nome": "Chá Marroquino Hortelã",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Pink Lemonade",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chá Gelado",
+                "preço": null,
+                "descrição": "Feito na casa"
+            },
+            {
+                "nome": "Soda Italiana",
+                "preço": null,
+                "descrição": "Sabores: maçã verde, blueberry, granadine"
+            }
+        ],
+        "Sucos": [
+            {
+                "nome": "Sabores (Com Açúcar e Leite Condensado)",
+                "preço": null,
+                "descrição": "Abacaxi, acerola, graviola, limão, mamão, manga, maracujá e morango."
+            },
+            {
+                "nome": "Suco 2 Sabores",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco de Laranja",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco 1 Sabor + Hortelã",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco 1 Sabor + Laranja",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cafés": [
+            {
+                "nome": "Espresso Ameno",
+                "preço": null,
+                "descrição": "Intensidade 4 - Torra média, baixa acidez, notas de cereais e avelã."
+            },
+            {
+                "nome": "Espresso Atento",
+                "preço": null,
+                "descrição": "Intensidade 8 - Acidez média e sabor marcante, com notas intensas de caramelo e leve sabor frutado."
+            },
+            {
+                "nome": "Cappuccino Classic",
+                "preço": null,
+                "descrição": "Cremoso, elaborado com café, leite e canela."
+            },
+            {
+                "nome": "Chá Marroquino Hortelã",
+                "preço": null,
+                "descrição": "Quente"
+            }
+        ],
+        "Cervejas": [
+            {
+                "nome": "Heineken",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Amstel (lata)",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Heineken Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Eisenbahn",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chopp Claro",
+                "preço": "R$ 12,00",
+                "descrição": "260ml"
+            }
+        ],
+        "Destilados": [
+            {
+                "nome": "Arak",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Smirnoff",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Steinhaeger",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ypioca",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Caipirinhas": [
+            {
+                "nome": "Ypioca",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Steinhaeger",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Smirnoff",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Vinhos": [
+            {
+                "nome": "Marcus James Cabernet Sauvignon",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Marcus James Pinot Noir",
+                "preço": null,
+                "descrição": "Olfato: Possui aromas frutados, lembrando morangos. Paladar: É um vinho jovem e muito agradável, com um paladar macio. Harmonização: Bastante versátil e acompanha pratos como Salmão Ensopado, Sopa de Capeletti, Filé ao Molho Madeira, Moqueca Capixaba."
+            },
+            {
+                "nome": "Marcus James Chardonnay",
+                "preço": null,
+                "descrição": "Apresenta coloração amarelo-palha, é um vinho de aromas frescos e frutados, agradável sabor e boa persistência."
+            },
+            {
+                "nome": "Vinho da Casa",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "endereço": "Av Dr. Ricardo Jafet , 3332, ., São Paulo, SP, Brasil",
+    "telefone": null,
+    "email": "faleconosco@esfihaimigrantes.com.br",
+    "website": "https://www.instagram.com/esfihaimigrantes/",
+    "name": "Esfiha Imigrantes"
+}

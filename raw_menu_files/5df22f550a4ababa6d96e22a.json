@@ -1,0 +1,912 @@
+{
+    "Menu Executivo": {
+        "Segunda à Sexta 12h as 15:30": [
+            {
+                "nome": "Monte seu Menu",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Taça de Vinho por R$15,00",
+                "preço": "R$ 15,00",
+                "descrição": "Promoção + R$15,00. Taça de vinho Argentino, tinto ou branco."
+            },
+            {
+                "nome": "ENTRADA | Escolha 1 Opção",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Cromesqui com Compota de Cebolas",
+                "preço": "",
+                "descrição": "Bolinho de risoto frito e recheado com queijo filante sobre compota de cebolas agridoce."
+            },
+            {
+                "nome": "Salada de Rúcula e Nozes ao Molho Roquefort",
+                "preço": "",
+                "descrição": "Salada de Rúcula e Nozes ao Molho Roquefort."
+            },
+            {
+                "nome": "Salada De Beterraba e queijo de Cabra",
+                "preço": "",
+                "descrição": "Beterraba cozida em cubinhos com queijo de cabra e verdinhos."
+            },
+            {
+                "nome": "PRATOS PRINCIPAIS | Escolha seu Prato",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Risotto Chevre",
+                "preço": "R$ 62,00",
+                "descrição": "Risotto de beterraba com queijo de cabra."
+            },
+            {
+                "nome": "Pescada Branca com Legumes na Manteiga de Ervas",
+                "preço": "R$ 75,00",
+                "descrição": "Filé de Pescada Branca cozido no sous vide, assado e acompanhado de legumes salteados na manteiga de ervas."
+            },
+            {
+                "nome": "Estrogonofe de Filé Mignon",
+                "preço": "R$ 72,00",
+                "descrição": "Estrogonoffe de filé mignon, com batatas fritas e arroz branquinho."
+            },
+            {
+                "nome": "Entrecote na Manteiga maitre d'hotel",
+                "preço": "R$ 79,00",
+                "descrição": "Entrecôte (filé de costela) na manteiga de ervas, e batatas fritas pra acompanhar."
+            },
+            {
+                "nome": "Escalopes de Mignon com Cogumelos",
+                "preço": "R$ 79,00",
+                "descrição": "Escalopes de filé mignon ao molho de cogumelos com batatas bolinhas assadas em ervas."
+            },
+            {
+                "nome": "FRICASSE DE FRANGO",
+                "preço": "R$ 62,00",
+                "descrição": "Frango desfiado e temperado com cogumelos e queijos e gratinado acompanha arroz e fritas"
+            },
+            {
+                "nome": "Farfalle de Saumon",
+                "preço": "R$ 59,00",
+                "descrição": "Farfalle com lascas de salmão e ervilhas ao molho Champagne."
+            },
+            {
+                "nome": "SOBREMESA | Escolha Sua Sobremesa",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Choux Glacê",
+                "preço": "",
+                "descrição": "Carolina de massa choux recheada de sorvete de creme e coberta por calda de caramelo."
+            },
+            {
+                "nome": "Salada de Frutas",
+                "preço": "",
+                "descrição": "Um mix de frutas do dia. Consulte o garçom."
+            },
+            {
+                "nome": "Panacota com Geleia",
+                "preço": "",
+                "descrição": "Deliciosa Panacota com geleia de frutas vermelhas"
+            }
+        ]
+    },
+    "Menu Principal": {
+        "Snacks": [
+            {
+                "nome": "Burger Spécial",
+                "preço": "R$ 58,00",
+                "descrição": "Hambúrguer de blend de costela, compota de cebolas caramelizada, queijo Brie, Rucula no pão brioche. E já vem com batatas fritas. *Acrescente ketchup ou Maionese da casa por: R$ 3,00"
+            },
+            {
+                "nome": "Quiche du Jour",
+                "preço": "R$ 52,00",
+                "descrição": "Quiche do dia, acompanhada de um mix de salada de alface frisée e alface mimosa com tomatinhos cereja ao molho de mostarda."
+            },
+            {
+                "nome": "Croque Monsieur",
+                "preço": "R$ 55,00",
+                "descrição": "Pão tartaruga de fermentação natural, presunto, molho bechamel e queijo emmental,mussarella gratinada. Acompanha Mix de alface frisée e alface mimosa,tomatinhos cereja ao molho mostarda no cafe e almoço ou jantar."
+            },
+            {
+                "nome": "Croque Madame",
+                "preço": "R$ 58,00",
+                "descrição": "Pão tartaruga de fermentação natural, presunto, molho bechamel e queijo emmental,mussarella gratinada. Acompanha Mix de alface frisée e alface mimosa,tomatinhos cereja ao molho mostarda no cafe e almoço ou jantar."
+            }
+        ],
+        "Petiscos e Entradas": [
+            {
+                "nome": "Pastel de Brie",
+                "preço": "R$ 42,00",
+                "descrição": "Porção de cinco mini pastéis recheados com queijo brie, e acompanhado de geleia de damascos."
+            },
+            {
+                "nome": "Brie Fondant Pané",
+                "preço": "R$ 52,00",
+                "descrição": "Queijo Brie empanado, servido quente com frutas secas, pistache e nozes. Acompanha torradas e geleia de pimenta."
+            },
+            {
+                "nome": "Canapés de Tartar",
+                "preço": "R$ 52,00",
+                "descrição": "10 canapés de baguete francesa com tartar fresco de filé mignon."
+            },
+            {
+                "nome": "Cogumelos Trufados ao molho Roti com Ovo Mollet",
+                "preço": "R$ 52,00",
+                "descrição": "Cogumelos no azeite trufado ao molho roti com Ovo Mollet e acompanhados de fatias de pão Tartaruga, fermentação natural."
+            },
+            {
+                "nome": "Cromesquis",
+                "preço": "R$ 38,00",
+                "descrição": "Bolinhos de risoto, recheados com queijo e compota de cebolas caramelizadas para acompanhar."
+            },
+            {
+                "nome": "Frites Mayo",
+                "preço": "R$ 28,00",
+                "descrição": "Batata frita fininha com maionese da casa."
+            }
+        ],
+        "Saladas e Sopas": [
+            {
+                "nome": "Novidade\nCrevette Salade",
+                "preço": "R$ 58,00",
+                "descrição": "Novidade"
+            },
+            {
+                "nome": "Soupe á l'oignon",
+                "preço": "R$ 45,00",
+                "descrição": "Tradicional sopa de cebolas á moda francesa com gratin de parmesão."
+            },
+            {
+                "nome": "Salade de Saint Marcelaine Chaud",
+                "preço": "R$ 48,00",
+                "descrição": "Mix de folhas de alface, nozes, crutons, damasco, tomatinhos cereja, um molho cítrico de mostardas e um queijo Saint Marcelaine empanado e frito por cima."
+            }
+        ],
+        "Pratos": [
+            {
+                "nome": "Steak Frites",
+                "preço": "R$ 82,00",
+                "descrição": "Típico prato francês de medalhões de filé mignon, servidos em prato fundo com o molho de sua preferência. Acompanha batatas fritas."
+            },
+            {
+                "nome": "Sauce Moutarde",
+                "preço": "",
+                "descrição": "Acompanhamento do Steak Frites, um molho de mostardas l’Ancienne e Dijon."
+            },
+            {
+                "nome": "Sauce aux Champignons",
+                "preço": "",
+                "descrição": "Acompanhamento do Steak Frites, um molho feito a partir de quatro tipos de cogumelos: Shimeji, Shitake, Porto Bello e Paris."
+            },
+            {
+                "nome": "Boeuf Wellington",
+                "preço": "R$ 89,00",
+                "descrição": "Filé mignon envolto por massa folheada com recheio de espinafres e ricota, acompanhado com um clássico Risotto feito com quatro tipos de cogumelos. (Servido apenas no ponto francês, vermelho por dentro)"
+            },
+            {
+                "nome": "Filé Chateaubriand com Aligot trufado",
+                "preço": "R$ 92,00",
+                "descrição": "Filé mignon alto mal passado, acompanhado de aligot - aquele purê de batatas com bastante queijo - e legumes salteados, e finalizado com molho roti e azeite trufado."
+            },
+            {
+                "nome": "Boeuf Bourguignon",
+                "preço": "R$ 78,00",
+                "descrição": "Carne cozida lentamente ao vinho tinto, com cogumelos, bacon e legumes, acompanhado de Aligot - aquele purê de batatas com bastante queijo!"
+            },
+            {
+                "nome": "Entrecote au Poivre",
+                "preço": "R$ 79,00",
+                "descrição": "Entrecote (filé de costela) ao molho Poivre, acompanhado de batatas bolinha assadas em ervas."
+            },
+            {
+                "nome": "Risoto aux Champignons",
+                "preço": "R$ 68,00",
+                "descrição": "Risoto puxado em 4 tipos de cogumelos, Shitaki, Shimeji, Portobello e Paris."
+            },
+            {
+                "nome": "Risotto de Brie e Damascos",
+                "preço": "R$ 68,00",
+                "descrição": "Risotto agridoce com pedaços de brie e damascos."
+            },
+            {
+                "nome": "Parmentier de Cordeiro",
+                "preço": "R$ 89,00",
+                "descrição": "Carne de Cordeiro desfiada, marinada e assada, com cebola caramelizada e acompanhada de purê de batatas e tuiles de parmesão."
+            },
+            {
+                "nome": "Pato ao molho de Laranja",
+                "preço": "R$ 94,00",
+                "descrição": "Sobrecoxa de pato assada ao molho de laranja, acompanhada de aspargos e musseline de mandioquinha."
+            },
+            {
+                "nome": "Saumon en Croute",
+                "preço": "R$ 82,00",
+                "descrição": "Salmão em crosta de farinha panko crocante com ervas, raspas de limão siciliano e mostarda Dijon. Acompanha um risotto de limão siciliano."
+            },
+            {
+                "nome": "Tartare de Boeuf",
+                "preço": "R$ 79,00",
+                "descrição": "Filé mignon cortado na ponta da faca com molho de mostardas, alcaparras e cebola roxa moídas, acompanhados de fritas e salada."
+            }
+        ],
+        "Sobremesas": [
+            {
+                "nome": "Porçao de madeleines com calda de chocolate meio amargo.\nMadeleine",
+                "preço": "R$ 29,90",
+                "descrição": "Porçao de madeleines com calda de chocolate meio amargo."
+            },
+            {
+                "nome": "Bolo Magnifique",
+                "preço": "R$ 32,00",
+                "descrição": "Bolo de chocolate meio amargo com calda de chocolate meio amargo."
+            },
+            {
+                "nome": "Crème Brûlée",
+                "preço": "R$ 32,00",
+                "descrição": "Creme de baunilha com crosta de açúcar queimado no maçarico."
+            },
+            {
+                "nome": "Profiteroles",
+                "preço": "R$ 42,00",
+                "descrição": "Carolinas recheadas com creme pâtisserie, sorvete de creme e calda de chocolate meio amarga. (serve 2 pessoas)"
+            },
+            {
+                "nome": "Mousse au Chocolat",
+                "preço": "R$ 32,00",
+                "descrição": "Mousse de chocolate Belga com raspas de laranja bahia."
+            },
+            {
+                "nome": "Tarte Tartin de Maçã",
+                "preço": "R$ 32,00",
+                "descrição": "A combinação de massa folhada e maçãs caramelizadas fez da Tarte Tartin uma das mais clássicas sobremesas francesas, e vem acompanhada com sorvete de creme."
+            },
+            {
+                "nome": "Coupe Glaçê Pistache",
+                "preço": "R$ 39,00",
+                "descrição": "Taça com sorvete artesanal de pistaches, calda de caramelo salgado e pistaches caramelizados crocantes."
+            },
+            {
+                "nome": "Coupe Glaçê Chocolat",
+                "preço": "R$ 36,00",
+                "descrição": "Taça com sorvete artesanal de chocolate belga e crumble de cacau e avelãs."
+            },
+            {
+                "nome": "Waffle com Chocolate",
+                "preço": "R$ 30,00",
+                "descrição": "Original belga com calda de chocolate 70%. Experimente com extra de morangos (R$ 4,00), Calda de Chocolate (R$ 4,00) ou sorvete de creme (R$ 6,00)."
+            },
+            {
+                "nome": "Fabian Licor de Tannat",
+                "preço": null,
+                "descrição": "Os vinhos fortificados são uma ótima opção para a expansão do paladar e para a busca de novas experiências. Fabian Tannat tem um perfil aveludado, que vai muito bem com sobremesas a base de chocolate e café."
+            },
+            {
+                "nome": "Café Gourmand",
+                "preço": "R$ 32,00",
+                "descrição": "O Café Gourmand é um prato de mini sobremesas acompanhado de um cafezinho! Aqui temos um mini Creme Brulèe, Mini Mousse de Chocolate com raspas de laranja e Madeleines."
+            }
+        ]
+    },
+    "Café da Manhã": {
+        "Brunch e Formulas": [
+            {
+                "nome": "Disponível as Sextas, Sábados e Domingos <3\nBRUNCH LILLET",
+                "preço": "R$ 89,00",
+                "descrição": "Disponível as Sextas, Sábados e Domingos <3"
+            },
+            {
+                "nome": "Brunch Vegetariano",
+                "preço": "R$ 65,00",
+                "descrição": "Ovos Mexidos, pão de fermentação natural, mix de cogumelos salteados, tomates confit e quenelle de queijo de cabra. Acompanha suco de laranja e café espresso."
+            },
+            {
+                "nome": "Brunch Rendez-Vous",
+                "preço": "R$ 65,00",
+                "descrição": "O Brunch da casa vem com Ovo Benedict de presunto ou suíço de queijo (servido morno), croissant ou Pain Chocolat, salada de frutas com granola e iogurte, manteiga, geleia, suco de laranja e café espresso."
+            },
+            {
+                "nome": "Brunch Pinheiros",
+                "preço": "R$ 72,00",
+                "descrição": "O brunch do bairro: Croque monsieur, cookie de chocolate, salada de frutas com granola e iogurte, suco de laranja e café expresso."
+            },
+            {
+                "nome": "Formula Fradique",
+                "preço": "R$ 44,00",
+                "descrição": "Ovos mexidos com pão, suco de laranja e café espresso."
+            },
+            {
+                "nome": "Taça de Espumante | Adicional",
+                "preço": "R$ 23,00",
+                "descrição": "Taça do brut argentino Concerto."
+            },
+            {
+                "nome": "Manteiga e Geleia Extra | Adicional",
+                "preço": "R$ 3,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Troque no egss benedict o queijo ou o presunto por Salmão Fresco | Adicional",
+                "preço": "R$ 8,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Troque sua bebida do Brunch",
+                "preço": "R$ 4,00",
+                "descrição": "Troque o seu café Espresso por Cappuccino, chocolate quente, Latte ou Café Coado Especial ou até um Descafeinado."
+            }
+        ],
+        "Café da Manhã": [
+            {
+                "nome": "Disponível aos finais de semana <3\nCroissant Pâtisserie",
+                "preço": "R$ 28,00",
+                "descrição": "Disponível aos finais de semana <3"
+            },
+            {
+                "nome": "Disponível aos finais de semana <3\nTartine aux Saumon",
+                "preço": "R$ 38,00",
+                "descrição": "Disponível aos finais de semana <3"
+            },
+            {
+                "nome": "Croissant",
+                "preço": "R$ 16,00",
+                "descrição": "Um autêntico croissant francês :)"
+            },
+            {
+                "nome": "Pain au Chocolat",
+                "preço": "R$ 16,00",
+                "descrição": "Massa folhada amanteigada com gotas de chocolate belga."
+            },
+            {
+                "nome": "Croissant Recheado de Presunto e Queijo",
+                "preço": "R$ 20,00",
+                "descrição": "Autêntico Croissant francês recheado com presunto cozido e queijo Gouda. Experimente com requeijão por mais R$ 4,00."
+            },
+            {
+                "nome": "Waffle com Mel e Manteiga",
+                "preço": "R$ 28,00",
+                "descrição": "Original belga com Mel e Manteiga! Experimente com morangos por mais R$ 4,00 ou Geleia de Frutas Vermelhas por mais R$ 6,00."
+            },
+            {
+                "nome": "Croissant na Chapa com Manteiga",
+                "preço": "",
+                "descrição": "Manteiga / Requeijão / Geleia (a parte) | R$ 16,00 - R$ 18,00 - R$ 20,00"
+            },
+            {
+                "nome": "Fatias de Filé Fresco de Salmão",
+                "preço": "R$ 25,00",
+                "descrição": "Escolha acompanhar torradas da casa por mais R$6,00."
+            },
+            {
+                "nome": "Omeletes ou Ovos Mexidos",
+                "preço": "",
+                "descrição": "Simples ou com ervas | R$ 30,00 - Presunto e queijo emmental | R$ 34,00"
+            },
+            {
+                "nome": "Ovos Beneditinos com Presunto (servido morno)",
+                "preço": "R$ 36,00",
+                "descrição": "Ovo poché sobre muffin inglês com presunto cozido e molho hollandaise."
+            },
+            {
+                "nome": "Ovos Beneditinos de Salmão Fresco (servido morno)",
+                "preço": "R$ 42,00",
+                "descrição": "Ovo poché sobre muffin inglês com salmão fresco e molho hollandaise."
+            },
+            {
+                "nome": "Ovos Suíços (servido morno)",
+                "preço": "R$ 38,00",
+                "descrição": "Ovo poché sobre muffin inglês com queijo Gouda e molho hollandaise."
+            },
+            {
+                "nome": "Salada de Frutas com Granola e Iogurte Natural",
+                "preço": "R$ 17,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Cookie com Gotas de Chocolate",
+                "preço": "R$ 16,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Porção de Madeleines ✨\nMadeleine",
+                "preço": "R$ 29,90",
+                "descrição": "Porção de Madeleines ✨"
+            }
+        ]
+    },
+    "Bebidas": {
+        "Cafés e Chás": [
+            {
+                "nome": "Café Gourmand",
+                "preço": null,
+                "descrição": "O Café Gourmand é um prato de mini sobremesas acompanhado de um cafezinho! Aqui temos um mini Creme Brulèe, Mini Mousse de Chocolate com raspas de laranja e Madeleines."
+            },
+            {
+                "nome": "Expresso Três Corações",
+                "preço": null,
+                "descrição": "O café espresso da 3 Corações Grão Mogiana Paulista é uma bebida cremosa e de sabor marcante, preparada sob as condições ideais de temperatura e pressão"
+            },
+            {
+                "nome": "Expresso Duplo",
+                "preço": null,
+                "descrição": "da Três Corações®"
+            },
+            {
+                "nome": "Café Coado Três Corações",
+                "preço": null,
+                "descrição": "Café Gourmet torra escura da Três Corações com leves notas de chocolate."
+            },
+            {
+                "nome": "Macchiato",
+                "preço": null,
+                "descrição": "Café espresso com espuma de leite."
+            },
+            {
+                "nome": "Café Latte",
+                "preço": null,
+                "descrição": "Café espresso com leite vaporizado. Quente ou com gelo."
+            },
+            {
+                "nome": "Cappuccino",
+                "preço": null,
+                "descrição": "Café com leite bem cremoso, estilo italiano."
+            },
+            {
+                "nome": "Descafeinado",
+                "preço": null,
+                "descrição": "Café em cápsula descafeinado da Três Corações."
+            },
+            {
+                "nome": "Expresso Vibrante",
+                "preço": null,
+                "descrição": "Blend em cápsula com predominância de cafés arábica do cerrado mineiro. Com notas de chocolate e caramelo."
+            },
+            {
+                "nome": "Expresso Pleno",
+                "preço": null,
+                "descrição": "Blend de cafés do tipo arábica do cerrado mineiro e sul de Minas Gerais, revela notas adocicadas, acidez média e um leve sabor frutado."
+            },
+            {
+                "nome": "Chocolate da Casa",
+                "preço": null,
+                "descrição": "Chocolate com leite, quente ou com gelo."
+            },
+            {
+                "nome": "Chocolate Gelado",
+                "preço": null,
+                "descrição": "Leite e chocolate batidos com bastante gelo."
+            },
+            {
+                "nome": "Chá de Hortelã",
+                "preço": null,
+                "descrição": "Natural :)"
+            },
+            {
+                "nome": "Chá Importado Twinings",
+                "preço": null,
+                "descrição": "Consulte os sabores com os garçons."
+            },
+            {
+                "nome": "Chá Mate Gelado",
+                "preço": null,
+                "descrição": "Batido na coqueteleira natural, natural com limão, ou... Gengibre com Limão | Maracujá | Pêssego"
+            }
+        ],
+        "Água & Refri": [
+            {
+                "nome": "Água Mineral: com ou sem gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Refrigerantes",
+                "preço": null,
+                "descrição": "Coca Cola, Itubaína ou Tônica FYS, também nas versões ZERO AÇÚCAR."
+            },
+            {
+                "nome": "Baer Mate",
+                "preço": null,
+                "descrição": "Chá mate levemente gaseificado com suco de maçã e cafeína natural."
+            }
+        ],
+        "Coquetéis Soda": [
+            {
+                "nome": "Cocktail Soda (não alcoólico)",
+                "preço": null,
+                "descrição": "Água com gás e o seu sabor de preferência: Gengibre com Limão | Maracujá | Morango | Pêssego | Toranja"
+            },
+            {
+                "nome": "Soda Frutas Vermelhas (Sugar Free)",
+                "preço": null,
+                "descrição": "Cocktail Soda de frutas vermelhas sem açúcar e sem álcool."
+            },
+            {
+                "nome": "Soda Frutas Vermelhas com Toranja (Low Sugar)",
+                "preço": "R$ 18,00",
+                "descrição": "Soda com menos açucar em um mix de xarope de toranja e xarope de frutas vermelhas sem açúcar."
+            }
+        ],
+        "Sucos": [
+            {
+                "nome": "Sucos Naturais",
+                "preço": null,
+                "descrição": "Abacaxi | Laranja | Limão | Maracujá - Escolha duas frutas por mais R$ 4,00."
+            }
+        ],
+        "Cervejas": [
+            {
+                "nome": "Blue Moon",
+                "preço": null,
+                "descrição": "A Blue Moon Belgian White é uma cerveja Witbier que apresenta. as características típicas do estilo, com notas cítricas de casca de laranja e de sementes de coentro. Com coloração dourada e espuma branca a cerveja Blue Moon possui 5,4% de teor alcoólico."
+            },
+            {
+                "nome": "Lagunitas",
+                "preço": null,
+                "descrição": "\"A Lagunitas é uma cerveja do estilo American Indian Pale Ale (IPA) que nasceu em 1995 num antigo galpão na cidade de Forest Knolls, Califórnia, ao lado da cidade Lagunitas, que Tony Magee achava que possuía um nome interessante. A Lagunitas IPA consiste em uma versão única de um estilo antigo, preservando o aroma e amargor dos lúpulos cítricos e florais americanos."
+            },
+            {
+                "nome": "Heineken",
+                "preço": null,
+                "descrição": "A mais famosa das cervejas, do estilo American Premium Lager, caracterizada por seu amargor mais alto entre as cervejas populares, cor amarela, aparência cristalina e 5,6% de teor alcoólico."
+            },
+            {
+                "nome": "Heineken 0.0",
+                "preço": null,
+                "descrição": "Sem álcool. Pra você curtir com a mais famosa das cervejas."
+            },
+            {
+                "nome": "Baden Cristal 600ml",
+                "preço": null,
+                "descrição": "Cerveja Premium Pilsen, saborosa leve e refrescante com aroma floral de lupulo."
+            },
+            {
+                "nome": "Baden Witbier 600ml",
+                "preço": null,
+                "descrição": "Cerveja Premium Witbier não filtrada de trigo, leve e refrescante com aromas citricos e picantes como laranja e coentro."
+            },
+            {
+                "nome": "Baden Peach 600ml",
+                "preço": null,
+                "descrição": "Cerveja de trigo não filtrada que apresenta delicados aromas e sabores de pêssego, proporcionando uma intensa sensação de refrescância ao paladar."
+            },
+            {
+                "nome": "Baden Golden 600ml",
+                "preço": null,
+                "descrição": "Cerveja Premium Golden de trigo com toques de canela e frutas vermelhas"
+            }
+        ]
+    },
+    "Carta de Drinks": {
+        "Coquetéis Lillet": [
+            {
+                "nome": "Lillet Blanc",
+                "preço": null,
+                "descrição": "Garrafa do aperitivo francês de Bordeaux, a base de vinho branco com frutas maceradas e quinino para provar com gelo e laranja."
+            },
+            {
+                "nome": "Lillet Rosé",
+                "preço": null,
+                "descrição": "Garrafa do aperitivo francês de Bordeaux, a base de vinho rosé."
+            },
+            {
+                "nome": "Jarra Clericot Lillet",
+                "preço": null,
+                "descrição": "Nossa versão do clássico \"Clericot\" contém Lillet blanc, espumante brut, laranja bahia, uva itália, abacaxi e morangos."
+            },
+            {
+                "nome": "Lillet Glaçons",
+                "preço": null,
+                "descrição": "Lillet Blanc e uma rodela de laranja"
+            },
+            {
+                "nome": "Lillet Vive",
+                "preço": null,
+                "descrição": "Lillet Blanc, Tonica FYS, Pepino, Morango e Hortelã."
+            },
+            {
+                "nome": "Pamplemousse Lillet",
+                "preço": null,
+                "descrição": "Lillet Blanc, xarope de toranja, Tonica FYS e uma rodela de toranja."
+            },
+            {
+                "nome": "Ginger Lillet",
+                "preço": null,
+                "descrição": "Lillet Blanc, tônica FYS, xarope de gengibre e suco de limão siciliano."
+            },
+            {
+                "nome": "Negroni Bianco Lillet",
+                "preço": null,
+                "descrição": "Lillet Blanc, Gin e Martini Bianco."
+            },
+            {
+                "nome": "Vesper Reverse 007",
+                "preço": null,
+                "descrição": "Lillet Blanc, Gin e Vodka Smirnoff."
+            },
+            {
+                "nome": "Lillet Rosè Tonic",
+                "preço": null,
+                "descrição": "Lillet Rosé, tônica FYS, laranja bahia e hortelã."
+            },
+            {
+                "nome": "Lillet Fitzgerald",
+                "preço": null,
+                "descrição": "Clássico repaginado com um toque de Lillet Rosé. Gin Beefeater, suco de limão, xarope de acúcar e angostura completam o drink."
+            },
+            {
+                "nome": "La Vie en Rose",
+                "preço": null,
+                "descrição": "Este autoral a base de Lillet Rosè, vodka Smirnoff, abacaxi, xarope de cereja, finalizado com espuma de limão... deixa mesmo a vida cor de rosa."
+            }
+        ],
+        "Coquetéis Clássicos": [
+            {
+                "nome": "Aperol Spritz",
+                "preço": null,
+                "descrição": "O clássico italiano feito com Aperol, água com gás e espumante."
+            },
+            {
+                "nome": "Martini",
+                "preço": null,
+                "descrição": "Icônico drink feito com vermute seco, Vodka ou Gin."
+            },
+            {
+                "nome": "Negroni",
+                "preço": null,
+                "descrição": "Partes iguais de gin, vermute tinto e Campari."
+            },
+            {
+                "nome": "Boulevardier",
+                "preço": null,
+                "descrição": "Uma variação do Negroni, feito com Whisky Bourbon"
+            },
+            {
+                "nome": "Bloody Mary",
+                "preço": null,
+                "descrição": "Suco de tomate temperado com vodka Smirnoff."
+            },
+            {
+                "nome": "Vesper Martini Clássico",
+                "preço": null,
+                "descrição": "Gin Beefeater, vodka Smirnoff e Lillet Blanc em proporções mais fortes."
+            },
+            {
+                "nome": "Caipirinha Ypióca Ouro",
+                "preço": null,
+                "descrição": "Limão 26,00, com Outras Frutas 29,00 ou com Duas Frutas por 32,00"
+            },
+            {
+                "nome": "Caipirinha Salinas - MG",
+                "preço": null,
+                "descrição": "Limão por 29,50, Outras Frutas por 33,00 e com Duas Frutas por 36,50."
+            },
+            {
+                "nome": "Caipiroskas",
+                "preço": null,
+                "descrição": "Limão por 29,50, com Outras Frutas por 33,00 e com Duas Frutas por 36,50."
+            }
+        ],
+        "Drinks Autorais": [
+            {
+                "nome": "Drink da Semana",
+                "preço": null,
+                "descrição": "Pergunte ao garçom."
+            },
+            {
+                "nome": "Rosé Gold",
+                "preço": null,
+                "descrição": "Drink feito com vinho rose, tônica FYS, xarope de cereja, fatias de laranja bahia, limão Siciliano e morangos, finalizado com uma espuma de limão siciliano."
+            },
+            {
+                "nome": "Aperol Rosé",
+                "preço": null,
+                "descrição": "Uma variação do Aperol Spritz, feito com Aperol, vinho rosè e água com gás."
+            },
+            {
+                "nome": "Citron",
+                "preço": null,
+                "descrição": "Gin Botanics Beefeater, tônica FYS, fatias de limão siciliano e finalizado com uma espuma e raspas de limão siciliano."
+            }
+        ],
+        "Gin Tonica Beefeater": [
+            {
+                "nome": "Gin Botanics Genévrier",
+                "preço": null,
+                "descrição": "Gin Beefeater, tônica FYS, zimbro e rodela de limão siciliano."
+            },
+            {
+                "nome": "Gin Pink Beefeater Le Chili",
+                "preço": null,
+                "descrição": "Gin Pink Beefeater, tônica FYS, morangos e hortelã macerados e finalizado com geleia de pimenta na borda da taça."
+            }
+        ],
+        "Aperitivos": [
+            {
+                "nome": "Aperitivos",
+                "preço": null,
+                "descrição": "Aperitivos, Whisky, Licores, Cachaça, Vodka ou Rum. Consulte o garçom."
+            },
+            {
+                "nome": "Ricard - Pastis de Marseille",
+                "preço": null,
+                "descrição": "Ricard é um aperitivo leve, natural e refrescante, tanto distinto quanto multifacetado. O segredo, uma sutil mistura de anis estrelado da China, com alcaçuz do Mediterrâneo e ervas aromáticas originárias do sul da França."
+            },
+            {
+                "nome": "Beefeater",
+                "preço": null,
+                "descrição": "Considerado uma das maiores marcas do mundo, o Gin Beefeater é composto por nove ingredientes: zimbro, raiz e sementes de angélica, sementes de coentros, alcaçuz, amêndoas amargas, flores de Lírios, laranjas de Sevilha e casca de limão. O aroma começa suave, mas rapidamente se torna exuberante, com fortes notas de zimbro, citrinos e especiarias."
+            },
+            {
+                "nome": "Licor 43",
+                "preço": null,
+                "descrição": "Licor espanhol feito com 43 ingredientes secretos, como flores, raízes e frutas."
+            }
+        ],
+        "Digestivos": [
+            {
+                "nome": "Licor Sur L'Orange",
+                "preço": null,
+                "descrição": "Uma deliciosa cachaça armazenada em barris de carvalho com Laranja e amendoas"
+            },
+            {
+                "nome": "Fabian Licor de Tannat",
+                "preço": null,
+                "descrição": "Os vinhos fortificados são uma ótima opção para a expansão do paladar e para a busca de novas experiências. Fabian Tannat tem um perfil aveludado, que vai muito bem com sobremesas a base de chocolate e café."
+            }
+        ]
+    },
+    "Carta de Vinhos": {
+        "Vinho da Semana": [
+            {
+                "nome": "SEGUNDA DE VINHO",
+                "preço": null,
+                "descrição": "Toda segunda, a taxa de rolha é grátis! E taças de vinhos selecionadas pelo valor de R$25."
+            }
+        ],
+        "Tintos": [
+            {
+                "nome": "French Roots Bordeaux, 2022",
+                "preço": null,
+                "descrição": "Com cor rubi intensa e notas de frutas negras maduras, como amora e ameixa, este vinho varietal tem taninos suaves e acidez equilibrada, Um perfeito acompanhamento para carnes vermelhas grelhadas."
+            },
+            {
+                "nome": "Callia Syrah/Malbec, 2022",
+                "preço": null,
+                "descrição": "A uva mais popular da Argentina se mistura com essa clássica francesa nesse blend 60% Syrah e 40% Malbec. O resultado é um vinho que brilha vermelho escuro em taça, com buquê de frutas vermelhas maduras e até especiarias. Na boca, é equilibrado e macio, mas ainda sim, persistente e extremamente atraente."
+            },
+            {
+                "nome": "Calabuig Tempranillo, 2017",
+                "preço": null,
+                "descrição": "Um nariz de frutas frescas e baunilha sutil leva a um paladar generoso, mas fresco, de framboesas e amoras, com notas de canela e especiarias exóticas."
+            },
+            {
+                "nome": "J. Bouchon Reserva, 2023",
+                "preço": null,
+                "descrição": "Com um caráter marcante e elegante, este Carménère entrega um paladar macio, com taninos redondos e notas de frutas negras maduras, especiarias suaves e um leve toque herbáceo. Ideal para quem aprecia vinhos com personalidade, seu aroma envolvente traz nuances de ameixa, pimenta-preta e um fundo terroso que convida a repetir a taça."
+            },
+            {
+                "nome": "Signos Malbec, 2020",
+                "preço": null,
+                "descrição": "O nome Signos refere-se aos sinais que nos indicam bons presságios. É com este espírito – de encontrarmos o melhor momento de campartilhar um bom vinho – que a Bodegas Callia fez Signos Malbec. Um vinho frutado e fresco, com breve passagem por madeira e taninos macios."
+            },
+            {
+                "nome": "Alain Grignon Premier Rendez Vous Merlot Cabernet, 2022, 2015",
+                "preço": null,
+                "descrição": "Púrpura intenso. Aroma de frutas vermelhas e pretas maduras, como amoras, ameixas e framboesas, notas de especiarias, como pimenta, além de agradáveis notas de baunilha. Médio corpo, com taninos maduros e bom frescor. Seu final de boca é agradável e equilibrado, destacando-se por frutas pretas maduras e toques de baunilha."
+            },
+            {
+                "nome": "Alain Grignon Premier Rendez Vous Pinot Noir 2022",
+                "preço": null,
+                "descrição": "Cor rubi intenso. Aroma de frutas vermelhas maduras, como cerejas e framboesas, notas de especiarias, como pimenta preta e toques defumados. Sabor leve, frutado e elegante, com taninos finos e bom frescor. Seu final de boca é maduro, marcado por frutas vermelhas maduras e toques defumados."
+            },
+            {
+                "nome": "Prestige Calvet Bordeaux",
+                "preço": null,
+                "descrição": "Vinho da região de Bordeaux, no sudoeste da França, lar de alguns dos melhores vinhos do mundo. A Maison Calvet está na vanguarda da produção de vinhos de Bordeaux desde que foi fundada há quase 200 anos. O cuvee Prestige da Calvet é uma mistura especialmente seleccionada de Merlot e Cabernet Sauvignon e é cuidadosamente maturada nas nossas caves. O vinho é cheio e frutado com um final de boca longo e suave, tornando-o uma escolha perfeita com carnes vermelhas, pizzas e massas, bem como queijos."
+            },
+            {
+                "nome": "Les Argonautes, 2018",
+                "preço": null,
+                "descrição": "Um tinto de estilo clássico bordalês, com a fruta vermelha em destaque e as notas terrosas e florais como complemento. Fresco e fácil de beber,"
+            },
+            {
+                "nome": "Domaine de Rochebin, 2022",
+                "preço": null,
+                "descrição": "Uma Pitada de Gamay - a uva tinta de Azé, o vilarejo onde se situa Rochebin- ressalta as frutas de bosque e o frscor deste Borgonha de estilo clássico, produzido pela 4º geração da família."
+            },
+            {
+                "nome": "Fabian Intuição Licor de Tannat",
+                "preço": null,
+                "descrição": "Os vinhos fortificados são uma ótima opção para a expansão do paladar e para a busca de novas experiências. Fabian Tannat tem um perfil aveludado, que vai muito bem com sobremesas a base de chocolate e café."
+            }
+        ],
+        "Brancos": [
+            {
+                "nome": "Calabuig Macabeo, 2022, 2020",
+                "preço": null,
+                "descrição": "Vinho branco das castas 100% Macabeo, proveniente do mosto gema obtido após uma breve maceração das películas a baixa temperatura, fermentado cuidadosamente para manter intactos os aromas característicos desta casta, conferindo-lhe o seu peculiar aspecto jovem, fresco e frutado."
+            },
+            {
+                "nome": "J. Bouchon Reserva Chardonnay, 2024",
+                "preço": null,
+                "descrição": "Refrescante e elegante, este Chardonnay revela aromas de frutas tropicais maduras como abacaxi e manga, com toques sutis de baunilha e notas minerais. No paladar , é macio e equilibrado. com boa acidez e final agradável, perfeito para dias ensolarados e pratos leves."
+            },
+            {
+                "nome": "Alain Grignon Premier Rendez-Vous Blanc, 2019",
+                "preço": null,
+                "descrição": "Leve, com ótima acidez e excelente frescor. Seu final de boca é agradável, destacando-se por frutas cítricas, como limão e maçãs verdes. Frutas cítricas, como maçã verde e grapefruit, frutas brancas, como peras e maçãs, além de notas herbáceas e toques vegetais."
+            },
+            {
+                "nome": "Premier RendezVous Chardonnay, 2020",
+                "preço": null,
+                "descrição": "Com um toque envolvente e refrescante, este Chardonnay francês, encanta com aromas de frutas tropicais maduras, notas de maçã verde e um leve toque amanteigado. No paladar, é equilibrado, com acidez suave e final agradavél, ideal para momentos descontraídos ou para harmonizar com pratos leves."
+            }
+        ],
+        "Rosés": [
+            {
+                "nome": "Calabuig Monastrell, 2022, 2020",
+                "preço": null,
+                "descrição": "Calabuig (pronuncia-se Calabutch) é uma homenagem de Toni Arraez à sua mãe atendendo ao seu pedido de fazer um vinho para todos os dias e fácil de beber. Na sua versão Rosé, feita inteiramente com a uva Monastrell, as frutas vermelhas ficam em destaque, equilibradas pela acidez muito refrescante."
+            },
+            {
+                "nome": "Le Jaja de Jau Rosè",
+                "preço": null,
+                "descrição": "O Le Jaja de Jau Rosé é totalmente produzido com Syrah, a uva emblemática do vale do Rhône. O vinho tem tudo a ver com o clima mediterrâneo, com sabor de frutas vermelhas maduras e um leve toque floral. Um leve rosé francês ideal para ser bebericado sem compromisso, experimente desfrutá-lo à beira da piscina enquanto come alguns canapés e queijos."
+            },
+            {
+                "nome": "J. Bouchon Rosé, 2023",
+                "preço": null,
+                "descrição": "Refrescante e delicado, este rosé chileno revela notas de frutas vermelhas frescas, como morango e franboesa, com um toque floral sutil. no paladar é leve, vibrante e com acidez equilibrada, perfeito para dias quentes ou para acompanhar pratos leves com charme e sofisticação"
+            },
+            {
+                "nome": "Ted The Mule Rose",
+                "preço": null,
+                "descrição": "Com uma linda cor salmão, um perfil aromático dominado por fruta vermelha, e sabor com muita presença e frescor, é um vinho perfeito para momentos especiais. Harmoniza bem com petiscos, saladas, peixes, massas e queijos, podendo também ser consumido como aperitivo."
+            },
+            {
+                "nome": "Alain Grignon Premier Rendez Vous Cinsault, 2017",
+                "preço": null,
+                "descrição": "Salmão claro. Aroma de frutas vermelhas frescas, como morangos e framboesas, frutas cítricas, frutas de caroço, como pêssegos, além de notas florais e toques herbáceos. Leve, com boa acidez e bom equilíbrio. Seu final é marcado por sutil doçura residual, notas de frutas cítricas, frutas vermelhas e notas florais."
+            },
+            {
+                "nome": "Lulu Le Français Rosè, 2021",
+                "preço": null,
+                "descrição": "Apresenta uma belíssima cor rosada clara e brilhante, com agradáveis aromas florais e de frutas vermelhas. No paladar confirmam-se as sensações olfativas em um conjunto suave e acessível, com final delicado. O estilo fácil e descontraído torna-o ideal para momentos casuais."
+            }
+        ],
+        "Espumantes": [
+            {
+                "nome": "Taça de Espumante",
+                "preço": "R$ 23,00",
+                "descrição": "Taça do brut argentino Concerto."
+            },
+            {
+                "nome": "Mimosa",
+                "preço": null,
+                "descrição": "Espumante Farfalla com suco de laranja."
+            },
+            {
+                "nome": "Montparnasse Demi-Sec",
+                "preço": null,
+                "descrição": "Cor amarelo claro com reflexos brilhantes. Com um fino cordão de bolhas. No nariz é fresco e frutado, notas realmente leves de fermentação. Um Vinho fresco boa acidez no paladar"
+            },
+            {
+                "nome": "Chandon Réserve Brut",
+                "preço": null,
+                "descrição": "Um vinho espumante clássico vibrante e vivo. Refrescante, frutado e fácil de beber.Aromas elegantes e nítidos, com notas de frutas cítricas, frutas secas, flores brancas e toques de pão fresco. Teor Alcoólico: 12%."
+            },
+            {
+                "nome": "Chandon Rosé Brut",
+                "preço": null,
+                "descrição": "Com uma coloração rosa delicada e reflexos dourados, o Chandon Rosé Brut apresenta aromas vibrantes de frutas vermelhas, como morango e cereja, acompanhados de notas florais e um toque sutil de especiarias. No paladar oferece uma acidez equilibrada, perlage fina e persistente, e um final refrescante."
+            }
+        ]
+    },
+    "endereço": "Rua Fradique Coutinho, 179, Pinheiros, São Paulo, SP, Brasil",
+    "telefone": "(11) 2539-8497",
+    "email": "contatocaferdv@gmail.com",
+    "website": "www.restauranterendezvous.com.br/",
+    "name": "Restaurante Rendez Vous"
+}

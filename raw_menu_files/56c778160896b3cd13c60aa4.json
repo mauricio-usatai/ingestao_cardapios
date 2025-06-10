@@ -1,0 +1,1079 @@
+{
+    "Menu Executivo": {
+        "Menu Executivo": [
+            {
+                "nome": "Entrada + Prato Principal",
+                "preço": "R$ 59,00",
+                "descrição": "Menu da semana de 09 até 11/06. ENTRADA- Creme de Shiitake ; OPÇÕES DE PRATOS PRINCIPAIS- - Dourado ao molho de limão e coentro com cuscuz marroquino de legumes; - Linguiça mineira grelhada (molho de mostarda e mel) e batata rústica; -Bife Ancho ao molho chimichurri com arroz maluco."
+            },
+            {
+                "nome": "Entrada + Prato Principal + sobremesa",
+                "preço": "R$ 69,00",
+                "descrição": "Menu da semana de 09 até 11/06. ENTRADA- Creme de Shiitake ; OPÇÕES DE PRATOS PRINCIPAIS- - Dourado ao molho de limão e coentro com cuscuz marroquino de legumes; - Linguiça mineira grelhada (molho de mostarda e mel) e batata rústica; -Bife Ancho ao molho chimichurri com arroz maluco. SOBREMESA: -Verrine de uva"
+            }
+        ]
+    },
+    "Cardápio Terra Brasilis": {
+        "Caldos": [
+            {
+                "nome": "Caldos servidos no Pão Italiano",
+                "preço": "R$ 48,00",
+                "descrição": "Caldo Verde e gratinado de grana padano; Creme de aipim com crispy de carne seca e Creme de abóbora com queijo canastra"
+            }
+        ],
+        "Fondue (a la carte)": [
+            {
+                "nome": "Fondue de Queijo no Pão Italiano (para 2 pessoas)",
+                "preço": "R$ 130,00",
+                "descrição": "Queijo canastra, queijo do fondue, 150g de goibada, 150g de batata calabresa e Mix de pães."
+            }
+        ],
+        "Pra Compartilhar ": [
+            {
+                "nome": "Filezinho",
+                "preço": "R$ 53,00",
+                "descrição": "Cubinhos de mignon, molho especial de queijo, cebola caramelizada e toasts de fermentação natural"
+            },
+            {
+                "nome": "Linguiça Mineira",
+                "preço": "R$ 42,00",
+                "descrição": "Com molho de mostarda e mel"
+            },
+            {
+                "nome": "Trio Nordestino",
+                "preço": "R$ 58,00",
+                "descrição": "Carne de Sol, aipim e queijo coalho com manteiga de garrafa. *Alérgicos,informamos que não possuimos uma cozinha específica para manipulação de alimentos livres de alergênicos , portanto, nossos pratos podem conter traços de glúten.Caso possua algum tipo de restrição alimentar, favor informar ao garçom antes de realizar seu pedido."
+            },
+            {
+                "nome": "Batatinha Rústica",
+                "preço": "R$ 33,00",
+                "descrição": "Com molho aioli de urucum (contém lactose)"
+            },
+            {
+                "nome": "Dadinho de Tapioca (6 unid)",
+                "preço": "R$ 35,00",
+                "descrição": "Com geleia de pimenta e melado"
+            },
+            {
+                "nome": "Camarão croc",
+                "preço": "R$ 51,00",
+                "descrição": "Empanados na panko, aioli de coentro e molho agridoce"
+            },
+            {
+                "nome": "Pastelzinho (2 unid)",
+                "preço": "R$ 24,00",
+                "descrição": "Queijo e cebola caramelizada (à parte) R$ 21,00/ Costela e molho aioli de coentro (à parte) R$ 22,00/ Carne seca com Coalho e geléia de pimenta (à parte) R$ 23,00/ Camarão, catupiry , alho poró e maionese de ervas (à parte) R$ 24,00"
+            },
+            {
+                "nome": "Bolinho de Feijoada (4 unid)",
+                "preço": "R$ 39,00",
+                "descrição": "Com crispy de couve, geleia de laranja e pimenta"
+            },
+            {
+                "nome": "Burrata Salada",
+                "preço": "R$ 58,00",
+                "descrição": "Burrata, molho pesto de manjeiricão ,compota de tomatinhos e toasts de fermentação natural"
+            },
+            {
+                "nome": "Batata Frita",
+                "preço": "R$ 29,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Bacalhau do chef",
+                "preço": "R$ 48,00",
+                "descrição": "Trufinhas de bacalhau, creme de azeitona e palha 6 unidades"
+            },
+            {
+                "nome": "Baianidade",
+                "preço": "R$ 51,00",
+                "descrição": "Bolinhos de aracajé, vatapá, camarões e vinagrete"
+            },
+            {
+                "nome": "Tábua vegana",
+                "preço": "R$ 48,00",
+                "descrição": "Vegetais e cogumelos na brasa, homus de beterraba"
+            },
+            {
+                "nome": "Romeu e Julieta",
+                "preço": "R$ 37,00",
+                "descrição": "Bolinhas de queijo crocantes e goiabada picante 6 unidades"
+            },
+            {
+                "nome": "Pururuca (6unid)",
+                "preço": "R$ 39,00",
+                "descrição": "Torresminhos, limão e goiabada picante"
+            },
+            {
+                "nome": "Croquetas do mar",
+                "preço": "R$ 41,00",
+                "descrição": "Recheio de polvo e molho Azedo (cream cheese, limão siciliano e pimenta do reino) 4 unid."
+            },
+            {
+                "nome": "Coxinha Brasilis (6 unid)",
+                "preço": "R$ 39,00",
+                "descrição": "Coxinha de frango com molho de catupiry à parte"
+            }
+        ],
+        "Raízes do Terra": [
+            {
+                "nome": "Espaguete de Palmito Pupunha com Cogumelos e Azeite Trufado (individual)",
+                "preço": "R$ 54,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Portuga (individual)",
+                "preço": "R$ 89,00",
+                "descrição": "Polvo com batatas assadas, alho confitado e emulsão de pimentão."
+            },
+            {
+                "nome": "Amazonas (individual)",
+                "preço": "R$ 69,00",
+                "descrição": "Pirarucu, palmito pupunha na manteiga, molho de iogurte, ervilhas e cebola roxa"
+            },
+            {
+                "nome": "Mineirinho(individual)",
+                "preço": "R$ 69,00",
+                "descrição": "Ragu de costela, polenta cremosa e couve crocante."
+            },
+            {
+                "nome": "Pampas (individual)",
+                "preço": "R$ 69,00",
+                "descrição": "Arroz carreteiro"
+            },
+            {
+                "nome": "PF do Rio (individual)",
+                "preço": "R$ 69,00",
+                "descrição": "Picadinho na ponta de faca, arroz, farofinha de banana e ovo frito."
+            },
+            {
+                "nome": "Salada Brazuca (individual)",
+                "preço": "R$ 52,00",
+                "descrição": "Tradicional salpicão de frango e palha da casa"
+            },
+            {
+                "nome": "Sertãozinho do Cheff (individual)",
+                "preço": "R$ 69,00",
+                "descrição": "Baião de dois (arroz, feijão de corda, carne seca, paio e coalho)"
+            },
+            {
+                "nome": "Sol do Terra (individual)",
+                "preço": "R$ 76,00",
+                "descrição": "Carne de sol de filé mignon, purê de mandioquinha, paçoca de carne seca e vinagrete de feijão de corda"
+            },
+            {
+                "nome": "Feijuca (individual)",
+                "preço": "R$ 91,00",
+                "descrição": "Arroz branco, carnes, feijão preto, couve refogada, farofa, torresminho , banana a milanesa e laranja."
+            },
+            {
+                "nome": "Feijuca (Para 2)",
+                "preço": "R$ 175,00",
+                "descrição": "Arroz branco, carnes, feijão preto, couve refogada, farofa, torresminho , banana a milanesa e laranja."
+            },
+            {
+                "nome": "Da Terra (individual)",
+                "preço": "R$ 75,00",
+                "descrição": "Moqueca de Palmito de Pupunha com Banana da Terra, arroz, farofinha de dendê e pirão vegano (molho capixaba,contém glúten)"
+            },
+            {
+                "nome": "Da Terra (Para 2)",
+                "preço": "R$ 140,00",
+                "descrição": "Moqueca de Palmito de Pupunha com Banana da Terra, arroz, farofinha de dendê e pirão vegano (molho capixaba,contém glúten)"
+            },
+            {
+                "nome": "Terra Brasilis (individual)",
+                "preço": "R$ 107,00",
+                "descrição": "Moquecas da casa: Camarão (R$ 107,00) e Peixe (R$ 102,00) - Molho capixaba (contém glúten) ou baiana. Acompanhamentos: arroz, farofinha de dendê e pirão"
+            },
+            {
+                "nome": "Terra Brasilis (Para 2)",
+                "preço": "R$ 199,00",
+                "descrição": "Moquecas da casa: Camarão (R$ 189,00), Peixe (R$ 179,00) e Mista (R$ 199,00)- Molho capixaba (contém glúten) ou baiana. Acompanhamentos: arroz, farofinha de dendê e pirão."
+            },
+            {
+                "nome": "Axé (individual)",
+                "preço": "R$ 99,00",
+                "descrição": "Bobó de camarão, arroz com lascas de coco e farofinha de dendê"
+            },
+            {
+                "nome": "Axé (Para 2)",
+                "preço": "R$ 189,00",
+                "descrição": "Bobó de camarão, arroz com lascas de coco e farofinha de dendê."
+            },
+            {
+                "nome": "Caiçara (Para 2)",
+                "preço": "R$ 195,00",
+                "descrição": "Camarões na moranga com catupiry, arroz com amêndoas e tomatinhos confitados"
+            }
+        ],
+        "Pratos na Brasa": [
+            {
+                "nome": "Filé Mignon (individual)- acompanha 2 guarnições + 1 molho",
+                "preço": "R$ 84,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Bife Ancho (individual) -acompanha 2 guarnições + 1 molho",
+                "preço": "R$ 84,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Picanha (individual)- acompanha 2 guarnições + 1 molho",
+                "preço": "R$ 99,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Picanha (Para 2) acompanha 2 guarnições + 1 molho",
+                "preço": "R$ 195,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Salmão (individual) acompanha 2 guarnições + 1 molho",
+                "preço": "R$ 99,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Salmão (Para 2) - Molho de alcaparras, gratin de palmito pupunha e arroz de açafrão",
+                "preço": "R$ 195,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Galeto (Para 2)- acompanha 2 guarnições + 1 molho",
+                "preço": "R$ 130,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Costela (Para 2) - acompanha 2 guarnições + 1 molho",
+                "preço": "R$ 189,00",
+                "descrição": ""
+            }
+        ],
+        "Guarnições": [
+            {
+                "nome": "Saladinha Orgânica",
+                "preço": "R$ 27,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Farofinha de Panko",
+                "preço": "R$ 24,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Farofa de Ovos",
+                "preço": "R$ 27,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Batata Rústica",
+                "preço": "R$ 29,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Batata Portuguesa",
+                "preço": "R$ 29,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Arroz Branco",
+                "preço": "R$ 24,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Arroz de Brócolis",
+                "preço": "R$ 29,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Feijão Preto",
+                "preço": "R$ 24,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Pupunha na Brasa",
+                "preço": "R$ 27,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Batatinha Frita",
+                "preço": "R$ 27,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Legumes grelhado",
+                "preço": "R$ 27,00",
+                "descrição": ""
+            }
+        ],
+        "Molhos": [
+            {
+                "nome": "Vinagrette",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Chimichurri",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Manteiga de Ervas",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Barbecue",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            }
+        ],
+        "Porção": [
+            {
+                "nome": "Linguiça na brasa",
+                "preço": "R$ 13,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Coração de Galinha",
+                "preço": "R$ 29,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Pão de Alho",
+                "preço": "R$ 13,00",
+                "descrição": ""
+            }
+        ],
+        "Pratos Infantis": [
+            {
+                "nome": "Carne",
+                "preço": "R$ 49,00",
+                "descrição": "Acompanhamentos: feijão, arroz e batatas fritas."
+            },
+            {
+                "nome": "Frango",
+                "preço": "R$ 44,00",
+                "descrição": "Acompanhamentos: feijão, arroz e batatas fritas."
+            }
+        ],
+        "Pizzas (28cm)": [
+            {
+                "nome": "Branca",
+                "preço": "R$ 35,00",
+                "descrição": "Alecrim, sal grosso e parmesão."
+            },
+            {
+                "nome": "Mussarela",
+                "preço": "R$ 47,00",
+                "descrição": "Mussarela e orégano."
+            },
+            {
+                "nome": "Marguerita",
+                "preço": "R$ 52,00",
+                "descrição": "Mussarela, tomate e manjericão"
+            },
+            {
+                "nome": "Calabresa",
+                "preço": "R$ 55,00",
+                "descrição": "Mussarela, linguiça calabresa, cebola e orégano."
+            },
+            {
+                "nome": "Portuguesa",
+                "preço": "R$ 59,00",
+                "descrição": "Mussarela, cebola, presunto, azeitona preta, ovo , orégano e calabresa."
+            },
+            {
+                "nome": "Italiana",
+                "preço": "R$ 59,00",
+                "descrição": "Mussarela, mussarela de búfala, pupunha, cogumelo paris e tomate confitado."
+            },
+            {
+                "nome": "Quatro Queijos",
+                "preço": "R$ 62,00",
+                "descrição": "Mussarela, parmesão, scamorza defumada e gorgonzola"
+            },
+            {
+                "nome": "Parma",
+                "preço": "R$ 69,00",
+                "descrição": "Presunto cru, rúcula e lascas de grana padano"
+            },
+            {
+                "nome": "Frango com Catupiry",
+                "preço": "R$ 59,00",
+                "descrição": "Mussarela, frango, catupiry e orégano"
+            },
+            {
+                "nome": "Shitake",
+                "preço": "R$ 62,00",
+                "descrição": "Mussarela, shitake, alho poró e orégano."
+            },
+            {
+                "nome": "Pepperoni",
+                "preço": "R$ 61,00",
+                "descrição": "Mussarela, pepperoni e orégano."
+            },
+            {
+                "nome": "Carne Seca",
+                "preço": "R$ 69,00",
+                "descrição": "Mussarela, carne seca, catupiry e orégano."
+            },
+            {
+                "nome": "Terra Brasilis",
+                "preço": "R$ 61,00",
+                "descrição": "Scamorza e ragu de linguiça"
+            },
+            {
+                "nome": "Camarão da Urca",
+                "preço": "R$ 69,00",
+                "descrição": "Camarão ao molho de leite de coco, cream cheese e lascas de coco"
+            },
+            {
+                "nome": "Catuperony",
+                "preço": "R$ 62,00",
+                "descrição": "Mussarela, catupiry e pepperoni"
+            },
+            {
+                "nome": "Burrata",
+                "preço": "R$ 65,00",
+                "descrição": "Burrata, rúcula e tomate confitados"
+            },
+            {
+                "nome": "Praia Vermelha",
+                "preço": "R$ 62,00",
+                "descrição": "Scarmorza ,Crispy de bacon, ovo estalado e grana padano"
+            },
+            {
+                "nome": "Chocolate com Morango ou Banana",
+                "preço": "R$ 49,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Banana Nevada",
+                "preço": "R$ 49,00",
+                "descrição": "Banana com canela, açúcar e chocolate forneado"
+            }
+        ],
+        "Sobremesas": [
+            {
+                "nome": "Churros com calda de chocolate e doce de leite",
+                "preço": "R$ 32,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Mini pudim de leite com farofinha de amendoim",
+                "preço": "R$ 27,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Brownie de chocolate com castanha do Pará, sorvete de creme e calda de chocolate.",
+                "preço": "R$ 34,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Saladinha de Frutas",
+                "preço": "R$ 20,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Sorvete de Queijo com Goiabada",
+                "preço": "R$ 31,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Sorvetes",
+                "preço": "R$ 25,00",
+                "descrição": "Creme, chocolate, queijo, tapioca, baunilha ou morango"
+            },
+            {
+                "nome": "Tortas (20cm diametro)",
+                "preço": "R$ 180,00",
+                "descrição": "Fabricação própria. Sabores: Ninho com nutella (brigadeiro de ninho e brigadeiro de nutella), Ninho com geleia de frutas vermelhas (brigadeiro de ninho e geleia de frutas vermelhas), Dois amores (chocolate preto e branco) e Brigadeiro."
+            },
+            {
+                "nome": "Cremosinha",
+                "preço": "R$ 29,00",
+                "descrição": "Cocada cremosa com maracujá"
+            },
+            {
+                "nome": "Casadinho",
+                "preço": "R$ 32,00",
+                "descrição": "Mil folhas recheado com brigadeiro branco e preto"
+            },
+            {
+                "nome": "Carioquinha",
+                "preço": "R$ 27,00",
+                "descrição": "Massa de biscoito de maizena, mousse de limão, merengue suíço e raspas de limão siciliano."
+            },
+            {
+                "nome": "Cartola",
+                "preço": "R$ 32,00",
+                "descrição": "Banana grelhada com queijo coalho ,farofinha de amendoim e sorvete de tapioca"
+            }
+        ]
+    },
+    "Bebidas sem Álcool": {
+        "Bebidas": [
+            {
+                "nome": "Nespresso",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Nespresso Duplo",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chocotino",
+                "preço": null,
+                "descrição": "Ganache de chocolate, café e leite."
+            },
+            {
+                "nome": "Capuccino",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Refrigerante",
+                "preço": null,
+                "descrição": "Coca-Cola Ks ou Guaraná Antártica lata"
+            },
+            {
+                "nome": "Soda da Casa",
+                "preço": null,
+                "descrição": "Sabores: Maçã verde ou Tangerina"
+            },
+            {
+                "nome": "Água Tônica",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água de Coco - Coco Legal",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água mineral Com e Sem Gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco de Laranja",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco de Frutas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Mate",
+                "preço": null,
+                "descrição": "Natural, limão e zero."
+            },
+            {
+                "nome": "Red Bull Energy Drink",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Schweppes Citrus",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAER-MATE",
+                "preço": null,
+                "descrição": "Mate com gás e cafeína natural"
+            },
+            {
+                "nome": "Chá da Casa",
+                "preço": null,
+                "descrição": "Sabor limão"
+            },
+            {
+                "nome": "Shot",
+                "preço": null,
+                "descrição": "Limão ou Laranja"
+            }
+        ]
+    },
+    "Bebidas Alcoólicas": {
+        "Cervejas": [
+            {
+                "nome": "Stella Artois",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Budweiser",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Corona",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Heineken e Heineken Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cerveja Terra Brasilis",
+                "preço": null,
+                "descrição": "Artesanal - Premium Lager"
+            },
+            {
+                "nome": "Balde de Cerveja",
+                "preço": null,
+                "descrição": "5 Unidades (330ml cada)"
+            },
+            {
+                "nome": "Balde de Cerveja",
+                "preço": null,
+                "descrição": "5 Unidades (330ml cada)"
+            }
+        ],
+        "Chopp Artesanal": [
+            {
+                "nome": "Cabrita - Zero Grau",
+                "preço": null,
+                "descrição": "Estilo: American Premium Lager Cerveja de cor amarelo palha, leve, refrescante, de baixo amargor e com alta drinkability."
+            },
+            {
+                "nome": "Cabrita",
+                "preço": null,
+                "descrição": "Cerveja de cor amarelo palha, leve, refrescante, de baixo amargor e com alta drinkability."
+            },
+            {
+                "nome": "Gingerela",
+                "preço": null,
+                "descrição": "Cream Ale com Gengibre: Cerveja de coloração dourada brilhante, refrescante, leve, de espuma cremosa. Amargor mais presente, porém muito suave."
+            },
+            {
+                "nome": "Redbode",
+                "preço": null,
+                "descrição": "Irish Red Ale: Cerveja de coloração avermelhada, baixa formação de espuma, com notas que remetem à biscoito, café e caramelo e teor alcoólico bastante suave."
+            },
+            {
+                "nome": "Raparipa",
+                "preço": null,
+                "descrição": "Brown IPA: Das nossas receitas, é a de maior amargor e teor alcoólico marcante."
+            }
+        ],
+        "Doses": [
+            {
+                "nome": "Tequila",
+                "preço": null,
+                "descrição": "50ML"
+            },
+            {
+                "nome": "Vodka",
+                "preço": null,
+                "descrição": "50ml"
+            },
+            {
+                "nome": "Whisky",
+                "preço": null,
+                "descrição": "50ml"
+            },
+            {
+                "nome": "Cachaça",
+                "preço": null,
+                "descrição": "50ml"
+            },
+            {
+                "nome": "Gin",
+                "preço": null,
+                "descrição": "50ml"
+            },
+            {
+                "nome": "Licor 43",
+                "preço": null,
+                "descrição": "50ml"
+            },
+            {
+                "nome": "Shot de Bananinha",
+                "preço": null,
+                "descrição": "Shot de bananinha com espuma de canela"
+            },
+            {
+                "nome": "Gabrielinha",
+                "preço": null,
+                "descrição": "50ml"
+            },
+            {
+                "nome": "Licor Don Luiz",
+                "preço": null,
+                "descrição": "50ml"
+            },
+            {
+                "nome": "Calice vinho do Porto Tawny",
+                "preço": null,
+                "descrição": "50ml"
+            },
+            {
+                "nome": "Calice vinho do Porto Ruby",
+                "preço": null,
+                "descrição": "50ml"
+            },
+            {
+                "nome": "Conhaque Macieira",
+                "preço": null,
+                "descrição": "50ml"
+            }
+        ]
+    },
+    "Carta de Drinks ": {
+        "Drinks sem Alcool ": [
+            {
+                "nome": "Pôr do Sol",
+                "preço": null,
+                "descrição": "Suco de laranja, agua de coco Grenadine e espuma de Marshmallow"
+            },
+            {
+                "nome": "Pé na areia",
+                "preço": null,
+                "descrição": "Leite de coco, monin de coco, suco de abacaxi, coco ralado e espuma de coco"
+            },
+            {
+                "nome": "Limonade",
+                "preço": null,
+                "descrição": "Suco limão, monin coco, leite de coco, coco ralado e água de coco"
+            },
+            {
+                "nome": "Oceano",
+                "preço": null,
+                "descrição": "Suco de abacaxi, xarope de açúcar, Curaçau Blue e espuma de coco"
+            },
+            {
+                "nome": "Praia Vermelha",
+                "preço": null,
+                "descrição": "Sumo limão siciliano, chá de hibisco, água de coco, xarope de açúcar e espuma de Hibisco"
+            }
+        ],
+        "Drinks": [
+            {
+                "nome": "Capirinha",
+                "preço": null,
+                "descrição": "Fruta, açúcar e gelo"
+            },
+            {
+                "nome": "Caipvodka",
+                "preço": null,
+                "descrição": "Vodka, fruta, açúcar e gelo"
+            },
+            {
+                "nome": "Moscow Mule",
+                "preço": null,
+                "descrição": "Vodka , sumo de limão, xarope de açúcar e espuma de gengibre"
+            },
+            {
+                "nome": "Aperol Spritz",
+                "preço": null,
+                "descrição": "Aperol, espumante, água com gás e fatia de laranja"
+            },
+            {
+                "nome": "Sangria",
+                "preço": null,
+                "descrição": "Vinho tinto, maçã, laranja, abacaxi , Triple-sec e morango"
+            },
+            {
+                "nome": "Clericot",
+                "preço": null,
+                "descrição": "Espumante | Vinho branco, maçã, laranja, abacaxi , Triple-sec e morango"
+            },
+            {
+                "nome": "Gin Tônica",
+                "preço": null,
+                "descrição": "Gin e água tônica"
+            },
+            {
+                "nome": "Tropical Gin",
+                "preço": null,
+                "descrição": "Gin+ Red Bull Tropical Edition"
+            },
+            {
+                "nome": "Olha o Mate",
+                "preço": null,
+                "descrição": "Gin, água tônica, monin chá preto com limão e suco de limão."
+            },
+            {
+                "nome": "Balla Ginger",
+                "preço": null,
+                "descrição": "Ballantines , xarope de gengibre, suco de limão e agua com gás"
+            },
+            {
+                "nome": "Pão de Açúcar",
+                "preço": null,
+                "descrição": "Gin , xarope monin de maçã verde, suco de limão e agua com gás"
+            },
+            {
+                "nome": "Acalma a Alma",
+                "preço": null,
+                "descrição": "Vodka, suco de limão, purê monin maracujá e xarope de açúcar"
+            },
+            {
+                "nome": "Melancita",
+                "preço": null,
+                "descrição": "Gin e Red Bull Melancia Edition"
+            },
+            {
+                "nome": "G&T Brasilis",
+                "preço": null,
+                "descrição": "Gin, xarope de amora e sumo limão"
+            },
+            {
+                "nome": "Fiztgerald",
+                "preço": null,
+                "descrição": "Gin, agua tônica, xarope de açúcar, suco de limão e biter angostura."
+            },
+            {
+                "nome": "Taça de vinho",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Caipisake",
+                "preço": null,
+                "descrição": "Sake,Frutas, açúcar e gelo"
+            },
+            {
+                "nome": "Morangomallow",
+                "preço": null,
+                "descrição": "Vodka, morangos, hortelã e espuma de marshmallow"
+            },
+            {
+                "nome": "Gin Fizz (Tangerina, maçã verde ou framboesa)",
+                "preço": null,
+                "descrição": "Arpo, sumo de limão, xarope de maçã verde/tangerina ou framboesa, e água com gás."
+            },
+            {
+                "nome": "Oceá Tinto",
+                "preço": null,
+                "descrição": "Vinho tinto com limão siciliano, levemente frisante (Cabernet Sauvignon)"
+            },
+            {
+                "nome": "OCEÀ ROSE",
+                "preço": null,
+                "descrição": "Vinho rose frisante (moscato/cabernet sauvignon) com limão siciliano, licor de laranja, morango, uva verde e laranja."
+            },
+            {
+                "nome": "Oceà Blanco de Verano",
+                "preço": null,
+                "descrição": "Vinho moscato frisante com limão siciliano."
+            }
+        ],
+        "Drinks Especiais": [
+            {
+                "nome": "Paixão do Terra",
+                "preço": null,
+                "descrição": "Vodka, frutas vermelhas (morango, amora, framboesa, blueberry e cereja) e espuma de limão siciliano."
+            },
+            {
+                "nome": "Gin Pink",
+                "preço": null,
+                "descrição": "Gin, cordial de Pitaya, xarope de gengibre e agua com gás."
+            },
+            {
+                "nome": "Lillet Vive",
+                "preço": null,
+                "descrição": "Lillet, água com gás, espumante, morangos fatiados, folhas de hortelã e lâmina de pepino."
+            },
+            {
+                "nome": "Terra Brasilis",
+                "preço": null,
+                "descrição": "Whisky chivas 12 anos , cordeal de canela, xarope de maracujá, licor 43, água de coco e café."
+            },
+            {
+                "nome": "Paradise",
+                "preço": null,
+                "descrição": "Whisky chivas ,limão siciliano, mel, Flor de fada azul e espuma de canela"
+            }
+        ],
+        "Drinks Clássicos": [
+            {
+                "nome": "Negroni",
+                "preço": null,
+                "descrição": "Gin, vermutte rosso e campari."
+            },
+            {
+                "nome": "Margarita",
+                "preço": null,
+                "descrição": "Tequila, sumo de limão Taiti e Triple-sec (guarnição-borda de sal na taça)"
+            },
+            {
+                "nome": "JambuJá",
+                "preço": null,
+                "descrição": "Jambuzada de banana, maracujá, sumo de limão, xarope de açúcar e espuma de gengibre."
+            },
+            {
+                "nome": "JambuCaxí",
+                "preço": null,
+                "descrição": "Jambuzada de abacaxí, abacaxi, sumo de limão, xarope de açúcar e licor 43."
+            },
+            {
+                "nome": "Brasilis Mule",
+                "preço": "R$ 39,00",
+                "descrição": "Jambuzada de banana, xarope de açucar, sumo de limão e espuma de canela."
+            },
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": "Rum branco, sumo de limão, hortelã, xarope de açúcar e angostura"
+            }
+        ]
+    },
+    "Carta de Vinhos": {
+        "Argentina": [
+            {
+                "nome": "Dona Paula Los Cardos Sauvignon Blanc, 2024",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "Dona Paula Estate Pinot Noir, 2021",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dona Paula Malbec, 2023",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "Dona Paula Estate Cabernet Sauvignon, 2021",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "DOÑA PAULA ROSÉ, 2021",
+                "preço": null,
+                "descrição": "No nariz apresenta aromas profundos a violetas e amoras de colheita precoce. Na boca é um vinho muito fresco devido à sua elevada acidez. Apresenta um final longo, equilibrado e suave"
+            },
+            {
+                "nome": "Doña Paula Cabernet Sauvignon, 2023",
+                "preço": null,
+                "descrição": "Cor vermelho rubi intenso. Grande variedade de notas determinadas por especiarias como pimenta preta e também presença de minerais mentolados combinados com baunilha devido ao tempo de barrica. Concentrado.saboroso. marcado com frutas vermelhas. baunilha e chocolate."
+            },
+            {
+                "nome": "Dona Paula Estate Sauvignon Blanc, 2023",
+                "preço": null,
+                "descrição": "Cor: amarelo-palha com reflexos esverdeados e brilhantes. Aroma: puro e intenso, lembrando menta, grapefruit, limão, aspargos e pimenta verde. Sabor: saboroso, com acidez vibrante, nuanças de frutas cítricas, citronela e ervas, ótimo equilíbrio e final persistente."
+            }
+        ],
+        "Brasil": [
+            {
+                "nome": "Chandon Passion Rosé",
+                "preço": null,
+                "descrição": "Apresenta uma cor leve lembrando a pele de pêssego e aromas frutados como de maracujá e pêssego. No paladar, a maciez oriunda do vinho base e do licor revela a harmonia e a complexidade deste sutil equilíbrio."
+            },
+            {
+                "nome": "Chandon Brut Rosé",
+                "preço": null,
+                "descrição": "A degustação do Chandon Brut Rosé começa pela sedução da reluzente e delicada cor rosada lembrando a goiaba junto às características de uma ótima efervescência: borbulhas finas, ativas e numerosas com uma espuma abundante formando um colarinho persistente na taça. Continua conquistando pela sinfonia de aromas a frutas vermelhas com toques sutis de especiarias doces. E leva ao prazer de uma experiência sensorial única de um paladar extremamente equilibrado."
+            },
+            {
+                "nome": "Chandon Réserve Brut",
+                "preço": null,
+                "descrição": "O aroma apresenta características florais (flores brancas) e frutadas (cítricos, maçã e um toque de abacaxi) com uma nuance de pão fresco. O paladar começa por um ataque franco de uma acidez equilibrada, continua com uma nítida sensação de redondeza e frescor; e finaliza com notas de frutas secas e cítricas com uma persistência média."
+            },
+            {
+                "nome": "NATURELLE TINTO, 2022",
+                "preço": null,
+                "descrição": "Vinho tinto de tons violáceos e aparência límpida. Um vinho de origem brasileira que reflete toda a qualidade e dedicação do Vale dos Vinhedos. Na boca é adocicado, leve e de frescor agradável. Pode acompanhar diversos pratos leves, frutas, doces, sobremesas e queijos azuis, pois seu aroma apresenta notas de frutas frescas. Uma ótima opção para quem quer explorar e conhecer a história das vinícolas brasileiras. Temperatura recomendada para servir – 14°C a 16°C."
+            },
+            {
+                "nome": "Oceà Blanco de Verano, 2023",
+                "preço": null,
+                "descrição": "Vinho moscato frisante com limão siciliano."
+            },
+            {
+                "nome": "OCEÀ ROSE, 2023",
+                "preço": null,
+                "descrição": "Vinho rose frisante (moscato/cabernet sauvignon) com limão siciliano, licor de laranja, morango, uva verde e laranja."
+            },
+            {
+                "nome": "Oceà Tinto",
+                "preço": null,
+                "descrição": "Vinho tinto com limão siciliano, levemente frisante (Cabernet Sauvignon)"
+            },
+            {
+                "nome": "ORIGEM MERLOT, 2022",
+                "preço": null,
+                "descrição": "Apresenta paladar igualmente frutado, com taninos suaves, o que o torna um vinho macio, proporcionando um bom equilíbrio com a acidez e seu moderado teor alcoólico. Seu aroma tem predominância de frutas vermelhas e negras, como framboesa e ameixa."
+            },
+            {
+                "nome": "ORIGEM CABERNET SAUVIGNON, 2021",
+                "preço": null,
+                "descrição": "Vermelho rubi com reflexos violáceos, de aspecto límpido e brilhante. Mostra-se intenso no olfato, com predominância de frutas vermelhas como framboesa e cereja, acompanhadas por delicadas nuances de especiarias. É igualmente frutado no paladar. A suavidade dos taninos torna o vinho macio e proporciona um bom equilíbrio com a acidez e o moderado teor alcoólico."
+            }
+        ],
+        "Chile": [
+            {
+                "nome": "Memoria De Los Andes Reserva Cabernet Sauvignon, 2023",
+                "preço": null,
+                "descrição": "De tonalidade vermelho profundo com reflexos violáceos. Possui nariz com aromas de frutas vermelhas, pimenta e cravo, com toques sutis de tabaco. Apresenta boca larga e bem equilibrada."
+            },
+            {
+                "nome": "Memoria De Los Andes Gran Reserva Cabernet Sauvignon, 2023",
+                "preço": null,
+                "descrição": "De cor rubi intenso, possui nariz completo, com notas de frutos negros e toques tostados. Na boca, se mostra redondo com taninos firmes e maduros, junto a um final largo."
+            },
+            {
+                "nome": "Memoria De Los Andes Gran Reserva Chardonnay, 2022",
+                "preço": null,
+                "descrição": "Excelente monocasta de Chardonnay com parte do vinho estagiado durante 9 meses em barricas de carvalho e o restante em tanques de inox, balanceado, integrado, consistente, saboroso, envolvente, agradável e persistente no paladar"
+            },
+            {
+                "nome": "Memoria De Los Andes Reserva Carmenere, 2022",
+                "preço": null,
+                "descrição": "Chile"
+            }
+        ],
+        "França": [
+            {
+                "nome": "Veuve Valmonte",
+                "preço": null,
+                "descrição": "Espumante Bruit"
+            },
+            {
+                "nome": "Veuve Valmant Rosé",
+                "preço": null,
+                "descrição": "Da região de Vale do Loire, na França. Elaborada com as uvas Cabernet Franc, Pinot d`Aunis e Gamay Este espetacular espumante é produzido segundo o método Charmat. Seus vinhos bases são cuidadosamente selecionados e tratados antes da fermentação. Seu perlage elegante o faz ideal para aperitivos, sobremesas ou mesmo em um momento de contemplação."
+            }
+        ],
+        "Portugal": [
+            {
+                "nome": "Mármore Branco, 2023",
+                "preço": null,
+                "descrição": "Vinho de cor citrina, de aroma e sabor a frutos tropicais, fresco e equilibrado."
+            },
+            {
+                "nome": "Mármore Rosé, 2021",
+                "preço": null,
+                "descrição": "Vinho de cor rosa claro, aroma e sabor a frutos silvestres, equilibrado e de boa persistência."
+            },
+            {
+                "nome": "Mármore Tinto, 2021",
+                "preço": null,
+                "descrição": "Aspecto visual límpido, de cor rubi definido. Aroma a vinho jovem, com frutos silvestres, típico da casta Aragonez. Sabor frutado com agradáveis notas de morango, provenientes da casta Castelão, conjugado com uma ligeira frescura oferecida pela casta Trincadeira."
+            },
+            {
+                "nome": "Pintus Tinto, 2021",
+                "preço": null,
+                "descrição": "Bela cor vermelha. O sabor é bom para um vinho jovem que não tem um carácter único, o que o torna num alentejano genérico."
+            }
+        ]
+    },
+    "endereço": "Praça General Tiburci, s/n, Urca, Rio de Janeiro, RJ, Brasil",
+    "telefone": "2275-4651",
+    "email": "terrabrasilis@tagme.com.br",
+    "website": "http://restauranteterrabrasilis.com.br/",
+    "name": "Terra Brasilis"
+}

@@ -1,0 +1,2354 @@
+{
+    "Almoço Executivo": {
+        "Entrada": [
+            {
+                "nome": "Quiche de camarão",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Salada caprese",
+                "preço": "",
+                "descrição": ""
+            }
+        ],
+        "Pratos Principais": [
+            {
+                "nome": "Fettuccine toscano",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Galeto na redução de uva com risoto verde rosso",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Filet Saint Peter ao molho champignon com alcaparras e espaguete de legumes",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Filet mignon ao roti de ervas com risoto de parmesão",
+                "preço": "",
+                "descrição": ""
+            }
+        ],
+        "Pratos Principais Especiais": [
+            {
+                "nome": "SL495 - Rabada com polenta e agrião",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "SL499 - Bacalhau à lagareiro fresco com batata ao murro e arroz com brocólis",
+                "preço": "",
+                "descrição": ""
+            }
+        ],
+        "Sobremesa": [
+            {
+                "nome": "Tiramisù com calda de chocolate",
+                "preço": "",
+                "descrição": ""
+            },
+            {
+                "nome": "Abacaxi Fruta",
+                "preço": "",
+                "descrição": ""
+            }
+        ],
+        "Valores": []
+    },
+    "Menu Principal": {
+        "À La Carte": [
+            {
+                "nome": "SL934 - Couvert - 200g",
+                "preço": "R$ 35,00",
+                "descrição": "Pão da casa, azeitonas pretas, vinagrete de lula, crostata, manteiga e queijo parmesão montanhes."
+            },
+            {
+                "nome": "SL897 - Tartar - 100g",
+                "preço": "R$ 39,00",
+                "descrição": "De atum fresco."
+            },
+            {
+                "nome": "SL883 - Panelinha de Cogumelos - 100g",
+                "preço": "R$ 35,00",
+                "descrição": "Com brie gratinado."
+            },
+            {
+                "nome": "SL881 - Panelinha de Polvo - 100g",
+                "preço": "R$ 49,00",
+                "descrição": "Acebolado e aspargo."
+            },
+            {
+                "nome": "SL308 - Burrata - 200g",
+                "preço": "R$ 55,00",
+                "descrição": "Com presunto parma e torradas."
+            },
+            {
+                "nome": "SL309 - Carpaccio - 60g",
+                "preço": "R$ 35,00",
+                "descrição": "De carne, molho especial e rúcula."
+            },
+            {
+                "nome": "SL624 - Salada de folhas - 200g",
+                "preço": "R$ 35,00",
+                "descrição": "Com figos frescos flambado no vinho do porto."
+            },
+            {
+                "nome": "SL2177 - Bruschetta - 150g",
+                "preço": "R$ 35,00",
+                "descrição": ""
+            },
+            {
+                "nome": "VIP\nSL576 - Escargot - 6 unidades",
+                "preço": "R$ 109,00",
+                "descrição": "VIP"
+            },
+            {
+                "nome": "VIP\nSL575 - Foie Gras - 80g",
+                "preço": "R$ 159,00",
+                "descrição": "VIP"
+            },
+            {
+                "nome": "VIP\nSL703 - Caviar Mujol - 15g",
+                "preço": "R$ 219,00",
+                "descrição": "VIP"
+            },
+            {
+                "nome": "VIP\nSL577 - Caviar Beluga - 15g",
+                "preço": "R$ 1.199,00",
+                "descrição": "VIP"
+            },
+            {
+                "nome": "SL461 - Salada Caprese",
+                "preço": "R$ 35,00",
+                "descrição": ""
+            },
+            {
+                "nome": "SL852 - Salada mix",
+                "preço": "R$ 30,00",
+                "descrição": "Alface, tomate e palmito"
+            }
+        ],
+        "Petiscos": [
+            {
+                "nome": "SL803 - Mini Croquete - 6 unidades",
+                "preço": "R$ 33,00",
+                "descrição": ""
+            },
+            {
+                "nome": "SL464 - Bolinho de Bacalhau - 2 unidades",
+                "preço": "R$ 29,00",
+                "descrição": ""
+            },
+            {
+                "nome": "SL463 - Pastel de Bacalhau - 6 unidades",
+                "preço": "R$ 33,00",
+                "descrição": ""
+            },
+            {
+                "nome": "SL933 - Alheira na Brasa - 100g",
+                "preço": "R$ 55,00",
+                "descrição": "Com couve e ovo frito."
+            },
+            {
+                "nome": "SL805 - Varal de Frios - 250g",
+                "preço": "R$ 89,00",
+                "descrição": "Queijos especiais , azeitona, patê e pão caseiro."
+            },
+            {
+                "nome": "SL940 - Torre de Frutos do Mar - 150g",
+                "preço": "R$ 79,00",
+                "descrição": "Lula, camarão, polvo e marisco."
+            }
+        ],
+        "Massas e Risotos": [
+            {
+                "nome": "SL467 - Raviolli - 220g",
+                "preço": "R$ 69,00",
+                "descrição": "De muçarela de búfula ao Pomodoro e basilico."
+            },
+            {
+                "nome": "SL983 - Espaguete ao Molho Pomodoro - 200g",
+                "preço": "R$ 69,00",
+                "descrição": ""
+            },
+            {
+                "nome": "SL468 - Gnocchi - 200g",
+                "preço": "R$ 79,00",
+                "descrição": "Trufado com crocante de aipo."
+            },
+            {
+                "nome": "SL937 - Espaguete ao Creme de Pesto - 200g",
+                "preço": "R$ 79,00",
+                "descrição": "Com burrata cremosa e pistache."
+            },
+            {
+                "nome": "SL938 - Espaguete ao Molho de Camarão - 200g",
+                "preço": "R$ 89,00",
+                "descrição": "Com tomates frescos ."
+            },
+            {
+                "nome": "SL861 - Risoto de Parmesão - 200g",
+                "preço": "R$ 69,00",
+                "descrição": ""
+            },
+            {
+                "nome": "SL942 - Risoto de Frutos do Mar - 250g",
+                "preço": "R$ 109,00",
+                "descrição": "Camarão, lula, polvo e marisco."
+            },
+            {
+                "nome": "SL589 - Risoto de Cogumelos - 200g",
+                "preço": "R$ 75,00",
+                "descrição": ""
+            },
+            {
+                "nome": "SL588 - Risoto de Legumes - 200g",
+                "preço": "R$ 69,00",
+                "descrição": ""
+            }
+        ],
+        "Peixes e Frutos do Mar": [
+            {
+                "nome": "SL315 - Robalo em Crosta de Castanha - 250g",
+                "preço": "R$ 109,00",
+                "descrição": "Ao molho siciliano e espaguete nero"
+            },
+            {
+                "nome": "SL319 - Salmão ao toque de curry - 250g",
+                "preço": "R$ 99,00",
+                "descrição": "e risoto de beterraba"
+            },
+            {
+                "nome": "SL474 - Camarão Grande Grelhado -180g",
+                "preço": "R$ 189,00",
+                "descrição": "Ao molho de ervas e risoto de polvo."
+            },
+            {
+                "nome": "SL318 - Polvo Flambado no Vinho - 220g",
+                "preço": "R$ 159,00",
+                "descrição": "Com batata ao murro e aspargos."
+            },
+            {
+                "nome": "SL475 - Lombo de Bacalhau Confitado - 300g",
+                "preço": "R$ 159,00",
+                "descrição": "Com legumes assados e arroz com brócolis."
+            },
+            {
+                "nome": "SL936 - Bacalhau Don Manoel - 300g",
+                "preço": "R$ 159,00",
+                "descrição": "Com legumes na brasa."
+            },
+            {
+                "nome": "SL814 - Lombo de Bacalhau à Portuguesa - 300g",
+                "preço": "R$ 159,00",
+                "descrição": "Tomate, cebola, pimentão, ovo e arroz branco."
+            },
+            {
+                "nome": "SL573 - Posta de Bacalhau Serra da Estrela - 300g",
+                "preço": "R$ 179,00",
+                "descrição": "Com cebola caramelizada e arroz cremoso."
+            },
+            {
+                "nome": "SL477 - Bacalhau em Natas - 300g",
+                "preço": "R$ 109,00",
+                "descrição": "Lascas de bacalhau gratinado, cebola, batata e arroz branco."
+            },
+            {
+                "nome": "VIP\nSL478 - Don Manoel al Mare - 250g",
+                "preço": "R$ 159,00",
+                "descrição": "VIP"
+            },
+            {
+                "nome": "VIP\nCauda de Lagosta",
+                "preço": null,
+                "descrição": "VIP"
+            }
+        ],
+        "Carnes e Aves": [
+            {
+                "nome": "SL306 - Panceta Suína - 250g",
+                "preço": "R$ 79,00",
+                "descrição": "Com roti de cachaça e aligot de batata."
+            },
+            {
+                "nome": "SL311 - Filet Mignon ao Brie - 250g",
+                "preço": "R$ 99,00",
+                "descrição": "Com redução de vinho e risoto de cogumelos."
+            },
+            {
+                "nome": "SL939 - Ossobuco Big - 250g",
+                "preço": "R$ 99,00",
+                "descrição": "Com polenta e agrião."
+            },
+            {
+                "nome": "SL313 - Steak de Angus Premium - 250g",
+                "preço": "R$ 119,00",
+                "descrição": "Ao molho Djon e batata rústica."
+            },
+            {
+                "nome": "SL1089 - Prime Ribs - 350g",
+                "preço": "R$ 149,00",
+                "descrição": "Com molho madeira e papardelle ao creme de aspagos."
+            },
+            {
+                "nome": "SL941 - Tornedor de Mignon - 300g",
+                "preço": "R$ 149,00",
+                "descrição": "Gratinado com gruyère, parma e risoto trufado."
+            },
+            {
+                "nome": "VIP\nSL479 - Lombata - 400g",
+                "preço": "R$ 149,00",
+                "descrição": "VIP"
+            },
+            {
+                "nome": "SL932 - Carré de Cordeiro Grelhado - 250g",
+                "preço": "R$ 179,00",
+                "descrição": "Com roti de frutas vermelhas e risoto de hortelã."
+            },
+            {
+                "nome": "SL312 - Tomahawk - 500g",
+                "preço": "R$ 199,00",
+                "descrição": "Ao molho poivre e fettuccine no própio molho."
+            },
+            {
+                "nome": "SL304 - Confit de Pato - 150g",
+                "preço": "R$ 129,00",
+                "descrição": "Ao molho de laranja kinkan e purê de banana da terra."
+            },
+            {
+                "nome": "SL988 - Magret de Canard - 200g",
+                "preço": "R$ 139,00",
+                "descrição": "Ao risoto de frutas vermelhas e risoto de figo fresco."
+            }
+        ],
+        "Guarnições": [
+            {
+                "nome": "SL482 - Arroz Branco - 100g",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            },
+            {
+                "nome": "SL483 - Arroz com Brócolis - 100g",
+                "preço": "R$ 20,00",
+                "descrição": ""
+            },
+            {
+                "nome": "SL484 - Batata Frita - 100g",
+                "preço": "R$ 20,00",
+                "descrição": ""
+            },
+            {
+                "nome": "SL305 - Purê Batata - 100g",
+                "preço": "R$ 20,00",
+                "descrição": ""
+            },
+            {
+                "nome": "SL954 - Legumes Grelhados - 100g",
+                "preço": "R$ 25,00",
+                "descrição": ""
+            }
+        ]
+    },
+    "Menu Kids": {
+        "Kids": [
+            {
+                "nome": "SL551 - Fritas - 100g",
+                "preço": "R$ 36,00",
+                "descrição": "Com cheddar"
+            },
+            {
+                "nome": "SL610 - Mini Hamburger de Picanha",
+                "preço": "R$ 42,00",
+                "descrição": "3 Unidade"
+            },
+            {
+                "nome": "SL545 - Filet Mignon - 100g",
+                "preço": "R$ 45,00",
+                "descrição": "Com Arroz e Fritas."
+            },
+            {
+                "nome": "SL546 - Filet de Frango -100g",
+                "preço": "R$ 45,00",
+                "descrição": "Com arroz e fritas."
+            },
+            {
+                "nome": "SL547 - Espaguete - 100g",
+                "preço": "R$ 45,00",
+                "descrição": "Ao molho bolonhesa."
+            }
+        ]
+    },
+    "Sobremesas": {
+        "Sobremesa": [
+            {
+                "nome": "SL489 - Pastel de Natas - 2 unidades",
+                "preço": "R$ 25,00",
+                "descrição": "Com toque de canela."
+            },
+            {
+                "nome": "SL488 - Petit Gateau de Chocolate - 60g",
+                "preço": "R$ 35,00",
+                "descrição": "Com sorvete de baunilha."
+            },
+            {
+                "nome": "SL625 - Petit Gateau de Doce de Leite - 60g",
+                "preço": "R$ 35,00",
+                "descrição": "Com sorvete de mascarpone."
+            },
+            {
+                "nome": "SL931 - Cocada Brûlée - 100g",
+                "preço": "R$ 29,00",
+                "descrição": "Com sorvete de café."
+            },
+            {
+                "nome": "SL325 - Sorvete de Paçoca - 100g",
+                "preço": "R$ 29,00",
+                "descrição": "Com brigadeiro de nutella."
+            },
+            {
+                "nome": "SL326 - Creme Brûlée - 100g",
+                "preço": "R$ 29,00",
+                "descrição": "tradicional"
+            },
+            {
+                "nome": "SL485 - Sorvete de Mascarpone - 100g",
+                "preço": "R$ 29,00",
+                "descrição": "Com doce de leite."
+            },
+            {
+                "nome": "SL486 - Sorvete de Vinho do Porto - 100g",
+                "preço": "R$ 29,00",
+                "descrição": "Com figos frescos"
+            },
+            {
+                "nome": "SL2133 - Banoffe Don Manoel com sorvete de creme",
+                "preço": "R$ 30,00",
+                "descrição": ""
+            }
+        ]
+    },
+    "By Night": {
+        "Entradas": [
+            {
+                "nome": "Salada de folhas",
+                "preço": "",
+                "descrição": "com tomate e palmito"
+            },
+            {
+                "nome": "Polenta cremosa",
+                "preço": "",
+                "descrição": "com creme de gorgonzola"
+            }
+        ],
+        "Pratos Principais": [
+            {
+                "nome": "Gnocchi trufado",
+                "preço": "",
+                "descrição": "com cogumelos"
+            },
+            {
+                "nome": "Bacalhau em natas",
+                "preço": "",
+                "descrição": "com cebola, batata e arroz"
+            },
+            {
+                "nome": "Filet mignon ao molho gruyère",
+                "preço": "",
+                "descrição": "com risoto de tomate seco e rúcula"
+            }
+        ],
+        "Sobremesas": [
+            {
+                "nome": "Creme belga",
+                "preço": "",
+                "descrição": "com frutas vermelhas e suspiro"
+            },
+            {
+                "nome": "Semifredo",
+                "preço": "",
+                "descrição": "com calda de caramelo"
+            }
+        ],
+        "Valores": []
+    },
+    "Bebidas não Alcoólicas": {
+        "Refrigerantes e Águas": [
+            {
+                "nome": "BAR388 - Água sem Gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR387 - Água com Gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR406 - Coca Cola",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR211 - Coca Cola Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR212 - Guaraná",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR213 - Guaraná Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR214 - Água Tônica",
+                "preço": "R$ 8,90",
+                "descrição": ""
+            },
+            {
+                "nome": "BAR215 - Água Tônica Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR216 - Soda Limonada",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR245 - Café expresso",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR218 - Schweppes Citrus",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR219 - H2O",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR246 - Chá Nacional",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR674 - Red Bull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR389 - Acqua Panna",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR390 - Água San Pellegrino",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Sucos": [
+            {
+                "nome": "BAR239 - Suco de Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR221 - Suco de Laranja",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR222 - Suco de Abacaxi",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR779 - Suco de Maracujá",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR393 - Suco de Uva Integral",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR240 - Limonada Suíça",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR223 - Suco de Tomate",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR807 - Suco de Tangerina",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR810 - Suco de Goiaba",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Bebidas Alcoólicas": {
+        "Doses": [
+            {
+                "nome": "BAR251 - Vodka Smirnoff",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR252 - Vodka Absolut",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR512 - Vodka Wyborowa",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR256 - Gin Tanqueray",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR257 - Gin Apogee",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR259 - Cachaça Cabaré",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR260 - Cachaça Espírito de Minas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR261 - Cachaça Boazinha",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR301 - Sagatiba",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR266 - Campari",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR253 - Tequila",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR550 - Underberg",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR273 - Fernet Branca",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Caipirinhas": [
+            {
+                "nome": "BAR232 - Saquerinha com Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR549 - Saquerinha com Abacaxi",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR459 - Caipirissíma com Rum Bacardi",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR229 - Caipirinha Sagatiba com Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR544 - Caipirinha Sagatiba com Frutas Vermelhas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR545 - Caipirinha Boazinha com Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR548 - Caipirinha Espírito de Minas com Frutas Vermelhas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR230 - Caipirosca Smirnoff com Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR553 - Caipirosca Wyborowa com Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR554 - Caipirosca Wyborowa com Frutas Vermelhas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR231 - Caipirosca Absolut com Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR552 - Caipirosca Absolut com Frutas Vermelhas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR774 - Caipirinha Amor com Pimenta",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR547 - Caipirinha Espírito de Minas com limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR66 - Caipirosca Smirnoff com Frutas Vermelhas",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cervejas e Chopps": [
+            {
+                "nome": "BAR224 - Heineken Long Neck",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR225 - Baden Cristal",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR809 - Baden Golden",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR808 - Baden Ipa",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR767 - Chopp Pilsen",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Licores": [
+            {
+                "nome": "BAR820 - Licor Jagermeister",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR268 - Cointreau",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR269 - Limoncello",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR276 - Amarula",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR272 - Sambuca",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR778 - Drambuie",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR271 - Frangelico",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR267 - Licor 43",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR267 - Licor 43",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR819 - Licor Disaronno",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Whisky": [
+            {
+                "nome": "8 Anos\nBAR236 - Johnnie Walker Red Label",
+                "preço": null,
+                "descrição": "8 Anos"
+            },
+            {
+                "nome": "12 Anos\nBAR237 - Johnnie Walker Black Label",
+                "preço": null,
+                "descrição": "12 Anos"
+            },
+            {
+                "nome": "12 Anos\nBAR505 - Old Parr",
+                "preço": null,
+                "descrição": "12 Anos"
+            },
+            {
+                "nome": "12 Anos\nBAR506 - Logan",
+                "preço": null,
+                "descrição": "12 Anos"
+            },
+            {
+                "nome": "12 Anos\nBAR244 - Jack Daniels",
+                "preço": null,
+                "descrição": "12 Anos"
+            },
+            {
+                "nome": "15 Anos\nBAR507 - Johnnie Walker Green Label",
+                "preço": null,
+                "descrição": "15 Anos"
+            },
+            {
+                "nome": "12 Anos\nBAR533 - Johnnie Walker Island Green",
+                "preço": null,
+                "descrição": "12 Anos"
+            },
+            {
+                "nome": "18 Anos\nBAR532 - Chivas",
+                "preço": null,
+                "descrição": "18 Anos"
+            },
+            {
+                "nome": "18 Anos\nBAR508 - Johnnie Walker Gold Label Centenary",
+                "preço": null,
+                "descrição": "18 Anos"
+            },
+            {
+                "nome": "18 Anos\nBAR241 - Buchanans Reserve Especial",
+                "preço": null,
+                "descrição": "18 Anos"
+            },
+            {
+                "nome": "21 Anos\nBAR509 - Johnnie Walker Blue Label",
+                "preço": null,
+                "descrição": "21 Anos"
+            },
+            {
+                "nome": "21 Anos\nBAR510 - Royal Salut Red",
+                "preço": null,
+                "descrição": "21 Anos"
+            },
+            {
+                "nome": "21 Anos\nBAR511 - Royal Salut Emerald",
+                "preço": null,
+                "descrição": "21 Anos"
+            }
+        ]
+    },
+    "Drinks": {
+        "Drinks": [
+            {
+                "nome": "BAR227 - Aperol Spritz, Água com Gás e Espumante Brut",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR235 - Dry Martini, Gin e Martini Extra Dry",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR234 - Marguerita, Tequila, Cointreau e Limão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR514 - Negrori, Gin, Martini e Vermouth",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR243 - Gin Tanqueray Tônica",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR542 - Gin Tanqueray Tropical",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR775 - Água de Valência",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR665 - Mojito",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR776 - Moscow Mule",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR777 - Bloody Mary",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "BAR210 - Carajillo",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Vinhos Promocionais": {
+        "Argentina": [
+            {
+                "nome": "VIN799 - Kaiken Terroir Series Corte, 2011",
+                "preço": null,
+                "descrição": "O genial enólogo Aurelio Montes combinou as castas Malbec, Bonarda e Petit Verdot para criar este novo e sofisticado tinto, de impressionante relação qualidade/preço. A exuberante uva Malbec é a base do vinho, conferindo aristocráticas notas florais e uma textura cremosa no palato. A Bonarda contribui com deliciosas notas de frutas silvestres, deixando o corte elegante e equilibrado. Uma ótima novidade de Kaiken, com perfil distinto da grande maioria dos vinhos argentinos hoje disponíveis no mercado."
+            },
+            {
+                "nome": "VIN445 - Amayna Pinot Noir",
+                "preço": null,
+                "descrição": "Poderoso, profundo e ao mesmo tempo elegante. É um vinho gastronômico, de textura aveludada e longo final de boca, que combina muito bem com carnes, massas e risotos."
+            },
+            {
+                "nome": "VIN771 - Salentein Reserva Chardonnay",
+                "preço": null,
+                "descrição": "A clássica uva branca Chardonnay atinge uma concentração única nos vinhedos da Salentein, mantendo boa acidez e frescor. Madeira bem dosada dá volume e enriquece o vinho, fazendo o Salentein Reserve Chardonnay ótima companhia para massas recheadas, carnes de porco ou frutos do mar."
+            },
+            {
+                "nome": "VIN776 - Callia Torrontés, 2018",
+                "preço": null,
+                "descrição": "Equilíbrio entre aromas florais e de frutas perfumadas. Fresco e saboroso e deixando na boca uma sensação de 'quero mais'. Ideal como aperitivo, harmonizado com pratos à base de carnes brancas, peixes e frutos do mar"
+            },
+            {
+                "nome": "VIN798 - Catena Zapata Catena Chardonnay",
+                "preço": null,
+                "descrição": "Catena Chardonnay é uma das grandes referências para brancos maturados em barricas de carvalho produzidos na América do Sul, mostrando muita concentração e finesse. Sempre recebe ótimas notas da imprensa especializada, tendo sido chamado de delicioso pela revista Wine Spectator. Um excelente branco com um bouquet cativante de frutas brancas e nota mineral. Na boca é macio e pleno, com frutas maduras, mel, baunilha e um agradável e sutil toque tostado."
+            },
+            {
+                "nome": "VIN791 - Kaiken Ultra Chardonnay, 2012",
+                "preço": null,
+                "descrição": "Ultra Chardonnay mostra a vocação de Gualtallary, no Vale do Uco, para originar brancos cremosos e cheios de fineza. Para manter o frescor e as suas suculentas notas de fruta em evidência, o vinho é apenas parcialmente maturado em barricas de carvalho francês. Um Chardonnay que já nasce como uma das grandes escolhas da Argentina."
+            },
+            {
+                "nome": "VIN1034 - Domaine Doutre Cab. Franc, 2021",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "VIN826 - Escorihuela Pequenas Producciones Malbec, 2019",
+                "preço": null,
+                "descrição": "Em cada garrafa de nossas Pequenas Produções, procuramos destacar a tipicidade de cada varietal. Para isso, selecionamos o melhor terroir para cada uma das variedades que fazem parte desta linha de alta gama e procuramos trazer a sua expressão mais pura da garrafa '' Matías Ciciani, enólogo de Escorihuela Gascón."
+            }
+        ],
+        "Brasil": [
+            {
+                "nome": "VIN1040 - Jolimont Tannat",
+                "preço": null,
+                "descrição": "Brasil"
+            },
+            {
+                "nome": "VIN420 - Vallontano Brut",
+                "preço": null,
+                "descrição": "Com as uvas Pinot Noir e Chardonnay, as mesmas utilizadas em Champagne, Vallontano elabora este espumante de bastante classe seco, cheio de fruta e com grande apelo. Uma deliciosa pedida como aperitivo ou mesmo para acompanhar entradas e carnes brancas. Uma ótima descoberta."
+            },
+            {
+                "nome": "VIN182 - Adolfo Lona Charmat Brut",
+                "preço": null,
+                "descrição": "Elegância e complexidade definem este espumante. Uma perfeita combinação de Pinot Noir e Chardonnay, onde o premiado enólogo Adolfo Lona revelou intensidade e riqueza nos aromas e sabores."
+            },
+            {
+                "nome": "VIN840 - Bueno Paralelo 31 Gran Reserva",
+                "preço": null,
+                "descrição": "Análise visual: Elevada intensidade corante com tonalidade vermelho-rubi, profundo. Análise olfativa: Aroma penetrante de fruta madura de casca escura, envolta em elegantes notas de tosta e de tabaco de charuto. Análise gustativa: Denso e equilibrado em boca, com refrescantes notas balsâmicas e uma acidez fixa muito balanceada. Os taninos estão plenos de vigor, garantindo uma sólida e sedutora estrutura."
+            },
+            {
+                "nome": "VIN890 - Michele Carraro Moscato",
+                "preço": null,
+                "descrição": "O Vinho Michele Carraro Moscato Branco Seco é elaborado exclusivamente com uvas da variedade branca Moscato, e se apresenta um vinho muito agradável,"
+            }
+        ],
+        "Chile": [
+            {
+                "nome": "VIN873 - Cordillera Reserva Especial Chardonnay",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VIN905 - Santa Alba Cab. Sauv. Gran Reserva, 2020",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VIN797 - Amayana Sauv. Blanc",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VIN1007 - Le Petit Clos Apalta, 2019",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VIN792 - Miguel Torres Ándica Reserva Sauvignon Blanc, 2019",
+                "preço": null,
+                "descrição": "Branco certificado orgânico elaborado exclusivamente a partir de Sauvignon Blanc, sem passagem por madeira. De boa tipicidade e cativante nos aromas, mostra notas florais e de ervas frescas permeando sua fruta branca e de caroço madura, tudo equilibrado por refrescante acidez e textura firme e cremosa."
+            },
+            {
+                "nome": "VIN848 - Valdivieso Caballo Loco Sagrada Familia, 2012",
+                "preço": null,
+                "descrição": "Aroma complexo de frutas negras e vermelhas seguidas de notas suaves de cedro e tabaco. Cremoso, frutado e mineral. Acidez equilibrada e taninos sedosos."
+            },
+            {
+                "nome": "VIN796 - Carmen Insigne Sauvignon Blanc, 2023",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VIN865 - Tarapacá Gran Tarapacá, 2010",
+                "preço": null,
+                "descrição": "Cor: Apresenta uma cor rubi, intensa e brilhante. Aroma: Franco, revelando frutas maduras como cassis,framboesa e ameixas.Suaves toque de especiarias, como pimenta negra e baunilha. Paladar: Apresenta-se redondo,volumoso, taninos suaves e equilibrados. Notas de cerejas e especiarias aparecem no retrogosto."
+            },
+            {
+                "nome": "VIN781 - Château Los Boldos Gran Reserva",
+                "preço": null,
+                "descrição": "Com uvas Cabernet Sauvignon cultivadas nos vinhedos localizados no Cachapoal Andes, o vinho Los Boldos Momentos Reserva Cabernet Sauvignon possui Medalha de Prata no Concours Mondial de Bruxelles na Bélgica"
+            },
+            {
+                "nome": "VIN902 - Santa Alba Family Collection Cabernet Sauvignon, 2018",
+                "preço": null,
+                "descrição": "Vinho de grande volume, com taninos amáveis e aromas de cereja e cedro."
+            }
+        ],
+        "Itália": [
+            {
+                "nome": "VIN722 Prunotto Barbaresco , 2017",
+                "preço": null,
+                "descrição": "Aroma de frutas vermelhas mesclado a leve toque de especiarias"
+            },
+            {
+                "nome": "VIN723 -Prunotto Barolo",
+                "preço": null,
+                "descrição": "Um vinho potente, rico e elegante. Aroma complexo, com notas herbáceas e toque de violeta. Na boca apresenta-se pleno e aveludado, com final longo. Período de amadurecimento de 24 meses em barris de carvalho francês e mais 12 meses em garrafa."
+            },
+            {
+                "nome": "VIN134 - Planeta Etna Rosso, 2013",
+                "preço": null,
+                "descrição": "Vermelho rubi com tons roxos. Aroma de frutas vermelhas, chocolate e frutas tropicais. Frutado, macio e taninos finos Corpo: médio."
+            },
+            {
+                "nome": "VIN721 - Prunotto Dolcetto D'alba Doc, 2013",
+                "preço": null,
+                "descrição": "Vermelho rubi brilhante. Vínica uma reminiscência de flores e frutos maduros. Clássico vinho Piemontese para toda a refeição, ele vai bem com aperitivos e queijos. É aconselhável beber a uma temperatura de 16 ° C, entre o primeiro e terceiro ano após a colheita."
+            },
+            {
+                "nome": "VIN602 - Prunotto Fiulot Barbera D'Asti, 2020",
+                "preço": null,
+                "descrição": "Itália"
+            },
+            {
+                "nome": "VIN924 - Nina Brut",
+                "preço": null,
+                "descrição": "Itália"
+            },
+            {
+                "nome": "VIN133 - Planeta Syrah, 2006",
+                "preço": null,
+                "descrição": "NOTAS DE DEGUSTAÇÃO: A combinação ideal das três uvas, provenientes de vinhedos onde elas melhor se expressam (localizadas em Menfi, Sambuca e Noto) compõe um vinho com boa sensação de fruta, taninos bem integrados e corpo mediano, compatível com o que se espera de um tinto para todos os dias e todas as horas."
+            },
+            {
+                "nome": "VIN653 - Batasiolo Barolo DocG",
+                "preço": null,
+                "descrição": "Mínimo de 24 meses em barris de carvalho eslavo, maiMínimo de 24 meses em barris de carvalho eslavo, mais 12 meses em tanques de inox. Frutas negras maduras, frutas secas, especiarias, amadeirado, alcaçuz. Encorpado, boa acidez, taninos presentes, complexo, final longos 12 meses em tanques de inox. Frutas negras maduras, frutas secas, especiarias, amadeirado, alcaçuz. Encorpado, boa acidez, taninos presentes, complexo, final longo"
+            },
+            {
+                "nome": "VIN1052 - Brancaia T.R.E. Blend",
+                "preço": null,
+                "descrição": "Itália"
+            }
+        ],
+        "Portugal": [
+            {
+                "nome": "VIN932 - Cortes De Cima Syrah, 2004",
+                "preço": null,
+                "descrição": "Portugal"
+            },
+            {
+                "nome": "VIN145 - Quinta da Aveleda Lourival",
+                "preço": null,
+                "descrição": "O Quinta da Aveleda é um vinho harmonioso, no qual os aromas florais da casta Loureiro se fundem na perfeição com as notas tropicais do Alvarinho. O resultado é um vinho complexo e elegante, com um final de boca longo e persistente"
+            },
+            {
+                "nome": "VIN919 - Quinta da Alorna Reserva",
+                "preço": null,
+                "descrição": "35545"
+            },
+            {
+                "nome": "VIN758 - Quinta do Ameal Reserva, 2019",
+                "preço": null,
+                "descrição": "Portugal"
+            },
+            {
+                "nome": "VIN921 - Paulo Laureano Vinhas Velhas , 2021",
+                "preço": null,
+                "descrição": "Este vinho possui um aroma de fruta tropical fresca, sendo elegante e cítrico, com notas de flores brancas e alguma especiaria. Na boca, é sedoso, com uma excelente acidez, sendo longo, atrativo e floral, com notas minerais e tropicais."
+            },
+            {
+                "nome": "VIN1038 - Quadrifolia, 2010",
+                "preço": null,
+                "descrição": "Frutas vermelhas como amoras, cerejas, framboesas e groselhas. Jovem e frutado. Corpo médio com taninos macios e redondos."
+            },
+            {
+                "nome": "VIN1006 - Niepoort Conversa, 2020",
+                "preço": null,
+                "descrição": "Um vinho feito para o prazer da boa mesa que procura harmonia e equilíbrio para todos os dias e não apenas para momentos especiais. Um vinho que apetece; com uma boa estrutura e caráter do Douro, encanta pela sua jovialidade e frescor."
+            },
+            {
+                "nome": "VIN440 - Luis Pato Baga + Touriga , 2016",
+                "preço": null,
+                "descrição": "Portugal"
+            },
+            {
+                "nome": "VIN044 - Flor de Crasto Branco",
+                "preço": null,
+                "descrição": "Os aromas cítricos são imediatos e predominantes, com frescor e a mineralidade símbolo do solo desta região."
+            },
+            {
+                "nome": "VIN1054 - Bojador Red, 2015",
+                "preço": null,
+                "descrição": "Cor salmão pálida. Mineralidade e notas de fruta vermelha. Bom volume de boca e frescura pronunciada"
+            },
+            {
+                "nome": "VIN428 - Lagoalva Rosado , 2019",
+                "preço": null,
+                "descrição": "Este delicioso rosé de cor salmão é generoso nos aromas de frutas vermelhas, como morango e framboesa. Na boca é equilibrado, fresco e fácil de agradar. É elaborado com as melhores castas portuguesas, de modo a obter um vinho balanceado e complexo."
+            }
+        ],
+        "Uruguai": [
+            {
+                "nome": "VIN965 Garzon Reserva Tannat, 2020",
+                "preço": null,
+                "descrição": "Delicioso Tannat com notas de frutas negras com taninos aveludados."
+            },
+            {
+                "nome": "VIN965 - Garzon Reserva Tannat, 2022",
+                "preço": null,
+                "descrição": "Um dos mais famosos rótulos assinados por Garzón, este Tannat Reserva revela notas de amoras maduras, especiarias, além de toques de baunilha e café. Um dos clássicos da vitivinicultura uruguaia que conta com o know how de Alberto Antonini. Harmonize com Carnes grelhadas e assadas, massas recheadas com molho de tomate, polenta com ragu de carne vermelha, além de embutidos e queijos duros"
+            },
+            {
+                "nome": "VIN990 - Sete Chaves Segredo do Enólogo Uruguaio",
+                "preço": null,
+                "descrição": "Ao sul do oceano atlântico, onde o mar se torna bravo, onde os ventos e as rochas desafiam as habilidades dos navegantes, fica o cabo de Santa Maria, um porto natural temido pelos navegantes, mas estrategicamente desafiado por quem busca a conquista do mar. Nasce aqui o Sete Chaves Uruguaio, um vinho para quem busca explorar e conquistar o máximo de sabores e aromas desse maravilhoso país chamado Uruguai."
+            },
+            {
+                "nome": "VIN989 - Família Deicas Licor de Tannat, 2011",
+                "preço": null,
+                "descrição": "O Familia Deicas Licor de Tannat se destaca por sua elegância e sabor realçado, unidos a qualidade e inovação excepcional de uma vinícola consagrada. Produzido no Uruguai, traz ingredientes selecionados que constituem uma textura concentrada e cor negra, num composto harmônico de notas de figos maduros, menta e chocolate, gerando um paladar equilibradamente frutado, doce e tânico. Ótima opção para apreciar com sobremesas, especialmente de chocolate, queijos ou com o licor de sobremesa."
+            }
+        ],
+        "França": [
+            {
+                "nome": "VIN870 - Mouton Cadet Réserve Sauternes, 2017",
+                "preço": null,
+                "descrição": "Branco doce elaborado com uvas atacadas pelo fungo Botrytis cinerea, este Sauternes assinado por Mouton Cadet é fresco e aromático. Blend de Sémillon, Sauvignon Blanc e uma pequena proporção de Muscadelle, revela aromas de pêssegos maduros, damascos, além de notas florais e toques de mel."
+            },
+            {
+                "nome": "VIN143 - Chartreuse de Provence 2019",
+                "preço": null,
+                "descrição": "O Chantrose foi criado com o objetivo de expressar a qualidade de um rosé premium que representasse o que de melhor a região da Provence pode produzir. Para isso, foram selecionadas parcelas de vinhas com idade média de 20 a 25 anos, cultivadas em solos calcáreos muito especiais, com boa drenagem e baixa umidade. As temperaturas quentes inerentes ao clima mediterrâneo variam de um vinha para outra devido às diferenças de relevo e à exposição solar. Essa diversidade é essencial para a complexidade aromática dos diferentes vinhos que compõem o blend final do Chantrose."
+            },
+            {
+                "nome": "VIN634 - De Vergy Brut Rosé",
+                "preço": null,
+                "descrição": "Espumante rosé com aromas de frutas vermelhas frescas, como morangos, framboesas e cerejas, com notas florais. Em boca é leve, com notas de morango, delicada cremosidade e acidez agradável. Esse exemplar é elaborado através do Método Charmat, que ocorre em tanques de aço inox, que preserva todo o frescor e vivacidade das uvas. Sua origem é a França, um país europeu considerado por muitos como o berço dos vinhos e dos espumantes. É de lá que vem o registro mais antigo dos espumantes, do ano de 1531."
+            },
+            {
+                "nome": "VIN430 - Georges Vigouroux Le Temps Des Vendanges, 2018",
+                "preço": null,
+                "descrição": "No olfato é elegante, sutil e cheio de notas cítricas. É fresco e redondo, com um delicioso frutado no paladar."
+            },
+            {
+                "nome": "VIN438 - Chartron La Fleur , 2016",
+                "preço": null,
+                "descrição": "É elaborado pelos mesmos proprietários do cultuado Château Kirwan de Margaux. Repleto de aromas de frutas vermelhas e negras. Em boca é macio e com um ótimo frescor."
+            }
+        ],
+        "Espanha ": [
+            {
+                "nome": "VIN072 - Alaja Blanco",
+                "preço": null,
+                "descrição": "Branco elaborado exclusivamente a partir de Airén, sem passagem por madeira. Cativante e gostoso de beber, mostra frutas brancas e de caroço acompanhadas de notas florais, minerais e de ervas frescas. Frutado e refrescante, tem ótima acidez, médio corpo, boa textura e final agradável, com toques salinos e cítricos."
+            },
+            {
+                "nome": "VIN969 - Cava Jaume Serra",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VIN425 - Bayanegra Rosé, 2021",
+                "preço": null,
+                "descrição": "O Bayanegra Rosé 2021 é produzido com a uva Tempranillo, cultivada a 800 metros de altitude, na região vitivinícola de Castilla-La Mancha, na Espanha. As uvas são prensadas inteiras. A fermentação alcoólica ocorre em tanques de aço inox sob temperatura controlada. O vinho não estagia em madeira para manter o frescor e os aromas."
+            },
+            {
+                "nome": "VIN442 - Bayanegra Blanco, 2020",
+                "preço": null,
+                "descrição": "Elaborado com a casta Airén, este branco de aromas florais mostra bastante fruta no palato, com uma boa acidez, em um conjunto bem equilibrado e bastante convidativo."
+            },
+            {
+                "nome": "VINS1053 - Marques de Caceres Costanilla",
+                "preço": null,
+                "descrição": "Espanha"
+            },
+            {
+                "nome": "VIN787 - Sideral, 2019",
+                "preço": null,
+                "descrição": "Apesar da origem chilena, este tinto parece ter vindo de Bordeaux. No nariz, o vinho libera frutas negras frescas, como mirtilo, ameixa e cerejas, com toque de especiarias e tostado. Toda a intensidade aromática surpreende o paladar pela elegância com que passa pela língua. Um vinho macio em boca, que tem acidez, taninos e álcool na medida certa."
+            }
+        ],
+        "Estados Unidos": [
+            {
+                "nome": "VIN785 - Chateau Ste Michelle , 2018",
+                "preço": null,
+                "descrição": "Um típico Merlot de clima quente, com personalidade marcante, equilibrio entre fruta e acidez e taninos deliciosamente macios. Um vinho fácil de tomar e de combinar com diferentes tipos de comida."
+            },
+            {
+                "nome": "VIN942 - Robert Mondavi Blend, 2019",
+                "preço": null,
+                "descrição": "Estados Unidos"
+            }
+        ]
+    },
+    "Vinhos Selecionados": {
+        "Vinho Branco": [
+            {
+                "nome": "VINI0031 - Diamandes Perlita Chardonnay, 2013",
+                "preço": null,
+                "descrição": "Branco fresco mas o nariz elegante, sem maturidade excessiva, revelando notas tropicais e frutas pome, como maçã e pêra; toques suaves amanteigado, torradas e um fundo mineral. Na boca, por sua vez, é um vinho com nervo, excelente acidez que mais do que compensou a ligeira cremosidade."
+            },
+            {
+                "nome": "VINI0029 - Diamandes De Uco Viognier, 2010",
+                "preço": null,
+                "descrição": "Aromas florais e frutados, notas de damasco e amêndoas. Mineral, fresco e muito robusto. Toques vegetais completam esse grande vinho!"
+            },
+            {
+                "nome": "VINI0038 Armonía Sauvignon Blanc",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0037 Armonía Chardonnay, 2022",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0009 - Armonía Reserva Chardonnay 2022, 2022",
+                "preço": null,
+                "descrição": "Um bom vinho deve ter uma armonia entre seus diferentes componentes, como o tipo de uva utilizada, o terroir, os métodos de cultivo, a colheita, a fermentação e a vinificação. Esses fatores podem ter um impacto significativo no sabor, no aroma, na textura e na estrutura da bebida, sendo assim importante encontrar o equilíbrio adequado para alcançar um resultado excepcional de qualidade."
+            },
+            {
+                "nome": "VINI0006 - Armonía Gran Reserva Chardonnay 2022, 2022",
+                "preço": null,
+                "descrição": "Um bom vinho deve ter uma armonia entre seus diferentes componentes, como o tipo de uva utilizada, o terroir, os métodos de cultivo, a colheita, a fermentação e a vinificação. Esses fatores podem ter um impacto significativo no sabor, no aroma, na textura e na estrutura da bebida, sendo assim importante encontrar o equilíbrio adequado para alcançar um resultado excepcional de qualidade."
+            },
+            {
+                "nome": "VINI0015 - Creación Chardonnay, 2023",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0014 - Creación Sauvignon Blanc, 2023",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0016 - Creación Viognier, 2022",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0043 - Riomistico, 2019",
+                "preço": null,
+                "descrição": "Chile"
+            }
+        ],
+        "Vinho Rosé": [
+            {
+                "nome": "VINI0033 Diamandes Perlita Rosado, 2022",
+                "preço": null,
+                "descrição": "Dentro do Clos de los Siete, a Bodega DiamAndes produz ótimos vinhos para envelhecer que se destacam pela intensidade, complexidade e equilíbrio. Graças à combinação do fabuloso terroir de 130 hectares a 1100 m de altitude no sopé da Cordilheira dos Andes, ao savoir-faire fronteiriço dos proprietários e da seleção argentina, conseguimos alcançar um estilo distinto. Nas nossas vinhas destaca-se o conceito de agricultura sustentável com cuidado integral do meio ambiente. Quanto ao processo produtivo, utilizamos o sistema gravitacional com 64 pequenos tanques termorregulados em aço inox, isolados com paredes duplas. Todos os nossos vinhos são certificados como veganos e sustentáveis. Certificado de vinícola orgânica de 2022."
+            },
+            {
+                "nome": "VIN0039 Armonía Rosé, 2023",
+                "preço": null,
+                "descrição": "Chile"
+            }
+        ],
+        "Vinho Tinto": [
+            {
+                "nome": "VINI0027 - Diamandes De Uco Malbec, 2011",
+                "preço": null,
+                "descrição": "\"Este vinho tem uma identidade varietal forte e também apresenta belas características regionais graças à vinha DiamAndes. Plantada em alta altitude, a vinha dá vinhos com bela acidez acompanhado de frescura e equilíbrio. O ataque é limpo e sedoso, o paladar, em seguida, desenvolve adorável sabores de frutas escuras, chocolate e pimenta, com um toque de tabaco agradável. \""
+            },
+            {
+                "nome": "VINI0026 Diamandes de Uco Cabernet Sauvignon, 2020",
+                "preço": null,
+                "descrição": "Este Cabernet Sauvignon provém exclusivamente da nossa vinha situada a uma altitude de 1100 metros. Reflecte as características originais do terroir, o que lhe confere uma grande subtileza na sua variedade. A selecção cuidadosa das uvas, o seu arrefecimento em câmaras frigoríficas, o nosso processo de gravitação e os 14 meses de maturação em barricas de carvalho francês conferem-lhe elegância e estrutura ao mesmo tempo. Cor rubi profunda, aromas frescos e intensos de frutos pretos e uma boca estruturada e voluptuosa, típica desta casta. É delicado e sofisticado ao mesmo tempo. Ideal para acompanhar carnes de caça, carnes condimentadas ou simplesmente uma boa selecção de queijos finos."
+            },
+            {
+                "nome": "VINI0025 Diamandes de Uco Cabernet Franc, 2020",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "VINI0028 Diamandes de Uco Syrah",
+                "preço": null,
+                "descrição": "Em Clos de los Siete, a Bodega DiamAndes produz grandes vinhos de guarda que se destacam pela sua intensidade, complexidade e equilíbrio. Graças à combinação do fabuloso terroir de 130 hectares a 1.100 m de altitude, no sopé da Cordilheira dos Andes, com o know-how dos proprietários e da equipa argentina, conseguimos um estilo distinto. Nos nossos vinhedos, destaca-se o conceito de agricultura sustentável com o cuidado integral do meio ambiente. Quanto ao processo de vinificação, utilizamos o sistema de gravidade com 64 pequenos tanques de aço inoxidável, termorregulados, de parede dupla e isolados."
+            },
+            {
+                "nome": "VINI0030 - Diamandes De Uco Gran Reserva, 2007",
+                "preço": null,
+                "descrição": "Intenso e sedutor, o seu equilíbrio requintado dá-lhe elegância incomparável. Um grande vinho que é moderno e tipicamente argentino, e que combina uma capacidade substancial de idade com uma explosão de sabores inesquecíveis no palato."
+            },
+            {
+                "nome": "VINI0036 Armonía Merlot, 2021",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0035 - Armonía Carménère, 2021",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0034 Armonía Cabernet Sauvignon, 2020",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0007 - Armonía Reserva Cabernet Sauvignon 2020, 2020",
+                "preço": null,
+                "descrição": "Um bom vinho deve ter uma armonia entre seus diferentes componentes, como o tipo de uva utilizada, o terroir, os métodos de cultivo, a colheita, a fermentação e a vinificação. Esses fatores podem ter um impacto significativo no sabor, no aroma, na textura e na estrutura da bebida, sendo assim importante encontrar o equilíbrio adequado para alcançar um resultado excepcional de qualidade."
+            },
+            {
+                "nome": "VINI0008 - Armonía Reserva Carménère, 2019",
+                "preço": null,
+                "descrição": "Um bom vinho deve ter uma armonia entre seus diferentes componentes, como o tipo de uva utilizada, o terroir, os métodos de cultivo, a colheita, a fermentação e a vinificação. Esses fatores podem ter um impacto significativo no sabor, no aroma, na textura e na estrutura da bebida, sendo assim importante encontrar o equilíbrio adequado para alcançar um resultado excepcional de qualidade."
+            },
+            {
+                "nome": "VINI0003 - Armonía Gran Reserva Cabernet, 2020",
+                "preço": null,
+                "descrição": "Um bom vinho deve ter uma armonia entre seus diferentes componentes, como o tipo de uva utilizada, o terroir, os métodos de cultivo, a colheita, a fermentação e a vinificação. Esses fatores podem ter um impacto significativo no sabor, no aroma, na textura e na estrutura da bebida, sendo assim importante encontrar o equilíbrio adequado para alcançar um resultado excepcional de qualidade."
+            },
+            {
+                "nome": "VINI0004 - Armonía Gran Reserva Carménère , 2019",
+                "preço": null,
+                "descrição": "Um bom vinho deve ter uma armonia entre seus diferentes componentes, como o tipo de uva utilizada, o terroir, os métodos de cultivo, a colheita, a fermentação e a vinificação. Esses fatores podem ter um impacto significativo no sabor, no aroma, na textura e na estrutura da bebida, sendo assim importante encontrar o equilíbrio adequado para alcançar um resultado excepcional de qualidade."
+            },
+            {
+                "nome": "VINI0005 - Armonía Gran Reserva Syrah, 2020",
+                "preço": null,
+                "descrição": "Um bom vinho deve ter uma armonia entre seus diferentes componentes, como o tipo de uva utilizada, o terroir, os métodos de cultivo, a colheita, a fermentação e a vinificação. Esses fatores podem ter um impacto significativo no sabor, no aroma, na textura e na estrutura da bebida, sendo assim importante encontrar o equilíbrio adequado para alcançar um resultado excepcional de qualidade."
+            },
+            {
+                "nome": "VINI0002 - Armonía Premium Blend, 2020",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0001 - Armonía Newen , 2019",
+                "preço": null,
+                "descrição": "Newen significa força na língua local. Um dos países mais ao sul da Terra, o Chile é conhecido por sua paisagem extrema e poderosa. Forte, mas elegante e complexo, este vinho é uma homenagem ao solo, à cultura e à história chilena. É produzido a partir de uvas que crescem nas encostas da Cordilheira dos Andes. Durante o dia, a amplitude térmica possibilita o crescimento de frutas de qualidade excepcional."
+            },
+            {
+                "nome": "VINI0010 - Creación Cabernet Sauvignon, 2022",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0011 - Creación Carménerè, 2023",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0012 - Creación Pinot , 2023",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0013 - Creación Merlot, 2022",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0017 - Creación Cabernet Sauvignon Reserva , 2019",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0019 - Creación Cabernet Sauvignon Gran Reserva, 2018",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0020 - Creación Cabernet Sauvignon | Carménerè Gran Reserva, 2020",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0021 - Creación Iuvenis , 2018",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0022 - Creación Filius , 2016",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0023 - Creación Heredium , 2015",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0024 - Creación Ícono, 2016",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0018 - Creación Cabernet Sauvignon Reserva Especial, 2019",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0041 - Von Siebenthal Reserva Carmenere, 2015",
+                "preço": null,
+                "descrição": "Colheita Manual, 4 meses em barricas de bordeaux, cor vermelho rubi escura, intenso complexo. Conservar entre 3 a 4 anos."
+            },
+            {
+                "nome": "VINI0040 - Parcela 7",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0042 - Carabantes",
+                "preço": null,
+                "descrição": "Cor: Vermelho rubi profundo. Nariz: Distinto e complexo, combinação de frutos vermelhos maduros, cerejas pretas, alcaçuz, eucaliptos, canela, pimenta negra e azeitonas negras. Boca: Boa estrutura, profundo e concentrado. Um final com presença de taninos agradáveis, suaves e prolongados."
+            },
+            {
+                "nome": "VINI0044 - Von Siebenthal Montelig, 2014",
+                "preço": null,
+                "descrição": "\"É a fusãodo nome ?monte?, que em espanhol significa montanhae ?lig? que em línguia nativapré-inca significa luz. No visual, cor  vermelhacom leve evolução. Muito intenso no olfato. Notaa frutas vermelhas, algo mentolado, notas a espécies (cravo,pimenta) e notas ligadas a sua guarda em barrica (café,torrefação, cedro).    No paladar um vinho únicoquanto a qualidade dos seus taninos"
+            },
+            {
+                "nome": "VINI0045 - Toknar Icono",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0047 - Von Siebenthal Montelig 2004, 2014",
+                "preço": null,
+                "descrição": "\"É a fusãodo nome ?monte?, que em espanhol significa montanhae ?lig? que em línguia nativapré-inca significa luz. No visual, cor  vermelhacom leve evolução. Muito intenso no olfato. Notaa frutas vermelhas, algo mentolado, notas a espécies (cravo,pimenta) e notas ligadas a sua guarda em barrica (café,torrefação, cedro).    No paladar um vinho únicoquanto a qualidade dos seus taninos"
+            },
+            {
+                "nome": "VINI0048 - Toknar Icono",
+                "preço": null,
+                "descrição": "Chile"
+            },
+            {
+                "nome": "VINI0046 - Von Siebenthal Tatay de Cristobal, 2015",
+                "preço": null,
+                "descrição": "Cor rubi intenso. No nariz tem boa intensidade aromática, mesmo sendo bastante jovem. Notas de mirtilo, alecrim, framboesa e café. Na boca é seco, encorpado, taninos macios bem presentes. Tem boa acidez, dando frescor e fazendo salivar não deixando espaço para os taninos secarem a boca. Vinho equilibrado, sabor intenso, repetindo as notas sentidas no nariz e com um toque de café no final. Vinho persistente."
+            },
+            {
+                "nome": "VIN1007 Le Petit Clos Apalta, 2019",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "Carta de Vinho": {
+        "Vinhos em taça 150ml - Espumante": [
+            {
+                "nome": "VIN1048 - Espumante Del Grano Brut",
+                "preço": null,
+                "descrição": "Brasil"
+            },
+            {
+                "nome": "VIN1047 - Espumante Moscatel Del Grano",
+                "preço": null,
+                "descrição": "Brasil"
+            }
+        ],
+        "Vinhos em taça 150ml - Vinho Branco": [
+            {
+                "nome": "VIN1062 - Creación Sauvignon Blanc, 2023",
+                "preço": null,
+                "descrição": "Chile"
+            }
+        ],
+        "Vinhos em taça 150ml - Vinho Rosé": [
+            {
+                "nome": "VIN1064 - Armonía Rosé, 2023",
+                "preço": null,
+                "descrição": "Chile"
+            }
+        ],
+        "Vinhos em taça 150ml - Vinho Tinto": [
+            {
+                "nome": "VIN1065 - Creación Cabernet Sauvignon, 2022",
+                "preço": null,
+                "descrição": "Chile"
+            }
+        ],
+        "Vinhos em taça 150ml - Vinho do Porto": [],
+        "Espumante - Brasil": [
+            {
+                "nome": "VIN1037 - Espumante Del Grano Brut",
+                "preço": null,
+                "descrição": "Brasil"
+            }
+        ],
+        "Vinho Branco - África do Sul": [
+            {
+                "nome": "VIN930 Niel Joubert Chenin Blanc",
+                "preço": null,
+                "descrição": "Quase incolor com reflexos amarelos brilhantes. Nariz muito atraente com notas de frutas tropicais, granadilla e alguns cítricos. Boca brilhante e fresca, com ação animada em todo o paladar, repete o nariz acrescentando de uma pitada de abacaxi e limão. A boa e rápida acidez equilibra os sabores tropicais maduros. Final refrescante."
+            }
+        ],
+        "Vinho Branco - Eslovênia": [
+            {
+                "nome": "VIN915 Quercus Rebula",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Vinho Branco - Itália": [
+            {
+                "nome": "VIN1094 - Stemmari Pinot Grigio",
+                "preço": null,
+                "descrição": "Mostra aromas tropicais de abacaxi e damasco, baunilha e especiarias doces."
+            },
+            {
+                "nome": "VIN131 La Segreta Bianco Doc, 2022",
+                "preço": null,
+                "descrição": "Cor amarela límpida com laivos verdes que antecipam a sua frescura. No nariz notas cítricas jovens e florais, equilibradas por vivas notas mediterrâneas de pêssego, mamão e camomila. Equilibrado e refinado na boca, graças a uma acidez bem avaliada."
+            },
+            {
+                "nome": "VIN917 Villa Antinori, 2021",
+                "preço": null,
+                "descrição": "Amarelo palha claro com reflexos esverdeados. No nariz apresenta notas de frutas brancas frescas, complementadas com leves toques floral e mineral"
+            }
+        ],
+        "Vinho Branco - Portugal": [
+            {
+                "nome": "VIN062 Bico Amarelo, 2019",
+                "preço": null,
+                "descrição": "O vinho verde Bico Amarelo representa a diversidade da Região dos Vinhos Verdes, em Portugal. É um vinho branco, resultado de um blend das três principais uvas: Loureiro, Alvarinho e Avesso, que por meio de uma vinificação simples, sem qualquer adição de açúcar ou gás, proporcionam um vinho leve, fresco e equilibrado, dominado por notas cítricas e florais."
+            },
+            {
+                "nome": "VIN1050 Vinha do Monte Branco, 2021",
+                "preço": null,
+                "descrição": "Um ataque suave, com volume, com fruta branca presente e uma acidez viva que garante um final longo e fresco. Aromas intensos. Elegante aroma frutado, com destaque para pera, ananás e flores brancas."
+            },
+            {
+                "nome": "VIN036 Vinho Assobio Branco",
+                "preço": null,
+                "descrição": "O Assobio Branco é um vinho duriense profundo e elegante, feito pelas castas brancas típicas da região: Viosinho, Verdelho, Rabigato, Códega e Gouveio."
+            },
+            {
+                "nome": "VIN434 Luís Pato Maria Gomes, 2018",
+                "preço": null,
+                "descrição": "A uva Maria Gomes é um dos maiores achados do vinho português, originando brancos incrivelmente frescos e aromáticos. Um vinho leve, com atraentes notas florais, perfeito para ser bebido como aperitivo ou na companhia de peixes e mariscos, com a assinatura do genial Luis Pato."
+            },
+            {
+                "nome": "VIN782 Planalto Reserva",
+                "preço": null,
+                "descrição": "O Planalto é uma das maiores referências de vinho branco na Região do Douro, fruto dos profundos estudos efetuados ao longo dos anos, da criteriosa escolha das castas que o compõem e do uso da melhor tecnologia de vinificação na sua produção. Uma seleção apurada das uvas brancas típicas do Douro resulta neste Reserva que é uma referência em Portugal. Cor esverdeada brilhante. Aroma intenso e com complexidade, com notas de frutos tropicais, frutos brancos, ligeiros aspargos e com um floral bem presente. Na boca tem um ataque suave, acidez viva e bem casada, notas de frutos brancos e de aspargos, com um final muito equilibrado. Excelente para acompanhar pescados e carnes brancas."
+            },
+            {
+                "nome": "VIN022 Esporão Reserva",
+                "preço": null,
+                "descrição": "Aspecto cristalino, cor palha com reflexos esverdeados. Aroma rico e intenso com notas frutadas, de tangerina e pêssego, envoltas na sutileza da tosta das barricas. Na boca é cremoso, com o paladar complexo, equilibrado, preenchido pela fruta, alguma mineralidade e um final longo e fresco"
+            }
+        ],
+        "Vinho Rosé - Espanha": [
+            {
+                "nome": "VIN1092 - 20.000 Léguas - Laranja",
+                "preço": null,
+                "descrição": "20.000 LÉGUAS REFERE-SE AO ROMANCE DE FICÇÃO CIENTÍFICA \"20.000 LÉGUAS SUBMARINAS\", DE JÚLIO VERNE. ESSE AUTOR EXTRAORDINÁRIO INSPIROU-NOS A CRIAR UM VINHO ACESSÍVEL E BEM EQUILIBRADO PARA QUEM PROCURA ALGO INTERESSANTE E DIFERENTE. ESTE VINHO PODE SER A PORTA DE ENTRADA PERFEITA PARA QUALQUER PESSOA QUE QUEIRA SE AVENTURAR NO MUNDO DOS VINHOS LARANJAS. É UM VINHO ORGÂNICO E VEGANO, ALÉM DE UM COMPANHEIRO PERFEITO PARA COMER."
+            }
+        ],
+        "Vinho Rosé - França": [
+            {
+                "nome": "VIN142 Soleil Des Alpes, 2020",
+                "preço": null,
+                "descrição": "Soleil Des Alpes, que significa \"Sol dos Alpes\", é uma referência à ensolarada região sul da França, onde são cultivadas as uvas que compõem esse elegante vinho. A cordilheira dos Alpes protege os vinhedos dos fortes ventos frios vindos do norte, desfrutando de uma brisa suave vinda do sul, o que garante uma ótima maturação das uvas. A composição do terroir é muito diversa com solos calcáreos, arenosos e argilosos. Essa diversidade dá origem a uvas com aromas e sabores ricos que conferem uma complexidade agradável a esse incrível rosé."
+            }
+        ],
+        "Vinho Rosé - Portugal": [
+            {
+                "nome": "VIN037 Assobio Rosé, 2019",
+                "preço": null,
+                "descrição": "Junto a um dos limites da propriedade dos Murças em Covelinhas, as encostas íngremes formam um vale onde se ouve o vento a assobiar. É de vinhas como as que ali se encontram, a cotas mais elevadas orientadas a note, que provém este vinho. Resultado das castas tradicionais da região, é um vinho fresco, versátil e gastronômico."
+            }
+        ],
+        "Vinho Tinto - África do Sul": [
+            {
+                "nome": "VIN929 Niel Joubert Pinotage, 2013",
+                "preço": null,
+                "descrição": "De médio a luz, borda granulada, azul roxo. Aromas de ameixa madura com luz. Sugestões de cereja. Boa boca, cheia com mais sabores do que o nariz sugerido. Ameixa madura com ligeiro vestígio smoky. Luz, taninos suave com bom fluxo ao longo da placa. Final seco com notas de frutos vermelhos maduros e especiarias duradoura."
+            }
+        ],
+        "Vinho Tinto - Austrália ": [
+            {
+                "nome": "VIN385 Jacob's Creek Shiraz",
+                "preço": null,
+                "descrição": "Vinho Jacobs Creek Shiraz apresenta aromas de frutas vermelhas e notas apimentadas. Em boca é seco, possui boa acidez, taninos macios e final longo e agradável."
+            }
+        ],
+        "Vinho Tinto - Brasil": [
+            {
+                "nome": "VIN955 Casa Geraldo Reserva Shiraz",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VIN1097 - Pizzato Merlot Reserva",
+                "preço": null,
+                "descrição": "Brasil"
+            },
+            {
+                "nome": "VIN1098 - Pizzato Tannat, 2021",
+                "preço": null,
+                "descrição": "Tanques de aço inoxidável, passagem parcial por 04 meses em barris de carvalho americano e envelhecimento na garrafa"
+            },
+            {
+                "nome": "VIN1099 - Pizzato Fausto Cabernet Suavignon 750ml, 2022",
+                "preço": null,
+                "descrição": "Brasil"
+            },
+            {
+                "nome": "VIN1100 - Pizzato Fausto Cabernet Suavignon 375ml, 2022",
+                "preço": null,
+                "descrição": "Brasil"
+            },
+            {
+                "nome": "VIN1101 - Pizzato Fausto Cabernet Suavignon 187ml, 2022",
+                "preço": null,
+                "descrição": "Brasil"
+            }
+        ],
+        "Vinho Tinto - Eslovênia": [
+            {
+                "nome": "VIN920 Quercus Klet Brda, 2020",
+                "preço": null,
+                "descrição": "Bouquet frutado com notas de cassis, morango e ameixa."
+            }
+        ],
+        "Vinho Tinto - Estados Unidos": [
+            {
+                "nome": "VIN820 1000 Stories Zinfandel, 2018",
+                "preço": null,
+                "descrição": "O vinho tem uma cor púrpura profunda e rica. Uma intensa framboesa é no nariz, com pimenta preta e um toque de cravo e ervas secas. O paladar está cheio de taninos maduros, grandes frutos pretos e vermelhos, seguidos por uma variedade de especiarias."
+            }
+        ],
+        "Vinho Tinto - Espanha": [
+            {
+                "nome": "VIN127 Marqués De Riscal Viña Collada, 2008",
+                "preço": null,
+                "descrição": "Visual vermelho rubi. Aroma de frutas vermelhas, ameixa e um toque tostado. Paladar com taninos macios, seco e frutado."
+            },
+            {
+                "nome": "VIN396 Torres Altos Ibéricos Crianza, 2010",
+                "preço": null,
+                "descrição": "\"Apresenta coloração rubi escura intensa, aroma frutado com traços de especiarias, menta, caramelo e tabaco. Sabor rico, amplo, frutado e elegante. Possui boa acidez, balanceada com taninos maduros e bom teor alcoólico.\"— Sommelier Wine"
+            },
+            {
+                "nome": "VIN126 Marques De Riscal Reserva, 2018",
+                "preço": null,
+                "descrição": "Vermelho rubi e intenso Aroma: Grande complexidade. Notas de frutas negras maduras, especiarias, balsâmico e tosta. Paladar: Boa estrutura, saboroso, denso, macio, elegante e persistente. Corpo: Médio – Encorpado. Sugestões de Harmonização: Massas com molhos condimentados, cordeiro assado, carnes de caça, pimentões recheados, ensopados e queijos duros."
+            }
+        ],
+        "Vinho Tinto - Itália": [
+            {
+                "nome": "VIN457 Luccarelli Negroamaro Igt, 2019",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VIN132 La Segreta Rosso, 2018",
+                "preço": null,
+                "descrição": "Expressar com maestria as particularidades de cada terroir da Sicília é um dos objetivos da renomada vinícola Planeta, e a linha La Segreta é reflexo disso. Os vinhos levam o nome da floresta que cerca os vinhedos em Ulmo, e a colheita manual das uvas ajuda a preservar ainda mais as características das castas que os compõem. No caso deste Il Rosso, a união entre Nero d’Avola, Merlot, Syrah e Cabernet Franc resultou em um exemplar equilibrado, com taninos macios e toques frutados em boca, e aromas intensos de groselha e amora, com final picante e mentolado no nariz."
+            },
+            {
+                "nome": "VIN130 Rosso Di Montalcino , 2019",
+                "preço": null,
+                "descrição": "Vinho cor rosa vibrante. Bouquet frutado, com notas de morango e de framboesa. Em boca é fresco, sucoso e vivaz, com uma boa acidez. Vinificação: delicada prensagem dos cachos inteiros e decantação a frio do mosto. Fermentação natural por 10 dias. Segunda fermentação na garrafa, método ancestral. Amadurecimento: alguns meses com as próprias leveduras. Vinho não filtrado."
+            }
+        ],
+        "Vinho Tinto - França": [
+            {
+                "nome": "VIN1093 - Beaujolais Moillard les Malvaux, 2021",
+                "preço": null,
+                "descrição": "Apresenta aromas de frutas vermelhas, como morangos, e pretas, como groselhas. Em boca, é um vinho quente, com típicas notas condimentadas. HARMONIZAÇÃO Carnes grelhadas e culinária mediterrânea."
+            },
+            {
+                "nome": "VIN140 E. Guigal Côtes du Rhône Aoc",
+                "preço": null,
+                "descrição": "Elaborado a partir de vinhas com idade média de 35 anos. Métodos tradicionais de vinificação, fermentação com temperatura controlada. Longa imersão nas cascas."
+            },
+            {
+                "nome": "VIN138 - Bourgogne",
+                "preço": null,
+                "descrição": "Delicado e frutado, destacando-se por cerejas e morangos maduros, além de notas florais e de especiarias."
+            },
+            {
+                "nome": "VIN139 Louis Jadot Cote de Beaune, 2018",
+                "preço": null,
+                "descrição": "Fundada em 1859, a Maison Louis Jadot é considerada uma das melhores produtoras de vinho do mundo e a melhor da Borgonha. Possui 230 hectares, sendo que 50 são Premier Cru e 8 Grand Cru. A Vinícola se preocupa sempre em mostrar o melhor do terroir, utilizando leveduras naturais presentes nas cascas das uvas como diferencial. Ficha Técnica Tipo: Tinto e Seco Uva: 100% Pinot Noir Região: Côte de Beaune - Borgonha Teor Alcoólico: 13% Amadurecimento: 12 meses em barricas de carvalho francês. Temperatura ideal: 16°C a 18°C Visual: Vermelho Rubi com tons de cereja. Aroma: Frutas vermelhas frescas, cerejas. Paladar: Taninos macios, estrutura delicado, boa acidez. Corpo: Leve Sugestões de Harmonização: Aves e carnes vermelhas pouco gordurosas com molhos leves e queijos brancos leves."
+            },
+            {
+                "nome": "VIN141 - Gigondas, 2018",
+                "preço": null,
+                "descrição": "França"
+            }
+        ],
+        "Vinho Tinto - Líbano": [
+            {
+                "nome": "VIN941 Les Bretèches Rouge, 2019",
+                "preço": null,
+                "descrição": "Leve e frutado, Les Bretèches é um vinho descompromissado, que lembra os Côtes du Rhône mais leves. Apresenta aromas de frutas do bosque, mel e sálvia. Em boca revela taninos médios, acidez fresca, sabor de fruta, com notas terrosas e de pimenta. Experimente com a deliciosa culinária libanesa!"
+            }
+        ],
+        "Vinho Tinto - Portugal": [
+            {
+                "nome": "VIN927 Monte De Pinheiros, 2020",
+                "preço": null,
+                "descrição": "Este vinho de cor vermelha granada possui um aroma amplo, com profundidade e elegância, num estilo arredondado e harmonioso. Na boca, apresenta notas de fruta em geleia e erva seca, sendo suave e apresentando um belo frescor."
+            },
+            {
+                "nome": "VIN1049 Vinha do Monte Tinto Alentejo, 2021",
+                "preço": null,
+                "descrição": "Um vinho alentejano polivalente e equilibrado."
+            },
+            {
+                "nome": "VIN912 Torre De Estremoz Collection, 2012",
+                "preço": null,
+                "descrição": "Cor vermelha rubi. A fruta madura aveludada revela notas claras de amora, chocolate e folha de tomateiro, confirmadas pela boca fresca, pelos taninos doces e pelo corpo volumoso. Final suave e macio."
+            },
+            {
+                "nome": "VIN913 Terras de Xisto Reserva, 2020",
+                "preço": null,
+                "descrição": "Este vinho de cor vermelha intensa possui um aroma de frutos vermelhos maduros e notas balsâmicas. Na boca, é elegante, apresentando notas de fruta vermelha e uma madeira muito bem integrada. É um vinho encorpado com bons taninos, boa estrutura e uma boa persistênci"
+            },
+            {
+                "nome": "VIN783 Casa Ferreirinha Esteva douro, 2019",
+                "preço": null,
+                "descrição": "Esteva é um vinho tinto do Douro atrativo e elegante, que alia carácter e versatilidade a uma escolha muito acessível, ideal para o dia-a-dia. Esteva integra a gama de vinhos da celebrada Casa Ferreirinha, a marca com maior tradição na produção de vinhos de qualidade do Douro e uma das maiores referências mundiais desta região. Esteva foi produzido a partir de uvas letra A provenientes das vinhas da Casa Ferreirinha na zona do Pinhão, nomeadamente da Quinta do Caêdo e da Quinta do Porto, mas também recorrendo a zonas envolventes de maior altitude, obtendo-se assim naturalmente o equilíbrio na maturação desejado para este estilo de vinho com a necessária acidez natural. Os cachos vindimados à mão foram submetidos a um suave desengace e esmagamento, para posteriormente as uvas fermentarem então em cubas de aço inoxidável, com remontagem e maceração das películas, sob temperatura controlada de 25ºC. Depois da maceração, seguiu-se a fermentação maloláctica."
+            },
+            {
+                "nome": "VIN047 Quinta Do Crasto Crasto, 2012",
+                "preço": null,
+                "descrição": "Cor rubi intenso, aroma a frutos vermelhos muito maduros. Na boca a fruta está bem presente, com boa estrutura e taninos ligeiros que o tornam um vinho muito agradável."
+            },
+            {
+                "nome": "VIN784 Papa Figos",
+                "preço": null,
+                "descrição": "29685 - De todas as aves do Douro o Papa Figos é uma das mais raras. Uma ave migratória de cores vivas e atraentes. O carácter único e raro desta ave é a inspiração perfeita para este magnífico vinho da Casa Ferreirinha. De cor rubi com nuances violeta. Aroma de boa intensidade com notas florais a esteva e a manjerico, frutos vermelhos, frutos de caroço como o alperce e ligeiramente balsâmico a mentol. Na boca tem um bom volume, acidez bem integrada, taninos macios, notas de frutos vermelhos e um final elegante e equilibrado"
+            },
+            {
+                "nome": "VIN041 - Quinta Dos Murças Minas Tinto, 2015",
+                "preço": null,
+                "descrição": "Cor intensa, com laivos violetas, aroma intenso e concentrado onde dominam os frutos vermelhos maduros, os aromas florais e os aromas balsâmicos, taninos firmes e maduros, com uma acidez presente e bem envolvida. Apresenta um final longo e persistente onde sobressai o equilíbrio entre a sua frescura e maturação"
+            },
+            {
+                "nome": "VIN1051 - Casa Ferreirinha Vinha Grande",
+                "preço": null,
+                "descrição": "No aroma revela notas florais, balsâmicas, com frutos vermelhos frescos e folhas de eucalipto"
+            },
+            {
+                "nome": "VIN971 Wine & Soul Manoella, 2010",
+                "preço": null,
+                "descrição": "Bonita cor púrpura, notas frescas de amora, framboesa e especiarias. Na boca persistem taninos redondos e aveludados, excelente concentração e frescura. As uvas são fermentadas por 10 dias a temperaturas baixas e, em seguida em lagares de granito. O vinho é envelhecido por 16 meses em barricas francesas usadas."
+            },
+            {
+                "nome": "VIN937 Cedro do Noval, 2020",
+                "preço": null,
+                "descrição": "Apresenta uma cor muito escura e uma intensidade aromática notável, com notas de bagas silvestres e especiarias. Bem polido na boca, possui uma estrutura firme e um bom volume com notas de carvalho bem integradas. É um vinho forte que combina frescura e pureza de fruta que lhe confere um final muito longo."
+            },
+            {
+                "nome": "VIN051 Quinta Do Crasto Superior Douro, 2008",
+                "preço": null,
+                "descrição": "Ataque Fresco, Evoluindo Em Grande Harmonia, Para Um Volume Compacto Composto Por Taninos Maduros E Firmes. Boa Sensação De Frescura Aromática Com Notas De Excelente Complexidade Entre Frutos Silvestres Do Douro, Esteva E Cacau, Que Proporcionam Ao Final Agradável E De Excelente Persistência."
+            },
+            {
+                "nome": "VIN938 Cartuxa Colheita, 2007",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VIN021 Esporão Reserva, 2020",
+                "preço": null,
+                "descrição": "O Vinho Esporão Reserva apresenta coloração rubi brilhante, mostra de compota de fruta preta, especiarias (pimenta preta, cravinho), notas de café e charuto. Em boca é elegante e com excelente equilíbrio e acidez, tem taninos finos e uma boa estr"
+            },
+            {
+                "nome": "VIN757 Roquete e Cazes",
+                "preço": null,
+                "descrição": "O vinho Roquette & Cazes 2020 estagiou em barricas de carvalho francês, onde permaneceu cerca de 18 meses."
+            },
+            {
+                "nome": "VIN053 - Quinta Do Crasto Reserva Vinhas Velhas, 2008",
+                "preço": null,
+                "descrição": "Portugal"
+            },
+            {
+                "nome": "VIN042 Quinta Das Murças Margem, 2015",
+                "preço": null,
+                "descrição": "Profunda com tons violetas. Nariz intenso e vivo, com frutos pretos maduros dominantes, como amora e cassis, aromas balsâmicos e notas de especiarias suaves do envelhecimento em barricas de carvalho. Concentrado, com taninos maduros e bem integrados, que, juntamente com a sua acidez, oferecem um bom volume, corpo e frescura. Acabamento persistente dominado por aromas a frutos maduros, com potencial para uma grande longevidade na garrafa."
+            },
+            {
+                "nome": "VIN946 Mouchão",
+                "preço": null,
+                "descrição": "\"Este é um vinho com aroma complexo de vegetais e especiarias finas. Muito elegante, ao paladar revela-se rústico, bem estruturado com taninos finos. Apresenta bom volume e final persistente e delicado.\""
+            },
+            {
+                "nome": "VIN1091 - Esporão Monte Velho Reserva, 2021",
+                "preço": null,
+                "descrição": "O vinho Monte Velho Reserva Tinto apresenta coloração límpido ruby. Mostra aromas que revelam-se intensas de frutos silvestres e ameixa preta complementadas com especiarias doces e um final tostado devido ao estagio em barrica. Em boca é denso e equilibrado, onde predomina a fruta negra, enriquecido com ligeiras notas de compota. Volume atrativo e final de boca longo e persistente."
+            }
+        ],
+        "Vinho Tinto - Uruguai": [
+            {
+                "nome": "VIN1095 - Mataojo Reserva Tannat",
+                "preço": null,
+                "descrição": "Amadurece de 8 a 12 meses em barricas de carvalho francês, americano e húngaro. Aromaticamente, é complexo e intenso, tendo como principais descritores geleia e mirtilo, cereja, licor de ameixa e notas de pimenta vermelha, Na boca é direto e voluptuoso, com taninos marcantes, que pontuam a tipicidade do Tannat. Seu final é prolongado e entrega notas de baunilha e passas de frutas vermelhas."
+            }
+        ],
+        "Vinho Sobremesa - Argentina": [
+            {
+                "nome": "VIN778 Callia Tardio Dulce",
+                "preço": null,
+                "descrição": "Argentina"
+            }
+        ],
+        "Vinho Sobremesa - Hungria": [
+            {
+                "nome": "VIN923 Sauska Tokaji 5 Puttonyos",
+                "preço": null,
+                "descrição": "Cor de ouro pálida. Os aromas apresenta-se suavemente com damascos secos e curry picante no nariz. O gole é redondo e harmonioso com notas de figo, damasco e laranja, paladar fresco que domina o final longo e rico."
+            }
+        ],
+        "Vinho Fortificado - Portugal": [
+            {
+                "nome": "VIN936 Ceremony Porto Ruby",
+                "preço": null,
+                "descrição": "De cor vermelha, com fortes tonalidades acastanhadas. Com aromas fresco e delicado, com toque de especiarias e frutos secos, decorrentes do envelhecimento em barricas de carvalho. Na boca muito elegante, aveludado e com final persistente."
+            },
+            {
+                "nome": "VIN935 - Ceremony Tawny Porto",
+                "preço": null,
+                "descrição": "Fresco e delicado, com toque de especiarias e frutos secos, decorrentes do envelhecimento em barricas de carvalho. Muito elegante, aveludado e com final de boca persistente"
+            },
+            {
+                "nome": "VIN061 - Taylors Porto Ruby",
+                "preço": null,
+                "descrição": "O Porto Taylor’s Fine Ruby é elaborado a partir de um lote de vinhos tintos produzidos no Baixo Corgo e Cima Corgo, na região do Douro. Os vinhos que compõem o lote foram escolhidos pela sua profundidade de cor, frutados intensos e paladar cheio e firme. Estes vinhos do Porto estagiam cerca de três anos em tonéis de madeira de carvalho, onde suavizam e desenvolvem sem perder o seu caráter fresco, intenso frutado e a sua profunda cor rubi."
+            },
+            {
+                "nome": "VIN056 - Taylors Porto Select Reserva",
+                "preço": null,
+                "descrição": "O Taylor's Select Reserva é elaborado a partir de um lote de vinhos do porto produzidos nas zonas do Baixo Corgo e Cima Corgo do Vale do Douro. Os vinhos que compõem o lote são selecionados pela sua profundidade de cor, intensidade de fruta, paladar volumoso e firme."
+            }
+        ],
+        "Vinho Fortificado - Brasil": [
+            {
+                "nome": "VIN953 - Grappa Casa Geraldo, 2017",
+                "preço": null,
+                "descrição": "A Tradição no procedimento é seguida com atenção em todas as fases, dando vida à grappa. O seu elegante e intenso perfume Ibe confere um paladar fresco e variado e com retrogosto persistente."
+            }
+        ]
+    },
+    "Especiais da Casa": {
+        "Espumante - Brasil": [
+            {
+                "nome": "VIN954 Casa Geraldo Nature",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Espumante - Espanha": [
+            {
+                "nome": "VIN146 Codorníu Cava Classico Brut",
+                "preço": null,
+                "descrição": "Um espumante com uma composição elegante de frutas frescas como maçã, combinadas com notas cítricas e toques tostados, garantindo um paladar frutado, macio e deliciosamente refrescante."
+            },
+            {
+                "nome": "VIN147 - Codorníu Cava Brut Rosé",
+                "preço": null,
+                "descrição": "Aromas de frutas vermelhas, compotas e cassis complementados por notas suaves de doces e leveduras do envelhecimento em contato com leveduras."
+            }
+        ],
+        "Espumante - França": [
+            {
+                "nome": "VIN200 - Piper Heidsieck Brut",
+                "preço": null,
+                "descrição": "Notas de pão com aromas de flores brancas e amêndoas."
+            },
+            {
+                "nome": "VIN864 - Veuve Clicquot Brut",
+                "preço": null,
+                "descrição": "Tem força e maciez em perfeito equilíbrio com uma intensidade aromática e bastante frescor."
+            },
+            {
+                "nome": "VIN148 - Taittinger Brut",
+                "preço": null,
+                "descrição": "Cor amarelo dourado e brilhante. Aroma aberto e expressivo. Notas de brioche, pêssego, damasco, flores brancas, baunilha e um delicado toque de mel. Frutas cítricas também podem ser notadas. Paladar delicado e elegante. Longa persistência e final refrescante."
+            },
+            {
+                "nome": "VIN855 - Dom Perignon Vintage",
+                "preço": null,
+                "descrição": "Dom Pérignon é o nome do lendário monge Beneditino que inventou o método de fabricação do champagne. Em 1792, a família de Moet & Chandon comprou suas terras e vinícolas, aperfeiçoando o cultivo das uvas e seu amadurecimento. Lançado em 1921 como a melhor das bebidas do grupo, o champagne Dom Pérignon traz um caráter único, por ser produzida a partir de uvas provenientes de apenas uma vinícola (single vineyard). Seu excelente sabor, complexidade e deliciosa finalização são resultado da extração das melhores uvas (de castas claras e escuras), somente em safras realmente excepcionais."
+            }
+        ],
+        "Vinho Branco - Austrália": [
+            {
+                "nome": "VIN384 Jacobs Creek Chardonnay",
+                "preço": null,
+                "descrição": "Vinho Jacobs Creek Chardonnay apresenta aromas cítricos com toques de melão maduro. No paladar é seco com notas de limão e melão, apresenta acidez definida e final refrescante."
+            }
+        ],
+        "Vinho Branco - Chile": [
+            {
+                "nome": "VIN788 Leyda Reserva Sauvignon Blanc, 2021",
+                "preço": null,
+                "descrição": "Além de representar o terroir do Valle de Leyda, a seleção Leyda Reserva procura respeitar a identidade de cada casta, dando origem a vinhos expressivos, frescos e suculentos. É o caso deste Sauvignon Blanc criado com uvas colhidas manualmente, amadurecido sobre as borras, e que apresenta marcante caráter cítrico, com notas de limas e tangerinas."
+            },
+            {
+                "nome": "VIN795 Amayna Chardonnay, 2018",
+                "preço": null,
+                "descrição": "Um vinho com acidez marcante, elegante e bem estruturado na boca, ótima persistência, bem completo, delicioso e não deixa nada a desejar comparado com alguns vinhos brancos de alta qualidade da França."
+            }
+        ],
+        "Vinho Branco - França": [
+            {
+                "nome": "VIN137 Petit Chablis, 2019",
+                "preço": null,
+                "descrição": "Cor verdeal brilhante, reflexos palha. Traz cítricos maduros e maçã no nariz com maior intensidade que demonstra o grande ano na região. Na boca um vinho de bom peso, fresco e mineral. Cítricos maduros e maçã no nariz, de boa intensidade. Muito bem na textura, fresco e mineral."
+            },
+            {
+                "nome": "VIN136 Petit Chablis A.o.c",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Vinho Branco - Portugal": [
+            {
+                "nome": "VIN046 Quinta Do Crasto Branco, 2010",
+                "preço": null,
+                "descrição": "Pale lemon in colour, with an enormously aromatic freshness, vibrant aromas of citrus and soft orange blossom notes. It evolves elegantly in the mouth, presenting excellent volume and fine texture, with vibrant notes of minerality. An engaging wine with a long and fresh finish. 85% of the blend is matured in stainless steel vats, with occasional lees stirring. 15% of the blend is fermented and aged in used French oak barrels, with occasional lees stirring for 3 months."
+            },
+            {
+                "nome": "VIN1058 Pera Manca Branco, 2007",
+                "preço": null,
+                "descrição": "O Vinho Pêra-Manca Branco 2021 é a versão branca do Vinho Pêra-Manca, um dos melhores vinhos de Portugal! Produzido pela Fundação Eugénio de Almeida, com um corte das uvas Antão Vaz e Arinto, oriundas de vinhedos localizados na região vitivinícola do Alentejo."
+            }
+        ],
+        "Vinho Rosé - Chile": [
+            {
+                "nome": "VIN863 La Piu Belle",
+                "preço": null,
+                "descrição": "O vinho puro Vik La Piu Belle Rose possui uma cor rosa claro, com camadas de frutas vermelhas, morango e framboesa, flores como lavanda e violeta."
+            }
+        ],
+        "Vinho Rosé - Portugal": [
+            {
+                "nome": "VIN048 Crasto Douro Rose , 2022",
+                "preço": null,
+                "descrição": "Equilíbrio e sintonia definem este vinho. Produzido em solos de xisto a 400m de altitude, o resultado é uma combinação saborosa de duas uvas vibrantes."
+            }
+        ],
+        "Vinho Tinto - África do Sul": [
+            {
+                "nome": "VIN922 The Chocolate Block",
+                "preço": null,
+                "descrição": "Na boca é opulento e estruturado, com destaque para as notas de especiarias. Rico e com taninos maduros, tem uma acidez equilibrada e um final sedutor."
+            }
+        ],
+        "Vinho Tinto - Argentina": [
+            {
+                "nome": "VIN780 Rutini Cabernet Sauvignon Malbec",
+                "preço": null,
+                "descrição": "Vinho de altas pontuações que chama atenção pelo equilíbrio. Fundada em 1885 por Felipe Rutini, a Rutini Wines é uma das mais antigas e reconhecidas vinícolas argentinas. Seus vinhedos, plantados em cinco diferentes áreas de Mendoza, permitem cultivar cada variedade de uva com as melhores condições para seus vinhos. A equipe de enologia é comandada por Mariano di Paola - uma referência entre seus pares e apreciador de grandes vinhos do mundo - que busca trazer para cada vinho uma experiência única. Por décadas, unindo tradição, experiência e inovação, os vinhos da Rutini têm sido sinônimo de qualidade e dedicação."
+            },
+            {
+                "nome": "VIN789 Cobos Felino Malbec, 2021",
+                "preço": null,
+                "descrição": "Um malbec robusto muita fruta encorpado com taninos macios bem equilibrado"
+            },
+            {
+                "nome": "VIN997 Norton Privado Family Blend",
+                "preço": null,
+                "descrição": "Este exclusivo blend de alta gama nasceu como um pedido pessoal da família Swarovski ao enólogo da Bodega com o objetivo de criar o melhor vinho para desfrutar com amigos e parentes. Um vinho realmente único, resultado de uma seleção especial das melhores barricas de Malbec, Merlot e Cabernet Sauvignon, resultando em um blend harmônico, completo e elegante."
+            },
+            {
+                "nome": "VIN981 Benmarco Expressivo, 2020",
+                "preço": null,
+                "descrição": "Mostra frutas vermelhas e negras maduras seguidas de notas florais, de ervas e de especiarias, que aparecem tanto no nariz quanto na boca, tudo sustentado por taninos firmes e arenosos e acidez refrescante. Tem final cheio e persistente, com toques de ameixas, de amoras, de ervas frescas e de violetas. Uma bela interpretação de um ano mais quente em Gualtallary."
+            },
+            {
+                "nome": "VIN838 Benmarco Expressivo, 2018",
+                "preço": null,
+                "descrição": "Premiado com 96 James Suckling, 93 Decanter, 93 Tim Atkin Sua cor é rubi escuro, límpido e brilhante, no paladar é de persistência longa, macio e equilibrado, apresenta taninos intensos e marcantes. Seus aromas são marcantes de frutos negros maduros e especiarias. Harmoniza perfeitamente com carnes vermelhas, aves e massas."
+            },
+            {
+                "nome": "VIN436 Dv Catena Cabernet Malbec",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VIN433 El Enemigo Cabernet Franc",
+                "preço": null,
+                "descrição": "O Vinho El Enemigo Cabernet Franc 2018 é produzido pela Bodega Aleanna, o projeto pessoal de Alejandro Vigil, enólogo da Catena Zapata, com Adrianna Catena. Elaborado majoritariamente com a uva Cabernet Franc e um toque de Malbec, cultivadas a mais de 1.400 metros de altitude em Gualtallary, na região vitivinícola de Mendoza, na Argentina. No nariz, revela aromas de frutas vermelhas maduras, como de groselha e cereja, notas florais, como de violeta, além de nuances de especiarias. Em boca, o Vinho El Enemigo Cabernet Franc 2018 é elegante e encorpado, contando com taninos refinados e um final longo e persistente. Esse é um rótulo que apresenta um ótimo potencial de guarda, aumentando em complexidade com o passar dos anos."
+            },
+            {
+                "nome": "VIN982 - Catena Zapata Dv Catena Malbec, 2016",
+                "preço": null,
+                "descrição": "\"Elegante e complexo, este malbec se apresenta intenso e concentrado no nariz, misturando aromas varietais da malbec cultivada no vinhedo \"Adrianna\" e as notas aportadas pelo envelhecimento em carvalho francês.Na boca, se apresenta amplo com taninos redondos, suaves e com final longo e persistente.\""
+            },
+            {
+                "nome": "VIN067 Angelica Zapata",
+                "preço": null,
+                "descrição": "As uvas vêm de vinhas selecionadas, plantadas em grande altitude e com rendimentos muito baixos, que dão origem a um vinho muito complexo e exuberante"
+            },
+            {
+                "nome": "VIN814 A Merced del Tiempo, 2023",
+                "preço": null,
+                "descrição": "O A Merced del Tiempo é elaborado principalmente com Cabernet Sauvignon e uma pequena parcela de Malbec. Com nove anos de envelhecimento em barricas de carvalho francês, este vinho revela uma cor granada intensa e brilhante. Seus aromas exibem frutas negras, frutas passificadas, caramelo, chocolate, alcatrão e pimentão. Na boca, ele é caracterizado por taninos firmes e bem integrados, com notas picantes e licorosas, reforçando as sensações do olfato. Seu final é longo, marcado pela persistência do licor. Com uma avaliação de 95/100 pontos, este vinho é verdadeiramente excepcional."
+            },
+            {
+                "nome": "VIN853 Yacochuya Malbec, 2013",
+                "preço": null,
+                "descrição": "Este é um Malbec perfumado, com aromas de jabuticaba, cereja negra, cassis e café com um leve toque de mineralidade. Trata-se de um vinho estruturado, que exibe juventude e complexidade. Em boca, seus taninos doces afagam o paladar com suavidade, enquanto a acidez traz um frescor delicioso."
+            },
+            {
+                "nome": "VIN802 Sottano Judas Malbec, 2006",
+                "preço": null,
+                "descrição": "Apresenta uma cor vermelha intensa e brilhante com matizes pretos. De grande intensidade e complexidade aromática com predomínio de notas de cerejas, especiarias, tabaco, cassis, pimenta branca, cravo, também algum chocolate e menta. Grande estrutura, acidez marcada, amplo na boca, com taninos doces e aveludados em bom equilíbrio com o contributo da madeira. Proprietário de uma intensidade aromática impressionante e grande volume na boca; acompanhado por um final longo que o torna único no seu estilo."
+            },
+            {
+                "nome": "VIN845 Achaval Ferrer Finca Bela Vista, 2007",
+                "preço": null,
+                "descrição": "\"Vinho de cor púrpura concentrado e brilhante, se abre em aromas de fruta negra, violeta, nuanças tostadas e terrosas, especiarias, incenso. Em boca e denso, com taninos de alta qualidade e longa persistência.\""
+            },
+            {
+                "nome": "VIN810 Escorihuela Gascón DON, 2019",
+                "preço": null,
+                "descrição": "Vermelho violeta profundo com tons brilhantes de púrpura e boa densidade. Aromas intensos de fruta. Lembra ameixas pretas, morangos maduros, mirtilos e amoras. O envelhecimento em carvalho adiciona tons de baunilha, cedro e cacau. Paladar amplo com sabores definidos e bom carácter. Frutos vermelhos e pretos como ameixas e frutos silvestres podem ser apreciados porque fluem com um sabor mineral que se acumula com a sua textura. Estrutura tânica rica e equilibrada com acidez firme e refrescante. Final duradouro e oleoso que lembra marmelada de frutas vermelhas com nota"
+            },
+            {
+                "nome": "VIN841 Gran Enemigo, 2014",
+                "preço": null,
+                "descrição": "Muito complexo e repleto de camadas de aromas e sabores, o El Gran Enemigo combina notas de frutas pretas maduras, especiarias, sândalo, chocolate e balsâmicas."
+            },
+            {
+                "nome": "VIN823 Zuccardi Zeta, 2011",
+                "preço": null,
+                "descrição": "O Vinho Zuccardi Zeta 750ml. Estrela da Zuccardi, o Zeta é um blend das melhores videiras de Malbec e Cabernet da vinícola. É um vinho que prima pelo equilíbrio e complexidade, madeira sutil e deliciosas notas frutadas. Vermelho violeta profundo. Aroma intenso e complexo, com muita fruta madura vermelha e negra como groselha, mirtilo e amora. Nuances de cravo, tabaco e especiarias provenientes do tempo em barrica. Palato complexo, com bom corpo e intensidade. Acidez equilibrada e final marcante e longo."
+            },
+            {
+                "nome": "VIN824 Susana Balbo Nosotros Malbec, 2015",
+                "preço": null,
+                "descrição": "Cor:Rubi intenso Aromas:\"Cereja preta, cassis, notas de violeta e pimenta preta, combinados com chocolate e baunilha provenientes de sua longa estadia em barri de carvalho francês\" Boca:\"Equilíbrio perfeito entre frutas vermelhas frescas e a madeira. É um vinho sofisticado, comtaninos doces, que oferece uma incrível suavidade em boca e um final persirtente"
+            },
+            {
+                "nome": "VIN881 Maison Pouget Corte Oro, 2017",
+                "preço": null,
+                "descrição": "O vinho tinto maison pouget corte oro 2017, é um vinho seco, de grande raridade no mercado devido ao fato de suas garrafas serem limitadas. possui origem argentina, da famosa região mendoza. a safra de 2012 foi eleito como o melhor malbec do mundo, por dois anos consecutivos dentre 400.000 amostras."
+            }
+        ],
+        "Vinho Tinto - Brasil": [
+            {
+                "nome": "VIN1012 - Rastros do Pampa Cabernet Sauvignon, 2023",
+                "preço": null,
+                "descrição": "Nosso emblemático vinho. Primeiro tinto lançado pela vinícola, é elaborado com as uvas originárias dos vinhedos mais antigos da estância. No nariz, os aromas são expressivos e remetem, principalmente, à frutas negras, como amora e ameixa, além de um toque vegetal, como folhas de alcachofra, o que confere uma agradável sensação de refrescância. Ainda, devido ao seu estágio em barricas de carvalho francês ao longo de três meses, notas sutis de pimenta preta e baunilha, também são destacadas. No paladar é envolvente, equilibrado, de corpo médio, com acidez pronunciada e taninos sedosos. É persistente, com retrogosto frutado e refrescante, alinhando-se às descrições olfativas."
+            },
+            {
+                "nome": "VIN1013 Guatambu Rastros Do Pampa Tannat, 2014",
+                "preço": null,
+                "descrição": "Apresentamos um vinho intenso em todos os sentidos, desde sua coloração púrpura com tons violáceos, seus deliciosos aromas de frutas negras e de geléias, que aos poucos vão dando lugar a notas de chocolate e tabaco, finalizando com alta concentração de taninos doces e macios. Tendo passagem por carvalho francês Allier durante três meses, este vinho está pronto para ser degustado, mas também possui um grande potencial para guarda, de até 8 anos."
+            },
+            {
+                "nome": "VIN843 Maria Maria Eva Syrah, 2020",
+                "preço": null,
+                "descrição": "Ótima cor vermelho rubi de média intensidade, boa limpidez e brilho. Ótimo aroma de frutas vermelhas, especialmente amora, toque de cereja e goiabada. Em boca, mostra boa acidez, taninos marcantes em um corpo médio, com toque salino ao final. Vinho fácil de beber e pronto."
+            },
+            {
+                "nome": "VIN999 Guatambu Épico VII, 2021",
+                "preço": null,
+                "descrição": "Expoente de mais alta gama da vinícola, para este vinho especial foram selecionadas as melhores parcelas das castas Tannat, Cabernet Sauvignon, Merlot e Tempranillo dos vinhedos da Estância Guatambu das safras 2019, 2020 e 2021. Grande elegância, um vinho para rememorar! O vinho Épico vem se consolidando como um ícone brasileiro, e por isso, nesta edição especial, fizemos um rótulo surpreendente e imponente, para abrilhantar sua adega para que sua experiência ao abrir esta garrafa seja Épica! Lote limitado de 5.200 garrafas numeradas. Recomenda-se a passagem do vinho por decanter durante 1 hora antes do serviço."
+            },
+            {
+                "nome": "VIN1096 - Mantis Nobre Caberenet Sauvignon",
+                "preço": null,
+                "descrição": "Brasil"
+            }
+        ],
+        "Vinho Tinto - Chile": [
+            {
+                "nome": "VIN786 Errazuriz Estate Series Cabernet Sauvignon Reserva, 2021",
+                "preço": null,
+                "descrição": "As uvas a partir das quais a Estate Series Cabernet Sauvignon é feita foram selecionados a partir de nossas vinhas, de uma região que é conhecida pelas brisas frescas manhã soprando das montanhas e pela moderada temperaturas diurnas que permitem que as uvas atinjam uma temperatura perfeita maturidade, preservando sua acidez e frescura."
+            },
+            {
+                "nome": "VIN847 Caballo Loco Grand Cru Maipo",
+                "preço": null,
+                "descrição": "Um Caballo Loco Grand Cru e safrado elaborado com os melhores frutos vindos do Vale de Maipo. O resultado é um tinto complexo, intenso, com taninos macios e acidez marcante, que proporcionam ao vinho um grande poder de guarda."
+            },
+            {
+                "nome": "VIN850 Caballo Loco Grand Cru Apalta",
+                "preço": null,
+                "descrição": "50% Cabernet Sauvignon - 50% Carmenére. Elegante, com aromas intensos de frutas com notas florais e de especiarias. É potente, com taninos elegantes e final longo e saboroso. Passagem por Barricas - 24 meses."
+            },
+            {
+                "nome": "VIN846 - Caballo Loco Limari Grand Cru , 2016",
+                "preço": null,
+                "descrição": "Vermelho intenso com nuances de violeta. Aroma intenso e complexo de frutas negras, pimenta e oliva. Elegante com estrutura e taninos macios. Final persistente."
+            },
+            {
+                "nome": "VIN818 Viña Carmen Winemakerss Cabernet Sauvignon Blend, 2016",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VIN1000 Santa Rita Triple C",
+                "preço": null,
+                "descrição": "Bordalês, um vinho grandioso com um toque local único da Carménère, elegante e com importantes reconhecimentos''"
+            },
+            {
+                "nome": "VIN868 Ventisquero Pangea",
+                "preço": null,
+                "descrição": "Encorpado, redondo, taninos maduros e firmes, acidez alta, fresco, um vinho bem estruturado, harmonioso equilíbrio entre fruta e madeira, com notas de especiarias e chocolate, final longo, complexo e agradáve"
+            },
+            {
+                "nome": "VIN844 Morandé, 2019",
+                "preço": null,
+                "descrição": "House Of Morandé 2019 enólogo Ricardo Boattig Vinho Chileno Exclusividade Vinhobr para você cliente! Garrafas autografas pelo enólogo Ricardo Boattig , enólogo Vinha Morandé, sucessor de Pablo Morandé. Pablo foi o enólogo que criou e desenvolveu o renomado Don Melchor, até 1994 ele trabalhava na Concha y Toro na linha de vinhos premium. Em 1996 ele fundou a Vinícola Morandé, e o primeiro vinho que ele produz é o House Of Morandé, que é o vinho ícone da Bodega, este que foi uma inspiração em Don Melchor. E em apenas 16 anos depois o vinho recebeu o premio de melhor vinho tinto do Chile e 98pts do Guia Descorchados. Além disso a vinícola Morandé foi eleita pelo guia como a melhor vinícola Chilena de 2021."
+            },
+            {
+                "nome": "VIN825 Montes Alpha M, 2007",
+                "preço": null,
+                "descrição": "Uma cor vermelho profunda. No nariz é percebido com uma grande elegância ao tempo que a potência, com clara predominância de frutos vermelhos maduros como cerejas, ameixas e framboesas. Existem notas de cassis em perfeito equilíbrio com as contribuições de baunilha, doce de leite e suaves notas de tosta decorrentes das suas dezoito meses em barricas novas de carvalho francês."
+            },
+            {
+                "nome": "VIN831 Seña, 2016",
+                "preço": null,
+                "descrição": "Assinado por Eduardo Chadwick, Seña foi o primeiro projeto premium do país. Blend bordalês com 22 meses em carvalho revela bom corpo, com destaque para frutas maduras, notas de tabaco e toques mentolados."
+            },
+            {
+                "nome": "VIN833 Almaviva, 2018",
+                "preço": null,
+                "descrição": "Almaviva é resultante de um joint-venture entre Concha y Toro e Baron Philippe de Rothschild. Textura ampla, poderosa e aveludada. Aroma profundo, complexo, notável, rico e concentrado, revelando frutas maduras e frescas como morango silvestre, groselha e amora associados à notas minerais, especiarias, tabaco e café."
+            },
+            {
+                "nome": "VIN947 Seña, 2016",
+                "preço": null,
+                "descrição": "Assinado por Eduardo Chadwick, Seña foi o primeiro projeto premium do país. Blend bordalês com 22 meses em carvalho revela bom corpo, com destaque para frutas maduras, notas de tabaco e toques mentolados."
+            },
+            {
+                "nome": "VIN832 Almaviva, 2018",
+                "preço": null,
+                "descrição": "Almaviva é resultante de um joint-venture entre Concha y Toro e Baron Philippe de Rothschild. Textura ampla, poderosa e aveludada. Aroma profundo, complexo, notável, rico e concentrado, revelando frutas maduras e frescas como morango silvestre, groselha e amora associados à notas minerais, especiarias, tabaco e café."
+            }
+        ],
+        "Vinho Tinto - Estados Unidos": [
+            {
+                "nome": "852 Silver Oak Cabernet Sauvignon, 2005",
+                "preço": null,
+                "descrição": "Cor vermelho-rubi brilhante, com tons roxos. O nariz exala aromas de cereja preta, cedro e azeitonas. Na boca, ervas secas, cacau e lavanda são sabores que emolduram os taninos a uma textura robusta. Este vinho acaba com uma acidez viva e uma persistência clara."
+            }
+        ],
+        "Vinho Tinto - Espanha": [
+            {
+                "nome": "VIN405 Altos Ibéricos Reserva, 2015",
+                "preço": null,
+                "descrição": "Torres Altos Ibéricos Reserva é produzido na região de Rioja com 100% Tempranillo. Apresenta aromas de cereja escura, intensamente frutado (cerejas negras), com notas picantes (pimenta negra) e figos secos."
+            },
+            {
+                "nome": "VIN821 Marqués de Murrieta Gran Reserva",
+                "preço": null,
+                "descrição": "Elaborado apenas em safras excepcionais, Murrieta Gran Reserva é um vinho com grande estrutura e muito longevo, com potencial de guarda de até 20 anos. Frutas vermelhas e pretas maduras se mesclam a notas de couro, tabaco, chocolate e baunilha neste autêntico"
+            },
+            {
+                "nome": "VIN983 Marques de Murrieta Reserva, 2007",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VIN804 - Vega Sicília Único, 1985",
+                "preço": null,
+                "descrição": "\"É a capitânia da Vega Sicilia. As qualidades do Tempranillo e cabernet sauvignon em diferentes proporções são montadas à perfeição neste vinho. Cada um fornece um fator diferenciador que torna o vinho ótimo em cada safra.\""
+            }
+        ],
+        "Vinho Tinto - Itália": [
+            {
+                "nome": "VIN1010 San Marzano Anniversario 62 Riserva Primitivo Di Manduria, 2013",
+                "preço": null,
+                "descrição": "\"Na cor, vermelho intenso. Começa com aromas de geleia de ameixa e cereja, que logo evoluem para notas de tabaco e especiarias. Na boca, cacau, café expresso, alcaçuz, amora e figo.\""
+            },
+            {
+                "nome": "VIN1005 San Marzano Collezione Cinquanta, 2016",
+                "preço": null,
+                "descrição": "Os vinhedos de 50 anos que deram origem a este tinto fizeram dele um vinho bastante especial. Com aromas intensos e complexos, este vinho traz notas frutadas de ameixa e geleia vermelha e aroma picante de baunilha e alcaçuz. Intenso na boca, encorpado e macio com um longo retrogosto. Um vinho ideal para longos momentos de meditação."
+            },
+            {
+                "nome": "VIN817 Sessantanni Old Vines Primitivo Di Manduria",
+                "preço": null,
+                "descrição": "Vinhos Velhos de Sessantanni Primitivo Di Manduria 750m"
+            },
+            {
+                "nome": "VIN816 Fantini Edizione Cinque Autoctoni",
+                "preço": null,
+                "descrição": "Desenvolvido por Farnese buscando mostrar ao mundo do vinho o estilo e caráter dos vinhos do Sul da Itália, Edizione Cinque Autoctoni é complexo e sedoso. Um dos ícones da viticultura do Sul da Itália, revela o terroir do Abruzzo e da Puglia em um só vinho. Seus 13 meses em carvalho aportam estrutura e notas de cho"
+            },
+            {
+                "nome": "VIN129 Barbi Brunello di Montalcino DOCG, 2013",
+                "preço": null,
+                "descrição": "Renomado na Itália e no mundo, o Vinho Barbi Brunello Di Montalcino DOCG é uma bebida de excelente categoria e qualidade, que conquista os apreciadores mais exigentes. Desenvolvido em uma histórica vinícola italiana existente desde 1352, apresenta uma composição única de aromas complexos e elegantes e de frutas como framboesa e cereja amarga, notas florais e toques de especiarias como pimenta e cravo, seguidos por toques balsâmicos e minerais, que garantem em boca, um paladar estruturado com taninos presentes de final longo e persistente. Combine com massas com molhos consistentes, pratos à base de carnes, caça, cabrito, bisteca fiorentina, ossobuco, polpetone e queijos fortes como pecorino, parmesão e taleggio."
+            },
+            {
+                "nome": "VIN866 Guidalberto",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "VIN830 Sassicaia, 2018",
+                "preço": null,
+                "descrição": "Sassicaia é um ícone. O primeiro Vinho com uvas francesas a ser classificado como supertoscano é a colocar Bolgheri definitivamente no mapa dos grandes vinhos. Mais do que isso, é a única propriedade na Itália que possui sua própria denominação, a Bolgheri Sassicaia. Com aromas de frutas vermelha, groselha e cassis, além de uma estrutura de madeira bem integrada, com notas de Cedro, baunilha e tabaco. É um vinho muito equilibrado, com perfeita integração de Bouquet, acidez e álcool. Em boca é aveludado, com um final bem longo."
+            }
+        ],
+        "Vinho Tinto - França": [
+            {
+                "nome": "VIN867 Chateau Mouton Rothschild, 2010",
+                "preço": null,
+                "descrição": "Excelente safra deste Premier Grand Cru Class que não precisa de mais apresentações."
+            },
+            {
+                "nome": "VIN880 Chateu Lafite Rothschild, 2005",
+                "preço": null,
+                "descrição": "Neste ano de muito grande Cabernet Sauvignon e Petit Verdots, o roupão Lafite-Rothschild 2005 tem um carácter de profundidade e intensidade cromática. O nariz é intenso, delicado, subtil e de grande complexidade, com um relevo frutado e, por definição, amplo. O paladar é muito limpo com uma certa linearidade desde o início (o ataque) até ao final. Um é cativado, literalmente varrido por esta torrente de sensação e complexidade. O palato médio sobe no poder, crescendo na espessura da estrutura, da matéria e do poder gustativo. Este Pauillac é da raça das grandes garrafas. A força do acabamento precede um belo comprimento com notável densidade e uma rara elegância inscrevendo este Lafite-Rothschild 2005 no panteão de grandes garrafas que contam numa década como num século."
+            }
+        ],
+        "Vinho Tinto - Portugal": [
+            {
+                "nome": "VIN404 Quinta Do Crasto Touriga Nacional, 2005",
+                "preço": null,
+                "descrição": "\"Cor viva e concentrada. Aroma intenso a fruta madura, com notas de boa madeira. Grande presença na boca, macio e redondo, tudo muito bem afinado. Final longo e especiado.\""
+            },
+            {
+                "nome": "VIN019 Herdade Do Esporão Private Selection, 2011",
+                "preço": null,
+                "descrição": "Acastanhado. Intenso, frutas maduras, mescladas a tabaco, madeira e tostado.Denso, estruturado, taninos firmes, final persistente."
+            },
+            {
+                "nome": "VIN931 Incógnito Cortes de Cima",
+                "preço": null,
+                "descrição": "Vermelho muito denso e escuro. Aromas poderosos de frutos vermelhos bem maduros e baunilha. O paladar é cheio de frutas doce e cremosidade em grande harmonia, com taninos ricos, carvalho bem balanceado e notas de baunilha. Este é um vinho enorme, generoso com bastante profundidade e concentração para garantir longevidade na garrafa."
+            },
+            {
+                "nome": "VIN980 Torre Do Esporão, 2007",
+                "preço": null,
+                "descrição": "Cor: Denso quase opaco. Aroma austero e fechado com sutis notas de grafite. Compacto na boca, muito extrato, excelente tanino, firme e musculado, final longo cheio de carácter."
+            },
+            {
+                "nome": "VIN945 Barca Velha, 2011",
+                "preço": null,
+                "descrição": "O Vinho Barca Velha é, sem sombra de dúvidas, um dos mais importantes rótulos de Portugal, figurando entre os melhores vinhos do mundo! Desde a sua criação, em 1952, é o vinho ícone da Casa Ferreirinha, uma das mais renomadas vinícolas do Douro. Produzido com um corte das uvas Touriga Franca, Touriga Nacional, Tinto Cão e Tinta Roriz (Tempranillo), selecionadas nos melhores vinhedos da Quinta da Leda. Visualmente, apresenta coloração rubi profunda, revelando, no nariz, aromas de frutas vermelhas, notas de especiarias, como pimenta-preta, cravo-da-índia e gengibre, nuances herbáceas, além de toques de tabaco, advindos do longo estágio em carvalho. Em boca, é um Vinho Tinto de excelente volume, com acidez bem integrada, taninos intensos e um final longo e muito persistente. O Vinho Barca Velha é um rótulo que tem um excepcional potencial de guarda, podendo envelhecer na garrafa por até duas décadas!"
+            }
+        ],
+        "Garrafas Especiais - Chile": [
+            {
+                "nome": "VIN834 Purple Angel Carménère, 2018",
+                "preço": null,
+                "descrição": "O Purple Angel é um dos grandes ícones entre os vinhos chilenos e uma das maiores expressões da casta Carménère. Trata-se de um vinho de minúscula produção, \"de incrível estrutura e densidade\" para James Suckling, que concedeu 98 pontos para a safra de 2018. Um tinto realmente grandioso, com um toque de finesse raro entre os vinhos do Novo Mundo, bastante diferente dos exemplos mais comerciais de Carménère."
+            }
+        ],
+        "Garrafas Especiais - Itália": [],
+        "Garrafas Especiais - Portugal": [
+            {
+                "nome": "VIN918 - Terras De Xisto, 2008",
+                "preço": null,
+                "descrição": "Vinho português, cor rubi, o aroma denota juventude, aroma de frutos silvestres maduros. Na boca é muito suave, é um tinto honesto com bom equilíbrio de conjunto."
+            },
+            {
+                "nome": "VIN040 - Assobio Douro",
+                "preço": null,
+                "descrição": "O vinho Assobio Douro Tinto é um vinho português de alta qualidade produzido na região do Douro. Este vinho é feito com uvas das variedades Touriga Nacional, Tinta Roriz e Touriga Franca, que são colhidas à mão e selecionadas cuidadosamente para garantir a melhor qualidade possível. O resultado é um vinho encorpado e elegante, com notas de frutas vermelhas maduras e especiarias. O Assobio Douro Tinto é perfeito para acompanhar carnes vermelhas grelhadas ou assadas e queijos curados."
+            }
+        ]
+    },
+    "endereço": "R. Dr. Emílio Ribas, 1137, Cambui, Campinas, São Paulo, Brasil",
+    "telefone": "19984309852",
+    "email": "donmanoel@donmanoel.com.br",
+    "website": "@donmanoelcambui || https://donmanoel.com.br",
+    "name": "Don Manoel"
+}

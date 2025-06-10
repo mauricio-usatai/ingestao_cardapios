@@ -1,0 +1,1110 @@
+{
+    "Buffet da Melhor Feijoada do Brasil": {
+        "Buffet Feijoada": [
+            {
+                "nome": "Todo dia\nBuffet de Feijoada",
+                "preço": "R$ 65,00",
+                "descrição": "Todo dia"
+            }
+        ]
+    },
+    "Menu Principal": {
+        "Comidinha de boteco": [
+            {
+                "nome": "Torresmo",
+                "preço": "R$ 39,00",
+                "descrição": "com geléia de pimenta"
+            },
+            {
+                "nome": "Dadinho de tapioca",
+                "preço": "R$ 39,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Coxinha - porção de 6 unidades",
+                "preço": "R$ 35,00",
+                "descrição": "Galinha com creme de queijo - R$35,00"
+            },
+            {
+                "nome": "Bolinhos- porção 10 unidades",
+                "preço": "R$ 45,00",
+                "descrição": "Bacalhau - R$ 45,00"
+            },
+            {
+                "nome": "Pastel de Queijo",
+                "preço": "R$ 10,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Pastel de bobó camarão",
+                "preço": "R$ 13,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Pastel de carne com ovo",
+                "preço": "R$ 11,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Pastel de quejio com linguiça",
+                "preço": "R$ 11,00",
+                "descrição": ""
+            }
+        ],
+        "Da laje": [
+            {
+                "nome": "Espetinhos",
+                "preço": "",
+                "descrição": "Acompanha farofinha | De frango- R$12.00 De carne - R$18.00"
+            },
+            {
+                "nome": "Caldinhos",
+                "preço": "",
+                "descrição": "Caldinho de feijão - R$15.00 Bobozinho, acompanha farofa de coco - R$25,00"
+            },
+            {
+                "nome": "Atolei no Zeca",
+                "preço": "R$ 25,00",
+                "descrição": "Creme de aipim com costela desfiada, gratinada no queijo."
+            }
+        ],
+        "Da panelinha": [
+            {
+                "nome": "Panelinha de Costela Desfiada",
+                "preço": "R$ 45,00",
+                "descrição": "No molho de cerveja preta, com cama de purê de batatas e farofa panko"
+            },
+            {
+                "nome": "Baião de dois",
+                "preço": "R$ 40,00",
+                "descrição": "Prato típico do nordeste do Brasil. Consiste em um arroz caldoso com feijão vermelho, canre de sol bacon, queijo coalho e farofa de torresmo."
+            },
+            {
+                "nome": "Aparecidinho do Zeca",
+                "preço": "R$ 40,00",
+                "descrição": "Purê de aipim com carne seca"
+            },
+            {
+                "nome": "Bobozinho",
+                "preço": "R$ 45,00",
+                "descrição": "Creme do Bobó com Camarão. Acompanha farofa de coco."
+            }
+        ],
+        "Porções": [
+            {
+                "nome": "Batata Frita",
+                "preço": "R$ 40,00",
+                "descrição": "Só fritas"
+            },
+            {
+                "nome": "Batata de Marechal",
+                "preço": "R$ 50,00",
+                "descrição": "500 gramas de batata frita com Linguicinha de porco, queijo Parmesão, salsinha e alecrim."
+            },
+            {
+                "nome": "Aperitivo do Zeca",
+                "preço": "R$ 85,00",
+                "descrição": "Acompanha cesta de pães"
+            },
+            {
+                "nome": "Isca de Peixe com Fritas",
+                "preço": "R$ 79,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Linguiça aperitivo",
+                "preço": "R$ 45,00",
+                "descrição": "linguiça fininha acebolada. Acompanha fritas."
+            },
+            {
+                "nome": "Carne Seca com Aipim",
+                "preço": "R$ 69,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Carne Assada de boteco",
+                "preço": "R$ 60,00",
+                "descrição": "Deliciosa iguaria dos botequins cariocas acompanhada de pão"
+            },
+            {
+                "nome": "Cesta de pães",
+                "preço": "R$ 10,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Moela ao molho",
+                "preço": "R$ 40,00",
+                "descrição": "No molho de vinho tinto. Acompanha cestinha de pães"
+            }
+        ],
+        "Sanduíches": [
+            {
+                "nome": "Smash do Zeca",
+                "preço": "R$ 40,00",
+                "descrição": "pão, hamburguer, cheddar e molho barbecue. Acompanha fritas"
+            },
+            {
+                "nome": "Sanduiche do Zeca",
+                "preço": "R$ 42,00",
+                "descrição": "Sanduiche de contra filé com queijo e maionese de alho."
+            },
+            {
+                "nome": "Sanduiche de pernil",
+                "preço": "R$ 29,00",
+                "descrição": "Sanduiche de pernil marinado"
+            },
+            {
+                "nome": "Sanduiche de frango empanado com queijo",
+                "preço": "R$ 35,00",
+                "descrição": "Acompanha molho tartaro"
+            }
+        ],
+        "Infantil": [
+            {
+                "nome": "Isca de frango a milanesa com fritas",
+                "preço": "R$ 35,00",
+                "descrição": "Com arroz, fritas e feijão"
+            }
+        ],
+        "Sobremesas": [
+            {
+                "nome": "Pudim de Leite",
+                "preço": "R$ 13,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Brigadeiro de Colher",
+                "preço": "R$ 13,00",
+                "descrição": ""
+            }
+        ]
+    },
+    "Especiais": {
+        "Especiais": [
+            {
+                "nome": "Bobó de camarão",
+                "preço": "R$ 60,00",
+                "descrição": "Acompanhamentos: Arroz branco, farofa de côco e vinagrete apimentado da casa. Bobo individual R$ 60,00 Bobo para 2 R$ 110,00"
+            },
+            {
+                "nome": "Arroz de camarão",
+                "preço": "",
+                "descrição": "Arroz de camarão com batata palha da casa. Para um R$80,00. Para dois R$140,00"
+            },
+            {
+                "nome": "Arroz de Costela",
+                "preço": "",
+                "descrição": "Com cebola frita. Para um R$45,00 Para dois R$89,00"
+            },
+            {
+                "nome": "Cavalo do Rei",
+                "preço": "R$ 65,00",
+                "descrição": "250g de contra-filé com farofa de bacon e generosa porção de batata frita. É o prato favorito de nosso chef."
+            },
+            {
+                "nome": "Orelha de elefante",
+                "preço": "R$ 120,00",
+                "descrição": "Bife a milanesa gigante acompanhada de guarnição francesa ou purê de batatas ou fritas. Serve duas pessoas(ou mais) R$120,00"
+            },
+            {
+                "nome": "Orelha de elefante parmeggiana",
+                "preço": "R$ 130,00",
+                "descrição": "Bife à parmeggiana gigante acompanhada de guarnição francesa ou purê de batatas ou fritas.. Serve duas pessoas(ou mais) R$130,00"
+            }
+        ]
+    },
+    "Bebidas ": {
+        "Bebidas Não Alcoolicas": [
+            {
+                "nome": "Água com e sem gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Coca cola / Coca cola Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Guaraná | Guaraná Zero",
+                "preço": null,
+                "descrição": "Guaraná Antarctica é o refrigerante brasileiro com sabor único e natural, feito do fruto do guaraná plantado e colhido na Fazenda Santa Helena na Amazônia. (Personalize)"
+            },
+            {
+                "nome": "Energético Monster",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bull",
+                "preço": null,
+                "descrição": "Red Bull Energy Drink foi desenvolvido para pessoas que querem ter uma mente clara e focada, dar o seu melhor fisicamente, que são dinâmicas e orientadas, embora também equilibrem isso com diversão e um estilo de vida ativo. Em resumo, Red Bull dá asas a pessoas que querem ser ativos mentalmente e fisicamente e que têm gosto pela vida."
+            },
+            {
+                "nome": "Sucos Naturais",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Schweppes",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Cervejas e chopp": [
+            {
+                "nome": "Chopp Brahma",
+                "preço": null,
+                "descrição": "É o único chopp não pasteurizado, isso faz com que a bebida seja muito fresca. Aí fica fácil saber por que o sabor e a leveza dele são tão únicos. Feito com ingredientes naturais. Brahma é o único que passa no teste do palito: sua espuma é tão cremosa que o palito não afunda."
+            },
+            {
+                "nome": "Corona",
+                "preço": null,
+                "descrição": "A cerveja Corona Extra é uma cerveja de baixa graduação alcóolica, extremamente refrescante, suave e com toques cítricos. Essas características fazem da cerveja Corona Extra uma cerveja para dias quentes, especialmente em viagens ou na praia. Acrescentando uma fatia de limão no gargalo ou no copo ao se servir, reforça-se a acidez e toque cítrico da Corona."
+            },
+            {
+                "nome": "Brahma Duplo Malte",
+                "preço": null,
+                "descrição": "O malte Pilsner é o responsável pela leveza, enquanto o malte Munich é responsável pelo sabor. O resultado disso é uma cerveja de cor dourada e espuma cremosa. Uma cerveja que tem mais sabor, mas ainda mantém a leveza."
+            },
+            {
+                "nome": "Antarctica Original",
+                "preço": null,
+                "descrição": "Original é uma cerveja do tipo pilsen, de cor clara e baixa fermentação. Seu sabor, aroma e amargor são suaves, mas com personalidade."
+            },
+            {
+                "nome": "Stella Artois",
+                "preço": null,
+                "descrição": "Stella Artois, uma das marcas de cerveja mais conceituadas e antigas do mundo. Comercializada em mais de 80 países, a cerveja, originária da Bélgica - e agora também produzida no Brasil-, conquistou a maioria de seus adeptos no segmento de luxo e um dos ícones do mercado europeu"
+            },
+            {
+                "nome": "Spaten",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Brahma Chopp",
+                "preço": null,
+                "descrição": "A cor dourada representa todo o sabor e refrescância da nossa cerveja. Água, malte (de cevada), cereais não maltados, carboidratos e lúpulo. Teor Alcoólico: 4,8%"
+            },
+            {
+                "nome": "Heineken",
+                "preço": null,
+                "descrição": "Uma tradição de sabor que existe desde 1873 graças à simplicidade e qualidade dos ingredientes e à atenção meticulosa ao processo de fabricação da cerveja."
+            }
+        ],
+        "Drinks Autorais": [
+            {
+                "nome": "Coisa de malandro",
+                "preço": null,
+                "descrição": "Cachaça pé na areia, xarope de açaí, xarope de amora e limão"
+            },
+            {
+                "nome": "Verão in Zeca",
+                "preço": null,
+                "descrição": "Tônica Pink Lemonade com limão siciliano e ervas"
+            },
+            {
+                "nome": "Veraneio",
+                "preço": null,
+                "descrição": "Vodka ketel one, pink lemonade e flor de sabugueiro."
+            },
+            {
+                "nome": "Explosão do Zeca",
+                "preço": null,
+                "descrição": "gin Redução de morango Sumo de limão ATENÇÃO: Drink super gaseificado"
+            },
+            {
+                "nome": "Dom do Zeca",
+                "preço": null,
+                "descrição": "Gin, tangerina, limão, mix de pina (leite de coco, leite condesado e creme de leite), maracujá e canela em pó. Contém lactose"
+            },
+            {
+                "nome": "Dom Saint Prime",
+                "preço": null,
+                "descrição": "Espumante, Cointreau, xarope de uva vermelha artesanal, soda italiana e espuma cítrica e cortes de frutas"
+            },
+            {
+                "nome": "Moscow in Zeca",
+                "preço": null,
+                "descrição": "Moscow in Zeca, são releituras do moscow Mule, com sabores em redução: capim limão, morango, maracujá, uva e hibisco e feito com vodka ketel one"
+            },
+            {
+                "nome": "Pink vodka lemonade",
+                "preço": null,
+                "descrição": "Drink leve com morango e melancia"
+            },
+            {
+                "nome": "Segredo do Zeca",
+                "preço": null,
+                "descrição": "Gin segredo de bakko, Redução de uva com vinho,Sumo limão siciliano, Espuma de vinho e Espetinho de uva. Vem com um segredo de nosso querido Zeca, mas não conte para ninguém!"
+            },
+            {
+                "nome": "Dom Amores em Vermelho",
+                "preço": null,
+                "descrição": "Vodka skyy, Morango,mix de pina, redução de maçã verde, grenadine, limão e espuma de gengibre e limão siciliano"
+            },
+            {
+                "nome": "Gin Pink",
+                "preço": null,
+                "descrição": "Gin pink , tônica pink lemoneide, cereja, sumo de limão e espuma de hibisco."
+            },
+            {
+                "nome": "Terras Novas",
+                "preço": null,
+                "descrição": "cachaça, x. baunilha, sumo de limão e abacaxi macerado"
+            },
+            {
+                "nome": "Dom Royale",
+                "preço": null,
+                "descrição": "Gin tankeray royale, pink lemonade, red bull pitaya, limão, uvas roxas e espuma cítrica."
+            },
+            {
+                "nome": "Ioiô",
+                "preço": null,
+                "descrição": "Gin segredo de Bakko, morango, geléia de maracujá, Xarope de amêndoa"
+            },
+            {
+                "nome": "Meia noite",
+                "preço": null,
+                "descrição": "Gin segredo de Bakko, sumo de limão e carvão negro"
+            },
+            {
+                "nome": "Dry pink",
+                "preço": null,
+                "descrição": "Gin multaltis, vermouth bianco e pink lemonade"
+            },
+            {
+                "nome": "Salve Jorge",
+                "preço": null,
+                "descrição": "Releitura do drink Jorge Amado: Cachaça Gabriela, xarope de baunilha, grenadine, maracujá e suco de limão"
+            },
+            {
+                "nome": "Celeste",
+                "preço": null,
+                "descrição": "Gin Bombay ,cordial de limão siciliano, Cointreau,sumo de limão e Powerade sabor mix de frutas"
+            },
+            {
+                "nome": "Encandeia",
+                "preço": null,
+                "descrição": "Paçoca de amendoim,Cachaça Sagatiba, X formula açaí,X Monin baunilha,Mix Pina e Sumo limão"
+            },
+            {
+                "nome": "New York Sour",
+                "preço": null,
+                "descrição": "Jack Daniels, vinho tinto seco. Angoustura, suco de limão e casca de limão siciliano"
+            },
+            {
+                "nome": "Whiskey Sour",
+                "preço": null,
+                "descrição": "Jack Daniels, sour mix e gotas de Angousura"
+            },
+            {
+                "nome": "O Elo",
+                "preço": null,
+                "descrição": "Tequila, aperol, monin de baunilha e sumo de limão"
+            },
+            {
+                "nome": "Limoncello Spritz",
+                "preço": null,
+                "descrição": "Licor Limoncello, prosecco e limão siciliano"
+            },
+            {
+                "nome": "Cachaça Sour",
+                "preço": null,
+                "descrição": "cachaça ,sumo de limão,xarope de açúcar e sour mix"
+            },
+            {
+                "nome": "Brisando",
+                "preço": null,
+                "descrição": "Soda de Tangerina, Arpo Gin finalizado com espuma cítrica"
+            },
+            {
+                "nome": "Malibuzacando",
+                "preço": null,
+                "descrição": "Bacardi carta blanca Malibu, Monin maçã verde finalizado com sumo de limão"
+            }
+        ],
+        "Drinks Clássicos": [
+            {
+                "nome": "Tanqueray Tropical",
+                "preço": null,
+                "descrição": "Gin tanqueray e redbull tropical"
+            },
+            {
+                "nome": "Gin Tônica Bombay Star",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Piña Colada",
+                "preço": null,
+                "descrição": "Run, abacaxi e mix de pina"
+            },
+            {
+                "nome": "Aperol Spritz",
+                "preço": null,
+                "descrição": "Aperol, água com gás e espumante"
+            },
+            {
+                "nome": "Gin Tônica Tanqueray Ten",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Negroni",
+                "preço": null,
+                "descrição": "Campari, gin e vermute"
+            },
+            {
+                "nome": "Dose de Batida",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gin Tônica Hendrick's",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gin Tônica Bombay",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Mojito",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Kamikaze",
+                "preço": null,
+                "descrição": "Vodka,contreau e limão."
+            },
+            {
+                "nome": "Fitzgerald",
+                "preço": null,
+                "descrição": "Gin Rio Negro, sumo de limão siciliano e angustura."
+            },
+            {
+                "nome": "Parei no Zeca",
+                "preço": null,
+                "descrição": "Cachaça salinas, Jambuzada, xarope de baunilha, tangerina e maracujá."
+            },
+            {
+                "nome": "Espresso Martini",
+                "preço": null,
+                "descrição": "Vodka Absolut com café espresso e licor de café."
+            },
+            {
+                "nome": "Carajillo",
+                "preço": null,
+                "descrição": "Café Nespresso e licor 43"
+            }
+        ],
+        "Drinks": [
+            {
+                "nome": "Gin Tônica Tanqueray",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Margarita",
+                "preço": null,
+                "descrição": "Tequila, licor fino e limão"
+            },
+            {
+                "nome": "Moscow Mule",
+                "preço": null,
+                "descrição": "Vodka, soda artesanal e espuma cítrica"
+            },
+            {
+                "nome": "Coquetel sem Álcool",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Caipivodka Sky",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Caipivodka Absolut",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Caipirinha com Mel",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cachaça do Zeca",
+                "preço": null,
+                "descrição": "R$ 20,00"
+            },
+            {
+                "nome": "Gin Tônica Beefeater",
+                "preço": null,
+                "descrição": "R$ 36,00"
+            },
+            {
+                "nome": "Caipirinha Sagatiba",
+                "preço": null,
+                "descrição": "1- Maracujá com uvas verde e manjericão 2- Kiwi com uvas roxas e. Manjericão 3- Limão com hortelã, mel e gengibre."
+            },
+            {
+                "nome": "JW Blonde",
+                "preço": null,
+                "descrição": "whisky jw blonde com citrus numa combinação perfeita para o verão."
+            }
+        ],
+        "Combos de Vodka": [
+            {
+                "nome": "Greygoose + 4 Redbull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cîroc + 4 Redbull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Absolut + 4 Redbull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Sky + 4 Redbull",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Combos de Gin": [
+            {
+                "nome": "Hendricks + 4 Tônicas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tanqueray Ten + 4 Tônicas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bombay + 4 Tônicas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Beefeater + 4 Redbull",
+                "preço": null,
+                "descrição": "4 Redbull tropical ou melancia"
+            },
+            {
+                "nome": "Tanqueray + 4 Tônicas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Beefetear + 4 Tônicas",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Combos de Whisky": [
+            {
+                "nome": "Black Label + 4 Redbull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Label + 4 Redbull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Jack Daniel's + 4 Redbull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gold Label + 4 Redbull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Buchanan's + 4 Redbull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chivas 12 Anos + 4 Redbull ou Água De Coco",
+                "preço": null,
+                "descrição": "4 Redbull ou 1 Litro de água de coco"
+            }
+        ],
+        "Rum": [
+            {
+                "nome": "Bacardi Oro",
+                "preço": null,
+                "descrição": "O Rum Bacardi Gold é o rum distintivo, suave e aveludado que proporciona o aroma subtil e a qualidade clássica da Bacardi. É o Rum Bacardi perfeito para quem aprecia os bons momentos de descontração e boa diversão que só surgem quando se está com os amigos. Álcool 40%"
+            },
+            {
+                "nome": "Bacardi 8 Anos",
+                "preço": null,
+                "descrição": "Bacardi 8 é envelhecido por mais de oito anos em barris de carvalho cuidadosamente selecionados. Após o envelhecimento, que é misturado à perfeição com notas de ameixa, damasco, noz-moscada e baunilha. Seu sabor é suave, rico e muito completo, com um final longo e expansivo.Ingredientes: Destilado alcoólico simples de melaço envelhecido e água desmineralizada, fermentado destilado."
+            },
+            {
+                "nome": "Appleton Estate",
+                "preço": null,
+                "descrição": "Nascido do coração de Jamaica O Appleton Estate, vem do Vale de Nassau Lá é uma terra gloriosa e fértil localizado no coração da Jamaica. No Appleton Estate, a produção de nossos runs belamente complexos e aromáticos não é apenas uma paixão - é um ofício. O magnífico Appleton Estate Jamaica Rums são de um estilo único, produzido apenas na Jamaica e apenas no Appleton Estate. Teor Alcoólico 40%"
+            },
+            {
+                "nome": "Sailor Jerry",
+                "preço": null,
+                "descrição": "Norman 'Sailor Jerry' Collins foi o pai da velha escola tatuagem e foi um mestre artesão cuja arte e integridade permanecem tão atemporal como o líquido que tem a sua assinatura. Sailor Jerry Caribe Rum é misturado com especiarias naturais locais, nomeadamente baunilha e limão. Definitivamente um rum que é \"forte, mas vai para baixo suave"
+            },
+            {
+                "nome": "Zacapa 23 anos",
+                "preço": null,
+                "descrição": "Maravilhosamente intricados com manteiga doce, spiced carvalho e frutas passas, mostrando a complexidade do processo de envelhecimento Sistema Solera. Com a aparência mogno claro, com os tons de envelhecimento."
+            }
+        ],
+        "Tequila": [
+            {
+                "nome": "José Cuervo Prata",
+                "preço": null,
+                "descrição": "Agave. Sol. Vulcão. Esses também são os ingredientes da Especial Silver, só que sem a parte de envelhecer nos barris de carvalho. Por que não? Porque isso dá um sabor mais leve e produz uma tequila de cor prateada. Experimente bem gelada ou no seu drink preferido. Equilibrada e versátil, tem sabor refrescante e levemente doce. Pode ser consumida pura ou com gelo, mas o ideal é utilizá-la na preparação de drinks. 38% vol."
+            },
+            {
+                "nome": "José Cuervo Ouro",
+                "preço": null,
+                "descrição": "É o resultado da combinação de Tequilas “Jovens”, sem envelhecimento, com Tequilas “Reposado”, envelhecidas por no mínimo 6 meses em barris de carvalho. Possui sabor Amadeirado, levemente doce, com notas de Agave e baunilha."
+            },
+            {
+                "nome": "El Jimador Reposado",
+                "preço": null,
+                "descrição": "O El Jimador Reposado é um tequila misto na cor âmbar obtido naturalmente pelo envelhecimento em barris de carvalho por dois meses. El Jimador Reposado se diferencia dos demais tequilas que agregam corantes artificiais e que entram na categoria “ouro”."
+            },
+            {
+                "nome": "Tequila Patron",
+                "preço": null,
+                "descrição": "Patrón Silver é uma tequila claríssima e ultra premium. Possui paladar suave e é envelhecida com um leve toque de carvalho."
+            },
+            {
+                "nome": "Tequila Patron XO Café",
+                "preço": null,
+                "descrição": "A tequila Patron XO Café é o casamento perfeito da tequila 100% agave com café, para criar um sabor ligeiramente doce, encorpado e licoroso que é perfeito para aqueles que adoram um bom café. Com o carácter sedutor de tequila e o fascínio do café moído, este é um licor absolutamente único."
+            },
+            {
+                "nome": "Espolòn Blanco",
+                "preço": null,
+                "descrição": "Tequila Prata 100% Agave Azul. Com um toque de frutas levemente adocicadas. Tequila importada do México. Delicioso em sua boca."
+            }
+        ],
+        "Licor": [
+            {
+                "nome": "Amaretto Del Orso",
+                "preço": null,
+                "descrição": "Feito da infusão básica de damascos e caroços de drupas, tais como pêras. Apesar de possuir apenas 10% de amêndoas, estas sempre se sobressaem no seu sabor. Também é relacionado como biscotto amaretto. Sua primeira produção aconteceu em Saronno (1525), em homenagem ao pintor Bernadino Luini."
+            },
+            {
+                "nome": "Amarula",
+                "preço": null,
+                "descrição": "Licor africano elaborado a partir da destilação da fruta Marula e misturado a um creme fresco. Trata-se de um dos mais sofisticados licores Premium, um produto de textura cremosa, estável, de paladar macio e saboroso."
+            },
+            {
+                "nome": "Licor 43",
+                "preço": null,
+                "descrição": "Licor espanhol derivado de frutas cítricas e plantas aromáticas. Sua história recente começa com a descoberta, por Diego Zamora S.A., em 1924, de um método secreto de refinar o primitivo licor para torná-lo mais suave e delicioso, por meio da adição de ingredientes especiais e obtenção de maior precisão na mistura. O resultado foi o Licor Cuarenta y Tres, composto por 43 ingredientes de primeiríssima qualidade."
+            },
+            {
+                "nome": "Cointreau",
+                "preço": null,
+                "descrição": "Licor fino, elaborado a partir de um blend único de cascas de laranjas doces e amargas em um processo controlado. Produto de reconhecimento mundial, Cointreau é uma bebida cristalina e transparente, com ricos aromas e sabor aveludado. Extremamente versátil, Cointreau pode ser consumido puro, com gelo ou em cocktails."
+            },
+            {
+                "nome": "Limoncello",
+                "preço": null,
+                "descrição": "Limoncello é um licor de limão produzido originalmente no sul da Itália, mas também é produzido na Sicília e na Sardenha. É feito à base de limão, álcool, água e açúcar."
+            },
+            {
+                "nome": "Drambuie",
+                "preço": null,
+                "descrição": "Drambuie é uma das poucas marcas no mundo que possui mais de 250 anos de história. Trata-se de um licor escocês de whisky seco composto por ingredientes refinados, feito de um único \"blend\" com maltes acima de 30 anos."
+            },
+            {
+                "nome": "Frangelico",
+                "preço": null,
+                "descrição": "Licor italiano Frangelico é originário da região de Piemonte, no norte da Itália, tem como marca registrada sua garrafa em forma de monge. Seus principais ingredientes são avelãs e ervas finas. Pode ser degustado puro, com limão e gelo ou em diversos coquetéis."
+            },
+            {
+                "nome": "Baileys",
+                "preço": null,
+                "descrição": "Licor Bailey's. Licor irlandês elaborado a partir do casamento natural do puro creme de leite irlandês, com o melhor whisky irlandês e dos sabores naturais de cacau e baunilha, isto tudo misturado com perfeição, utilizando os mais modernos equipamentos de alta tecnologia, num processo que apesar de simples é altamente secreto. Bebida extremamente versátil, pode ser consumida de diversas maneiras."
+            },
+            {
+                "nome": "Saint Germain",
+                "preço": null,
+                "descrição": "St. Germain é um licor francês elaborado a partir de flores de sabuguiro, um arbusto que cresce nas zonas húmidas perto dos Alpes. Elaborado de forma totalmente tradicional e artesanal. As flores maceram com aguardente de uvas da zona de Borgonha. Uma vez macerado passa-se para a destilação."
+            },
+            {
+                "nome": "Dom Insano",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Jagermeister",
+                "preço": null,
+                "descrição": "Criado e produzido na Alemanha desde 1934 Jagermeister significa \"Caçador Mestre\" e seu nome é inspirado na lenda de St. Hubertus, o antigo caçador que virou santo e se converteu ao cristianismo após encontrar um cervo branco com uma cruz brilhante no meio dos seus chifres. Hoje Jagermeister é o 8º destilado mais consumido no mundo e todda a sua produção global sai da ultramoderna destilaria da marca em Wolfenbuttel"
+            }
+        ],
+        "Cognacs": [
+            {
+                "nome": "Fundador",
+                "preço": null,
+                "descrição": "Produzido na Espanha, em Jerez de la Frontera, é envelhecido pelo exclusivo sistema de soleras. Cor: Mogno claro. Aroma: Complexo, mas elegante com um leve toque de carvalho. Paladar: Nuances de amadurecido, porém suave com um agradável gosto final."
+            },
+            {
+                "nome": "Henessy Very Special",
+                "preço": null,
+                "descrição": "O cognac leva ao olfato notas intensas de frutas com prazerosas notas amadeiradas, e boca, sabores fortes de amêndoas queimadas em conjunto com notas vivas de uvas frescas."
+            },
+            {
+                "nome": "Domecq Cognac",
+                "preço": null,
+                "descrição": "Um Brandy produzido em Garibaldi-RS, que envelhece em barris de carvalho pelo exclusivo sistema de soleras. Líder absoluto de mercado em seu segmento."
+            }
+        ],
+        "Whisky": [
+            {
+                "nome": "Jim Beam",
+                "preço": null,
+                "descrição": "Envelhecido no Kentucky e elaborado a partir de destilado alcoólico de milho, centeio e malte de cevada, o Bourbon Jim Beam representa o puro espírito americano. Sua fórmula foi desenvolvida em 1795 e permanece até hoje. No processo de fermentação é utilizado fermento do estoque particular de Jacob Beam para maior consistência do produto e destilado a baixa temperatura, conferindo maior sabor."
+            },
+            {
+                "nome": "Johnnie Walker Red Label",
+                "preço": null,
+                "descrição": "Com aroma doce amadeirado, cravo-da-índia, doce de manteiga e sabor rico com mel. A marca Johnnie Walker existe desde 1920 e hoje é o whisky escocês mais vendido no mundo."
+            },
+            {
+                "nome": "Johnnie Walker Black Label",
+                "preço": null,
+                "descrição": "Rico, complexo e suave. Cada garrafa leva duas décadas de planejamento e utiliza whiskies das melhores destilarias de toda Escócia, envelhecidos nos barris mais adequados. Nesse período, o whisky incorpora tons frutais incomuns e o clássico final defumado. Na sequência, entra em cena a habilidade dos Master Blenders, que mesclam whiskies maturados por 12 anos ou mais e criam um produto novo, profundo e complexo, com extraordinária escala de sabor."
+            },
+            {
+                "nome": "Macallan 12 anos",
+                "preço": null,
+                "descrição": "Whisky importado, elaborado a partir de destilado alcóolico de \"single\" malte envelhecido. O segredo do Macallan encontra-se na aderência desafiante aos métodos tradicionais e aos ingredientes."
+            },
+            {
+                "nome": "Johnnie Walker Gold Label",
+                "preço": null,
+                "descrição": "Johnnie Walker Gold Label foi criado em 1920 em comemoração aos 100 anos da fundação dos negócios de Johnnie Walker. Em sua formulação são usados os melhores Whiskys da Escócia, envelhecidos por, no mínimo, 18 anos. É suntuosamente luxuoso e suave, com uma textura cremosa que o torna único na categoria. A água utilizada em sua composição provém de um manancial de onde se extrai ouro, fazendo com que seu sabor seja único."
+            },
+            {
+                "nome": "Johnnie Walker Double Black",
+                "preço": null,
+                "descrição": "Traz um sabor proveniente de barris de carvalho profundamente carbonizados, elevando ao ápice o final defumado, a clássica assinatura de JOHNNIE WALKER®."
+            },
+            {
+                "nome": "Johnnie Walker Blue Label",
+                "preço": null,
+                "descrição": "É preparado com alguns dos barris mais raros dos estoques de Johnnie Walker, que possui o maior estoque do mundo. Os barris são selecionados a mão e separados, por sua excepcional qualidade, caráter e sabor. O caráter de Blue Label é realmente único; é complexo, vigoroso e incrivelmente suave. Foi criado pelo Mestre Destilador, Jim Beveridge, que continua a tradição de inigualável comprometimento para fazer os melhores whiskies do mundo. Com acesso às mais valiosas e preciosas reservas de whisky, os guardiões do legado de John Walker conseguiram criar este blend excepcional."
+            },
+            {
+                "nome": "Jack Daniel's Honey",
+                "preço": null,
+                "descrição": "“A little bit of honey. A whole lot of Jack.” Este foi o título da campanha para promover esta nova mistura, que segue uma tendência mundial de incluir outros ingredientes na produção do whisky. Com uma produção praticamente artesanal, o Jack&Honey é uma combinação sedutora, com um belo equilíbrio da suavidade do Jack Daniel levemente temperada com mel."
+            },
+            {
+                "nome": "Jack Daniel's",
+                "preço": null,
+                "descrição": "O whiskey mais vendido é produzido desde 1866, na cidade de Lynchburg, no Tennessee, em uma das mais antigas destilarias dos EUA. Feito com os mais finos e puros grãos, e com água sem ferro de uma unica caverna localizada no interior da destilaria, Jack Daniel's é considerado um whiskey único porque passa por um processo exclusivo de suavização chamado \" Charcoal Mellowing\". Esse processo consiste no gotejamento do whiskey em tanques de 3 metros de altura cheios de carvão de madeira maple. É por conta disso que Jack Daniel's é classificado como um Tennessee Whiskey, diferenciando-o de um Bourbon e agregando ao nosso whiskey sabores adocicados e suaves."
+            },
+            {
+                "nome": "Chivas Regal 12 anos",
+                "preço": null,
+                "descrição": "É reconhecido mundialmente como o melhor dos premium blended scoth whiskies, constituindo-se em um padrão de excelência para todos os destilados. Com seu aroma complexo, mas ainda suave, e seu sabor esfumaçado, balanceado por sua qualidade harmonizada."
+            },
+            {
+                "nome": "Glenfiddich 12 anos",
+                "preço": null,
+                "descrição": "O Single Malt 12 anos mais popular do mundo. Desde 1887, é o único single malt das Highlands destilado, maturado e engarrafado na própria destilaria. Seu aroma é fresco, cheio de fragrância, com um toque de pêras. Sabor bem balanceado de frutas e pinho, com grande permanência. Teor alcoólico 40%vol."
+            },
+            {
+                "nome": "Chivas Regal 18 anos",
+                "preço": null,
+                "descrição": "O mais suave e rico Scotch Whisky do mundo. Diante do Chivas Regal 18 Y.O., de complexidade profunda, escuro, maduro, mistura da seleção dos mais velhos malt whiskies, a admiração e o prazer se elevam ainda mais.Cada garrafa traz seu próprio número original de série. De cor intensa, âmbar escuro. Ao nariz apresenta aromas múltiplos de frutas secas e caramelo. Sabor excepcionalmente rico e redondo, notas aveludadas de chocolate escuro com florais elegantes e um toque de tostado maduro e doce. Final magnificamente longo, morno, inesquecível."
+            },
+            {
+                "nome": "Bulleit Bourbon",
+                "preço": null,
+                "descrição": "É feito com ingredientes de alta qualidade e mistura sutileza e complexidade a partir de uma mistura de centeio, milho e cevada maltada. Com um aroma de carvalho doce e paladar suave de carvalho, noz moscada e caramelo, é um whiskey único e saboroso. Bourbon Bulleit é produzido seguindo a técnica “de pequenos lotes” inspirada em Augustus Bulleit. Tendo o Bourbon Bulleit alto teor de centeio, apresenta um caráter ousado e picante com um final limpo. As características como notas de carvalho e especiarias, a cor castanho-avermelhado, o sabor nítido e limpo que é suave na garganta, as notas de baunilha e mel, proporcionam à este bourbon um caráter distinto e individual."
+            },
+            {
+                "nome": "Buchanan's",
+                "preço": null,
+                "descrição": "Uma inconfundível garrafa verde bojuda, cujos dois selos vermelhos em sua lateral garantem a alta qualidade e tradição do uísque que carrega, foram os principais responsáveis por transformar a marca BUCHANAN’S como símbolo de status em vários países do mundo, em especial na América Latina."
+            },
+            {
+                "nome": "Ballantine's Finest",
+                "preço": null,
+                "descrição": "Com sabor único e marcante, é elaborado a partir de uma especial seleção de mais de 50 diferentes tipos de maltes. A presença marcante dos maltes Miltonduff e Glenburgie, das regiões escocesas de Speyside e Highlands, respectivamente, proporcionam ao uísque notas de chocolate, maçã e baunilha ao sabor."
+            },
+            {
+                "nome": "Logan",
+                "preço": null,
+                "descrição": "A primeira produção do Whisky Logan foi realizada por Sir Peter Mackie (criador de White Horse). Logan é um blended scotch whisky cujos maltes foram envelhecidos por no mínimo 12 anos. O Whisky Logan 12 anos traz em sua composição três inconfundíveis maltes: Lagavulin, com intenso caráter defumado devido à influência marítima e os maltes Glen Elgin e Craigellachie, que complementam o equilíbrio do blend, com aroma levemente adocicado."
+            },
+            {
+                "nome": "The Dalmore 12 anos",
+                "preço": null,
+                "descrição": "Equilíbrio entre o carvalho americano e as barricas de jerez usadas. De cor vibrante, com aromas de especiarias e cítrico, robusto com retrogosto elegante e complexo."
+            },
+            {
+                "nome": "Grant's",
+                "preço": null,
+                "descrição": "Tem um aroma fresco, com notas de malte, embora complexo e levemente doce, com alusão a banana e caramelo. O paladar é limpo, mas também complexo, com notas de fruta (típico de Speyside), equilibrado e com um toque de doçura."
+            },
+            {
+                "nome": "Suntory Toki",
+                "preço": null,
+                "descrição": "“Toki” significa conexão do tempo em japones e representa o encontro da tradição com a inovação. A renomada e respeitada Suntory apresenta aqui um blend de maltes selecionados de suas destilarias Hakushu, Yamazaki e Chita. Esse blend é completado com maltes puros da fábrica Yamazaki, envelhecidos em carvalho americano e espanhol. Pode-se esperar sabores de especiarias, vanilla, maca-vede, mel, carvalho e cereja."
+            },
+            {
+                "nome": "Old Parr",
+                "preço": null,
+                "descrição": "Nascido em 1483, Thomas Parr viveu 152 anos na Grã-Bretanha. Em 1871, os irmãos James e Samuel Greenles criaram o Grand Old Parr, em homenagem ao legendário Thomas Parr. E diz a lenda que o espírito de longevidade deste incrível homem está em cada dose de Old Parr. Envelhecido por 12 anos, o principal malte de composição é o Cragganmore, o mais famoso malte de Speyside, região onde nasceu o scotch whisky."
+            },
+            {
+                "nome": "Jameson Irish",
+                "preço": null,
+                "descrição": "Criado em 1780, Jameson é um whiskey irlandês, fabricado em uma única destilaria, a Midleton Distillery, na região de Cork, na Irlanda. Tem como característica principal a tripla destilação, comum aos whiskies irlandeses, que resulta num sabor muito mais suave, sendo apreciado tanto por homens, quanto por mulheres. Sua suavidade o torna muito mais versátil - pode ser tomado puro ou misturado."
+            }
+        ],
+        "Gin": [
+            {
+                "nome": "Tanqueray",
+                "preço": null,
+                "descrição": "Gin inglês para o mais apurado paladar, elaborado a partir de destilado alcoólico de bagas de Zimbro."
+            },
+            {
+                "nome": "Tanqueray Ten",
+                "preço": null,
+                "descrição": "O único Gin Super Premium da categoria. Nota-se o aroma fresco de várias frutas, ervas e especiarias. Na boca, a essência viva do cítrico e zimbro é evidenciada com suaves notas de camomila. Enquanto o destilado se prolonga na boca, seu acabamento suave e refrescante é realçado com toques de toranja, laranja e limão."
+            },
+            {
+                "nome": "Bombay Sapphire",
+                "preço": null,
+                "descrição": "Bebida inglesa composta de destilado alcóolico retificado e extratos vegetais aromáticos. O incomparável sabor de \"Bombay Sapphire\" é resultado de uma cuidadosa seleção de ervas aromáticas e um exclusivo processo de destilação, proporcionando um aroma único e agradável."
+            },
+            {
+                "nome": "Bulldog",
+                "preço": null,
+                "descrição": "Gin ultra prêmio delicioso, elaborado de forma artesanal em Londres. É apresentado numa garrafa de cor cinza fumada, com um colar icónico. O Gin Bulldog é quatro vezes destilada, triplo filtrado e contem 12 ervas rigorosamente selecionadas de 4 continentes."
+            },
+            {
+                "nome": "Tanqueray Sevilla",
+                "preço": null,
+                "descrição": "O gin Tanqueray Flor de Sevilla é um gin exclusivo, feito com essências de laranja Sevilla e outros botânicos finos. Inspirado nas receitas originais de Charles Tanqueray e no amadurecimento das laranjas que crescem nas árvores em SEVILLA, o resultado é um equilíbrio perfeito entre o sabor agridoce das laranjas de Sevilla, equilibrado com a complexidade do Tanqueray London Dry Gin."
+            },
+            {
+                "nome": "Star Of Bombay",
+                "preço": null,
+                "descrição": "Gin Star Of Bombay. Produzido a partir de uma receita especial com sementes de abelmosco, originárias do Equador e casa de bergamota colhida manualmente na Calábria. Para preservar os ingredientes, acontece um processo de infusão a vapor e sua destilação é mais longa, garantindo assim os aromas e sabores mais intensos. O Gin Star Of Bombay é ótimo para ser apreciado puro ou em uma grande variedade de coquetéis. Graduação Alcoólica 47,5%. Contém 750ml. Gin Importado da Inglaterra."
+            },
+            {
+                "nome": "Hendrick's",
+                "preço": null,
+                "descrição": "O Gin Hendrick's é produzido numa destilaria pequena do Ayrshire, Escócia. Esta é uma bebida original e única, ou conforme definida pelo destilador William Grant, um gin \"iconoclasta\"- tanto por sua origem escocesa, como por conter, para além dos tradicionais ingredientes (zimbro, coentro e sumo de limão), infusão de pepino e pétalas de rosa."
+            },
+            {
+                "nome": "Amazzoni Gin",
+                "preço": null,
+                "descrição": "Nascido na atmosfera encantada da Fazenda Cachoeira, sua casa é a primeira destilaria exclusiva de Gin do Brasil. Amázzoni é um produto 100% brasileiro por filosofia, ingredientes e ciclo de produção. E isso nunca se tinha visto antes, pelo menos, não até hoje."
+            }
+        ],
+        "Vodka": [
+            {
+                "nome": "Grey Goose",
+                "preço": null,
+                "descrição": "A Vodka Grey Goose é reconhecida mundialmente como uma das melhores marcas do mundo na categoria super premium. Produzida na região de Cognac, França, sua composição reúne os melhores grãos franceses produzidos na cidade de Beauce e água mineral filtrada da fonte Genté. O sabor puro e refinado deve-se ao processo de destilação, que acontece em 5 fases. Cada uma das fases deixa a vodka mais sutil e refinada. O resultado é um sabor suave, amanteigado e arredondado, que se dissolve na boca, deixando uma lembrança duradoura e perfeita."
+            },
+            {
+                "nome": "Cîroc",
+                "preço": null,
+                "descrição": "Vodka francesa ultra-premium, celebra o incomum em todos os níveis, desde a destilação! Sua essência são as uvas Mauzac Blanc e Ugni Blanc, cultivadas em Gaillac e Cognac, regiões viníferas da França. Seu processo de produção utiliza fermentação fria, técnica tipicamente usada em vinificação, o que mantém o frescor e as características marcantes da uva. Excelente para ser misturada à coquetéis."
+            },
+            {
+                "nome": "Skyy",
+                "preço": null,
+                "descrição": "Um produto inovador da destilação à filtragem, resultando em uma vodka premium, extremamente suave e versátil. Combina com sua imaginação e com o que você quiser"
+            },
+            {
+                "nome": "Absolut",
+                "preço": null,
+                "descrição": "Foi lançada primeiro em 1979, na cidade de Nova York. Ela logo tornou-se tema de conversas na cidade e nos EUA, até alcançar o gosto mundial. Mas a receita por trás do sabor puro e natural da ABSOLUT é bem mais antiga, já passou dos 30 anos. Para começar, foi um frasco de remédio do século 18, encontrado em um antiquário em Estocolmo, que inspirou a famosa garrafa da ABSOLUT VODKA."
+            }
+        ]
+    },
+    "Carta de Vinhos": {
+        "Espumantes": [
+            {
+                "nome": "Dante Robino Nocturno Brut Rosé",
+                "preço": null,
+                "descrição": "Cor rosa intenso. Aromas de cereja, framboesa e morango, instigam o paladar de quem admira os rosés mais frutados. Jovem, intenso, suculento e delicioso."
+            },
+            {
+                "nome": "Victoria Geisse Vintage Extra Brut",
+                "preço": null,
+                "descrição": "Este é um espumante extremamente refrescante e que mostra o potencial do Brasil para a produção de espumantes extremamente sofisticados. Aromas de pêra, maçã verde e notas de flores dominam a taça, que exibe perlage intenso e elegante. Embora o vinho passe por segunda fermentação em garrafa, o dito método tradicional, usado em Champagne, as notas de levedura não marcam tanto o paladar - mas a sofisticação do método são de se notas. Em boca, mostra cremosidade, acidez vívida e persistência interessante. É daqueles espumantes perfeitos para festas e comemorações. Muito versátil para acompanhar receitas leves ou petiscos"
+            },
+            {
+                "nome": "Gran Cuvèe Extra-dry",
+                "preço": null,
+                "descrição": "Este espumante, leve e refrescante, recorda aromas de frutas brancas maduras como o pêssego. Seu estilo inconfundível o torna versátil e perfeito para momentos festivos"
+            },
+            {
+                "nome": "Victoria Geisse Vintage Extra Brut Rosé",
+                "preço": null,
+                "descrição": "Com coloração cereja claro, este espumante rosé traz boa formação de espuma em taça, assim como excelente perlage. Isso resultado dos 12 meses em que o espumante se manteve e contato com as leveduras depois da segunda fermentação em garrafa, o chamado método tradicional, mesmo utilizado em Champagne. Feito exclusivamente com Pinot Noir, o Victoria Geisse Vintage Rosé apresenta intensidade aromática que remete a frutas vermelhas e ganha notas de especiarias conforme vai passando mais tempo em taça."
+            },
+            {
+                "nome": "Chandon Brut Rosé",
+                "preço": null,
+                "descrição": "A degustação do Chandon Brut Rosé começa pela sedução da reluzente e delicada cor rosada lembrando a goiaba junto às características de uma ótima efervescência: borbulhas finas, ativas e numerosas com uma espuma abundante formando um colarinho persistente na taça. Continua conquistando pela sinfonia de aromas a frutas vermelhas com toques sutis de especiarias doces. E leva ao prazer de uma experiência sensorial única de um paladar extremamente equilibrado."
+            },
+            {
+                "nome": "Chandon Brut | Ação Da Chandon Brasil",
+                "preço": null,
+                "descrição": "A cada Chandon vendido serão doados 5 pratos de alimentação para necessitados do coronavirus.."
+            }
+        ],
+        "Champagne": [
+            {
+                "nome": "Moet Chandon Brut",
+                "preço": null,
+                "descrição": "Sua cor é amarela dourada com reflexos verdes. Seu aroma é composto pela intensidade picante da maçã verde e das frutas cítricas, com frescor de nuances minerais e flores. Já o paladar fica a cargo das frutas brancas (pêra, maçã e pêssego) com borbulhas delicadas, leve vivacidade de frutas cítricas e nuances de groselha."
+            }
+        ],
+        "Brancos": [
+            {
+                "nome": "Adega Guimarães Vinho Verde",
+                "preço": null,
+                "descrição": "Amarelo esverdeado. O vinho possui aromas de frutas brancas, como maçã e pera, e de frutas cítricas, como abacaxi e limão, notas que preenchem o paladar acentuando a acidez em boca."
+            },
+            {
+                "nome": "Mancura Etnia Sauvignon Blanc",
+                "preço": null,
+                "descrição": "Uma cor amarela elegante, com tons esverdeados vibrantes. Ao nariz, oferece tentadores aromas de frutas tropicais e flores brancas. Ao paladar é limpo, fresco e equilibrado e com um acabamento muito refrescante. Ideal como aperitivo e combinado com frutos do mar."
+            },
+            {
+                "nome": "Circus Sauvignon Blanc, 2022",
+                "preço": null,
+                "descrição": "A linha Circus é o retrato da versatilidade da vinícola Escorihuela Gascón, que produz desde os rótulos mais carregados de tradição até os jovens e inovadores, como é o caso deste branco. Os aromas são os mais típicos, mas sem perder a excelência. Notas florais e nuances que remetem a chás de frutas, bem tropical."
+            }
+        ],
+        "Rosés": [
+            {
+                "nome": "Estandon Brise Marine Rosé",
+                "preço": null,
+                "descrição": "Em um intenso cor-de-rosa, notas de frutas vermelhas compõem um nariz perfumado, cheio de morango e cerejas neste vinho argentino. Com paladar fresco e boa acidez natural."
+            },
+            {
+                "nome": "Mancura Etnia Rose, 2018",
+                "preço": null,
+                "descrição": "É um vinho brilhante, de um rosa pálido com leves toques de cereja, seu aroma lembra frutas vermelhas como amoras e framboesas. De um sabor refrescante possui uma deliciosa acidez. Com um corpo médio tem muito equilíbrio e persistência."
+            },
+            {
+                "nome": "vistamar brisa rose",
+                "preço": null,
+                "descrição": "Vistamar Brisa Rosé combina a grande expressão de aromas e sabores de uvas de diferentes climas do Vale Central, obtendo assim um fresco e suave vinho bastante frutado com cores rosadas muito brilhantes que se assemelham a cereja. Aroma intenso de frutas vermelhas, framboesas maduras e morangos. Possui um sabor suculento e bem jovem com um final refrescante. Framboesa, morango e cereja. Paladar intenso, com ótima estrutura e suavidade, final longo."
+            }
+        ],
+        "Tintos": [
+            {
+                "nome": "Mancura Cabernet Sauvignon, 2018",
+                "preço": null,
+                "descrição": "Vinho de coloração rubi negra límpida. Bouquet que lembra caramelo, carvão e açúcar mascavo. Na boca um vinho completo, muito agradável no equilíbrio da acidez e dos taninos."
+            },
+            {
+                "nome": "Palagetto Chianti Colli Senesi Docg",
+                "preço": null,
+                "descrição": "Com intensa cor rubi, mostra notas de cerejas frescas, especiarias, pimenta preta e flores, que vão do nariz à boca, onde o vinho se mostra macio e levemente tânico. Um vinho muito agradável e fácil de beber."
+            },
+            {
+                "nome": "Niepoort Conversa, 2018",
+                "preço": null,
+                "descrição": "Fermentado em lagares. Fermentação malolática em cubas de aço e em barricas de carvalho (20%). 20% do vinho é maturado em barricas de carvalho por 12 meses."
+            },
+            {
+                "nome": "Escorihuela Gascón Circus Blend, 2019",
+                "preço": null,
+                "descrição": "\"Gastronômico é a palavra que melhor descreve este tinto argentino feito de um corte inusitado de Bonarda, Tempranillo e Syrah. Aromas de ameixas maduras e azeitonas combinam-se a notas de pimenta-preta, que se repetem na boca. Saboroso e convidativo, o vinho pede um gole atrás do outro – e, com taninos macios e corpo médio, deixa o paladar preparado para um banquete tipicamente italiano.\""
+            },
+            {
+                "nome": "Cobos Felino Malbec",
+                "preço": null,
+                "descrição": "Argentina"
+            },
+            {
+                "nome": "Mancura Etnia Cabernet Sauvignon",
+                "preço": null,
+                "descrição": "Caracteristicamente Cabernet, este vinho apresenta uma cor vermelho-rubi brilhante, com aromas de amora pronunciados no nariz misturando com toques de couro e chocolate. Na boca o vinho é macio e frutado, perfeitamente equilibrado com taninos finos e suaves."
+            },
+            {
+                "nome": "Escorihuela Familia Gascon Malbec",
+                "preço": null,
+                "descrição": "Vermelho-granada intensa.Aroma de amoras silvestres e pimenta-do-reino preta. Persistente na boca, intenso, especiado, de taninos jovens resultantes dos seus 3 meses de envelhecimento em carvalho francês e americano."
+            },
+            {
+                "nome": "Algairen Tempranillo, 2019",
+                "preço": null,
+                "descrição": "Coloração vívida, rubi com reflexos violáceos e aromas de framboesas e morangos. Mostra o bom uso do carvalho no corpo de leve pra médio que não esconde a vivacidade das frutas. Groselhas e morangos fixam-se às bochechas graças aos taninos bastante presentes e equilibrados à acidez."
+            },
+            {
+                "nome": "Vistamar Brisa Cabernet Sauvignon",
+                "preço": null,
+                "descrição": "Aparência: vermelho rubi brilhante. Aroma: groselha, chocolate e couro. Sabor: Médio-corpo, com sabores de frutas macias, taninos maduros dão a postura vinho."
+            },
+            {
+                "nome": "Casa de Monte Pedral colheita",
+                "preço": null,
+                "descrição": "“O mago do Douro criando uma história incrível no Alentejo”. – Editor Onivino Da melhor sub-região do Alentejo, em Portalegre, muito bem localizada na Serra de São Mamede e com a mão do grande Dirk Niepoort temos um vinho espetacular!"
+            },
+            {
+                "nome": "La Vigne Des Fleurines Cotes Du Roussillon",
+                "preço": null,
+                "descrição": "No nariz é complexo, notas de fruta vermelha, garrigue e louro. O paladar fresco e equilibrado destaca o belo taninos suaves e equilibrados. Vermelho com tons violáceos.Frutado, Equilibrado, Macio, Fresco."
+            },
+            {
+                "nome": "Barone Montalo Nero D’Avola, 2021",
+                "preço": null,
+                "descrição": "Logo ao servir este vinho em taça, é possível sentir os aromas frutados de cerejas e ameixa. Bastante fresco, em boca ele se mostra leve, redondo e macio, muito fácil de beber! Os sabores de frutas vermelhas maduras - com um toque de alcaçuz - preenchem toda a boca e convidam para um novo gole. Este varietal não passa por barrica, com intuito de preservar seu frescor e fazer deste um vinho que expresse por completo seu terroir siciliano. A composição do clima e o solo da Sicília são perfeitos para o cultivo da Nero d´Avola, afinal, a ilha é o lar de origem. da uva. Não à toa, a cepa dá origem aos melhores vinhos desta região italiana"
+            },
+            {
+                "nome": "Don Nicanor Malbec",
+                "preço": null,
+                "descrição": "Cor vermelha, com reflexos violeta e grande untuosidade. Aromas de ameixas pretas secas, com notas de baunilha devido a seu tempo de permanência no carvalho. Com taninos doces e maduros, bom corpo, é aveludado e tem excelente persistência, com intenso retro gosto. um ótimo acompanhamento para carnes em geral, pode ser servido com picanha ou embutidos. Pode acompanhar queijos duros, de sabor intenso, como Parmesão."
+            },
+            {
+                "nome": "Mazzei Poggio Badiola",
+                "preço": null,
+                "descrição": "Provém de vinhedos localizados a uma grande altitude no coração da região de Chianti Classico, em torno de uma igreja românica que remonta ao século X. Combina de forma única o frescor e a elegância da Sangiovese com a estrutura macia da Merlot, à qual é dado um toque refinado pela Petit Verdot"
+            },
+            {
+                "nome": "Palagetto Chianti Colli Senesi",
+                "preço": null,
+                "descrição": "Rubi intenso. Fresco, muito frutado e com notas florais. Paladar intenso, com ótima estrutura e suavidade, final longo. Frutado, Macio, Fresco, Equilibrado."
+            }
+        ]
+    },
+    "endereço": "Av. Miguel Ignácio Curi, 111, Vila Carmosinha, São Paulo, SP, Brasil",
+    "telefone": null,
+    "email": "……..",
+    "website": null,
+    "name": "Bar do Zeca Pagodinho Corinthians"
+}

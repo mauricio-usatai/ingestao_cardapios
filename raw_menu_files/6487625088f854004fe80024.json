@@ -1,0 +1,478 @@
+{
+    "Pra começar": {
+        "Pães": [
+            {
+                "nome": "Pão de Queijo - 6 unidades",
+                "preço": "R$ 12,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Pão de Batata com Requeijão",
+                "preço": "R$ 12,00",
+                "descrição": "Unidade"
+            },
+            {
+                "nome": "Pão de Batata Misto",
+                "preço": "R$ 12,00",
+                "descrição": "Unidade"
+            },
+            {
+                "nome": "Pão na chapa",
+                "preço": "R$ 10,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Croissant",
+                "preço": "R$ 12,00",
+                "descrição": "Recheios: Misto; Frango com catupiry; Quatro Queijos e chocolate"
+            }
+        ],
+        "Salgados": [
+            {
+                "nome": "Empanada De Carne",
+                "preço": "R$ 13,00",
+                "descrição": "Empanada recheada com carne, especiarias e azeitonas"
+            },
+            {
+                "nome": "Empanada De Queijo Com Cebola",
+                "preço": "R$ 13,00",
+                "descrição": "Empanada recheada com queijo e cebola caramelizada"
+            },
+            {
+                "nome": "Coxinha",
+                "preço": "R$ 12,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Risoles de Palmito",
+                "preço": "R$ 12,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Risoles de Presunto e queijo",
+                "preço": "R$ 12,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Bolinha de Queijo",
+                "preço": "R$ 12,00",
+                "descrição": ""
+            }
+        ]
+    },
+    "Sanduiches e Batata Fritas": {
+        "Sanduiches": [
+            {
+                "nome": "Bauru",
+                "preço": "R$ 19,00",
+                "descrição": "Pão, presunto, queijo, tomate e oregano"
+            },
+            {
+                "nome": "Misto Quente no Francês ou no Pão de Forma",
+                "preço": "R$ 18,00",
+                "descrição": "Pão, presunto e queijo"
+            },
+            {
+                "nome": "Queijo Quente no Francês ou no Pão de forma",
+                "preço": "R$ 16,00",
+                "descrição": "Pão, american cheese e cheddar"
+            },
+            {
+                "nome": "Batata Frita 150g",
+                "preço": "R$ 18,00",
+                "descrição": ""
+            }
+        ],
+        "Sanduiches Especiais": [
+            {
+                "nome": "Caprese",
+                "preço": "R$ 42,00",
+                "descrição": "Pão, tomate, muçarela de búfala e manjericão"
+            },
+            {
+                "nome": "Sanduiche de Frango",
+                "preço": "R$ 42,00",
+                "descrição": "Pão, alface, pedaços de frango grelhado, tomate, cebola, maionese da casa e molho Cepêra Mostarda e Mel"
+            },
+            {
+                "nome": "Sanduiche Mediterrâneo",
+                "preço": "R$ 46,00",
+                "descrição": "Pão, azeite, rúcula, presunto cru, tomate cereja, muçarela de Búfala e azeitonas pretas"
+            }
+        ]
+    },
+    "Refeições": {
+        "Tortas ": [
+            {
+                "nome": "Torta de Camarão (Fatia)",
+                "preço": "R$ 34,00",
+                "descrição": "Complete sua torta, adicionando uma mini salada do dia no valor promocional de R$15,00"
+            },
+            {
+                "nome": "Torta de Frango (Fatia)",
+                "preço": "R$ 30,00",
+                "descrição": "Complete sua torta, adicionando uma mini salada do dia no valor promocional de R$15,00"
+            },
+            {
+                "nome": "Torta de Palmito (Fatia)",
+                "preço": "R$ 30,00",
+                "descrição": "Complete sua torta, adicionando uma mini salada do dia no valor promocional de R$15,00"
+            },
+            {
+                "nome": "Torta de Legumes (Fatia)",
+                "preço": "R$ 25,00",
+                "descrição": "Complete sua torta, adicionando uma mini salada do dia no valor promocional de R$15,00"
+            }
+        ],
+        "Saladas": [
+            {
+                "nome": "Salada do Dia",
+                "preço": "R$ 25,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Salada Verde",
+                "preço": "R$ 38,00",
+                "descrição": "Mix de folhas verdes"
+            },
+            {
+                "nome": "Salada Caprese",
+                "preço": "R$ 42,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Salada Caesar",
+                "preço": "R$ 45,00",
+                "descrição": "Alface americana, lâminas de frango grelhado, croutons e molho ceasar"
+            }
+        ],
+        "Massas": [
+            {
+                "nome": "Ravioli de Muçarela",
+                "preço": "",
+                "descrição": "Escolha o molho de sua preferência"
+            },
+            {
+                "nome": "Tortelli de Limão Siciliano",
+                "preço": "",
+                "descrição": "Escolha o Molho de sua preferência"
+            },
+            {
+                "nome": "Nhoque",
+                "preço": "",
+                "descrição": "Escolha o seu molho"
+            },
+            {
+                "nome": "Penne",
+                "preço": "R$ 52,00",
+                "descrição": "Escolha os molhos"
+            }
+        ],
+        "Pratos Principais": [
+            {
+                "nome": "Parmegiana de Frango",
+                "preço": "R$ 55,00",
+                "descrição": "Filet de frango a parmegiana, arroz e batatas fritas"
+            },
+            {
+                "nome": "Strogonoff de Filet Mignon",
+                "preço": "R$ 69,00",
+                "descrição": "Acompanha arroz e fritas"
+            },
+            {
+                "nome": "Strogonoff de Frango",
+                "preço": "R$ 59,00",
+                "descrição": "Acompanha arroz e fritas"
+            },
+            {
+                "nome": "Feijoada",
+                "preço": "R$ 58,00",
+                "descrição": "Arroz, couve, farofa, vinagrete e laranja"
+            }
+        ]
+    },
+    "Doces e Sorvetes": {
+        "Açai e Sorvete": [
+            {
+                "nome": "Açai",
+                "preço": "",
+                "descrição": "Pote P R$15 Pote G R$24"
+            },
+            {
+                "nome": "Creme de Cupuaçu",
+                "preço": "",
+                "descrição": "Pote P R$15 Pote G R$24"
+            },
+            {
+                "nome": "Creme de Manga",
+                "preço": "",
+                "descrição": "Pote P R$15 Pote G R$24"
+            },
+            {
+                "nome": "Pitaya com Maracujá",
+                "preço": "",
+                "descrição": "Pote P R$15 Pote G R$24"
+            }
+        ],
+        "Sobremesas": [
+            {
+                "nome": "Eclair de pistache",
+                "preço": "R$ 14,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Bolo Fatia",
+                "preço": "R$ 13,00",
+                "descrição": "Verifique disponibilidade de sabor"
+            },
+            {
+                "nome": "Pão de Mel",
+                "preço": "R$ 12,00",
+                "descrição": ""
+            }
+        ],
+        "Bomboniere": [
+            {
+                "nome": "Bala Fini",
+                "preço": "R$ 2,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Chiclete Trident - verificar saborea disponíveis",
+                "preço": "R$ 4,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Chiclete Mentos",
+                "preço": "R$ 17,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Kit Kat",
+                "preço": "R$ 7,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Chocolate Hershey",
+                "preço": "R$ 10,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Snickers",
+                "preço": "R$ 4,00",
+                "descrição": ""
+            },
+            {
+                "nome": "4 Balas 7 Belo",
+                "preço": "R$ 1,00",
+                "descrição": ""
+            }
+        ]
+    },
+    "Bebidas": {
+        "Café e Chocolate": [
+            {
+                "nome": "Expresso",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Expresso Duplo",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cappucino",
+                "preço": null,
+                "descrição": "Expresso, leite vaporizado e cacau em pó"
+            },
+            {
+                "nome": "Macchiato",
+                "preço": null,
+                "descrição": "Expresso e crema"
+            },
+            {
+                "nome": "Macchiato Duplo",
+                "preço": null,
+                "descrição": "Expresso e crema"
+            },
+            {
+                "nome": "Chocolate Quente",
+                "preço": null,
+                "descrição": "Chocolate e leite"
+            }
+        ],
+        "Café Coado -  Chapada Diamantina": [
+            {
+                "nome": "Café Rigno",
+                "preço": "R$ 18,00",
+                "descrição": "Campeão do Cup of Excellence (2022) e tetra pela BSCA e ABIC. Produzido em Piatã na Chapada da Diamantina"
+            },
+            {
+                "nome": "Café Pai Inácio",
+                "preço": "R$ 18,00",
+                "descrição": "Produtor premiado pela BSCA em 2023. Produzido em Piatã, Chapada Diamantina. * Temos tbm o café a venda para que leve para casa."
+            },
+            {
+                "nome": "Café Terramater",
+                "preço": "R$ 18,00",
+                "descrição": "Café cultivado em sistema agroflorestal, com cuidado na preservação da vegetação. Produzido em Ibicoara, Chapada Diamantina. * Temos tbm o café a venda para que leve para casa."
+            },
+            {
+                "nome": "Café Microlote",
+                "preço": "R$ 18,00",
+                "descrição": "Esse grão é do sitio que ficou em 7º lugar em 2022 no concurso Cup of Excellence Produzido em Piatã, Chapada Diamantina. * Temos tbm o café a venda para que leve para casa."
+            }
+        ],
+        "Café Gelados": [
+            {
+                "nome": "Latte",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Latte de chocolate",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Café Latte de caramelo",
+                "preço": "R$ 22,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Mocha Chocolate",
+                "preço": null,
+                "descrição": "Expresso, leite, calda de chocolate, gelo e chantilly"
+            },
+            {
+                "nome": "Mocha Caramelo",
+                "preço": null,
+                "descrição": "Expresso, leite, calda de caramelo, gelo e chantilly"
+            },
+            {
+                "nome": "Frapuccino",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Expresso Tônica",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chai Latte",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Shakes e Smoothies": [
+            {
+                "nome": "Shake de Whey com chocolate",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Shake de Whey com Banana",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Smoothie de banana com Açai",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "Soda Italiana": [
+            {
+                "nome": "Maçã verde",
+                "preço": "R$ 14,00",
+                "descrição": ""
+            }
+        ],
+        "Sucos ": [
+            {
+                "nome": "Rubis Refrescante",
+                "preço": null,
+                "descrição": "frutas vermelhas e xarope de açúcar"
+            },
+            {
+                "nome": "Limonada",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Passionberrys",
+                "preço": "R$ 17,00",
+                "descrição": "Frutas vermelhas, maracujá e xarope de açúcar"
+            },
+            {
+                "nome": "Maracujá",
+                "preço": "R$ 15,00",
+                "descrição": "maracujá e xarope de açúcar"
+            },
+            {
+                "nome": "Laranja (natural)",
+                "preço": "R$ 15,00",
+                "descrição": "maracujá e xarope de açúcar"
+            }
+        ],
+        "Refrigerantes, águas e energéticos": [
+            {
+                "nome": "Água Sem Gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água Com Gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Refrigerantes",
+                "preço": null,
+                "descrição": "Coca Cola Coca Cola Zero Guaraná Antartica Guaraná Antartica Zero Fanta Laranja Fanta Uva Sprite"
+            },
+            {
+                "nome": "Red Bull",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chá Mate",
+                "preço": null,
+                "descrição": "Lichia; Pêssego; Limão; Chá verde"
+            },
+            {
+                "nome": "Suco de caixinha",
+                "preço": "R$ 6,00",
+                "descrição": ""
+            },
+            {
+                "nome": "H2O",
+                "preço": "R$ 10,00",
+                "descrição": "Normal ou limão"
+            },
+            {
+                "nome": "Gatorade",
+                "preço": null,
+                "descrição": "Verifique disponibilidade de sabor"
+            },
+            {
+                "nome": "Mupy",
+                "preço": null,
+                "descrição": "Verificar disponibilidade de sabor"
+            },
+            {
+                "nome": "Toddynho",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "endereço": "Rua Maranhão, 617, Higienópolis, São Paulo, SP, Brasil",
+    "telefone": "(11) 91289-4551",
+    "email": "ziv.gallery1@gmail.com",
+    "website": "https://www.zivgallery.com/",
+    "name": "Ziv Gallery Higienópolis"
+}

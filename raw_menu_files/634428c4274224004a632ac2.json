@@ -1,0 +1,1453 @@
+{
+    "Café da Manhã": {
+        "CAFÉ DA MANHÃ": [
+            {
+                "nome": "Buffet variado e cardápio à lá minute",
+                "preço": "R$ 115,00",
+                "descrição": "Croque monsieur, croque madame, ovos à sua escolha, tapiocas, panquecas e waffles."
+            }
+        ]
+    },
+    "Deli Nespresso": {
+        "Cafés": [
+            {
+                "nome": "Café Espresso",
+                "preço": "R$ 11,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Espresso Duplo",
+                "preço": "R$ 17,00",
+                "descrição": "Duplo shot de café espresso."
+            },
+            {
+                "nome": "Espresso Macchiato",
+                "preço": "R$ 11,00",
+                "descrição": "Espresso com espuma de leite"
+            },
+            {
+                "nome": "Latte",
+                "preço": "R$ 15,00",
+                "descrição": "Bebida de café espresso com uma generosa camada de espuma feita com leite. (Consulte os tipos de leite disponíveis)"
+            },
+            {
+                "nome": "Americano",
+                "preço": "R$ 11,00",
+                "descrição": "Café alongado com água"
+            },
+            {
+                "nome": "Capuccino Tradicional",
+                "preço": "R$ 15,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Capuccino Deli",
+                "preço": "R$ 18,00",
+                "descrição": "Com um toque de chocolate em pó e canela"
+            },
+            {
+                "nome": "Leite Especiais - para acompanhar seu Nespresso",
+                "preço": "R$ 3,00",
+                "descrição": "Escolha as versões sem Lactose, Aveia ou Soja"
+            },
+            {
+                "nome": "Chocolate Quente",
+                "preço": "R$ 14,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Iced Capuccino",
+                "preço": "R$ 16,00",
+                "descrição": "Um grande clássico, revisitado para surpreender as suas papilas gustativas. Cacau, canela e noz moscada acordarão o fogo por baixo do gelo."
+            }
+        ],
+        "Chás Iamaní": [
+            {
+                "nome": "Super Imune - Sachês",
+                "preço": "R$ 15,00",
+                "descrição": "Blend criado especialmente para ajudar na imunidade do corpo e na sua saúde. ingredientes: hortelã: famosa pelo seu sabor e frescor, a hortelã é uma planta antioxidante com propriedades antibacterianas. gengibre: raiz que atua no sistema nervoso e tem efeitos termogênicos que ativam o metabolismo. cúrcuma: poderosa raiz medicinal de ação antioxidante e que ajuda a eliminar os radicais livres, responsáveis pelo envelhecimento precoce. pimenta-do-reino: usada de forma quase homeopática nesse blend, a pimenta-do-reino tem propriedades anti-inflamatórias e termogênicas, e é uma considerada uma grande aliada na manutenção da saúde. casca de limão: além de ser riquíssimo em vitamina C, a casca de limão dá aquele toque especial com seu aroma cítrico."
+            },
+            {
+                "nome": "Boa Digestão",
+                "preço": "R$ 15,00",
+                "descrição": "Boa Digestão é um blend em que reunimos plantas já conhecidas de outros tempos por cuidarem de uma das funções fisiológicas mais importantes: a nossa digestão. ingredientes: sálvia: suas folhas aromáticas são tranquilizantes naturais, com ótimas funções digestivas. funcho: erva com propriedades antiespasmódicas, que ajuda no alívio de sintomas como cólica, flatulência e outros distúrbios gastrointestinais. gengibre: poderosa raiz com efeitos termogênicos que ativam o metabolismo. erva-doce: planta popular de sabor adocicado, que traz conforto e ajuda na digestão. casca de laranja: além de ser rica em vitamina C, a casca de laranja é extremamente saborosa e tem um delicioso aroma cítrico."
+            },
+            {
+                "nome": "Acelera Metabolismo",
+                "preço": "R$ 15,00",
+                "descrição": "Acelera metabolismo foi formulado para ajudar a impulsionar sua energia e estimular o metabolismo! esta poderosa combinação de chá verde, mate tostado, canela, gengibre e cúrcuma é exclusiva da Iamaní no Brasil! ingredientes: chá verde: conhecido por sua capacidade de estimular o metabolismo. mate: popular no Brasil, estudos mostram que pode reduzir o apetite e aumentar a queima de gordura. canela: possui propriedades anti-inflamatórias e estimula a produção de serotonina, beneficiando o humor. gengibre: com efeitos termogênicos, ativa o metabolismo. cúrcuma: raiz antioxidante que reduz a inflamação e combate os radicais livres."
+            },
+            {
+                "nome": "Acalma a Alma",
+                "preço": "R$ 15,00",
+                "descrição": "ingredientes: erva-doce: planta popular de sabor adocicado que ajuda na digestão também pode ser útil para amenizar dores de cabeça devido às suas características analgésicas. camomila: ajuda a aliviar sintomas como cólicas, ansiedade e insônia. canela: tem propriedades anti-inflamatórias, que beneficiam o sistema nervoso central estimulando a produção de serotonina, responsável pela regulação do humor e bem-estar. sálvia: suas folhas aromáticas são tranquilizantes naturais, com ótimas funções digestivas. pitanga: nativa do Brasil, as folhas de pitanga são ricas em vários nutrientes, especialmente vitamina A, C e minerais, por isso elas podem contribuir para manter seu sistema imunológico saudável!"
+            },
+            {
+                "nome": "Camomila",
+                "preço": "R$ 15,00",
+                "descrição": "Nossa infusão de flores de camomila é 100% orgânica, cultivada em fazendas conduzidas por cooperativas e famílias comprometidas com a preservação da saúde ambiental e social. A camomila é uma planta conhecida por suas propriedades medicinais, utilizadas ao longo da história para proporcionar calma e bem-estar. ingredientes: camomila: cheia de benefícios para a saúde mental, a camomila é especialmente popular no alívio do estresse e da ansiedade. Além disso, suas propriedades auxiliam e cuidam do sistema digestivo."
+            },
+            {
+                "nome": "Erva-Doce",
+                "preço": "R$ 15,00",
+                "descrição": "A erva-doce é muito utilizada para promover uma boa digestão, ajudando a diminuir inchaços e dores abdominais. ingredientes: erva-doce: conhecida por seu sabor adocicado, é muito utilizada para promover uma boa digestão e aliviar inchaços e dores abdominais. observação: não contém cafeína"
+            },
+            {
+                "nome": "Capim-Limão",
+                "preço": "R$ 15,00",
+                "descrição": "Com folhagens longas, aroma fresco e um sabor cítrico que combina pitadas de limão e um toque de menta, o capim-limão é sinônimo de vitalidade e frescor. ingredientes: capim-limão: uma planta repleta de benefícios, que vão desde ação antiespasmódica para alívio de dores estomacais e estímulo da digestão, até propriedades diuréticas, que ajudam a eliminar o excesso de líquidos do organismo. observação: livre de cafeína"
+            }
+        ]
+    },
+    "Menu Executivo": {
+        "Menu Executivo - Criado por nosso Chef William Carvalho": [
+            {
+                "nome": "Menu Executivo",
+                "preço": "R$ 95,00",
+                "descrição": "Selecione seu menu favorito"
+            }
+        ]
+    },
+    "À LA CARTE": {
+        "ENTRADA": [
+            {
+                "nome": "Ceviche de Robalo Ao Estilo HUB",
+                "preço": "R$ 82,00",
+                "descrição": "Ceviche de Robalo e Chips de Raízes"
+            },
+            {
+                "nome": "A Burrata",
+                "preço": "R$ 110,00",
+                "descrição": "Burrata"
+            },
+            {
+                "nome": "Atum Marinado com Folha de Arroz e Avocado",
+                "preço": "R$ 86,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Crudo de Robalo e Sorbet de Cítricos",
+                "preço": "R$ 62,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Trio de Bruschettas",
+                "preço": "R$ 58,00",
+                "descrição": "3 unidades de Deliciosas Bruschettas, sabores: Gravlax de Salmão Curado (1 uni), Cogumelo Salteado (1 uni) e Presunto Parma com Tomate Seco (1 uni)."
+            },
+            {
+                "nome": "Steak tartar, Batata Frita (Canoa), e Saladinha Verde",
+                "preço": "R$ 97,00",
+                "descrição": "HUB Steak Tartar, Batata Frita (Canoa) e Saladinha Verde. Feito na Ponta da Faca, Nosso Steak Tartar é Bem Temperado e Harmoniza Com O Leve Adocicado da Batata Roxa Crocante. Perfeita Combinação"
+            },
+            {
+                "nome": "Couvert de Pães",
+                "preço": "R$ 24,00",
+                "descrição": ""
+            }
+        ],
+        "MASSAS E RISOTOS": [
+            {
+                "nome": "Risoto de Limão Siciliano, Camarão e Presunto Parma",
+                "preço": "R$ 120,00",
+                "descrição": "Um risoto clássico do Chef Willian Carvalho há mais de uma década. Imperdível!"
+            },
+            {
+                "nome": "Risoto de Funghi Porcini ao Aroma de Trufas",
+                "preço": "R$ 78,00",
+                "descrição": "Tradicional risoto preparado com o funghi porcini ao aroma de trufas."
+            },
+            {
+                "nome": "Creme de Couve-Flor com Baunilha do Cerrado e Zestes de Laranja Confit.",
+                "preço": "R$ 48,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Linguine ao Molho Bisque com Crudo de Camarão.",
+                "preço": "R$ 98,00",
+                "descrição": ""
+            }
+        ],
+        "PESCADOS": [
+            {
+                "nome": "Signature Dish - Polvo Pancetta com Purê de Ervilha",
+                "preço": "R$ 190,00",
+                "descrição": "Polvo, pancetta, purê de ervilha, vegetais baby, farofa de azeitona negra. Nosso Signature Dish campeão de vendas e de prêmios! O Polvo marca a carreira do Chef Willian (que já foi fotógrafo) unindo os melhores sabores e a arte de comer com os olhos."
+            },
+            {
+                "nome": "Especial HUB MAR - para compartilhar - (serve 2 pessoas)",
+                "preço": "R$ 520,00",
+                "descrição": "4 camarões grelhados, 2 Tentáculos do Polvo na brasa com batata rústica e crocante de Parma, 2 unidades de robalo e 2 unidades de salmão."
+            },
+            {
+                "nome": "Atum Selado em Crosta de Gergelim com Aioli de Wasabi, Cogumelo Shitake e Alga Wakame.",
+                "preço": "R$ 98,00",
+                "descrição": ""
+            }
+        ],
+        "ESPECIAIS DO CHEF": [
+            {
+                "nome": "Tomahawk com Batata Josper, Alho Confit e Molho Chimichurri.",
+                "preço": "R$ 280,00",
+                "descrição": "(Para Dividir) Exuberante carne Tomahawk com Batata Josper, Alho Confit e Molho Chimichurri."
+            },
+            {
+                "nome": "Cordeiro Braseado com Texturas de Mandioquinha, Pimentão Confit em Especiarias e Alho Poró Tostado.",
+                "preço": "R$ 110,00",
+                "descrição": ""
+            }
+        ],
+        "CARNES, AVES E PESCADOS INDIVIDUAIS": [
+            {
+                "nome": "Robalo GRILL",
+                "preço": "R$ 120,00",
+                "descrição": "*Adicione as guarnições abaixo (cobradas a parte) a qualquer item da sua escolha ou aos demais pratos do cardápio*"
+            },
+            {
+                "nome": "Salmão GRILL",
+                "preço": "R$ 86,00",
+                "descrição": "*Adicione as guarnições abaixo (cobradas a parte) a qualquer item da sua escolha ou aos demais pratos do cardápio*"
+            },
+            {
+                "nome": "Polvo GRILL",
+                "preço": "R$ 150,00",
+                "descrição": "*Adicione as guarnições abaixo (cobradas a parte) a qualquer item da sua escolha ou aos demais pratos do cardápio*"
+            },
+            {
+                "nome": "Filet Mignon GRILL",
+                "preço": "R$ 116,00",
+                "descrição": "*Adicione as guarnições abaixo (cobradas a parte) a qualquer item da sua escolha ou aos demais pratos do cardápio*"
+            },
+            {
+                "nome": "Atum Selado GRILL",
+                "preço": "R$ 86,00",
+                "descrição": "*Adicione as guarnições abaixo (cobradas a parte) a qualquer item da sua escolha ou aos demais pratos do cardápio*"
+            },
+            {
+                "nome": "Ribeye",
+                "preço": "R$ 145,00",
+                "descrição": "*Adicione as guarnições abaixo (cobradas a parte) a qualquer item da sua escolha ou aos demais pratos do cardápio*"
+            },
+            {
+                "nome": "Galeto GRILL",
+                "preço": "R$ 62,00",
+                "descrição": "*Adicione as guarnições abaixo (cobradas a parte) a qualquer item da sua escolha ou aos demais pratos do cardápio*"
+            }
+        ],
+        "ACOMPANHAMENTOS": [
+            {
+                "nome": "Vegetais Salteados",
+                "preço": "R$ 36,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Risoto Funghi",
+                "preço": "R$ 52,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Purê de Batatas",
+                "preço": "R$ 28,00",
+                "descrição": "Mashed Potatoes"
+            },
+            {
+                "nome": "Batata Josper",
+                "preço": "R$ 28,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Batata Frita (CANOA)",
+                "preço": "R$ 28,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Arroz Branco",
+                "preço": "R$ 22,00",
+                "descrição": ""
+            }
+        ],
+        "VEGANOS": [
+            {
+                "nome": "Falafel",
+                "preço": "R$ 45,00",
+                "descrição": "Bolinho de Grão de Bico"
+            },
+            {
+                "nome": "Mini Pastel",
+                "preço": "R$ 30,00",
+                "descrição": "(Palmito)"
+            },
+            {
+                "nome": "Salada Panc Ao Vinagrete De Limão",
+                "preço": "R$ 46,00",
+                "descrição": "Mix de folhas com vinagrete de limão"
+            },
+            {
+                "nome": "Moqueca Vegana",
+                "preço": "R$ 110,00",
+                "descrição": "com arroz, banana da terra e farofa crocante"
+            },
+            {
+                "nome": "Creme de Couve-Flor",
+                "preço": "R$ 48,00",
+                "descrição": "Creme de Couve Flor, Baunilha do Cerrado e Zests de Laranja Confit"
+            },
+            {
+                "nome": "Sorbet de Framboesa",
+                "preço": "R$ 34,00",
+                "descrição": "Sorbet de Framboesa, Carpaccio de Amora, Consommé de Morango e Pistache."
+            },
+            {
+                "nome": "Frutas Frescas da Estação",
+                "preço": "R$ 32,00",
+                "descrição": "Leveza e frescor em frutas frescas da estação, consulte as opções do dia."
+            }
+        ],
+        "SOBREMESAS": [
+            {
+                "nome": "Sorbet / Sorvete",
+                "preço": "R$ 34,00",
+                "descrição": "Conferir sabores do dia"
+            },
+            {
+                "nome": "Banana Assada no Carvão",
+                "preço": "R$ 32,00",
+                "descrição": "Banana assada no carvão com praline mole de amendoim, doce de leite e sorvete de chocolate branco."
+            },
+            {
+                "nome": "À Framboesa",
+                "preço": "R$ 36,00",
+                "descrição": "Pannacota de Yogurte com sponge cake e sorbet de framboesa."
+            },
+            {
+                "nome": "A Crema",
+                "preço": "R$ 32,00",
+                "descrição": "Creme Brûlée de Cumaru com cremoso de chocolate, azeite e flor de sal."
+            },
+            {
+                "nome": "Chocolate Malte",
+                "preço": "R$ 34,00",
+                "descrição": "Mousse de chocolate 70%, calda de malte."
+            },
+            {
+                "nome": "Affogato",
+                "preço": "R$ 32,00",
+                "descrição": "Sorvete de caramelo salgado e tablete de chocolate meio amargo, finalizado com expresso baunilha."
+            },
+            {
+                "nome": "Sorbet de Framboesa",
+                "preço": "R$ 34,00",
+                "descrição": "Sorbet de framboesa, carpaccio de amora, consommé de morango e pistache."
+            }
+        ],
+        "MENU KIDS ( Crianças até 12 anos ) ": [
+            {
+                "nome": "Combo Filé Mignon",
+                "preço": "R$ 60,00",
+                "descrição": "Filé Mignon Grelhado (100gr) com arroz e fritas, incluso sobremesa e bebida"
+            },
+            {
+                "nome": "Combo Filé de Frango",
+                "preço": "R$ 60,00",
+                "descrição": "Filé de Frango com espaguete na manteiga, acompanha sobremesa e bebida"
+            },
+            {
+                "nome": "Combo Filé de Peixe",
+                "preço": "R$ 60,00",
+                "descrição": "Filé de Peixe Grelhado com Purê de Batatas e Legumes, acompanha Sobremesa e Bebida"
+            },
+            {
+                "nome": "Combo Cheeseburguer",
+                "preço": "R$ 60,00",
+                "descrição": "Mini Cheeseburguer com Fritas, acompanha Sobremesa e Bebida"
+            },
+            {
+                "nome": "Combo Espaguete",
+                "preço": "R$ 60,00",
+                "descrição": "Espaguete com Molho ao Sugo, acompanha Bebida e Sobremesa"
+            }
+        ]
+    },
+    "CARTA DE VINHOS": {
+        "Sugestão do Sommelier": [
+            {
+                "nome": "Sacramento Antonella brut, 2018",
+                "preço": null,
+                "descrição": "Antonella é a neta mais velha de Jorge, com sua personalidade jovem e vibrante, foi a inspiração para elaborar espumantes que tivessem as mesmas características. Espumante descontraído, mas também inesquecível, encanta por seu frescor e seus aromas exuberantes de frutas cítricas e florais."
+            },
+            {
+                "nome": "Sophenia Altosur Chardonnay",
+                "preço": null,
+                "descrição": "Frutado e refrescante, este Chardonnay elaborado a partir de vinhas de Tupungato, plantadas a 1300 metros de altura, revela grande aporte de frutas tropicais, cítricas e de caroço e toque minerais"
+            },
+            {
+                "nome": "Garzón Estate Pinot Grigio de Corte",
+                "preço": null,
+                "descrição": "Mostra aroma delicado, frutado e fresco Pinot Grigio do Uruguai."
+            },
+            {
+                "nome": "Chablis Domaine Séguinot-Bordet",
+                "preço": null,
+                "descrição": "Fresco e de agradável mineralidade, este Chablis assinado por Séguinot-Bordet possui ótima acidez e final de boca marcado por frutas cítricas, notas de peras e toques de maçã verde. Um excelente exemplar elaborado com vinhas entre 25 e 40 anos e que carrega toda a mineralidade e frescor dessa fresca região francesa. Harmoniza bem com carnes brancas grelhadas e assadas, frutos do mar, massas salteadas com manteiga e ervas e queijos de massa mole."
+            },
+            {
+                "nome": "Dai Terra Rossa A.Mare Rosato Puglia IGP",
+                "preço": null,
+                "descrição": "A.Mare enaltece a cidade litorânea de Polignano a Mare, que atualmente é uma das rotas turísticas mais conhecidas e antigas da província de Bari, na Puglia. Rosé floral, é elaborado a partir da delicada Bombino Nero proveniente de vinhas da região de Castel del Monte, lar dos vinhos de altitude da Puglia. Destaque para seu ótimo equilíbrio e frescor."
+            },
+            {
+                "nome": "Val da Ucha Dão Tinto , 2021",
+                "preço": null,
+                "descrição": "Sobre este item: Blend tinto redondo, fresco e agradável. Destaca-se por notas de frutas vermelhas maduras, além de toques herbáceos, florais e minerais. Tem taninos maduros e final de boca mineral. Harmonize com: Massas com molhos de tomate, carnes grelhadas e assadas, embutidos."
+            },
+            {
+                "nome": "Fantini Farnese Montepulciano D`abruzzo",
+                "preço": null,
+                "descrição": "Frutas vermelhas frescas, como morangos e cerejas, notas defumadas e terrosas, além de toques florais e herbáceos"
+            },
+            {
+                "nome": "M. Chapoutier Côtes-du-Rhône Rouge \"Belleruche\"",
+                "preço": null,
+                "descrição": "Fresco e elegante blend com maior proporção de Grenache, complementada com Syrah, fincadas em solos de argilo-calcário. Fermentado em tanques de concreto e em inox, preserva o frescor e sutileza. Apresenta corpo médio, taninossedosos e notas de frutas vermelhas, além de toques tostados."
+            },
+            {
+                "nome": "Garzón Reserva Tannat",
+                "preço": null,
+                "descrição": "Os vinhos são elaborados sob a consultoria de Alberto Antonini, uma das maiores referências mundiais em produção de vinhos premium."
+            }
+        ],
+        "Enomatic By The Glass": [
+            {
+                "nome": "Veuve Ambal Blanc De Blancs Brut",
+                "preço": null,
+                "descrição": "Cor: Amarelo palha com reflexos dourados, perlage fina e persistente Aroma: Frutas brancas frescas, como maçãs verdes e peras, notas cítricas, pêssegos e toques florais. Sabor: Leve, com bom equilíbrio e ótima acidez. Seu final de boca é agradável e refrescante, com destaque para peras e pêssegos. Acompanha: Entradas leves, como saladas, tartar de salmão, ceviche de peixe branco, preparações a base de frutos do mar, queijos de cabra e ótimo acompanhando a culinária japonesa."
+            },
+            {
+                "nome": "Sophenia Altosur Torrontés",
+                "preço": null,
+                "descrição": "Fresco, elegante e equilibrado, este Torrontés elaborado a partir de vinhas de Tupungato, plantadas há 1300 metros de altura, revela grande aporte de frutas tropicais e toques cítricos. Fácil, leve e agradável de beber."
+            },
+            {
+                "nome": "Sophenia Altosur dulce natural chardonnay, 2022",
+                "preço": null,
+                "descrição": "Fresco e frutado branco elaborado por Finca Sophenia, Altosur Dulce Natural revela notas de frutas cítricas, flores brancas e toques de frutas tropicais. Em boca é agradável, com ótimo frescor e sutil dulçor residual. Exemplar ideal para acompanhar queijos de cabra, entradas leves e saladas de frutas. Harmonize com entradas leves, como saladas, canapés, saladas de frutas e queijos de cabra."
+            },
+            {
+                "nome": "Sophenia Altosur Reserve Sauvignon Blanc, 2018",
+                "preço": null,
+                "descrição": "Esse branco fresco e equilibrado é elaborado com a aromática Sauvignon Blanc em Tupungato, 1300 metros acima do nível do mar. SABOR: Leve, fresco e fino, com grande acidez e equilíbrio. Seu final de boca é agradável e frutado AROMA: Frutas cítricas, como limão e tangerina, frutas tropicais, como abacaxi e maracujá, além de notas herbáceas."
+            },
+            {
+                "nome": "Catena Chardonnay",
+                "preço": null,
+                "descrição": "Visual- cor amarelo pálido. Paladar- complexo e equilibrado. Cheiro- aromas de frutas brancas, nuances minerais, notas tostadas, bem como toques de mel e baunilha."
+            },
+            {
+                "nome": "Garzón Estate Pinot Rosé de Corte, 2022",
+                "preço": null,
+                "descrição": "Com uma delicada e tênue cor rosa pele de cebola, ele se caracteriza aromaticamente por seu frescor e delicadeza, onde se destacam nas notas de cereja e morango. em boca é elegante, com uma marcada acidez e um final mineral que permite expressar a autenticidade de seu terroir."
+            },
+            {
+                "nome": "Sophenia Altosur Reserva Malbec",
+                "preço": null,
+                "descrição": "Rubi com reflexos violáceos. No nariz apresenta intensos aromas de frutas vermelhas, como cerejas maduras e ameixas frescas, combinado com notas de especiarias e sutil toque floral. Encorpado e com boa concentração, confirma as sensações olfativas com taninos redondos e equilibrados. Seu final é persistente e com boa intensidade."
+            },
+            {
+                "nome": "Sophenia Altosur Cabernet Sauvignon",
+                "preço": null,
+                "descrição": "Elaborado a partir de vinhas plantadas em Tupungato, há 1200 metros de altitude, este Cabernet Sauvignon se mostra maduro e elegante. Com taninos finos e doces, e a boa acidez adquirida graças a altitude e a mineralidade do solo da região, é um tinto equilibrado. No nariz destacam-se frutas pretas maduras, como amoras e cassis, notas de eucalipto e toques defumados"
+            },
+            {
+                "nome": "Garzón Tannat De Corte Estate",
+                "preço": null,
+                "descrição": "Sua cor é intensa igual que seus aromas, os frutos vermelhos se expressam tanto em nariz quanto em boca, que junto com sutis taninos geram um final muito amável."
+            },
+            {
+                "nome": "Catena Malbec",
+                "preço": null,
+                "descrição": "Este é o tinto que mostrou ao mundo o potencial da casta Malbec para originar vinhos de classe mundial. A safra 2019 conquistou 92 pontos de Robert Parker, que destacou seu palato “textura macia e aveludada da casta, com carvalho bem integrado”, além da excelente qualidade pelo que custa. Intenso e concentrado como os grandes tintos argentinos, o Catena Malbec mostra uma complexidade impressionante. Eleito mais de uma vez um dos “100 Melhores Vinhos do Mundo” pela Wine Spectator, é uma referência absoluta."
+            },
+            {
+                "nome": "Vivanco Crianza",
+                "preço": null,
+                "descrição": "Ótimo exemplar de Rioja, este Crianza se mostra fresco e equilibrado, com grande presença de frutas vermelhas e notas tostadas. Com amadurecimento em carvalho durante 16 meses revela ótima concentração e complexidade. Destaque para a safra 2012 deste Crianza que foi avaliado com 91 pontos no Guía Peñín, que ainda o considerou como um grande Crianza, referência desta categoria em Rioja"
+            },
+            {
+                "nome": "Alma Negra Pinot Noir",
+                "preço": null,
+                "descrição": "Possui uma linda cor rubi clara, translúcida. Aromas com boa complexidade, inicialmente com predomínio frutado (morango, goiaba). Com algum tempo de taça, aparecem toques abaunilhados, cedro e notas florais. Na boca, bastante equilíbrio e elegância, sem excessos. Taninos finos, corpo leve para médio, média acidez e álcool correto. Final de média persistência, agradável. Um excelente exemplar de Pinot Noir, vale a pena ser provado."
+            },
+            {
+                "nome": "Clarendelle Rouge",
+                "preço": null,
+                "descrição": "Projeto Premium da Clarence Dillon, este tinto elaborado pela equipe enológica do lendário Château Haut-Brion, revela grande equilíbrio, elegância e complexidade, destacando-se por notas de frutas vermelhas e pretas frescas, como ameixas, cerejas e morangos, especiarias e notas defumadas. Uma excelente opção para quem busca um Bordeaux autêntico e agradável."
+            }
+        ],
+        "Champagne & Espumantes": [
+            {
+                "nome": "Tosti Notte di Bollicine Gran Cuvée Brut",
+                "preço": null,
+                "descrição": "Blend de uvas do Veneto e do Friuli, Notte di Bollicine Gran Cuvée nos encanta por seu caráter delicado e refrescante. Destacando-se por maçãs verdes e toques cítricos, ainda revela notas de flores brancas, com ótima acidez e final de boca sutil."
+            },
+            {
+                "nome": "Casa Valduga 130 Blanc de Blanc",
+                "preço": null,
+                "descrição": "Elaborado exclusivamente com uvas Chardonnay de safras especiais, através do método champenoise, permanece em autólise de leveduras por 36 meses. Encantador, possui coloração amarelo palha e um fino perlage. O bouquet revela grande intensidade e elegância, com perfeita harmonia entre as notas frutadas e as finas nuances amanteigadas e de brioche. A delicadeza da Chardonnay se transforma em um espumante único, com excelente cremosidade e frescor."
+            },
+            {
+                "nome": "Cava Vilarnau Brut Reserva",
+                "preço": null,
+                "descrição": "Aroma franco e delicado, com toques de frutas cítricas, como maçã verde. flores e leveduras. Na boca é fresco e cremoso, com certa estrutura, sabores cítricos e boa persistência. Amadureceu ao menos 15 meses sur-lie (sobre as borras) na própria garrafa."
+            },
+            {
+                "nome": "Champagne Veuve Clicquot Brut",
+                "preço": null,
+                "descrição": "Em 1805, Madame Clicquot, uma jovem viúva de 27 anos, assumiu as rédeas da Casa fundada em Reims em 1772 e tornou-se uma das primeiras empresárias da história. Ousada e visionária, ela tornou seu champanhe conhecido pelo mundo Know How & Craftsmanship: Por mais de 200 anos, a House manteve-se fiel ao seu lema: ‘Apenas uma qualidade, a melhor’."
+            },
+            {
+                "nome": "Moet & Chandon Imperial Brut",
+                "preço": null,
+                "descrição": "De cor palha clara com mousse fina; aromas definidos de nozes torradas, torrada de pão de centeio e toranja; o paladar é extra-seco com corpo apenas-tímido-médio e adorável repetição de sabores do nariz com uma nota mineral em um final limpo."
+            },
+            {
+                "nome": "Moet & Chandon Rosé Imperial",
+                "preço": null,
+                "descrição": "A intensidade suculenta e persistente das bagas (morango, framboesa, groselha) A carnudez e a firmeza do pêssego O frescor de uma nota sutil de mentol"
+            }
+        ],
+        "Vinhos Brancos": [
+            {
+                "nome": "Andeluna Raíces Chardonnay",
+                "preço": null,
+                "descrição": "Fresco Chardonnay assinado por Andeluna, este vinho revela notas cítricas, de abacaxi e toques de maçãs verdes. Um ótimo exemplar que se destaca por seu estilo seco e fácil de agradar."
+            },
+            {
+                "nome": "Vicente Faria Lolita Branco",
+                "preço": null,
+                "descrição": "“Lolita” é um apelido carinhoso para meninas com o nome de “Glória”, em Portugal, e é produzido pela Vicente Faria, uma vinícola com uma história que atravessa 7 gerações. O Vinho Vicente Faria Lolita Branco é um blend com as uvas Arinto e Fernão Pires, duas castas que se complementam muito bem. A Arinto aporta frescor, enquanto a Fernão Pires contribui com complexidade aromática. Com graduação alcoólica de 12,5%, este vinho branco é seco, de corpo médio e pode ser apreciado em momentos ao ar livre, dias quentes ou com comidas leves. Experimente acompanhá-lo com peixe ou queijos"
+            },
+            {
+                "nome": "Casa Valduga Terroir Chardonnay",
+                "preço": null,
+                "descrição": "Compreendendo que a alma do vinho está conectada ao clima, solo, relevo e a constante mudança dos ventos, fez com que a Linha Terroir fosse concebida, valorizando o potencial de cada varietal, cultivados nas principais regiões vitícolas do Rio Grande do Sul."
+            },
+            {
+                "nome": "Val da Ucha branco",
+                "preço": null,
+                "descrição": "Assinado por Miguel Oliveira, e elaborado apenas com vinhas fincadas em solos minerais do distrito de Silgueiros, no Dão, este blend branco é elegante, aromático e fresco. Destaca-se por suas notas de frutas cítricas e flores brancas, como jasmins e rosas. Em boca é delicado e fresco, ideal para acompanhar preparações a base de frutos do mar, pescados, e entradas leves. Harmonize com carnes brancas grelhadas e assadas, pescados e frutos do mar, entradas leves, e queijos de massa mole."
+            },
+            {
+                "nome": "Terra Rossa A.mare Bianco Puglia",
+                "preço": null,
+                "descrição": "\"A.Mare enaltece a cidade litorânea de Polignano a Mare, que atualmente é uma das rotas turísticas mais conhecidas e antigas da província de Bari, na Puglia. Os vinhos da linha foram inspirados na gastronomia local, como este branco ideal para acompanhar preparações a base de frutos do mar, queijos de massa mole e massas salteadas em manteiga com ervas. Cor: Amarelo palha com reflexos esverdeados Aroma: Frutas brancas frescas, como pêssegos e peras, notas cítricas,além de toques minerais e de anis. Sabor: Leve, com boa acidez e final de boca fresco. Seus aromas de boca remetem a notas de pêssegos frescos e toques minerais. Amadurecimento: Sem estágio em carvalho, 5 meses em tanques de aço inoxidável.\""
+            },
+            {
+                "nome": "Angove Long Row Riesling",
+                "preço": null,
+                "descrição": "Branco fresco e cítrico elaborado a partir da aromática Riesling, este vinho é agradável e equilibrado. Flores se mesclam a notas cítricas e minerais, enquanto em boca revela ótima acidez."
+            },
+            {
+                "nome": "LYV Pays d'Oc Blanc",
+                "preço": null,
+                "descrição": "Elaborado com a frutada Grenache Blanc, este branco proveniente de vinhas do Vallée de l'Herault, área de altitude do Languedoc, revela notas de maçãs e toques cítricos. Destaque para a linda garrafa \"SERAC\" que nos encanta por seu visual inspirado em um diamante lapidado."
+            },
+            {
+                "nome": "Garzón Reserva Albariño",
+                "preço": null,
+                "descrição": "Proveniente de vinhas com baixa produtividade, este Albariño de Garzón é o ícone dos vinhos brancos uruguaios, nos quais as notas florais de jasmim, frutas cítricas como o grapefruit e frutas brancas como os pêssegos merecem destaque. Na boca, é fresco, longo, sutil e mineral, apresentando uma acidez bem integrada à sua estrutura ampla e persistente."
+            },
+            {
+                "nome": "Balthasar Ress Ressi Riesling",
+                "preço": null,
+                "descrição": "Leve, com ótima acidez e persistência. Seu final é marcado por frutas cítricas, notas minerais, de resina, e toques florais Aroma Frutas cítricas, como lima e grapefruit, notas florais, como jasmins e acácias, além de toques químicos, como resina e toques de pêssegos maduros."
+            },
+            {
+                "nome": "Angelica Zapata Chardonnay",
+                "preço": null,
+                "descrição": "Angelica Zapata é o melhor Chardonnay de Catena produzido para o mercado interno argentino, onde é considerado o melhor branco do país. Incrivelmente concentrado e potente, possui uma textura redonda e macia, com um leve toque amanteigado. As uvas são do magnífico vinhedo Adrianna, considerado o primeiro Grande Cru da América do Sul e localizado a 1480m de altitude. A grande amplitude térmica e as temperaturas mais baixas dão origem a uma elegância e profundidade que são encontradas apenas nos melhores Chardonnays do mundo. Maturado 11 meses em barricas de carvalho francês."
+            }
+        ],
+        "Vinhos Rosé": [
+            {
+                "nome": "J Bouchon Reserva Rose",
+                "preço": null,
+                "descrição": "Vinho fresco, de DNA francês, com boa estrutura e notas de cerejas, frutas selvagens e pétalas de rosos.."
+            },
+            {
+                "nome": "Dai Terra Rossa A.Mare Rosato Puglia IGP",
+                "preço": null,
+                "descrição": "A.Mare enaltece a cidade litorânea de Polignano a Mare, que atualmente é uma das rotas turísticas mais conhecidas e antigas da província de Bari, na Puglia. Rosé floral, é elaborado a partir da delicada Bombino Nero proveniente de vinhas da região de Castel del Monte, lar dos vinhos de altitude da Puglia. Destaque para seu ótimo equilíbrio e frescor."
+            },
+            {
+                "nome": "LYV Pays D'oc Rose",
+                "preço": null,
+                "descrição": "Elaborado com a frutada Grenache Blanc, este branco proveniente de vinhas do Vallée de l'Herault, área de altitude do Languedoc, revela notas de maçãs e toques cítricos. Destaque para a linda garrafa \"SERAC\" que nos encanta por seu visual inspirado em um diamante lapidado."
+            },
+            {
+                "nome": "Hampton Water Rosé",
+                "preço": null,
+                "descrição": "De Cor Linda Ele Te Seduz. Ele Tem Uma Breve Passagem por Barricas de Carvalho Francês o Que Lhe Dá Mais Corpo e Muito Mais Intensidade e Complexidade. Seus Aromas Intensos de Frutas Vermelhas, Frutas Cítricas, Passando por Cerejas e Morangos Encontrando Cascas de Limão Com Notas de Especiarias."
+            }
+        ],
+        "Vinhos Tintos": [
+            {
+                "nome": "Bicicleta Limited Edition Pinot Noir",
+                "preço": null,
+                "descrição": "Notas de Degustação: Apresenta aromas de frutas vermelhas frescas, como cereja e morango, com um toque de flores e especiarias suaves. No paladar, é leve e elegante, com taninos finos e um final fresco e persistente."
+            },
+            {
+                "nome": "Andeluna Raíces Malbec",
+                "preço": null,
+                "descrição": "A Andeluna produz vinhos pontuados das montanhas de Mendoza, e essa linha representa a qualidade de forma excepcional. O número faz referência à altitude dos vinhedos, a 1300 metros de altura, em Gualtallary (Valle de Uco). Esta condição faz com que o clima seja mais frio, permitindo que as uvas concentrem acidez e tenham excelente maturação, o que gera um vinho fresco e com taninos redondos."
+            },
+            {
+                "nome": "Andeluna Raíces Cabernet Sauvignon",
+                "preço": null,
+                "descrição": "“Nossas raízes são nossa grande base capitalizada pela herança e pela história e permanecerão dentro do nosso coração da terra por toda a nossa existência, o mesma acontece com a videira”. Sob essa filosofia Manuel González, enólogo chefe de Andeluna, cria este ótimo Cabernet Sauvignon a partir de vinhas a 700 metros de altitude. O resultado é um vinho maduro e sedoso, com frutas vermelhas maduras e toques de pimenta-preta."
+            },
+            {
+                "nome": "Vicente Faria Lolita",
+                "preço": null,
+                "descrição": "A história da Vicente Faria prolonga-se por 7 gerações, desde o século XVIII e hoje é um dos maiores exportadores de vinho Douro DOC. “Lolita” é utilizado em Portugal como apelido para meninas com o nome “Glória”, e aqui representa a versão mais jovem do Glória Reserva, o vinho ícone da Vicente Faria. Lolita é um blend com as uvas Trincadeira, Tinta Roriz, Touriga Franca e Touriga Nacional, com aromas e sabores de frutas silvestres."
+            },
+            {
+                "nome": "Casa Valduga Terroir Cabernet Sauvignon",
+                "preço": null,
+                "descrição": "Vermelho rubi profundo e intenso. Possui excelente complexidade aromática. A madeira integra-se de maneira simbiótica, apresentando-se através de marcantes aromas de especiarias. Também remete à cassis, ameixa preta e amêndoas. Apresenta corpo intenso, denotando o clássico caráter do Cabernet Sauvignon. Sua acidez é moderada, e os taninos médios, gerando excelente volume em boca. Seu retrogosto é intenso e persistente."
+            },
+            {
+                "nome": "Rossa A. Mare Primitivo Puglia",
+                "preço": null,
+                "descrição": "A.Mare enaltece a cidade litorânea de Polignano a Mare, que atualmente é uma das rotas turísticas mais conhecidas e antigas da província de Bari, na Puglia. Agradável, redondo e equilibrado, este Primitivo revela notas de frutas vermelhas e pretas maduras e toques de chocolate. É ideal para acompanhar preparações a base de cogumelos, carnes vermelhas e massas com molhos vermelho"
+            },
+            {
+                "nome": "Borsao Clasico Garnacha",
+                "preço": null,
+                "descrição": "Este vinho tem uma aparência muito claro com uma cereja intensa cor vermelha com toques de violeta. No nariz chega um profundo aroma de bagas maduras com tons florais. No paladar é um vinho encorpado com tanino agradável em perfeita harmonia com a sua acidez dando um vinho que é rico em tons de frutos vermelhos com tons apimentados que são típicos de uma qualidade Garnacha."
+            },
+            {
+                "nome": "Bouchon Reserva Merlot",
+                "preço": null,
+                "descrição": "Aromas: Frutas vermelhas e pretas maduras, como cerejas, ameixas e amoras, notas defumados, de baunilha, além de toques tostados e de chocolate. Paladar: Médio corpo, com taninos sedosos e boa acidez. Seu final é marcado por frutas vermelhas maduras, além de toques de baunilha e chocolate. Harmonização: Carnes vermelhas grelhadas com molhos ricos, massas com molhos a base de tomate."
+            },
+            {
+                "nome": "Pearlstone Pinotage",
+                "preço": null,
+                "descrição": "Elaborado a partir de vinhas em Coastal, este Pinotage é fresco, destacando-se por frutas pretas maduras, especiarias e toques herbáceos. Em boca possui taninos finos e final equilibrado."
+            },
+            {
+                "nome": "Marius By Michel Chapoutier Rouge",
+                "preço": null,
+                "descrição": "Frutado e redondo, Marius Rouge é um dos mais interessantes vinhos tintos do sul da França. Elaborado pela família Chapoutier, este rótulo revela frutas vermelhas maduras, especiarias e toques defumados."
+            },
+            {
+                "nome": "Los Vascos Reserva Cabernet Sauvignon",
+                "preço": null,
+                "descrição": "O Cabernet Sauvignon de Los Vascos é incrivelmente elegante e gastronômico, mostrando suculentas notas de fruta madura. O segredo deste grande achado é o baixo rendimento das uvas - metade da média da região. O longo contato com as borras finas (sur lie), deixa o vinho ainda mais interessante e complexo. Este Cabernet Sauvignon oferece uma ótima profundidade de fruta e concentração, mesmo sem passagem por barricas, mostrando o inconfundível caráter do Vale do Colchagua. É um Cabernet refinado, macio e convidativo, fácil de beber e de gostar."
+            },
+            {
+                "nome": "Poeme Cabernet / Syrah",
+                "preço": null,
+                "descrição": "SABOR: Encorpado, com taninos maduros e final de boca persistente, destacando-se por frutas maduras e notas defumadas AROMA: Frutas vermelhas e pretas maduras, como cerejas e amoras, notas florais, como violetas, além de toques tostados e de especiarias"
+            },
+            {
+                "nome": "Gem Pays d'Oc Rouge",
+                "preço": null,
+                "descrição": "GEM significa joia em latim. Elaborado com toda a riqueza das uvas Grenache e Syrah do Vallèe de Herault, o GEM Rouge é um vinho elegante, com taninos aveludados. Harmoniza bem com os mais diferentes pratos devido ao seu bom corpo e acidez proporcionada pela Grenache. A garrafa tem aparência de um diamante lapidado dando mais elegância ao vinho. GEM nos leva ao mundo do luxo e das joias, perfeitamente simbolizado em forma de diamante."
+            },
+            {
+                "nome": "Poggiotondo rosso toscana organic IGT, 2018",
+                "preço": null,
+                "descrição": "Vinho elaborado pelas mãos talentosas de Alberto Antonini, este Rosso Toscana IGT é equilibrado e fresco, com grande aporte de frutas vermelhas frescas e notas de especiarias. Um ótimo exemplar de bom custo x benefício da Toscana. Um vinho descomplicado, fresco e ideal para acompanhar uma deliciosa pizza."
+            },
+            {
+                "nome": "Sophenia Estate Reserva Syrah",
+                "preço": null,
+                "descrição": "Sabor: Encorpado, com taninos firmes e acidez equilibrada. Seu final de boca é marcado por frutas pretas maduras, violetas, além de toques defumados e de especiarias. Aroma: Frutas pretas maduras, como amoras, cerejas pretas e ameixas, notas florais, como violetas, especiarias, notas defumadas, de azeitona, além de toques tostados e balsâmicos."
+            },
+            {
+                "nome": "Garzón Reserva Cabernet Franc",
+                "preço": null,
+                "descrição": "Cor púrpura intenso com reflexos violáceos .Aroma frutas vermelhas frescas, como morangos e cerejas, notas herbáceas, de especiarias, além de toques minerais, defumados e de chocolate. Sabor médio corpo, com taninos maduros e boa acidez. Em boca é equilibrado e complexo, destacando-se por amoras, ameixas e toques de eucalipto."
+            },
+            {
+                "nome": "Silver Creek Cabernet Sauvignon",
+                "preço": null,
+                "descrição": "Rubi intenso com reflexos violáceos.Médio corpo, com taninos finos e final de boca elegante.Aromas de frutas vermelhas e pretas maduras,especiarias e toques de baunilha,pimenta preta , além de defumados e tostados."
+            },
+            {
+                "nome": "Castello Banfi Centine Rosso Igt, 2019",
+                "preço": null,
+                "descrição": "Blend tinto elaborado por Banfi, Centine tem aromas de frutas vermelhas e pretas, toques de especiarias e notas de baunilha e cacau. Elegante e de taninos macios, possui a elegância dos vinhos assinados por esse símbolo da Toscana."
+            },
+            {
+                "nome": "Escudo Rojo Cabernet Sauvignon",
+                "preço": null,
+                "descrição": "Rubi brilhante, elegante no nariz, poderoso e complexo, com aromas de fruta doce maduro vermelho e preto, creme de cassis e notas picantes de pimenta, tabaco, alcaçuz. Gosto suculento, fresco e harmonioso. Equilibrado é o vinho no palato tão diversos como o nariz, com taninos bem estruturados, carnudo, expressivo, frutas escuras (groselhas, amoras, cerejas pretas), tempero sutil e notas tostadas delicados da maturação em carvalho, equilíbrio perfeito, a final e fresco com a elegância típica da Cabernet."
+            },
+            {
+                "nome": "Punta de Flechas",
+                "preço": null,
+                "descrição": "Punta de Flechas Blend é a combinação perfeita de Malbec e três variedades tradicionais de Bordeaux: Cabermet Sauvignon, Merlot e Petit Verdot. Possui um perfil elegante e equilibrado, respeitando as características minerais e vibrantes do terroir. Após parte do vinho estagiar em carvalho por 1 ano, este vinho revela notas de baunilha e especiarias, que se mesclam a toques de cerejas pretas e violetas. Harmoniza bem com carnes vermelhas grelhadas e assadas, cordeiro, carnes suínas, massas com ragu de carne e queijos duros."
+            },
+            {
+                "nome": "Catena Cabernet Sauvignon, 2020",
+                "preço": null,
+                "descrição": "Elaborado com a Cabernet Sauvignon selecionada de cinco diferentes vinhedos de altitude da família Catena Zapata, é um tinto concentrado, que exibe um distinto caráter varietal. A safra 2016 foi considerada \"soberba\" por Robert Parker, que destacou também seu frescor, os taninos refinados, ótimo foco e final saboroso, merecendo 91+ pontos. Vinho de entrada da linha Catena, já foi descrito por Jancis Robinson como sofisticado, maduro, bastante complexo, com camadas de um Bordeaux, arrematando a mais alta nota num painel com 50 vinhos argentinos avaliados pela jornalista (17,5/20, safra 2010)."
+            },
+            {
+                "nome": "Beronia Crianza",
+                "preço": null,
+                "descrição": "Tinto de coloração rubi com reflexos granada, aroma de côco queimado, avelã e fruta vermelha passa. Em boca tem corpo médio, bom equilibrio, com final amadeirado."
+            },
+            {
+                "nome": "Regaleali Nero d' Avola",
+                "preço": null,
+                "descrição": "Produzido com emblemática uva Nero d'Avola, o Regaleali é um dos vinhos de melhor relação qualidade/preço do mundo para Robert Parker. Trata-se de um tinto saboroso e macio, com fruta exuberante e boa acidez, no melhor estilo do sul da Itália, que vem fazendo tanto sucesso no mundo todo. É, talvez, o mais consagrado tinto da Sicília região onde a reputada Tasca d'Almerita foi a grande pioneira de qualidade."
+            },
+            {
+                "nome": "Flechas de Los Andes Gran Malbec",
+                "preço": null,
+                "descrição": "Flecha de los Andes nasce da associação de dois grandes nomes, Barão Benjamin de Rothschild e Laurent Dassault, na busca por um terroir único. É no icônico Valle de Uco, em um dos distritos mais exclusivos, Vista Flores, que são cultivadas as uvas que compõem o Gran Malbec. Um tinto de grande estrutura e muita complexidade adquirida nos 18 meses de maturação em carvalho francês."
+            },
+            {
+                "nome": "Dv Catena",
+                "preço": null,
+                "descrição": "Esbanja uma cativante fruta, com ótima profundidade. No palato é longo e saboroso, mostrando porque desde seu lançamento já é considerado um dos melhores Malbecs da Argentina. A harmonia dos dois é feita de maneira excepcional, o vinho descansa em barris de carvalho francês por um período de 18 meses, com isso adquire características únicas. Muito intenso e concentrado, de final prolongado e persistente."
+            },
+            {
+                "nome": "Alma Negra Pinot Noir",
+                "preço": null,
+                "descrição": "Possui uma linda cor rubi clara, translúcida. Aromas com boa complexidade, inicialmente com predomínio frutado (morango, goiaba). Com algum tempo de taça, aparecem toques abaunilhados, cedro e notas florais. Na boca, bastante equilíbrio e elegância, sem excessos. Taninos finos, corpo leve para médio, média acidez e álcool correto. Final de média persistência, agradável. Um excelente exemplar de Pinot Noir, vale a pena ser provado."
+            },
+            {
+                "nome": "Banfi Rosso Di Montalcino",
+                "preço": null,
+                "descrição": "Elaborado com a uva Sangiovese, proveniente de solo calcário. A vinificação é feita com temperatura controlada com maceração média de 7 a 10 dias. Depois de um período de amadurecimento de 12 meses em carvalho francês, os vinhos afinam em garrafa por 6 meses. De coloração rubi intensa com reflexos violáceos. Possui aromas de frutas vermelhas frescas como ameixa e cereja, além de toques de especiarias e notas minerais. Ao paladar é elegante com seus taninos macios; retro gosto longo e persistente"
+            },
+            {
+                "nome": "Angelica Zapata Malbec",
+                "preço": null,
+                "descrição": "Este disputado Malbec é produzido para o mercado interno argentino, onde é cultuado e se esgota rapidamente, alcançando altíssimos preços em safras antigas. As uvas vêm de vinhas selecionadas, plantadas em grande altitude e com rendimentos muito baixos, que dão origem a um vinho muito complexo e exuberante, com excelente presença de boca e longa capacidade de envelhecimento. Grande clássico da América do Sul."
+            },
+            {
+                "nome": "Marques de Murrieta Reserva",
+                "preço": null,
+                "descrição": "Um dos grandes vinhos tintos da região de Rioja, Murrieta Reserva é complexo e elegante. Frutas vermelhas maduras se mesclam a notas de tabaco e coco neste persistente e intenso exemplar espanhol. Um ícone da enologia do país, que há mais de 100 anos encanta a crítica especializada."
+            },
+            {
+                "nome": "Fantini Edizione Cinque Autoctoni",
+                "preço": null,
+                "descrição": "Estagiando em barricas de carvalho durante 13 meses, revela notas de chocolate, cacau, além de agradáveis toques de amoras, framboesas e ameixas maduras. Um tinto delicioso e elegante. Destaque para os 99 pontos dados ao vinho pelo crítico italiano Luca Maroni."
+            },
+            {
+                "nome": "Nicola Catena, 2019",
+                "preço": null,
+                "descrição": "Apontado logo em sua primeira safra como \"o melhor Bonarda da Argentina\" por James Suckling, este tinto é uma homenagem a Nicola Catena, avô de Nicolás Catena. Concebido para ser o melhor Bonarda já produzido, é elaborado com uvas de uma pequena parcela familiar de mais de 80 anos, com rendimentos muito baixos, garantindo concentração e complexidade dificilmente encontradas em um vinho produzido com esta casta. Maturado por 18 meses em barricas de carvalho francês, é a nova referência para esta uva na América do Sul, sendo capaz de evoluir por muitos anos."
+            },
+            {
+                "nome": "M. Chapoutier La Bernardine Chateauneuf Du Pape",
+                "preço": null,
+                "descrição": "Cor vermelho intenso. No nariz é complexo e sutil, com notas de cassis, ameixa, café torrado, canela e cereja morello. Na boca tem notas de alcaçuz e frutas silvestres."
+            },
+            {
+                "nome": "Bruno Rocca Barbaresco",
+                "preço": null,
+                "descrição": "Assinado por Bruno Rocca, este grande Barbaresco é intenso, rico e potente. No nariz mesclam-se notas florais, de frutas vermelhas, além de toques terrosos, de couro e defumados. Um dos mais famosos e complexos vinhos do Piemonte"
+            }
+        ]
+    },
+    "BAR ": {
+        "PETISCOS": [
+            {
+                "nome": "HUB Burguer",
+                "preço": "R$ 52,00",
+                "descrição": "Pão Brioche, Hambúrguer Blend Hub 120gr, Creme de Queijo Azul, Shitake, Cebola Caramelizada e Rúcula"
+            },
+            {
+                "nome": "Vila Olímpia Burguer",
+                "preço": "R$ 52,00",
+                "descrição": "Pão Tipo Brioche, Blend de Carne Angus, Mussarela, Panceta, Cebola Caramelizada e Alface"
+            },
+            {
+                "nome": "Pizza Aperitivo",
+                "preço": "R$ 48,00",
+                "descrição": "Marguerita ou Mussarela"
+            },
+            {
+                "nome": "Coxinha de Frango e Catupiry",
+                "preço": "R$ 30,00",
+                "descrição": "10 unidades"
+            },
+            {
+                "nome": "Bolinho de Bacalhau",
+                "preço": "R$ 38,00",
+                "descrição": "6 Unidades"
+            },
+            {
+                "nome": "Steak Tartar com Batata Frita (Canoa)",
+                "preço": "R$ 82,00",
+                "descrição": ""
+            },
+            {
+                "nome": "Dadinho de Tapioca com Mel de Manduri",
+                "preço": "R$ 38,00",
+                "descrição": "(10 uni.) - O dadinho de tapioca é um petisco brasileiro feito com tapioca granulada, queijo coalho, leite e pimenta-do-reino branca. Ele tem uma textura única e sabor inconfundível, sendo uma opção versátil na alimentação saudável."
+            },
+            {
+                "nome": "Mini Pastel",
+                "preço": "R$ 30,00",
+                "descrição": "(Carne ou Queijo)"
+            },
+            {
+                "nome": "Filet Aperitivo",
+                "preço": "R$ 98,00",
+                "descrição": "Acompanha Molho Chimichurri e Torradas Crocantes"
+            }
+        ],
+        "BEBIDAS NÃO ALCOÓLICAS": [
+            {
+                "nome": "Água Mamba sem Gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Água Mamba com Gás",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Refrigerante",
+                "preço": null,
+                "descrição": "Coca, Coca Zero, Guaraná, Guaraná Zero, Sprite, Citrus"
+            },
+            {
+                "nome": "Suco Natural",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bull e Red Bull Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bul Tropical Edition",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Red Bull Pomelo Edition Sugar Free",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Suco Integral Natural",
+                "preço": null,
+                "descrição": "Uva Tinta, Uva Branca, Tangerina (sazonal), Maçã"
+            },
+            {
+                "nome": "Suco de Tomate",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chá Gelado Iamaní - Elixir do Amor",
+                "preço": null,
+                "descrição": "Feminino e adocicado - o encontro entre a flor de hibisco, amora, lichia + catuaba e marapuama da Amazônia Sensação: Bem-estar e alegria de vida Sem adição de açúcar e adoçante Adoçado com suco de maçã e néctar de tâmara Sem adição de corantes e produtos artificiais Baixo em calorias Ingredientes: Hibisco, Marapuama, Catuaba, Amora e Lichia"
+            },
+            {
+                "nome": "Chá Gelado Iamaní - Energia Vital",
+                "preço": null,
+                "descrição": "Cítrico e energizante - com mate, guaraná, camu-camu e laranja de terra. * contém 89 mg de cafeína natural do chá verde Sensação: Energização e foco Sem adição de açúcar e adoçante Adoçado com suco de maçã e néctar de tâmara Sem adição de corantes e produtos artificiais Baixo em calorias Ingredientes: Mate, Guaraná, Camu-camu e Laranja Doce."
+            },
+            {
+                "nome": "Chá Gelado Iamaní - Super Puro Detox",
+                "preço": null,
+                "descrição": "Cítrico e Refrescante - com notas de gengibre, limão, mate orgânico + vitaminas e fibras prebióticas. Sensação: Renovação e frescor Sem adição de açúcar e adoçante Adoçado com suco de maçã e néctar de tâmara Sem adição de corantes e produtos artificiais Baixo em calorias Ingredientes: Gengibre, Limão, Mate e Fibras Alimentares"
+            }
+        ],
+        "DRINKS SIGNATURE": [
+            {
+                "nome": "Hub Seduction",
+                "preço": null,
+                "descrição": "Gin London Dry, Aperitivo Aperol, Xarope Simples e Suco de Limão"
+            },
+            {
+                "nome": "The Iconic",
+                "preço": null,
+                "descrição": "Gin London Dry, Xarope Simples, Suco de Limão, Licor Drambuie e Vinho Tinto"
+            },
+            {
+                "nome": "Chill Out",
+                "preço": null,
+                "descrição": "Blended Whisky, Xarope de Mel, Suco de Limão, Licor de Laranja e Vinho Tinto"
+            },
+            {
+                "nome": "Plot Twist (Sem Álcool)",
+                "preço": null,
+                "descrição": "Xarope de mapple, Cordial de Limão e Tônica"
+            },
+            {
+                "nome": "Summer Vodka",
+                "preço": null,
+                "descrição": "Vodka Ketel One e Red Bull Summer Melão"
+            },
+            {
+                "nome": "Limoncello Pallini Spritz",
+                "preço": null,
+                "descrição": "Lemoncello Pallini, Vinho Espumante, àgua com gás, Fatia de Limão Siciliano"
+            },
+            {
+                "nome": "JOHNNIE - UM ÍCONE PARA CADA CELEBRAÇÃO\nJOHNNIE PENICILLIN",
+                "preço": null,
+                "descrição": "JOHNNIE - UM ÍCONE PARA CADA CELEBRAÇÃO"
+            },
+            {
+                "nome": "JOHNNIE - UM ÍCONE PARA CADA CELEBRAÇÃO\nJohnnie Walker Apple Sour",
+                "preço": null,
+                "descrição": "JOHNNIE - UM ÍCONE PARA CADA CELEBRAÇÃO"
+            }
+        ],
+        "DRINKS BONS TEMPOS": [
+            {
+                "nome": "White Lady (1930)",
+                "preço": null,
+                "descrição": "Gin London Dry, Licor de Laranja e Suco de Limão"
+            },
+            {
+                "nome": "FitzGerald (1999)",
+                "preço": null,
+                "descrição": "Gin London Dry, Xarope Simples, Suco de Limão e Angostura Bitter"
+            },
+            {
+                "nome": "Aviation (1916)",
+                "preço": null,
+                "descrição": "Gin London Dry, Licor de Cereja Maraschino, Suco de limão e Crème de Violette"
+            },
+            {
+                "nome": "Manhattan (1870)",
+                "preço": null,
+                "descrição": "Bourbon Whiskey, Vermute Tinto e Angostura Bitter"
+            },
+            {
+                "nome": "Clover Club (1935)",
+                "preço": null,
+                "descrição": "Gin London Dry, Xarope de Framboesa e Suco de Limão"
+            },
+            {
+                "nome": "Whiskey Sour (1870)",
+                "preço": null,
+                "descrição": "Bourbon Whiskey, Xarope Simples, Suco de Limão e Angostura Bitter"
+            },
+            {
+                "nome": "New York Sour (1880)",
+                "preço": null,
+                "descrição": "Bourbon Whiskey, Xarope Simples, Suco de Limão e Vinho Tinto"
+            },
+            {
+                "nome": "Milano-Torino (1860)",
+                "preço": null,
+                "descrição": "Vermute Tinto, Campari, Fernet Branca e Suco de Laranja"
+            },
+            {
+                "nome": "Hanky Panky (1903)",
+                "preço": null,
+                "descrição": "Gin London Dry, Vermute Tinto e Fernet Branca"
+            },
+            {
+                "nome": "Negroni (1919)",
+                "preço": null,
+                "descrição": "Gin London Dry, Vermute Tinto e Campari"
+            },
+            {
+                "nome": "Boulevardier (1927)",
+                "preço": null,
+                "descrição": "Bourbon Whiskey, Vermute Tinto e Campari"
+            },
+            {
+                "nome": "Caipirinha (1930)",
+                "preço": null,
+                "descrição": "Cachaça, Frutas da Estação e Xarope Simples"
+            },
+            {
+                "nome": "Macunaíma (2014)",
+                "preço": null,
+                "descrição": "Cachaça Branca, Fernet Branca, Xarope Simples e Suco de Limão"
+            },
+            {
+                "nome": "Rabo De Galo (50´s)",
+                "preço": null,
+                "descrição": "Cachaça Branca, Vermute Tinto e Aperitivo de Alcachofra"
+            },
+            {
+                "nome": "Bamboo Cocktail (1886)",
+                "preço": null,
+                "descrição": "Jerez Fino, Vermute Tinto, Vermute Branco Seco e Bitter de Laranja"
+            },
+            {
+                "nome": "Old Fashioned (1806)",
+                "preço": null,
+                "descrição": "Bourbon Whiskey, Xarope Simples e Angostura Bitter"
+            },
+            {
+                "nome": "Dry Martini (1800)",
+                "preço": null,
+                "descrição": "Gin London Dry, Vermute Seco e Azeitonas"
+            },
+            {
+                "nome": "Bloody Mary (1920)",
+                "preço": null,
+                "descrição": "Vodka, Suco de Tomate, Molho Inglês, Suco de Limão e Pimenta Tabasco"
+            }
+        ],
+        "CERVEJAS & CHOPPS": [
+            {
+                "nome": "Chopp Heineken",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Heineken e Heineken Zero",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Eisenbahn",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Eisenbahn American Ipa",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Baden Baden Cristal",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Heineken Zero álcool",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Baden Baden Witbier",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Baden Baden Ipa",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "WHISKY": [
+            {
+                "nome": "Jack Daniel's old no. 7",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Jameson 8 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Jim Beam Black",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Jim Beam White",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Buchanan's 12 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Buchanan's 18 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chivas Regal 12 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Chivas Regal 18 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Dimple 15 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Glenfiddich 12 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Glenmorangie 10 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Johnnie Walker Black Label 12 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Johnnie Walker Blue Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Johnnie Walker Double Black Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Johnnie Walker Gold Reserve",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Johnnie Walker Platinum",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Johnnie Walker Red Label",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Justerini & Brooks",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Logan 12 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Macallan 12 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Maker's Mark",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Old Parr",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Royal Salute 21 anos",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "The Singleton",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "The Glenlivet",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Woodford Reserve",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "GIN": [
+            {
+                "nome": "Gin Gordons",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gin Hendrick's",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gin Tanqueray 10",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gin Tanqueray London Dry",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Gin Tanqueray Royale",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "VODCA": [
+            {
+                "nome": "Ketel One",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ketel One Botanical Grape Fruit And Roses",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Ketel One Botanical Peach And Orange",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Absolut Natural",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Ciroc",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Ciroc Red Berry",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Grey Goose",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Grey Goose La Poire",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Grey Goose L'Orange",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Stolichnaya",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Vodka Wyborowa Exquisite",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "TEQUILA": [
+            {
+                "nome": "Tequila Don Julio Reposado",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tequila Don Julio Blanco",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tequila Jose Cuervo Oro",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Tequila Jose Cuervo Prata",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "COGNAC": [
+            {
+                "nome": "Hennessy V.S.O.P",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Hennessy X.O",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Remy Martin V.S.O.P",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Remy Martin X.O",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Courvoisier V.S.O.P",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "LICOR": [
+            {
+                "nome": "Licor 43",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Amarula",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Baileys",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cointreau",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Crème De Cassis",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "De Kuyper Marasquin",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "De Kuyper Melon",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Drambuie",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Frangelico",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Grand Manier",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Limoncello Pallini",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Luxardo Maraschino",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Mandarinetto",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Midori Melão",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Sambuca Molinari",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Amaretto Disaronno",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Fernet Branca",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "CACHAÇA": [
+            {
+                "nome": "Cachaça Ypioca Prata",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cachaça Ypioca 160",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cachaça Espirito de Minas",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Cachaça Sebastiana Duas Barricas",
+                "preço": null,
+                "descrição": ""
+            }
+        ],
+        "RUM": [
+            {
+                "nome": "Zacapa 23",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Zacapa XO",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bacardi Carta Blanca",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Bacardi Carta Oro",
+                "preço": null,
+                "descrição": ""
+            },
+            {
+                "nome": "Havana 7 anos",
+                "preço": null,
+                "descrição": ""
+            }
+        ]
+    },
+    "endereço": "Rua Olimpíadas, 205, Vila Olímpia, São Paulo, SP, Brasil",
+    "telefone": "(11) 3049-6689",
+    "email": "h8938-fb1@accor.com",
+    "website": "https://www.hubrestaurante.com/",
+    "name": "HUB Food Art Lounge"
+}
