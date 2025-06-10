@@ -3,28 +3,33 @@
         "Tamanhos dos Bolos": [
             {
                 "nome": "BOLO P - Peso: aprox. 400g a 600g; Serve: de 2 a 3 fatias; Diâmetro: 10 cm",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "BOLO M - Peso: aprox. 1,0 kg a 1,5 kg; Serve: de 8 a 10 fatias; Diâmetro: 16 cm",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "BOLO G - Peso: aprox. 2,0 kg a 2,5 kg; Serve: de 18 a 20 fatias; Diâmetro: 21 cm",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "BOLO XG - Peso: aprox. 2,5 kg a 3,0 kg; Serve: 25 fatias; Diâmetro: 24 cm",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "BOLOS RETANGULARES - a partir de 3,0 kg a 3,5 kg",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -32,447 +37,532 @@
         "Adicionais": [
             {
                 "nome": "Chantily - kg",
-                "preço": "R$ 110,00",
-                "descrição": ""
+                "preço": 110.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fios de ovos - kg",
-                "preço": "R$ 170,00",
-                "descrição": ""
+                "preço": 170.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Linha I": [
             {
                 "nome": "Abacaxi",
-                "preço": null,
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com creme branco e abacaxi, coberto com marshmallow, abacaxi e coco ralado"
             },
             {
                 "nome": "Bem casado",
-                "preço": null,
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Bolo naked. Pão de ló branco, recheado com doce de leite, decorado com açúcar de confeiteiro."
             },
             {
                 "nome": "Coco Gelado",
-                "preço": null,
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com doce de leite, coberto com marshmallow e coco ralado fino."
             },
             {
                 "nome": "Limão",
-                "preço": null,
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com mousse de limão, coberto de marshmallow e raspas de limão."
             },
             {
                 "nome": "Crocante",
-                "preço": null,
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco e de chocolate, recheado com creme branco e brigadeiro, coberto de creme branco e crocante de castanha de caju."
             },
             {
                 "nome": "Mesclado",
-                "preço": null,
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com creme branco, coberto de marshmallow e calda de chocolate."
             },
             {
                 "nome": "Maracujá",
-                "preço": null,
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com mousse de maracujá, coberto de marshmallow e calda de maracujá. (Congelada)"
             },
             {
                 "nome": "Suave Sabor",
-                "preço": null,
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco e de chocolate, recheado com doce de leite e baba de moça, coberto de marshmallow e coco."
             }
         ],
         "Linha II": [
             {
                 "nome": "Bolo do Mês\nBolo junino",
-                "preço": "R$ 120,00",
-                "descrição": "Bolo do Mês"
+                "preço": 120.0,
+                "informação-extra": null,
+                "descrição": "Pão de ló de chocolate, recheado com doce de leite especial e paçoca, coberto com o mesmo doce de leite e crocante de amendoim."
             },
             {
                 "nome": "Brigadeiro colorido",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com brigadeiro, decorado com miçangas coloridas e brigadeiros enrolados, branco, tradicional e rosa."
             },
             {
                 "nome": "Brigadeiro com cereal",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com brigadeiro, coberto com cereal branco e preto."
             },
             {
                 "nome": "Brigadeiro Prestígio",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado e coberto com creme brigadeiro e cocada, decorado com granulado."
             },
             {
                 "nome": "Prestígio",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com cocada, coberto com brigadeiro e cocada."
             },
             {
                 "nome": "Dourado",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco e de chocolate, recheado com brigadeiro e doce de leite, coberto com marshmallow e calda de caramelo."
             },
             {
                 "nome": "Kit Kat",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, decorado com chocolate Kit Kat e confeitos coloridos. Recheio a escolher."
             },
             {
                 "nome": "Doce Sabor",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com doce de leite, decorado com calda de chocolate."
             },
             {
                 "nome": "Morango",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com creme branco e morangos, coberto com marshmallow rosa e morangos."
             },
             {
                 "nome": "Pêssego",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com creme branco e pêssego, coberto de marshmallow e pêssegos."
             },
             {
                 "nome": "Kid Mania",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com brigadeiro branco, coberto de marshmallow e mini cereais."
             },
             {
                 "nome": "Dois em um",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco e de chocolate, recheado e coberto com brigadeiro branco e brigadeiro tradicional, decorado com raspas de chocolate branco e calda de chocolate."
             },
             {
                 "nome": "Doçura de Ameixa",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com doce de leite e geleia de ameixa, coberto de marshmallow, doce de leite e ameixas."
             },
             {
                 "nome": "Ameixa com coco",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com cocada, creme branco e geleia de ameixa, coberto com marshmallow, cocada e ameixa."
             },
             {
                 "nome": "Lilás",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com creme branco e geleia de mirtilo, coberto com marshmallow lilás e calda de mirtilo."
             }
         ],
         "Linha III": [
             {
                 "nome": "Brigadeiro Tradicional",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado e coberto com brigadeiro, decorado com granulado."
             },
             {
                 "nome": "Brigadeiro Branco",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado e coberto com brigadeiro branco, decorado com granulado."
             },
             {
                 "nome": "Leite Ninho",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado e decorado com creme de leite Ninho."
             },
             {
                 "nome": "Leite ninho com uva",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com creme de leite ninho e uvas verdes, decorado com creme de leite ninho."
             },
             {
                 "nome": "Suave Cake",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com brigadeiro branco, chantilly e geleia de frutas vermelhas, decorado com frutas vermelhas."
             },
             {
                 "nome": "Red Velvet",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Bolo vermelho, recheado com creme à base de cream cheese, decorado com frutas vermelhas."
             },
             {
                 "nome": "Brigadeiro Rosa",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com brigadeiro rosa, decorado com raspas de chocolate ao leite e docinhos enrolados."
             },
             {
                 "nome": "Strogonoff de nozes",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com doce de leite e nozes, coberto com marshmallow e calda de chocolate."
             },
             {
                 "nome": "Pão de Mel",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Feito com massa de pão de mel, recheado com doce de leite, coberto com ganache e granule."
             },
             {
                 "nome": "Louca Delícia",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco e de chocolate, recheado com brigadeiro e cocada, coberto com creme branco e chocolate picado."
             },
             {
                 "nome": "Maravilha de Morango",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com brigadeiro branco, cocada e morangos, coberto de chantilly, coco e morangos."
             },
             {
                 "nome": "Alpino",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com creme de chocolate meio amargo e chantilly, coberto com chantilly, suspiros e calda de chocolate."
             },
             {
                 "nome": "Delícia de Pêssego",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco e massa folhada, recheado com creme branco e pêssego, coberto de chantilly e pêssegos."
             },
             {
                 "nome": "Delícia de Morango",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco e massa folhada, recheado com creme branco e morangos, coberto de chantilly e morangos."
             },
             {
                 "nome": "Primavera",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com creme branco e pedaços de frutas (morango, uva verde, abacaxi e pêssego) coberto de chantilly e frutas."
             },
             {
                 "nome": "Tropicaliente",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com doce de leite, nozes, creme branco e abacaxi, coberto com chantilly, suspiros e nozes."
             },
             {
                 "nome": "Morango Rosetas",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com creme branco e morangos, coberto com marshmallow rosa em formato de rosas."
             },
             {
                 "nome": "Bolo baba de Moça",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco e de chocolate, recheado com creme baba de moça, coberto com marshmallow e fios de ovos."
             },
             {
                 "nome": "Brigadeiro Festivo",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com brigadeiro, coberto com brigadeiro e granulados. Decorado com confeitos coloridos e confeitos de cereal."
             }
         ],
         "Linha IV": [
             {
                 "nome": "Folhado de Abacaxi",
-                "preço": null,
+                "preço": 176.0,
+                "informação-extra": null,
                 "descrição": "Massa folhada, recheada com creme branco e abacaxi, coberto com chantilly e abacaxi."
             },
             {
                 "nome": "Folhado de Creme",
-                "preço": null,
+                "preço": 176.0,
+                "informação-extra": null,
                 "descrição": "Massa folhada, recheada com creme branco, coberto com chantilly e decorado com carejas."
             },
             {
                 "nome": "Folhado doce de leite",
-                "preço": null,
+                "preço": 176.0,
+                "informação-extra": null,
                 "descrição": "Massa folhada, recheada com doce de leite, coberto com chantily e decorado com cerejas."
             },
             {
                 "nome": "Folhado de morango",
-                "preço": null,
+                "preço": 176.0,
+                "informação-extra": null,
                 "descrição": "Massa folhada, recheada com creme branco e morangos, coberto de chantilly e morangos."
             },
             {
                 "nome": "Folhado Primavera",
-                "preço": null,
+                "preço": 176.0,
+                "informação-extra": null,
                 "descrição": "Massa folhada, recheada com creme branco e pedaços de frutas (morango, uva verde, abacaxi e pêssego), coberto de chantilly e frutas."
             },
             {
                 "nome": "Coroa de Morango",
-                "preço": null,
+                "preço": 176.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com mousse com chocolate branco e morangos, coberto com chantilly, suspiros e morangos."
             },
             {
                 "nome": "Morango Nevado",
-                "preço": null,
+                "preço": 176.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com brigadeiro branco, morangos e chantilly, coberto com chantilly, suspiros e morangos."
             },
             {
                 "nome": "Especial de Natal",
-                "preço": null,
+                "preço": 176.0,
+                "informação-extra": null,
                 "descrição": "Feito com massa de red velvet, recheado com chantininho e geleia de frutas vermelhas."
             },
             {
                 "nome": "Leite ninho com morango",
-                "preço": null,
+                "preço": 176.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com creme de leite Ninho e morangos, decorado com creme de leite Ninho."
             }
         ],
         "Linha V": [
             {
                 "nome": "Brigadeiro branco com morango",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado e coberto com brigadeiro branco e morangos, decorado com granulado."
             },
             {
                 "nome": "Brigadeiro com morango",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado e coberto com brigadeiro e morangos, decorado com granulado."
             },
             {
                 "nome": "Floresta Branca",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com chantilly, pedaços de chocolate branco e cerejas, coberto com chantilly, raspas de chocolate branco e cerejas."
             },
             {
                 "nome": "Floresta Negra",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com chantilly, pedaços de chocolate e cerejas, coberto de chantilly, raspas de chocolate e cerejas."
             },
             {
                 "nome": "Mania de Morango (ao leite)",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado e coberto com creme de chocolate e morangos, decorado com canudinhos de chocolate."
             },
             {
                 "nome": "Mania de morango (branco)",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado e coberto com brigadeiro branco e morangos, decorado com canudinhos de chocolate branco."
             },
             {
                 "nome": "Morango dos Anjos",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com mousse de chocolate branco, ao leite e morangos, coberto de marshmallow, morangos e raspas de chocolate."
             },
             {
                 "nome": "Noite Feliz",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com doce de leite, ameixa e nozes, coberto com chantilly e raspas de chocolate, decorado com cerejas e estrelas de chocolate."
             },
             {
                 "nome": "Nozes com baba de moça",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de nozes, recheado e coberto com baba de moça, decorado com nozes e fios de ovos."
             },
             {
                 "nome": "Nozes com brigadeiro branco",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de nozes, recheado e coberto com brigadeiro branco, decorado com nozes e cerejas."
             },
             {
                 "nome": "Nozes com doce de leite",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de nozes, recheado e coberto com doce de leite, decorado com nozes e cerejas."
             },
             {
                 "nome": "Leite ninho com creme de avelã",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com creme de leite Ninho, decorado com creme de avelã em formato rosetas."
             },
             {
                 "nome": "Irresistível de Morango",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com baba de moça e morangos, coberto de ganache de chocolate e morangos."
             },
             {
                 "nome": "Africano",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado e coberto com creme de chocolate meio amargo e crocante de castanha de caju."
             },
             {
                 "nome": "Mousse de Chocolate",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado e coberto com mousse de chocolate, decorado com raspas de chocolate ao leite."
             },
             {
                 "nome": "Mousse de chocolate com morango",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com mousse de chocolate e morangos, coberto com raspas de chocolate."
             },
             {
                 "nome": "Mousse Bicolor",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco e de chocolate, recheado com mousse de chocolate branco e ao leite, decorado com raspas de chocolate branco e ao leite."
             }
         ],
         "Linha VI": [
             {
                 "nome": "Mont Blanc",
-                "preço": null,
+                "preço": 250.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado e coberto com mousse de chocolate branco e chocolate meio amargo, decorado com raspas de chocolate branco."
             },
             {
                 "nome": "Trufado com Morango",
-                "preço": null,
+                "preço": 250.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado e coberto com trufa de chocolate e morangos, decorado com raspas de chocolate ao leite."
             },
             {
                 "nome": "Bariloche Branco",
-                "preço": null,
+                "preço": 250.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco e massa folhada, recheado e coberto com mousse de chocolate branco, decorado com carolinas recheadas de mousse de chocolate branco e castanhas salpicadas."
             },
             {
                 "nome": "Bariloche Preto",
-                "preço": null,
+                "preço": 250.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate e massa folhada, recheado e coberto com mousse de chocolate, decorado com carolinas recheadas de mousse de chocolate e castanhas salpicadas."
             },
             {
                 "nome": "Creme de Avelã",
-                "preço": null,
+                "preço": 250.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado e coberto com creme de avelã."
             },
             {
                 "nome": "Flocos",
-                "preço": null,
+                "preço": 250.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado e coberto com creme de flocos e calda de chocolate."
             }
         ],
         "Especial": [
             {
                 "nome": "Bolo pistache",
-                "preço": null,
+                "preço": 280.0,
+                "informação-extra": null,
                 "descrição": "Bolo de chocolate, recheado e coberto com brigadeiro de pistache, decorado com pistache."
             }
         ],
         "Linha I Diet": [
             {
                 "nome": "Abacaxi",
-                "preço": null,
+                "preço": 130.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com creme branco e abacaxi, coberto de chantilly, abacaxi e coco ralado."
             },
             {
                 "nome": "Ameixa com Coco",
-                "preço": null,
+                "preço": 130.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com creme branco, cocada e geleia de ameixa, coberto de chantilly, ameixas e cocada."
             },
             {
                 "nome": "Morango",
-                "preço": null,
+                "preço": 130.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com creme branco e morangos, coberto com chantilly e morangos."
             }
         ],
         "Linha II Diet": [
             {
                 "nome": "Mousse Bicolor",
-                "preço": null,
+                "preço": 290.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco e de chocolate, recheado com mousse de chocolate branco e ao leite, coberto de mousse branco, decorado com raspas de chocolate branco e ao leite."
             },
             {
                 "nome": "Mousse de chocolate",
-                "preço": null,
+                "preço": 290.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado e coberto com mousse de chocolate, decorado com raspas de chocolate ao leite."
             },
             {
                 "nome": "Prestígio",
-                "preço": null,
+                "preço": 290.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló de chocolate, recheado com cocada, coberto com mousse de chocolate, cocada, decorado com raspas de chocolate."
             },
             {
                 "nome": "Morango Dos Anjos",
-                "preço": null,
+                "preço": 290.0,
+                "informação-extra": null,
                 "descrição": "Pão de ló branco, recheado com mousse branco, mousse de chocolate e morangos, coberto com chantilly, decorado com morango e raspas de chocolate branco e ao leite"
             }
         ],
         "Bolos sem lactose": [
             {
                 "nome": "Bolo sem lactose",
-                "preço": null,
+                "preço": 110.0,
+                "informação-extra": null,
                 "descrição": "Bolo sem lactose disponível nos seguintes sabores: Morango, abacaxi, pêssego e primavera (mix de frutas) Observação: Produto feito à base de leite vegetal. NÃO UTILIZAMOS LEITE INTEGRAL NA ELABORAÇÃO DOS BOLOS; NO ENTANTO, É POSSÍVEL QUE HAJA CONTAMINAÇÃO CRUZADA POIS NÃO TEMOS UMA COZINHA E EQUIPAMENTOS SEPARADOS PARA ESTA PREPARAÇÃO."
             }
         ]
@@ -482,115 +572,137 @@
             {
                 "nome": "Tortas (Morango, banana flambada, cappuccino, limão, leite ninho com creme de avelã e holandesa)",
                 "preço": null,
-                "descrição": ""
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Banoffee",
                 "preço": null,
-                "descrição": ""
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Torta de Maçã",
                 "preço": null,
-                "descrição": ""
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tortas geladas",
                 "preço": null,
+                "informação-extra": null,
                 "descrição": "Podendo existir variações de peso"
             }
         ],
         "Doces": [
             {
                 "nome": "Torta De Morango",
-                "preço": null,
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Feita com a tradicional massa de torta, recheada com creme branco, chantilly e morangos, coberta com gelatina de morango."
             },
             {
                 "nome": "Torta De Limão",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "Tradicional massa de torta, recheada com mousse de limão, coberta com marshmallow e raspas de limão. (Congelada)"
             },
             {
                 "nome": "Torta De Maçã",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "Tradicional massa de torta, recheada com creme branco, coberta com maçãs e canela polvilhada."
             },
             {
                 "nome": "Torta De Maracujá",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "A tradicional massa de torta doce, recheada com mousse de maracujá, coberta com calda de maracujá. (Congelada)"
             },
             {
                 "nome": "Torta Banana Flambada",
-                "preço": null,
+                "preço": 120.0,
+                "informação-extra": null,
                 "descrição": "Massa de chocolate, recheada com brigadeiro branco, banana flambada e canela, coberta com mousse de chocolate. (Congelada)"
             },
             {
                 "nome": "Torta Leite Ninho Com Avelã",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Massa de chocolate recheada com creme de leite ninho e creme de avelã, decorado com granulé. (Congelada)"
             },
             {
                 "nome": "Torta Cappuccino",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Feita com massa à base de chocolate, recheada com creme de cappuccino, ganache e licor de café. (Congelada)"
             },
             {
                 "nome": "Banoffee",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "Base de biscoito amanteigada, recheada com doce de leite, banana, coberta com chantily e canela polvilhada."
             },
             {
                 "nome": "Holandesa",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Feita com cream cheese, iogurte natural, calda de chocolate meio amargo e biscoitos cobertos com chocolate. (Congelada)"
             },
             {
                 "nome": "Torta Chiffon",
-                "preço": null,
+                "preço": 290.0,
+                "informação-extra": null,
                 "descrição": "Fina camada de pão de ló, recheada com chocolate trufado, mousse de chocolate e essência de rum. Tamanho único, em média 1,0kg (Congelada)"
             }
         ],
         "Geladas": [
             {
                 "nome": "Torta Beijinho",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "(Congelada)"
             },
             {
                 "nome": "Torta Napolitana",
-                "preço": null,
+                "preço": 230.0,
+                "informação-extra": null,
                 "descrição": "Fina camada de pão de ló de chocolate, creme gelado de morango, chocolate e chantily, decorado com raspas de chocolate. Tortas geladas Tamanho P: Em média (1,0kg; serve 6 fatias) Tamanho G: Em média (1,8kg; serve 10 fatias) Formatos variados. (Congelado)"
             },
             {
                 "nome": "Torta Chocolate",
-                "preço": null,
+                "preço": 230.0,
+                "informação-extra": null,
                 "descrição": "Fina camada de pão de ló de chocolate, creme gelado de chocolate, decorada com raspas de chocolate ao leite e cerejas. Tortas geladas Tamanho P: Em média (1,0kg; serve 6 fatias) Tamanho G: Em média (1,8kg; serve 10 fatias) Formatos variados. (Congelada)"
             },
             {
                 "nome": "Torta Frutas Vermelhas",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Fina camada de pão de ló, creme gelado de frutas vermelhas, decorado com frutas vermelhas. Tortas geladas Tamanho P: Em média (1,0kg; serve 6 fatias) Tamanho G: Em média (1,8kg; serve 10 fatias) (Congelada)"
             },
             {
                 "nome": "Torta De Morango",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Fina camada de pão de ló, creme gelado de morango, decorada com morangos fatiados. Tortas geladas Tamanho P: Em média (1,0kg; serve 6 fatias) Tamanho G: Em média (1,8kg; serve 10 fatias (Congelada)"
             },
             {
                 "nome": "Torta Doce De Leite",
-                "preço": null,
+                "preço": 156.0,
+                "informação-extra": null,
                 "descrição": "Fina camada de pão de ló de chocolate, recheada com creme gelado de doce de leite e coco ralado. Decorada com chocolate meio amargo. Tortas geladas Tamanho P: Em média (1,0kg; serve 6 fatias) Tamanho G: Em média (1,8kg; serve 10 fatias) Formatos variados. (Congelada)"
             },
             {
                 "nome": "Torta Floresta Negra",
-                "preço": null,
+                "preço": 230.0,
+                "informação-extra": null,
                 "descrição": "Fina camada de pão de ló de chocolate, creme gelado de chocolate, cerejas e chantily, decorado com raspas de chocolate e cerejas. Tortas geladas Tamanho P: Em média (1,0kg; serve 6 fatias) Tamanho G: Em média (1,8kg; serve 10 fatias) Formatos variados. (Congelada)"
             },
             {
                 "nome": "Torta Framboesa",
-                "preço": null,
+                "preço": 250.0,
+                "informação-extra": null,
                 "descrição": "Feita com massa a base de chocolate, recheada com chocolate branco e geleia de framboesa. Tamanho único, em média 1,0Kg serve 10 fatias. (Congelada)"
             }
         ]
@@ -600,180 +712,215 @@
             {
                 "nome": "Pavês",
                 "preço": null,
-                "descrição": ""
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheesecake",
                 "preço": null,
-                "descrição": ""
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Zucotto",
                 "preço": null,
-                "descrição": ""
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sobremesas": [
             {
                 "nome": "Pavê De Chocolate",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Tamanho P: Em média (900g; serve 6 fatias) Tamanho M: Em média (1,5 kg; serve 10 fatias) Tamanho G: Em média (1,8 kg; serve 15 fatias)"
             },
             {
                 "nome": "Pavê Bicolor",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Tamanho P: Em média (900g; serve 6 fatias) Tamanho M: Em média (1,5 kg; serve 10 fatias) Tamanho G: Em média (1,8 kg; serve 15 fatias)"
             },
             {
                 "nome": "Pavê nozes",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Tamanho P: Em média (900g; serve 6 fatias) Tamanho M: Em média (1,5 kg; serve 10 fatias) Tamanho G: Em média (1,8 kg; serve 15 fatias)"
             },
             {
                 "nome": "Pudim De Leite Condensado",
-                "preço": null,
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Pudim de leite condensado em média 1,5kg"
             },
             {
                 "nome": "Pudim de Brigadeirão",
-                "preço": null,
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Pesa em média 1,8kg"
             },
             {
                 "nome": "Pannacotta Com Calda De Amarena",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Tamanho único, em média 1kg"
             },
             {
                 "nome": "Cheesecake C/ Calda De Frutas Vermelhas",
-                "preço": null,
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Cheesecake com calda de frutas vermelhas Tamanho P: Em média 1,2KG Tamanho G: Em média 1,800 KG"
             },
             {
                 "nome": "Zucotto De Chocolate",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Fina camada de pão de ló, recheado com mousse de chocolate e crocantes de castanha de caju, coberto com ganache de chocolate e decorado com crocante de castanha de caju. Tamanho P: Em média (800g; serve 4 fatias) Tamanho M: Em média (1,5 kg; serve 10 fatias) Tamanho G: Em média (2,5 kg; serve 15 fatias)"
             },
             {
                 "nome": "Manjar de coco com calda de ameixa",
-                "preço": "R$ 110,00",
+                "preço": 110.0,
+                "informação-extra": null,
                 "descrição": "O tradicional manjar de coco com calda de ameixa."
             }
         ],
         "Individuais": [
             {
                 "nome": "Bomba de chocolate diet",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Bomba recheada com mousse de chocolate, coberta com ganache de chocolate ao leite."
             },
             {
                 "nome": "Bomba De Chocolate",
-                "preço": null,
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Bomba recheada com mousse de chocolate, coberta com ganache de chocolate ao leite."
             },
             {
                 "nome": "Bomba de creme",
-                "preço": null,
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Bomba recheada com creme branco, coberta com ganache de chocolate branco."
             },
             {
                 "nome": "Bomba De Pistache",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Bomba recheada e coberta com brigadeiro de pistache."
             },
             {
                 "nome": "Mousse de Chocolate",
-                "preço": null,
-                "descrição": ""
+                "preço": 23.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mini Tortas",
-                "preço": null,
+                "preço": 9.5,
+                "informação-extra": null,
                 "descrição": "Sabores: Morango, limão, maçã e maracujá"
             },
             {
                 "nome": "Merenguinho",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Placa de suspiros recheada com creme branco e morangos, decorada com chantily e morango."
             },
             {
                 "nome": "Pavêzinho",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Creme com morangos ou ganache de chocolate com morangos"
             },
             {
                 "nome": "Cupcake",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Doce de leite, brigadeiro, brigadeiro branco, brigadeiro rosa e prestígio"
             },
             {
                 "nome": "Brigadeiro no copinho",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Sabores: Brigadeiro tradicional, brigadeiro colorido, brigadeiro rosa e brigadeiro branco."
             },
             {
                 "nome": "Pão de Mel",
-                "preço": null,
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Recheado com doce de leite, coberto com chocolate e decorado com granule."
             },
             {
                 "nome": "Torta Holandesa individual",
-                "preço": null,
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "Creme à base de cream cheese, iogurte natural, essência de baunilha, calda de chocolate e biscoito coberto com chocolate."
             },
             {
                 "nome": "Brownie",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bites de Brownie",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Pedaços de brownie banhados no chocolate."
             },
             {
                 "nome": "Bolo embrulhado",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "PRESTÍGIO"
             },
             {
                 "nome": "Bolo embrulhado",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "BRIGADEIRO"
             },
             {
                 "nome": "Bolo Embrulhado",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "COCO GELADO"
             },
             {
                 "nome": "Cookie Tradicional",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Massa tradiconal com gotas de chocolate ao leite e meio amargo."
             },
             {
                 "nome": "Cookie Dark",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Massa 100% cacau, com gotas de chocolate meio amargo e ao leite."
             },
             {
                 "nome": "Cookie Brigadeiro",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Massa tradicional enriquecida com gotas de chocolate, recheada com brigadeiro."
             },
             {
                 "nome": "Cookie especiarias",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Massa feita com combinação de cravo, canela, noz moscada e chocolate branco."
             },
             {
                 "nome": "Cookie Red Velvet",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Recheado com brigadeiro de cream cheese e geleia de frutas vermelhas."
             },
             {
                 "nome": "Cookie Limão",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Cookie de limão com gotas de chocolate branco."
             }
         ]
@@ -782,105 +929,125 @@
         "Docinhos": [
             {
                 "nome": "Brigadeiro Tradicional",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.2,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brigadeiro Rosa",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.2,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brigadeiro Branco",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.2,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brigadeiro Prestígio",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.2,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brigadeiro Leite Ninho",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.2,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brigadeiro leite ninho com Nutella",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brigadeiro Cacau",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.2,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brigadeiro Paçoca",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.2,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brigadeiro De Churros",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.2,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beijinho",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.2,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ameixa Recheada",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brigadeiro Pistache",
-                "preço": null,
-                "descrição": ""
+                "preço": 6.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Camafeu De Nozes",
-                "preço": null,
-                "descrição": ""
+                "preço": 5.6,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Glaçados",
-                "preço": null,
+                "preço": 8.5,
+                "informação-extra": null,
                 "descrição": "Glaçados: perinha recheada com castanha do Pará, abacaxi, beijinho e caramelo. Mínimo de 30 unidades de cada sabor."
             },
             {
                 "nome": "Mini Cakes",
-                "preço": null,
+                "preço": 4.6,
+                "informação-extra": null,
                 "descrição": "Sabores: Morango, brigadeiro, maracujá e limão"
             },
             {
                 "nome": "Mini Quindim",
-                "preço": null,
-                "descrição": ""
+                "preço": 4.6,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cento Do Docinho Simples",
-                "preço": "R$ 310,00",
-                "descrição": ""
+                "preço": 310.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Bandeja de Docinhos": [
             {
                 "nome": "16 unidades",
-                "preço": "R$ 51,20",
-                "descrição": ""
+                "preço": 51.2,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "24 unidades",
-                "preço": "R$ 76,80",
-                "descrição": ""
+                "preço": 76.8,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "30 unidades",
-                "preço": "R$ 96,00",
-                "descrição": ""
+                "preço": 96.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -889,83 +1056,98 @@
             {
                 "nome": "Torta Morango, Maçã e Limão",
                 "preço": null,
-                "descrição": ""
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Diet": [
             {
                 "nome": "Cheesecake Diet",
-                "preço": null,
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Cheesecake diet com calda de frutas vermelhas Tamanho único, em média 1,3kg"
             },
             {
                 "nome": "Manjar de coco com calda de ameixa",
-                "preço": null,
+                "preço": 90.0,
+                "informação-extra": null,
                 "descrição": "Tamanho único, em média 1,6kg"
             },
             {
                 "nome": "Pudim Diet",
-                "preço": null,
+                "preço": 90.0,
+                "informação-extra": null,
                 "descrição": "Tamanho único: em média 1,5 kg"
             },
             {
                 "nome": "Torta Sedução Diet",
-                "preço": null,
+                "preço": 290.0,
+                "informação-extra": null,
                 "descrição": "Tamanho único: em média 1,0 kg"
             },
             {
                 "nome": "Torta De Maçã Diet",
-                "preço": null,
+                "preço": 90.0,
+                "informação-extra": null,
                 "descrição": "Tradicional massa de torta, recheada com creme branco, coberta com maçãs e canela polvilhada. Torta de maçã Tamanho P: Em média (1,0kg; serve 6 fatias) Tamanho G: Em média (1,5 kg; serve 10 fatias)"
             },
             {
                 "nome": "Torta De Morango",
-                "preço": null,
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Tamanho P: Em média (800g; serve 6 fatias) Tamanho G: Em média (1,3 kg; serve 10 fatias)"
             },
             {
                 "nome": "Torta De Limão",
-                "preço": null,
+                "preço": 90.0,
+                "informação-extra": null,
                 "descrição": "Massa de torta recheada com mousse de limão, decorada com chantily e raspas de limão. Tamanho P: Em média (800g; serve 6 fatias) Tamanho G: Em média (1,3 kg; serve 10 fatias)"
             }
         ],
         "Individuais Diet": [
             {
                 "nome": "Bomba De Chocolate",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Bomba diet, recheada com mousse de chocolate, coberta com chocolate ao leite."
             },
             {
                 "nome": "Mousse De Chocolate",
-                "preço": null,
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pudim Diet",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Manjar de coco Diet com calda de ameixa",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheesecake Diet com calda de frutas vermelhas",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Docinhos Festa Diet": [
             {
                 "nome": "Brigadeiro Diet",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.8,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beijinho",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.8,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -973,105 +1155,125 @@
         "Delícias": [
             {
                 "nome": "Bolo de cenoura individual",
-                "preço": "R$ 17,00",
+                "preço": 17.0,
+                "informação-extra": null,
                 "descrição": "Delicado bolo de cenoura individual, com textura macia e finalizado com uma generosa cobertura de chocolate."
             },
             {
                 "nome": "Bolo Piscina Cenoura",
-                "preço": null,
-                "descrição": ""
+                "preço": 60.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo Piscina Chocolate",
-                "preço": null,
-                "descrição": ""
+                "preço": 60.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo Inglês",
-                "preço": null,
-                "descrição": ""
+                "preço": 75.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo Cenoura Com Calda De Chocolate",
-                "preço": null,
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo Chocolate Com Calda De Chocolate",
-                "preço": null,
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo Formigueiro Com Calda De Chocolate",
-                "preço": null,
-                "descrição": ""
+                "preço": 50.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo De Fubá",
-                "preço": null,
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo De Fubá Cremoso",
-                "preço": null,
-                "descrição": ""
+                "preço": 50.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Laranja Com Calda De Laranja",
-                "preço": null,
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo De Maçã Com Passas",
-                "preço": null,
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo de banana com aveia e Passas",
-                "preço": null,
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo De Milho",
-                "preço": null,
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo de cenoura recheado",
-                "preço": null,
-                "descrição": ""
+                "preço": 60.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brioche recheado",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Goiabada, maçã com passas e passas"
             },
             {
                 "nome": "Brioche Simples",
-                "preço": null,
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cucas": [
             {
                 "nome": "Cuca De Banana",
-                "preço": null,
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cuca De Maçã",
-                "preço": null,
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cuca De Goiabada",
-                "preço": null,
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cuca De Doce De Leite",
-                "preço": null,
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -1080,101 +1282,119 @@
             {
                 "nome": "Tortas Salgadas",
                 "preço": null,
-                "descrição": ""
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Quiches",
                 "preço": null,
-                "descrição": ""
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Tortas Salgadas": [
             {
                 "nome": "Torta de camarão",
-                "preço": null,
-                "descrição": ""
+                "preço": 150.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Torta de bacalhau",
-                "preço": null,
-                "descrição": ""
+                "preço": 132.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Torta de frango",
-                "preço": null,
-                "descrição": ""
+                "preço": 84.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Torta de frango com catupiry",
-                "preço": null,
-                "descrição": ""
+                "preço": 88.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Torta de palmito",
-                "preço": null,
-                "descrição": ""
+                "preço": 88.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Tortas Lanches": [
             {
                 "nome": "Presunto e Queijo",
-                "preço": "R$ 105,00",
+                "preço": 105.0,
+                "informação-extra": null,
                 "descrição": "Tamanho único em média 1,2kg"
             },
             {
                 "nome": "Queijo Fresco",
-                "preço": "R$ 127,00",
+                "preço": 127.0,
+                "informação-extra": null,
                 "descrição": "Tamanho único em média 1,2kg"
             }
         ],
         "Quiches": [
             {
                 "nome": "Alho Poró",
-                "preço": null,
-                "descrição": ""
+                "preço": 95.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Espinafre",
-                "preço": null,
-                "descrição": ""
+                "preço": 95.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Milho",
-                "preço": null,
-                "descrição": ""
+                "preço": 110.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tomate Seco",
-                "preço": null,
-                "descrição": ""
+                "preço": 158.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Queijo",
-                "preço": null,
-                "descrição": ""
+                "preço": 110.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Pães e Pitizza": [
             {
                 "nome": "Pitizza Presunto E Queijo",
-                "preço": null,
+                "preço": 90.0,
+                "informação-extra": null,
                 "descrição": "Em média 1,0kg"
             },
             {
                 "nome": "Pão De Calabresa",
-                "preço": null,
+                "preço": 130.0,
+                "informação-extra": null,
                 "descrição": "Em média 1,5kg"
             }
         ],
         "Cuscuz": [
             {
                 "nome": "Atum",
-                "preço": null,
+                "preço": 172.0,
+                "informação-extra": null,
                 "descrição": "tamanho único, em média 1,5kg"
             },
             {
                 "nome": "Sardinha",
-                "preço": null,
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "Tamanho único, em média 1,5kg"
             }
         ]
@@ -1183,326 +1403,390 @@
         "Fritos e Assados": [
             {
                 "nome": "Coxinha Villeroy",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolinho De Bacalhau",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolinho De Carne",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.4,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolinha De Queijo",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.4,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coxinha Tradicional",
-                "preço": null,
-                "descrição": ""
+                "preço": 2.8,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coxinha Cremosa",
-                "preço": null,
-                "descrição": ""
+                "preço": 2.8,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Croquete De Carne",
-                "preço": null,
-                "descrição": ""
+                "preço": 4.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Empada De Palmito",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.4,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Empada de frango",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.4,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Esfiha De Carne",
-                "preço": null,
-                "descrição": ""
+                "preço": 4.6,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Esfiha De Frango Com Catupiry",
-                "preço": null,
-                "descrição": ""
+                "preço": 3.4,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Esfiha De Queijo",
-                "preço": null,
-                "descrição": ""
+                "preço": 4.3,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Quibe",
-                "preço": null,
-                "descrição": ""
+                "preço": 2.3,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Rissole De Palmito",
-                "preço": null,
-                "descrição": ""
+                "preço": 2.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Rissole De Presunto E Queijo",
-                "preço": null,
-                "descrição": ""
+                "preço": 2.8,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Rissole De Queijo",
-                "preço": null,
-                "descrição": ""
+                "preço": 2.8,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mini Quiches",
-                "preço": null,
+                "preço": 420.0,
+                "informação-extra": null,
                 "descrição": "Queijo, tomate seco, espinafre, milho, alho poró"
             },
             {
                 "nome": "Quiche Individual Alho Poró",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Quiche Individual Espinafre",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Quiche Individual Milho",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Quiche Individual Queijo",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Quiche Individual Tomate Seco",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mini Torta De Camarão",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mini Torta De Frango",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mini Torta De Palmito",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Saltenha de frango com catupiry",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Saltenha de frango com palmito",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Saltenha Integral de brocólis com cenoura",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Saltenha integral de escarola com queijo",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Saltenha integral de espinafre com ricota",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Saltenha de Atum",
-                "preço": null,
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Congelados e Embalados Vácuo": [
             {
                 "nome": "Bolinha De Queijo",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Frito congelado"
             },
             {
                 "nome": "Bolinho De Carne",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Frito congelado"
             },
             {
                 "nome": "Coxinha Creme",
-                "preço": "R$ 56,00",
+                "preço": 56.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Frito congelado"
             },
             {
                 "nome": "Coxinha Tradicional",
-                "preço": "R$ 56,00",
+                "preço": 56.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Frito congelado"
             },
             {
                 "nome": "Croquete De Carne",
-                "preço": "R$ 90,00",
+                "preço": 90.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Frito congelado"
             },
             {
                 "nome": "Quibe",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Frito congelado"
             },
             {
                 "nome": "Rissole De Palmito",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Frito congelado"
             },
             {
                 "nome": "Rissole De Presunto E Queijo",
-                "preço": "R$ 56,00",
+                "preço": 56.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Frito congelado"
             },
             {
                 "nome": "Rissole De Queijo",
-                "preço": "R$ 56,00",
+                "preço": 56.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Frito congelado"
             },
             {
                 "nome": "Bolinho De Bacalhau",
-                "preço": "R$ 144,00",
+                "preço": 144.0,
+                "informação-extra": null,
                 "descrição": "12 unidades | Sem fritar congelado"
             },
             {
                 "nome": "Empada De Frango",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Assado congelado"
             },
             {
                 "nome": "Empada De Palmito",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Assado congelado"
             },
             {
                 "nome": "Esfiha De Carne",
-                "preço": "R$ 92,00",
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Assado congelado"
             },
             {
                 "nome": "Esfiha De Frango",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Assado congelado"
             },
             {
                 "nome": "Esfiha De Queijo",
-                "preço": "R$ 86,00",
+                "preço": 86.0,
+                "informação-extra": null,
                 "descrição": "20 unidades | Assado congelado"
             },
             {
                 "nome": "Mini Torta De Palmito",
-                "preço": "R$ 90,00",
+                "preço": 90.0,
+                "informação-extra": null,
                 "descrição": "12 unidades | Assado congelado"
             },
             {
                 "nome": "Mini Torta De Frango",
-                "preço": "R$ 90,00",
+                "preço": 90.0,
+                "informação-extra": null,
                 "descrição": "12 unidades | Assado congelado"
             },
             {
                 "nome": "Mini Quiches",
-                "preço": "R$ 50,40",
+                "preço": 50.4,
+                "informação-extra": null,
                 "descrição": "12 unidades | Assado congelado"
             },
             {
                 "nome": "Saltenha De Espinafre",
-                "preço": "R$ 60,00",
+                "preço": 60.0,
+                "informação-extra": null,
                 "descrição": "04 unidades | Assado congelado"
             },
             {
                 "nome": "Saltenha De Brócolis",
-                "preço": "R$ 60,00",
+                "preço": 60.0,
+                "informação-extra": null,
                 "descrição": "04 unidades | Assado congelado"
             },
             {
                 "nome": "Saltenha Escarola com queijo",
-                "preço": "R$ 60,00",
+                "preço": 60.0,
+                "informação-extra": null,
                 "descrição": "04 unidades | Assado congelado"
             },
             {
                 "nome": "Saltenha Frango com Catupiry",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "04 unidades | Assado congelado"
             },
             {
                 "nome": "Saltenha Frango com Palmito",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "04 unidades | Assado congelado"
             }
         ],
         "Tortas e Quiches - Congelados e Embalados Vácuo": [
             {
                 "nome": "Torta De Bacalhau",
-                "preço": "R$ 132,00",
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Assado congelado"
             },
             {
                 "nome": "Torta De Camarão",
-                "preço": "R$ 150,00",
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Assado congelado"
             },
             {
                 "nome": "Torta De Frango Com Catupiry",
-                "preço": "R$ 88,00",
+                "preço": 88.0,
+                "informação-extra": null,
                 "descrição": "Assado congelado"
             },
             {
                 "nome": "Torta De Frango",
-                "preço": "R$ 74,00",
+                "preço": 74.0,
+                "informação-extra": null,
                 "descrição": "Assado congelado"
             },
             {
                 "nome": "Torta De Palmito",
-                "preço": "R$ 86,00",
+                "preço": 86.0,
+                "informação-extra": null,
                 "descrição": "Assado congelado"
             },
             {
                 "nome": "Quiche de alho poró",
-                "preço": null,
+                "preço": 86.0,
+                "informação-extra": null,
                 "descrição": "Assado congelado"
             },
             {
                 "nome": "Quiche Espinafre",
-                "preço": null,
+                "preço": 95.0,
+                "informação-extra": null,
                 "descrição": "Assado congelado"
             },
             {
                 "nome": "Quiche De Milho",
-                "preço": "R$ 86,00",
+                "preço": 86.0,
+                "informação-extra": null,
                 "descrição": "Assado congelado"
             },
             {
                 "nome": "Quiche De Tomate Seco",
-                "preço": "R$ 110,00",
+                "preço": 110.0,
+                "informação-extra": null,
                 "descrição": "Assado congelado"
             },
             {
                 "nome": "Quiche De Queijo",
-                "preço": "R$ 110,00",
+                "preço": 110.0,
+                "informação-extra": null,
                 "descrição": "Assado congelado"
             }
         ]
@@ -1511,46 +1795,54 @@
         "Kit Festa Adulto": [
             {
                 "nome": "Para 2 pessoas",
-                "preço": "R$ 150,00",
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "1 Bolo P 16 Unidades de docinhos 15 Unidades de salgados 2 Refrigerantes lata ou suco 1 Vela estrelar"
             },
             {
                 "nome": "Para 10 pessoas",
-                "preço": "R$ 580,00",
+                "preço": 580.0,
+                "informação-extra": null,
                 "descrição": "1 Bolo G 50 Unidades de docinhos 70 Unidades de salgadinhos 2 Refrigerantes de 2 litros 1 Vela estrelar"
             },
             {
                 "nome": "Para 20 pessoas",
-                "preço": "R$ 980,00",
+                "preço": 980.0,
+                "informação-extra": null,
                 "descrição": "1 Bolo XG 100 Unidades de docinhos 140 Unidades de salgadinhos 3 Refrigerantes de dois litros 1 Vela estrelar"
             },
             {
                 "nome": "Para 30 pessoas",
-                "preço": "R$ 1.380,00",
+                "preço": 1380.0,
+                "informação-extra": null,
                 "descrição": "1 Bolo de 3,0 quilos 150 Unidades de docinhos 210 Unidades de salgados 4 Refrigerantes de 2 litros 1 Vela estrelar"
             }
         ],
         "Kit Festa Kids": [
             {
                 "nome": "Para 10 crianças",
-                "preço": "R$ 320,00",
+                "preço": 320.0,
+                "informação-extra": null,
                 "descrição": "10 Pedaços de bolo embrulhado 20 Unidades de docinhos 30 Unidades de salgados 2 Sucos de uva de 1 litro 1 Vela estrelar"
             },
             {
                 "nome": "Para 20 crianças",
-                "preço": "R$ 650,00",
+                "preço": 650.0,
+                "informação-extra": null,
                 "descrição": "20 Pedaços de bolo embrulhado 40 Unidades de docinhos 60 Unidades de salgados 4 Sucos de uva de 1 litro 1 Vela estrelar"
             },
             {
                 "nome": "Para 30 pessoas",
-                "preço": "R$ 980,00",
+                "preço": 980.0,
+                "informação-extra": null,
                 "descrição": "30 Pedaços de bolo embrulhado 60 Unidades de docinhos 90 Unidades de salgados 6 Sucos de uva de 1 litro 1 Vela estrelar"
             }
         ],
         "Para uma pessoa": [
             {
                 "nome": "Para 1 pessoa",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "1 Fatia de bolo embrulhado (Brigadeiro, Coco gelado ou Prestígio) 1 Suco de caixinha 4 Salgados (Coxinha tradicional e Esfiha de carne) 5 Docinhos tradicionais (Brigadeiro, Brigadeiro rosa, Beijinho)"
             }
         ]
@@ -1559,186 +1851,222 @@
         "Quentes": [
             {
                 "nome": "Chocolate Quente",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Nespresso\nCafé Expresso",
-                "preço": null,
-                "descrição": "Nespresso"
+                "preço": 7.5,
+                "informação-extra": null,
+                "descrição": "Intenso, equilibrado, suave, descafeinado"
             },
             {
                 "nome": "Nespresso\nCafé Expresso Duplo",
-                "preço": null,
-                "descrição": "Nespresso"
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": "Expresso em dose dupla"
             },
             {
                 "nome": "Nespresso\nCafé Macchiato",
-                "preço": null,
-                "descrição": "Nespresso"
+                "preço": 8.5,
+                "informação-extra": null,
+                "descrição": "Com espuma de leite"
             },
             {
                 "nome": "Nespresso\nDuplo Macchiato",
-                "preço": null,
-                "descrição": "Nespresso"
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": "Expresso em dose dupla com espuma de leite"
             },
             {
                 "nome": "Nespresso\nCaramel Latte",
-                "preço": null,
-                "descrição": "Nespresso"
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": "Expresso caramelo, leite integral, espuma de leite e calda de caramelo"
             },
             {
                 "nome": "Nespresso\nCafé Latte",
-                "preço": null,
-                "descrição": "Nespresso"
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": "Leite levemente cremoso com toque de expresso"
             },
             {
                 "nome": "Nespresso\nCappuccino Asteca",
-                "preço": null,
-                "descrição": "Nespresso"
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": "Chocolate, leite condensado, canela, expresso e espuma de leite"
             },
             {
                 "nome": "Nespresso\nCappucciono",
-                "preço": null,
-                "descrição": "Nespresso"
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": "Chocolate, leite cremoso, com toque de expresso"
             },
             {
                 "nome": "Nespresso\nCarioca",
-                "preço": null,
-                "descrição": "Nespresso"
+                "preço": 7.5,
+                "informação-extra": null,
+                "descrição": "Expresso com uma dose de água"
             },
             {
                 "nome": "Nespresso\nAmericano",
-                "preço": null,
-                "descrição": "Nespresso"
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": "Expresso duplo com mais água"
             },
             {
                 "nome": "Nespresso\nMocha",
-                "preço": null,
-                "descrição": "Nespresso"
+                "preço": 20.0,
+                "informação-extra": null,
+                "descrição": "Expresso, leite bem cremoso, chocolate ou doce de leite"
             },
             {
                 "nome": "Chá Quente (Sachê)",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chantily (Porção)",
-                "preço": null,
-                "descrição": ""
+                "preço": 6.5,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Soft Drinks": [
             {
                 "nome": "Água Com Gás",
-                "preço": null,
-                "descrição": ""
+                "preço": 6.8,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água Sem Gás",
-                "preço": null,
-                "descrição": ""
+                "preço": 6.8,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "H2OH",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coca Cola",
-                "preço": null,
-                "descrição": ""
+                "preço": 6.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Refrigerante",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Uva, pêssego, maracujá, manga, goiaba"
             }
         ],
         "Geladas": [
             {
                 "nome": "Chocolate Grande Frio",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco Natural",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Laranja ou limão"
             },
             {
                 "nome": "Café Vanilla Latte",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Nespresso vanilla, leite integral, espuma de leite e canela"
             },
             {
                 "nome": "Café Tropical Com Laranja",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Nespresso, suco de laranja e espuma de leite"
             },
             {
                 "nome": "Pink Lemonade",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Preparado de framboesa, limão e água com gás"
             },
             {
                 "nome": "Tropical Green",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Preparado de maçã verde, laranja e água com gás"
             },
             {
                 "nome": "Apple Shake",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Preparado de maçã verde, leite integral e suco de laranja"
             },
             {
                 "nome": "Shake Cereja",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Preparado de cereja e leite integral"
             },
             {
                 "nome": "Chá Preto",
-                "preço": null,
+                "preço": 12.0,
+                "informação-extra": null,
                 "descrição": "Chá preto tradicional com açúcar"
             },
             {
                 "nome": "Chá preto com cramberry",
-                "preço": "R$ 15,00",
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Chá preto tradicional e cramberry com açúcar"
             },
             {
                 "nome": "Chá Preto Com Cereja",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Chá preto tradicional e preparado de cereja"
             },
             {
                 "nome": "Chá Preto Com Maçã Verde",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Chá preto tradicional e maçã verde com açúcar"
             },
             {
                 "nome": "Chá De Pêssego",
-                "preço": null,
+                "preço": 12.0,
+                "informação-extra": null,
                 "descrição": "Chá de pêssego tradicional com açúcar"
             },
             {
                 "nome": "Chá De Limão",
-                "preço": null,
+                "preço": 12.0,
+                "informação-extra": null,
                 "descrição": "Chá de limão tradicional com açúcar"
             },
             {
                 "nome": "Chá Matte Com Limão",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Chá matte com limão, sem açúcar"
             },
             {
                 "nome": "Chá Matte Natural",
-                "preço": null,
+                "preço": 12.0,
+                "informação-extra": null,
                 "descrição": "Chá matte tradicional sem açúcar"
             }
         ]

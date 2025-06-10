@@ -3,60 +3,71 @@
         "Pães": [
             {
                 "nome": "Pão de Queijo - 6 unidades",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pão de Batata com Requeijão",
-                "preço": "R$ 12,00",
+                "preço": 12.0,
+                "informação-extra": null,
                 "descrição": "Unidade"
             },
             {
                 "nome": "Pão de Batata Misto",
-                "preço": "R$ 12,00",
+                "preço": 12.0,
+                "informação-extra": null,
                 "descrição": "Unidade"
             },
             {
                 "nome": "Pão na chapa",
-                "preço": "R$ 10,00",
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Croissant",
-                "preço": "R$ 12,00",
+                "preço": 12.0,
+                "informação-extra": null,
                 "descrição": "Recheios: Misto; Frango com catupiry; Quatro Queijos e chocolate"
             }
         ],
         "Salgados": [
             {
                 "nome": "Empanada De Carne",
-                "preço": "R$ 13,00",
+                "preço": 13.0,
+                "informação-extra": null,
                 "descrição": "Empanada recheada com carne, especiarias e azeitonas"
             },
             {
                 "nome": "Empanada De Queijo Com Cebola",
-                "preço": "R$ 13,00",
+                "preço": 13.0,
+                "informação-extra": null,
                 "descrição": "Empanada recheada com queijo e cebola caramelizada"
             },
             {
                 "nome": "Coxinha",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Risoles de Palmito",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Risoles de Presunto e queijo",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolinha de Queijo",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -64,39 +75,46 @@
         "Sanduiches": [
             {
                 "nome": "Bauru",
-                "preço": "R$ 19,00",
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "Pão, presunto, queijo, tomate e oregano"
             },
             {
                 "nome": "Misto Quente no Francês ou no Pão de Forma",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Pão, presunto e queijo"
             },
             {
                 "nome": "Queijo Quente no Francês ou no Pão de forma",
-                "preço": "R$ 16,00",
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Pão, american cheese e cheddar"
             },
             {
                 "nome": "Batata Frita 150g",
-                "preço": "R$ 18,00",
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sanduiches Especiais": [
             {
                 "nome": "Caprese",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Pão, tomate, muçarela de búfala e manjericão"
             },
             {
                 "nome": "Sanduiche de Frango",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Pão, alface, pedaços de frango grelhado, tomate, cebola, maionese da casa e molho Cepêra Mostarda e Mel"
             },
             {
                 "nome": "Sanduiche Mediterrâneo",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Pão, azeite, rúcula, presunto cru, tomate cereja, muçarela de Búfala e azeitonas pretas"
             }
         ]
@@ -105,88 +123,104 @@
         "Tortas ": [
             {
                 "nome": "Torta de Camarão (Fatia)",
-                "preço": "R$ 34,00",
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "Complete sua torta, adicionando uma mini salada do dia no valor promocional de R$15,00"
             },
             {
                 "nome": "Torta de Frango (Fatia)",
-                "preço": "R$ 30,00",
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Complete sua torta, adicionando uma mini salada do dia no valor promocional de R$15,00"
             },
             {
                 "nome": "Torta de Palmito (Fatia)",
-                "preço": "R$ 30,00",
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Complete sua torta, adicionando uma mini salada do dia no valor promocional de R$15,00"
             },
             {
                 "nome": "Torta de Legumes (Fatia)",
-                "preço": "R$ 25,00",
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Complete sua torta, adicionando uma mini salada do dia no valor promocional de R$15,00"
             }
         ],
         "Saladas": [
             {
                 "nome": "Salada do Dia",
-                "preço": "R$ 25,00",
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salada Verde",
-                "preço": "R$ 38,00",
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Mix de folhas verdes"
             },
             {
                 "nome": "Salada Caprese",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salada Caesar",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Alface americana, lâminas de frango grelhado, croutons e molho ceasar"
             }
         ],
         "Massas": [
             {
                 "nome": "Ravioli de Muçarela",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Escolha o molho de sua preferência"
             },
             {
                 "nome": "Tortelli de Limão Siciliano",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Escolha o Molho de sua preferência"
             },
             {
                 "nome": "Nhoque",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Escolha o seu molho"
             },
             {
                 "nome": "Penne",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Escolha os molhos"
             }
         ],
         "Pratos Principais": [
             {
                 "nome": "Parmegiana de Frango",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Filet de frango a parmegiana, arroz e batatas fritas"
             },
             {
                 "nome": "Strogonoff de Filet Mignon",
-                "preço": "R$ 69,00",
+                "preço": 69.0,
+                "informação-extra": null,
                 "descrição": "Acompanha arroz e fritas"
             },
             {
                 "nome": "Strogonoff de Frango",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Acompanha arroz e fritas"
             },
             {
                 "nome": "Feijoada",
-                "preço": "R$ 58,00",
+                "preço": 58.0,
+                "informação-extra": null,
                 "descrição": "Arroz, couve, farofa, vinagrete e laranja"
             }
         ]
@@ -195,77 +229,91 @@
         "Açai e Sorvete": [
             {
                 "nome": "Açai",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Pote P R$15 Pote G R$24"
             },
             {
                 "nome": "Creme de Cupuaçu",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Pote P R$15 Pote G R$24"
             },
             {
                 "nome": "Creme de Manga",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Pote P R$15 Pote G R$24"
             },
             {
                 "nome": "Pitaya com Maracujá",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Pote P R$15 Pote G R$24"
             }
         ],
         "Sobremesas": [
             {
                 "nome": "Eclair de pistache",
-                "preço": "R$ 14,00",
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo Fatia",
-                "preço": "R$ 13,00",
+                "preço": 13.0,
+                "informação-extra": null,
                 "descrição": "Verifique disponibilidade de sabor"
             },
             {
                 "nome": "Pão de Mel",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Bomboniere": [
             {
                 "nome": "Bala Fini",
-                "preço": "R$ 2,00",
-                "descrição": ""
+                "preço": 2.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chiclete Trident - verificar saborea disponíveis",
-                "preço": "R$ 4,00",
-                "descrição": ""
+                "preço": 4.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chiclete Mentos",
-                "preço": "R$ 17,00",
-                "descrição": ""
+                "preço": 17.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Kit Kat",
-                "preço": "R$ 7,00",
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chocolate Hershey",
-                "preço": "R$ 10,00",
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Snickers",
-                "preço": "R$ 4,00",
-                "descrição": ""
+                "preço": 4.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "4 Balas 7 Belo",
-                "preço": "R$ 1,00",
-                "descrição": ""
+                "preço": 1.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -273,200 +321,237 @@
         "Café e Chocolate": [
             {
                 "nome": "Expresso",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Expresso Duplo",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cappucino",
-                "preço": null,
+                "preço": 14.0,
+                "informação-extra": null,
                 "descrição": "Expresso, leite vaporizado e cacau em pó"
             },
             {
                 "nome": "Macchiato",
-                "preço": null,
+                "preço": 12.0,
+                "informação-extra": null,
                 "descrição": "Expresso e crema"
             },
             {
                 "nome": "Macchiato Duplo",
-                "preço": null,
+                "preço": 17.0,
+                "informação-extra": null,
                 "descrição": "Expresso e crema"
             },
             {
                 "nome": "Chocolate Quente",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Chocolate e leite"
             }
         ],
         "Café Coado -  Chapada Diamantina": [
             {
                 "nome": "Café Rigno",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Campeão do Cup of Excellence (2022) e tetra pela BSCA e ABIC. Produzido em Piatã na Chapada da Diamantina"
             },
             {
                 "nome": "Café Pai Inácio",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Produtor premiado pela BSCA em 2023. Produzido em Piatã, Chapada Diamantina. * Temos tbm o café a venda para que leve para casa."
             },
             {
                 "nome": "Café Terramater",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Café cultivado em sistema agroflorestal, com cuidado na preservação da vegetação. Produzido em Ibicoara, Chapada Diamantina. * Temos tbm o café a venda para que leve para casa."
             },
             {
                 "nome": "Café Microlote",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Esse grão é do sitio que ficou em 7º lugar em 2022 no concurso Cup of Excellence Produzido em Piatã, Chapada Diamantina. * Temos tbm o café a venda para que leve para casa."
             }
         ],
         "Café Gelados": [
             {
                 "nome": "Latte",
-                "preço": null,
-                "descrição": ""
+                "preço": 17.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café Latte de chocolate",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café Latte de caramelo",
-                "preço": "R$ 22,00",
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mocha Chocolate",
-                "preço": null,
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Expresso, leite, calda de chocolate, gelo e chantilly"
             },
             {
                 "nome": "Mocha Caramelo",
-                "preço": null,
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Expresso, leite, calda de caramelo, gelo e chantilly"
             },
             {
                 "nome": "Frapuccino",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Expresso Tônica",
-                "preço": null,
-                "descrição": ""
+                "preço": 17.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chai Latte",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Shakes e Smoothies": [
             {
                 "nome": "Shake de Whey com chocolate",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Shake de Whey com Banana",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Smoothie de banana com Açai",
-                "preço": null,
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Soda Italiana": [
             {
                 "nome": "Maçã verde",
-                "preço": "R$ 14,00",
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sucos ": [
             {
                 "nome": "Rubis Refrescante",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "frutas vermelhas e xarope de açúcar"
             },
             {
                 "nome": "Limonada",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Passionberrys",
-                "preço": "R$ 17,00",
+                "preço": 17.0,
+                "informação-extra": null,
                 "descrição": "Frutas vermelhas, maracujá e xarope de açúcar"
             },
             {
                 "nome": "Maracujá",
-                "preço": "R$ 15,00",
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "maracujá e xarope de açúcar"
             },
             {
                 "nome": "Laranja (natural)",
-                "preço": "R$ 15,00",
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "maracujá e xarope de açúcar"
             }
         ],
         "Refrigerantes, águas e energéticos": [
             {
                 "nome": "Água Sem Gás",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água Com Gás",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Refrigerantes",
-                "preço": null,
+                "preço": 8.0,
+                "informação-extra": null,
                 "descrição": "Coca Cola Coca Cola Zero Guaraná Antartica Guaraná Antartica Zero Fanta Laranja Fanta Uva Sprite"
             },
             {
                 "nome": "Red Bull",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá Mate",
-                "preço": null,
+                "preço": 10.0,
+                "informação-extra": null,
                 "descrição": "Lichia; Pêssego; Limão; Chá verde"
             },
             {
                 "nome": "Suco de caixinha",
-                "preço": "R$ 6,00",
-                "descrição": ""
+                "preço": 6.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "H2O",
-                "preço": "R$ 10,00",
+                "preço": 10.0,
+                "informação-extra": null,
                 "descrição": "Normal ou limão"
             },
             {
                 "nome": "Gatorade",
-                "preço": null,
+                "preço": 10.0,
+                "informação-extra": null,
                 "descrição": "Verifique disponibilidade de sabor"
             },
             {
                 "nome": "Mupy",
-                "preço": null,
+                "preço": 6.0,
+                "informação-extra": null,
                 "descrição": "Verificar disponibilidade de sabor"
             },
             {
                 "nome": "Toddynho",
-                "preço": null,
-                "descrição": ""
+                "preço": 6.5,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },

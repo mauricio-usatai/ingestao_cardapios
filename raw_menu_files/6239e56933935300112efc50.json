@@ -4,180 +4,214 @@
         "Aperitivos e Entradas": [
             {
                 "nome": "Croquete de shitake defumado. 02 uni",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": "Vegano",
                 "descrição": "Croquete cremoso. Shitake defumado. Alho poró. Aioli de gergelim."
             },
             {
                 "nome": "Coxinha de Siri com ovas. 02 unid.",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Massa de batata cremosa. Siri cremoso. Creme de ovas."
             },
             {
                 "nome": "Tartar de carne com pinoli e polenta. 02 unid.",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Polenta frita. Tartar de boi. Pinoli. Creme de Porcini. Queijo Tulha."
             },
             {
                 "nome": "Sanduba de costela. 02 unid.",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Costela defumada. Pão de abóbora. Picles de cebola roxa. Salada de salsinha. Tomate assado."
             },
             {
                 "nome": "Porquinho na Couve - Clássico do Chef 02 unid.",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Couve infusionada no Dashi. Costelinha na cachaça e mel. Bacon. Picles de cebola. Dijon. Laranja."
             },
             {
                 "nome": "Ravioli de gema com ricota.",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Ravioli de gema. Ricota. Espinafre. Caldo de galinha amanteigado."
             },
             {
                 "nome": "Berinjela com salada asiática.",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": "Vegano",
                 "descrição": "Berinjela grelhada. Teriyaki. Folhas cítricas. Coco. Amendoim."
             },
             {
                 "nome": "Salada de folhas com queijo de cabra fresco",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Folhas. Ervas frescas. Queijo Boursin. Tomate. Aroeira."
             },
             {
                 "nome": "Barriga Dry rub com caldo de porco",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Barriga de porco dry rub defumada. Caldo de porco com melado de cana. Gohan. Folhas. Picles de vegetais."
             }
         ],
         "Pizzetas": [
             {
                 "nome": "Marinara",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Tomate italiano. Alho. Tomatinhos assados. Azeite de oliva. Gran Formaggio RAR."
             },
             {
                 "nome": "Marguerita",
-                "preço": "R$ 70,00",
+                "preço": 70.0,
+                "informação-extra": null,
                 "descrição": "Tomate italiano. Mozzarella fior di latte. Manjericão. Azeite de oliva. Gran Formaggio RAR."
             },
             {
                 "nome": "Alice e lardo",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Tomate Italiano. Alicci. Lardo. Tomilho. Limão siciliano. Azeite de oliva. Gran Formaggio RAR."
             },
             {
                 "nome": "Speck com mascarpone",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": null,
                 "descrição": "Tomate italiano. Speck. Mascarpone. Tomates assados. Erva doce. Azeite de oliva. Gran Formaggio RAR."
             },
             {
                 "nome": "Cacio e pepe",
-                "preço": "R$ 70,00",
+                "preço": 70.0,
+                "informação-extra": null,
                 "descrição": "Creme de ricota. Pecorino. Blend de pimentas. Azeite de oliva. Gran Formaggio RAR."
             },
             {
                 "nome": "Linguiça Blumenau",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": null,
                 "descrição": "Tomate italiano Linguiça Blumenau. Alho poró. Dedo de moça. Manjericão. Azeite de oliva. Gran Formaggio RAR."
             }
         ],
         "Pasta ": [
             {
                 "nome": "Lumaconi com abobrinha e pinoli.",
-                "preço": "R$ 110,00",
+                "preço": 110.0,
+                "informação-extra": null,
                 "descrição": "Lumaconi. Caldo de alho poró cremoso. Abobrinha. Manjericão. Pinoli."
             },
             {
                 "nome": "Cavatelli com queijo de cabra.",
-                "preço": "R$ 120,00",
+                "preço": 120.0,
+                "informação-extra": null,
                 "descrição": "Cavatelli. Molho de queijo de cabra. Brócolis grelhado. Nozes pecan. Azeite de aroeira."
             },
             {
                 "nome": "Espaguete com molho de tomate e burrata.",
-                "preço": "R$ 110,00",
+                "preço": 110.0,
+                "informação-extra": null,
                 "descrição": "Espaguete. Molho de tomate. Manjericão. Burrata."
             },
             {
                 "nome": "Espaguete em caldo de peixe e atum.",
-                "preço": "R$ 140,00",
+                "preço": 140.0,
+                "informação-extra": null,
                 "descrição": "Espaguete. Velouté de peixe defumado. Ovas. Tartar de atum."
             },
             {
                 "nome": "Bucatini frutos do mar.",
-                "preço": "R$ 140,00",
+                "preço": 140.0,
+                "informação-extra": null,
                 "descrição": "Bucatini. Molho de tomate com bisque. Camarão. Lula. Mexilhão."
             },
             {
                 "nome": "Rigatoni com gorgonzola e mignon.",
-                "preço": "R$ 120,00",
+                "preço": 120.0,
+                "informação-extra": null,
                 "descrição": "Rigatoni. Cubos de mignon. Molho de gorgonzola. Cebola roxa assada."
             },
             {
                 "nome": "Nhoque bolonhesa com espuma umami. - Clássico do Chef",
-                "preço": "R$ 130,00",
+                "preço": 130.0,
+                "informação-extra": null,
                 "descrição": "Nhoque de batata. Molho bolonhesa. Espuma umami. Crocante de quinoa."
             },
             {
                 "nome": "Agnolotti plin de costela defumada com molho de queijo da Canastra.",
-                "preço": "R$ 130,00",
+                "preço": 130.0,
+                "informação-extra": null,
                 "descrição": "Agnolotti plin recheado com costela defumada. Molho de queijo da Canastra. Migas de pão. Vinagrete de tomate e caldo de carne. Agrião."
             }
         ],
         "Terra e mar": [
             {
                 "nome": "Peixe do dia.",
-                "preço": "R$ 155,00",
+                "preço": 155.0,
+                "informação-extra": null,
                 "descrição": "Peixe do dia grelhado. Cenouras assadas. Iogurte. Salicórnia. Vinagrete de castanha. Farofa de banana."
             },
             {
                 "nome": "Polvo grelhado com lentilhas verdes.",
-                "preço": "R$ 220,00",
+                "preço": 220.0,
+                "informação-extra": null,
                 "descrição": "Polvo grelhado. Lentilhas verdes com embutidos. Gremolata. Couve bok Choi. Bottarga"
             },
             {
                 "nome": "Cupim defumado com mandioquinha.",
-                "preço": "R$ 125,00",
+                "preço": 125.0,
+                "informação-extra": null,
                 "descrição": "Cupim assado e defumado. Creme de mandioquinha. Farofa de pão. Brócolis tostado."
             },
             {
                 "nome": "Costelinha de porco laqueada.",
-                "preço": "R$ 130,00",
+                "preço": 130.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Costelinha laqueada. Lavanda. Purê de cenoura com amêndoas. Funcho. Molho de cerejas. Agrião."
             },
             {
                 "nome": "Mignon com caramelle.",
-                "preço": "R$ 149,00",
+                "preço": 149.0,
+                "informação-extra": null,
                 "descrição": "MIgnon grelhado. Caramelle de espinafre e batata. Molho de vinho do porto. Molho de paris."
             }
         ],
         "Sobremesas": [
             {
                 "nome": "Pavlova de frutas vermelhas",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Merengue. Creme de baunilha. Frutas. Coulis de morango."
             },
             {
                 "nome": "Tiramisu com doce de leite",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Biscoito savoiardi. Café. mascarpone. Doce de leite. Cacau."
             },
             {
                 "nome": "Mousse de chocolate",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Mousse de chocolate. Caramelo. Flor de sal."
             },
             {
                 "nome": "Arroz doce com abóbora.",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Arroz doce cremoso. Doces de abóbora. Azeite de hortelã. Ervas."
             },
             {
                 "nome": "Sagu de coco com amendoim",
-                "preço": "R$ 34,00",
+                "preço": 34.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Sagu em leite de coco. Creme de amendoim. Amendoim crocante."
             },
             {
                 "nome": "Rabanada Tradicional do Chef",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Rabanada. Doce de leite. Sorvete de leite. Calda de fava Tonka."
             }
         ]
@@ -186,57 +220,67 @@
         "Entradas": [
             {
                 "nome": "Sanduba de peixe. Relish de pepino. Salada de ervas cítricas.Molho tártaro.",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salada de folhas e ervas. Noz pecan.",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Carpaccio de mignon. Molho tonnato. Tomates assados. Agrião.",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Pratos principais": [
             {
                 "nome": "Fusilli. Creme de manjericão. Limão siciliano. Farofa de pão.",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Espaguete. Polpetine. Molho de tomate.",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Picadinho de mignon. Arroz. Ovo frito. Caldinho de feijão. Couve.Batatas fritas.",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Escalope de mignon. Mandioca cozida. Caldo de porco. Salada deagrião.",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Peixe do dia. Purê de batata doce e cambuci. Salada de abobrinha e cogumelo paris. Crocante de sementes. (adicional de R$30)",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sobremesa": [
             {
                 "nome": "Mousse de chocolate. Caramelo salgado.",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo gelado de coco. Calda de doce de leite.",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -244,136 +288,162 @@
         "Feér(ica)": [
             {
                 "nome": "Guaraci",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Herbal e refrescante. Rum. Mate. Abacaxi. Cumaru."
             },
             {
                 "nome": "New York Punch",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Cremoso e aveludado. Whisky. Limão. Açúcar. Clarificado."
             },
             {
                 "nome": "Iara",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Floral e licoroso. Gin. Lavanda. Pimenta da Jamaica."
             },
             {
                 "nome": "Ponja",
-                "preço": null,
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Cítrico e amargo. Pisco. Cynar. Yuzu. Cacau."
             },
             {
                 "nome": "Novo",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Aromático e delicado. Jerez. Shissô. Flor de sabugueiro."
             },
             {
                 "nome": "Drive My Car",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Leve e refrescante. Vodka. Licor de pêssego. Cordial de morango com sálvia."
             }
         ],
         "Clássica": [
             {
                 "nome": "Aviation",
-                "preço": null,
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "Floral e adocicado. Gin. Licor Maraschino. Limão."
             },
             {
                 "nome": "Martinez",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Seco e aromático. Gin. Vermute tinto. Licor Maraschino."
             },
             {
                 "nome": "Fitzgerald",
-                "preço": null,
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "Cítrico e refrescante. Gin. Angostura Bitter. Limão."
             },
             {
                 "nome": "Macunaíma",
-                "preço": "R$ 34,00",
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "Herbal e cítrico. Cachaça. Fernet-branca. Limão."
             },
             {
                 "nome": "Paloma",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Cítrico e amargo. Tequila. Grapefruit. Club soda."
             },
             {
                 "nome": "Paper plane",
-                "preço": null,
+                "preço": 41.0,
+                "informação-extra": null,
                 "descrição": "Herbal e amargo. Bourbon Whiskey. Amaro. Aperol. Limão."
             },
             {
                 "nome": "Penicilin",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Aromático e refrescante. Scoth Whisky. Gengibre. Mel. Limão."
             },
             {
                 "nome": "Negroni",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Amargo e doce. Gin. Vermouth Rosso. Campari."
             },
             {
                 "nome": "Margarita",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Cítrico e refrescante. Tequila. Licor de laranja. Limão. Açúcar."
             },
             {
                 "nome": "Moscow Mule",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Refrescante e picante. Vodka. Gengibre. Limão."
             },
             {
                 "nome": "Dry Martini",
-                "preço": null,
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "Seco e potente. Gin. Vermouth Dry."
             },
             {
                 "nome": "Espresso Martini",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Cremoso e potente. Vodka. Licor de café. Espresso."
             },
             {
                 "nome": "Gin Tõnica",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Cítrico e floral. Gin. Tônica. Limão."
             },
             {
                 "nome": "Rabo de Galo",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Potente e herbal. Cachaça. Vermouth Rosso. Cynar."
             }
         ],
         "Mocktails": [
             {
                 "nome": "The Purple Color",
-                "preço": null,
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "Frutado e refrescante. Manga. Maracujá. Cordial Timur Berry. Espuma de jabuticaba. Hibisco."
             },
             {
                 "nome": "Virgin Paloma",
-                "preço": null,
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Cítrico e refrescante. Grapefruit. Club soda."
             },
             {
                 "nome": "Mate Y Piña",
-                "preço": null,
+                "preço": 21.0,
+                "informação-extra": null,
                 "descrição": "Herbal e refrescante. Chá Mate. Abacaxi. Cumaru."
             },
             {
                 "nome": "Cigana",
-                "preço": null,
+                "preço": 21.0,
+                "informação-extra": null,
                 "descrição": "Frutado e intenso. Chá de hibisco. Cordial de morango com sálvia."
             },
             {
                 "nome": "Flora",
-                "preço": null,
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "Floral e refrescante. Laranja. Tônica. Cordial timur berry."
             },
             {
                 "nome": "Ginger Soda",
-                "preço": null,
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "Refrescante. Gengibre. Limão. Club soda."
             }
         ]
@@ -382,152 +452,181 @@
         "Soft Drinks": [
             {
                 "nome": "Água Panna",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Sem gás (505ml)"
             },
             {
                 "nome": "Água San Pellegrino",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Com gás (505ml)"
             },
             {
                 "nome": "Água Serra do Atlântico",
-                "preço": "R$ 9,00",
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Sem gás (330ml)"
             },
             {
                 "nome": "Água Serra do Atlântico",
-                "preço": "R$ 9,00",
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Com gás (330ml)"
             },
             {
                 "nome": "Suco de uva integral",
-                "preço": "R$ 19,00",
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "(250ml)"
             },
             {
                 "nome": "Suco de laranja natural",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco de limão natural",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coca cola",
-                "preço": "R$ 9,00",
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coca cola zero",
-                "preço": "R$ 9,00",
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Guaraná Antártica",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Guaraná Antártica zero",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Schweppes Tônica",
-                "preço": "R$ 9,00",
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Schweppes Tônica Zero",
-                "preço": "R$ 9,00",
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Red Bull",
-                "preço": "R$ 14,00",
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Red Bull",
-                "preço": "R$ 14,00",
+                "preço": 14.0,
+                "informação-extra": null,
                 "descrição": "Sugar free"
             }
         ],
         "Cervejas": [
             {
                 "nome": "Maniacs Ipa",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "A Maniacs IPA é arrojada no perfil de aroma e amargor, seguindo a escola das cervejarias artesanais americanas. O dry hopping traz notas cítricas e herbais que lembram manga, casca de laranja e pinho. Tudo combinado com uma alta drinkability, uma cor dourada e final seco, ideal para ser sua cerveja do dia-a-dia."
             },
             {
                 "nome": "Maniacs Craft Lager",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Sua Lager do dia-a-dia com AQUELE toque craft de verdade! Uma cerveja clara com leve aroma de lúpulos, notas florais bem marcantes, amargor leve e final seco. Pra beber, se surpreender e pedir mais!"
             },
             {
                 "nome": "Maniacs Aloha",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Nossa Aloha traz em sua essência a brisa do último estado dos EUA, o Havaí, com sua refrescância e caráter cítrico e frutado bem marcante. No dialeto local, dizem que Aloha pode significar tanto oi quanto tchau, e também amor e afeição - nada mais justo: conheça nossa American Pale Ale, você vai amar e vai voltar sempre. Mahalo!"
             },
             {
                 "nome": "Maniacs 41 Pils",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Lançada em 2019 para celebrar o aniversário da cidade, a 41 Pils é uma cerveja feita em Curitiba para Curitiba, sendo comercializada com exclusividade aqui em nossa cidade. Produzimos a 41 Pils com receita fiel ao estilo Bohemian Pilsner, criado em 1842 e que revolucionou o mundo cervejeiro, devido ao seu brilho dourado e sabor refrescante, inovadores à época."
             },
             {
                 "nome": "Maniacs Tripel Limão Rosa",
-                "preço": null,
+                "preço": 29.0,
+                "informação-extra": null,
                 "descrição": "O chef Lênin Palhano e a Maniacs se uniram para criar um rótulo exclusivo: A Maniacs by Lênin Palhano, uma elegante Tripel belga com um toque especial de limão rosa, um dos ingredientes mais presentes da culinãria do chef. As cervejas Tripel, clássicas da Bélgica são conhecidas pelo alto teor alcoólico, espuma cremosa, notas frutadas e um leve amargor equilibrado pelo malte. Com toque de limão rosa, este rótulo ganha um frescor único e uma acidez suave."
             }
         ],
         "Bebidas Quentes": [
             {
                 "nome": "Expresso normal",
-                "preço": "R$ 7,00",
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Expresso descafeinado",
-                "preço": "R$ 10,00",
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Macchiato",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cappuccino",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Latte",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coado",
-                "preço": "R$ 6,00",
+                "preço": 6.0,
+                "informação-extra": null,
                 "descrição": "(150ml)"
             },
             {
                 "nome": "Chá Twinings camomila",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá Twinings hortelã",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá Twinings limão e gengibre",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },

@@ -3,277 +3,328 @@
         "Menu Executivo": [
             {
                 "nome": "Escolha os Itens",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Novidades": [
             {
                 "nome": "Cookie de Chocolate",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Cookie de farinha de arroz e amêndoas com gotas de chocolate ao leite (1 unidade)"
             },
             {
                 "nome": "Torta de Chocolate Meio Amargo",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Torta de chocolate meio amargo com base de farinha de amendoas e açucar de coco finalizada com calda toffee"
             },
             {
                 "nome": "Torta de Pistache",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Torta de creme de pistache integral com base de farinha de amendoas e creme de aveia finalizado com pistache assado"
             },
             {
                 "nome": "Cheesecake de Frutas Vermelhas",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Sem açúcar",
                 "descrição": "Cheesecake com base de farinha de amêndoas com calda de frutas vermelhas"
             }
         ],
         "Entradas": [
             {
                 "nome": "Trio De Bruschettas",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Bruschetta de pão italiano em três versões: Queijo brie com parma e redução de vinagre balsâmico, Burrata com pesto de manjericão e tomate cereja e pêra com mel, mix de queijo e nuts"
             },
             {
                 "nome": "Trio de Tartar",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": "Contém glúten",
                 "descrição": "Filé mignon com emulsão de mostarda dijon,Salmão com aioli de limoncello e mix de cogumelos com ricota de burrata."
             },
             {
                 "nome": "Queijo Camembert Assado no Forno com Mel",
-                "preço": "R$ 64,00",
+                "preço": 64.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Queijo camembert empanado e assado, finalizado com mel acompanhado de torradas da casa."
             },
             {
                 "nome": "Arancini Pomodoro (6 unidades)",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Bolinho de arroz arbóreo crocantes e cremosos com molho pomodoro, queijo parmesão, mussarela."
             },
             {
                 "nome": "Chips De Batata Doce Assada",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Chips de batata doce roxa e branca, servidos com guacamole e mix de queijos com nuts, finalizados com um toque de pimenta rosa"
             },
             {
                 "nome": "Burrata De Mozzarella De Búfula",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Burrata coberta por pesto de manjericão e rucúla, acompanhado de tomates confitados e torradas da casa"
             },
             {
                 "nome": "Steak Tartare",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Tartare de filé mignon temperado com mostarda e alcaparras servido com ovo pochet, fatias de ciabata de fermentação natural e mix de folhas, finalizado com com azeite trufado e pimenta rosa"
             },
             {
                 "nome": "Tartare De Salmão",
-                "preço": "R$ 66,00",
+                "preço": 66.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Tartare de salmão com shoyo e um toque de gengibre sob uma base de quinua vermelha cítrica com tomates e cebola roxa, finalizado com redução oriental"
             },
             {
                 "nome": "Toast De Avocado",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Pão de fermentação natural assado com guacamole e ovo pochet (caso prefira, pode ser substituido por ovo cozido) finalizado com pimenta rosa"
             },
             {
                 "nome": "Toast De Salmão Curado",
-                "preço": "R$ 58,00",
+                "preço": 58.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Pão de fermentação natural assado com creme de ricota, folhas de rúcula, salmão curado e pistache"
             },
             {
                 "nome": "Mix De Batata Doce Roxa e Amarela",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Mix de batata frita, temperada com páprica, sal e pimenta preta. Acompanha aioli."
             },
             {
                 "nome": "Couve-Flor Gratinada",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Couve flor temperada e gratinada no molho de parmesão e especiarias."
             }
         ],
         "Saladas": [
             {
                 "nome": "Salada De Salmão Curado",
-                "preço": "R$ 78,00",
+                "preço": 78.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Mix de folhas com salmão curado, moyashi, manga, abacate e edamame finalizados com gergelim ao molho de limão siciliano com gengibre e mel"
             },
             {
                 "nome": "Salada De Atum Selado",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Mix de folhas servido com atum selado, laranja, picles de cebola roxa e quinua finalizado com pistache ao molho de limão siciliano com gengibre e mel"
             },
             {
                 "nome": "Salada De Filé Mignon",
-                "preço": "R$ 75,00",
+                "preço": 75.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Mix de folhas servido com quinoa vermelha, mussarela de bufala, tomate seco, nozes, fatias de filé mignon grelhado e redução de vinagre balsamico"
             },
             {
                 "nome": "Salada Veggie",
-                "preço": "R$ 53,00",
+                "preço": 53.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Mix de folhas com rabanete fatiado, cebola roxa, cubos de beterraba, queijo de cabra, pêra e nuts, ao molho de iogurte e dill."
             }
         ],
         "Bowls": [
             {
                 "nome": "Bowl De Filé Mignon",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": "Contém glúten",
                 "descrição": "Penne ao alho e óleo salteado com cenoura, cebola roxa, espinafre, brócolis e iscas de filé mignon grelhado finalizado com semente de girassol assada"
             },
             {
                 "nome": "Bowl De Salmão Assado",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Quinoa vermelha cozida com caldo de peixe, edamame, tomate cereja, shitake, couve flor e salmão assado servido com molho cítrico"
             },
             {
                 "nome": "Bowl De Frango ao Pesto",
-                "preço": "R$ 57,00",
+                "preço": 57.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Filé de frango cozido em baixa temperatura coberto por molho pesto,acompanhado de mix de grãos (arroz negro,quinoa.gergelim e semente de chia) com um leve toque de balsâmico com semente de girassol e mix de folhas com tomate cereja."
             },
             {
                 "nome": "Bowl Thai",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Arroz 7 grãos, brócolis, cenoura e repolho roxo salteados ,servido com peito de frango cozido em baixa temperatura e molho thai de curry e castanhas. *Se preferir consulte o garçom para mais opções de proteina*"
             }
         ],
         "Carnes e Peixes": [
             {
                 "nome": "Fraldinha Grelhada",
-                "preço": "R$ 91,00",
+                "preço": 91.0,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Fraldinha grelhada com chimichurri defumado ,mousseline de mandioca,queijo coalho e farofa de nuts"
             },
             {
                 "nome": "Filé Mignon Grelhado",
-                "preço": "R$ 94,00",
+                "preço": 94.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Acompanhado de risoto de parmesão, figo caramelizado e redução de balsâmico"
             },
             {
                 "nome": "Filé Mignon Com Couve Flor Tostada",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Filé mignon alto grelhado acompanhado de arroz 7 grãos com couve-flor tostada na grelha com redução de beterraba, vinagrete de frutas vermelhas e avelãs assadas"
             },
             {
                 "nome": "Tagliata De Chorizo",
-                "preço": "R$ 105,00",
+                "preço": 105.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Tagliata de chorizo acompanhado de batatas gratin ao molho dijon com um toque de páprica e azeite de ceboulete"
             },
             {
                 "nome": "Salmão Em Crosta",
-                "preço": "R$ 96,00",
+                "preço": 96.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Salmão assado em crosta crocante de amendoas e ervas acompanhado de arroz negro salteado com tomate cereja e aspargos servido com molho de espinafre"
             },
             {
                 "nome": "Atum Selado Em Crosta",
-                "preço": "R$ 94,00",
+                "preço": 94.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Atum selado com crosta de gergelim branco e preto acompanhado de purê de palmito e salada de rúcula, cenoura assada e tomates confit finalizado com redução oriental"
             },
             {
                 "nome": "Pescada Amarela",
-                "preço": "R$ 95,00",
+                "preço": 95.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Filé de pescada amarela assada com crumble de aveia e molho de alcaparras acompanhado de purê de banana da terra e legumes salteados, finalizado com fios de limão siciliano em calda"
             },
             {
                 "nome": "Polvo Grelhado Acompanhado De Batatas",
-                "preço": "R$ 130,00",
+                "preço": 130.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Polvo grelhado com batatas assadas, tomate cereja finalizado com páprica defumada, fios de limão siciliano e aioli"
             }
         ],
         "Massas": [
             {
                 "nome": "Ravioli de Búfala",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Ravioli de blend de mussarelas,servido ao molho sugo, manjericão fresco, tomate cereja e mussarela de búfala"
             },
             {
                 "nome": "Ravioli De Abóbora e Camarão",
-                "preço": "R$ 78,00",
+                "preço": 78.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Ravioli de abóbora na fonduta de parmesão com tomate cereja e camarões salteados finalizados com crispy de parma."
             },
             {
                 "nome": "Fettuccine Com Salmão Em Lascas",
-                "preço": "R$ 82,00",
+                "preço": 82.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Fettuccine com molho branco, aspargos salteados e salmão assado em lascas"
             },
             {
                 "nome": "Nhoque Ao Ragú De Fraldinha",
-                "preço": "R$ 73,00",
+                "preço": 73.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Nhoque ao ragú de fraldinha, tomate cereja, manjericão fresco finalizado com queijo de cabra e azeite de ervas"
             },
             {
                 "nome": "Lasanha De Abobrinha (Vegan)",
-                "preço": "R$ 85,00",
+                "preço": 85.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Fatias de abobrinha intercalada com molho pomodoro da casa, mix de cogumelos salteado(shitake e shimeji) e queijo vegano."
             }
         ],
         "Risotos": [
             {
                 "nome": "Risoto De Burrata",
-                "preço": "R$ 71,00",
+                "preço": 71.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Risoto ao sugo com burrata fresca e tomate cereja, coberto por pesto de manjericão e folhas de manjericão fresco * Pode ser adicionado uma proteína extra*"
             },
             {
                 "nome": "Risoto De Quinoa e Filé Mignon",
-                "preço": "R$ 88,00",
+                "preço": 88.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Risoto de arroz arboóreo e quinoa vermelha com filé mignon e shitake salteado, finalizado com couve crispy."
             }
         ],
         "Monte Sua Salada": [
             {
                 "nome": "Escolha os Itens",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Monte Seu Bowl": [
             {
                 "nome": "Escolha os Itens",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sobremesas": [
             {
                 "nome": "Cookie de Chocolate",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Cookie de farinha de arroz e amêndoas com gotas de chocolate ao leite (1 unidade)"
             },
             {
                 "nome": "Torta de Chocolate Meio Amargo",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Torta de chocolate meio amargo com base de farinha de amendoas e açucar de coco finalizada com calda toffee"
             },
             {
                 "nome": "Torta de Pistache",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Torta de creme de pistache integral com base de farinha de amendoas e creme de aveia finalizado com pistache assado"
             },
             {
                 "nome": "Cheesecake de Frutas Vermelhas",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Sem açúcar",
                 "descrição": "Cheesecake com base de farinha de amêndoas com calda de frutas vermelhas"
             },
             {
                 "nome": "Torta Cookies com Ganache de Brigadeiro",
-                "preço": "R$ 34,00",
+                "preço": 34.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Uma torta para não colocar defeito, feita com ingredientes funcionais, chocolate belga, leite de amêndoas e açúcar demerara"
             },
             {
                 "nome": "Foundant de Chocolate e Frutas Vermelhas",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Para quem gosta de sobremesa clássica,uma torta bolo de chocolate cremoso que se equilibra perfeitamente com uma calda de frutas vermelhas artesanal adoçada com açúcar demerara."
             },
             {
                 "nome": "Café Expresso Illy",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá Quente",
-                "preço": null,
+                "preço": 7.0,
+                "informação-extra": null,
                 "descrição": "Consulte os sabores com o garçon."
             },
             {
                 "nome": "Licores",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Licor 43 ou Limoncello"
             }
         ]
@@ -282,52 +333,62 @@
         "Bebidas Sem Álcool": [
             {
                 "nome": "Chá Feel Good - Verde",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá Feel Good - Laranja com Gengibre",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá Feel Good - Chá de Pitaya",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coca-cola",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coca-cola zero",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Guaraná",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Schweppes citrus",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sprite",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tônica",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Soda Italiana",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Sabores: Limão siciliano,Tangerina,Maçã verde, Frutas vermelhas, Melão e Mirtilo"
             }
         ]
@@ -336,23 +397,27 @@
         "Cervejas": [
             {
                 "nome": "Stella Artois",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Heineken",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hoegarden",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Goose Midway IPA",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },

@@ -3,113 +3,133 @@
         "Lamen": [
             {
                 "nome": "Shio Lamen (sabor sal)",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": "Contém glúten",
                 "descrição": "Caldo leve de galinha sabor sal."
             },
             {
                 "nome": "Shoyu Lamen (sabor shoyu)",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": "Contém glúten",
                 "descrição": "Caldo leve de galinha sabor shoyu."
             },
             {
                 "nome": "Misso Lamen (sabor missô)",
-                "preço": null,
+                "preço": 27.0,
+                "informação-extra": "Contém glúten",
                 "descrição": "Caldo leve de galinha sabor missô."
             }
         ],
         "Tonkotsu": [
             {
                 "nome": "Shio Tonkotsu (sabor sal)",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": "Contém glúten",
                 "descrição": "Caldo encorpado de porco sabor sal."
             },
             {
                 "nome": "Shoyu Tonkotsu (sabor shoyu)",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": "Contém glúten",
                 "descrição": "Caldo encorpado de porco no sabor shoyu."
             },
             {
                 "nome": "Misso Tonkotsu (sabor missô)",
-                "preço": null,
+                "preço": 27.0,
+                "informação-extra": "Contém glúten",
                 "descrição": "Caldo encorpado de porco sabor missô."
             }
         ],
         "Prato Frio": [
             {
                 "nome": "Hiyashi Chuka",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": "Contém glúten",
                 "descrição": "Macarrão servido frio com molho de shoyu, gengibre, alga kombu e especiarias."
             }
         ],
         "Tsukemen": [
             {
                 "nome": "Tsukemen",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Toppings": [
             {
                 "nome": "Naruto (4 Fatias)",
-                "preço": "R$ 4,00",
-                "descrição": ""
+                "preço": 4.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Moyashi (Broto de Feijão)",
-                "preço": "R$ 4,00",
-                "descrição": ""
+                "preço": 4.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Milho",
-                "preço": "R$ 3,00",
-                "descrição": ""
+                "preço": 3.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Negui (Cebolinha Picada)",
-                "preço": "R$ 3,00",
-                "descrição": ""
+                "preço": 3.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chashu (1 Fatia Carne)",
-                "preço": "R$ 2,00",
-                "descrição": ""
+                "preço": 2.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Manteiga",
-                "preço": "R$ 2,00",
-                "descrição": ""
+                "preço": 2.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Nori (Folha de Alga)",
-                "preço": "R$ 2,00",
-                "descrição": ""
+                "preço": 2.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gengibre Vermelho",
-                "preço": "R$ 2,00",
-                "descrição": ""
+                "preço": 2.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ovo (Cozido e Marinado)",
-                "preço": "R$ 1,00",
-                "descrição": ""
+                "preço": 1.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Kaedama (Refil Macarrão)",
-                "preço": "R$ 8,00",
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Porções": [
             {
                 "nome": "Gyoza Aska (Carne e Cebola)",
-                "preço": "R$ 24,00",
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gyoza Yasai (Carne e Legumes)",
-                "preço": "R$ 24,00",
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -117,58 +137,69 @@
         "Bebidas": [
             {
                 "nome": "Água Mineral",
-                "preço": null,
-                "descrição": ""
+                "preço": 4.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco Del Valle Laranja",
-                "preço": null,
-                "descrição": ""
+                "preço": 5.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco Del Valle Uva 200ml",
-                "preço": null,
-                "descrição": ""
+                "preço": 5.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coca Cola",
-                "preço": null,
-                "descrição": ""
+                "preço": 6.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coca Cola Zero",
-                "preço": "R$ 6,00",
-                "descrição": ""
+                "preço": 6.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Guaraná",
-                "preço": null,
-                "descrição": ""
+                "preço": 6.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Guaraná Zero",
-                "preço": null,
-                "descrição": ""
+                "preço": 6.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Budweiser",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Spaten",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sakê Azumakirin",
-                "preço": null,
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sakê Hakushika",
-                "preço": null,
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },

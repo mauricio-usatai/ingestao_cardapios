@@ -3,525 +3,624 @@
         "Novidades - Japa Lounge": [
             {
                 "nome": "Carpaccio Fresh",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Delicie-se com nosso Carpaccio Tradicional de Salmão, uma combinação perfeita de fatias finas de salmão fresco, marinadas em um delicado molho cítrico, servidas com folhas de rúcula frescas e crocantes. Uma explosão de sabor e frescor em cada mordida"
             },
             {
                 "nome": "Hot Spicy Tartar",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Experimente nossa versão única do tradicional Hot Roll, sem arroz! Este prato apresenta uma combinação incrível de sabores, com o cremoso spicy tartar de salmão em cima do rolinho, garantindo uma explosão de sabores a cada mordida. Uma opção leve e cheia de sabor para os amantes da culinária japonesa!"
             },
             {
                 "nome": "Hot Shi",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Desfrute de nosso tradicional Hot Roll, recheado com uma deliciosa combinação de shimeji e cream cheese, envolto em arroz e alga nori crocante. Cada mordida é uma explosão de sabores e texturas que vai encantar seu paladar. Uma opção perfeita para os amantes da culinária japonesa!"
             },
             {
                 "nome": "Ceviche Lemon Pepper",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Nosso Tradicional Ceviche de Salmão é uma explosão de frescor e sabor! Preparado com suculentos pedaços de salmão fresco, marinados em um tempero de lemon pepper e azeite, este prato é leve, refrescante e perfeito para os amantes de frutos do mar. Uma verdadeira celebração de sabores!"
             },
             {
                 "nome": "Batera de Salmão",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Conheça nossa nova sensação: a Batera! Uma fusão incrível de salmão batido temperado com pimenta sriracha, azeite trufado, maionese Heinz, mostarda Dijon e raspas de limão siciliano, finalizado com molho tare, gergelim e cebolinha. Sabores inesquecíveis em um prato único!"
             },
             {
                 "nome": "Fry Nutella",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Delicie-se com nossa irresistível goiabada recheada de cream cheese, crocante por fora com a textura única da farinha Panko, e finalizada com a doçura da Nutella e a morango. Uma combinação perfeita de sabores e texturas para satisfazer seus desejos mais doces"
             },
             {
                 "nome": "Temaki Hot Salmao",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Temaki de salmão empanado com farinha Panko."
             },
             {
                 "nome": "Salmao Black",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Delicioso salmão marinado com especiarias do cheff"
             },
             {
                 "nome": "Carpaccio Monte Fuji",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Delicioso Carpaccio de salmao , com pesto de azeitona, raspa de limao siciliano e crypy de batata doce"
             },
             {
                 "nome": "Ceviche do cheff",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "ceciche de salmao com molho citrico e batata crocante"
             },
             {
                 "nome": "Niguiri Zuke",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Salmao marinado selado , com laranja , flor de sal e cebolinha"
             }
         ],
         "Entrada": [
             {
                 "nome": "Sunomono",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Vegano",
                 "descrição": "Pepino em fatias finas, marinado em molho Shari (Vinagre de arroz, açucar e um pouco de tempero)"
             },
             {
                 "nome": "Ceviche",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Peixe branco (Saint peter), marinado em cebola rocha, limão e tempero da casa."
             },
             {
                 "nome": "Salmão grelhado",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Salmão, Skin e Saint peter gralhados, com tempero especial da casa. Coberto com tarê e gergilim."
             },
             {
                 "nome": "Vinagrete de Polvo",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Vinagrete de polvo, com crispy de batata doce."
             },
             {
                 "nome": "Spicy Tartar",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Apimentado",
                 "descrição": "Cubos de salmão, mostarda djon, maionese e pimenta dedo de moça."
             }
         ],
         "Entrada Quente": [
             {
                 "nome": "Cubo de Peixe Empanado (Com Geleia de Pimenta)",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "O peixe empanado com geleia de pimenta é um prato delicioso e crocante. O peixe é empanado e frito até ficar dourado e crocante, e servido com uma geleia de pimenta doce e picante. A combinação de sabores e texturas é surpreendente."
             },
             {
                 "nome": "Orange Chicken",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "O Orange Chicken é um prato simples e delicioso de cubos de frango empanados e fritos, cobertos com uma redução de laranja e gengibre que cria um sabor agridoce irresistível. Perfeito para quem gosta de frango crocante com um toque especial."
             },
             {
                 "nome": "Bolinha de Peixe",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Rolinho Primavera",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Legumes, queijo, presunto e queijo, frango com cream cheese e camarão com cabotcha e cream cheese."
             },
             {
                 "nome": "Gyoza carne suína",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Experimente nossos Gyoza de carne suína - deliciosamente recheados e disponíveis em duas opções de preparo: frito ou no vapor."
             },
             {
                 "nome": "Tempurá de Legumes",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Aneis de Lula",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Anéis de lula empanados e fritos: uma opção deliciosa e crocante para quem adora frutos do mar."
             },
             {
                 "nome": "Lula palito empanada",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "lula palito empanada na farinha panko e geleia de pimenta: Um petisco delicioso e crocante, preparado com tiras de lula empanadas na crocante farinha panko. O toque final é dado pela geleia de pimenta, que adiciona um sabor doce e picante ao prato, criando um contraste perfeito com a textura crocante da lula. É uma opção ideal para quem busca um petisco saboroso e diferente, que agrada aos amantes de frutos do mar e de sabores intensos."
             },
             {
                 "nome": "Camarão Cremoso Picante",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Camarão sete barbas com casca, empanado e frito, temperado com maionese da casa apimentada."
             },
             {
                 "nome": "Camarão adore",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Camarão sete barbas com casca, empanado e frito."
             },
             {
                 "nome": "Yakissoba",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "O Yakissoba de frango é uma opção deliciosa para uma refeição rápida e satisfatória. O macarrão é cozido e salteado com pedaços suculentos de frango, misturado com legumes variados e temperado com molho de soja e outros temperos asiáticos, criando uma mistura saborosa e reconfortante."
             },
             {
                 "nome": "Siri Gratinado",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Carpaccio": [
             {
                 "nome": "Carpaccio do Chef",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Nosso sashimi de salmão na pedra de sal com azeite trufado e raspas de limão siciliano é um prato querido dos nossos clientes. A combinação de sabores e a experiência única de cozinhar o salmão na pedra de sal são irresistíveis. Venha experimentar essa deliciosa opção e descubra por que ela é tão apreciada por todos."
             },
             {
                 "nome": "Carpaccio Pesto",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "O Carpaccio de Saint Peter é uma iguaria que consiste em finas fatias de peixe cru, cobertas com um molho pesto caseiro e uma pitada de pimenta Sriracha para dar um toque picante. A combinação do sabor delicado do peixe com o molho pesto de manjericão e a pimenta Sriracha proporcionam uma explosão de sabores que agrada aos paladares mais exigentes. É uma opção de entrada sofisticada e muito saborosa."
             },
             {
                 "nome": "Carpaccio de Salmão",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Carpaccio de salmão com molho cítrico de shoyo, limão e laranja, temperado com gengibre ralado e regado com óleo de gergelim."
             }
         ],
         "Sashimi": [
             {
                 "nome": "Salmão",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Sashimi de salmão é um prato típico da culinária japonesa, consistindo de finas fatias de salmão cru, geralmente servido com shoyu e wasabi. O salmão é cuidadosamente selecionado e preparado para ser servido em sua forma mais pura e saborosa, destacando sua textura macia e sabor rico."
             },
             {
                 "nome": "Salmão Trufado",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Sashimi de salmão com azeite trufado é um prato refinado e saboroso da culinária japonesa. O salmão é cortado em fatias finas e servido cru, realçando sua textura e sabor. O azeite trufado adiciona um toque de sofisticação, criando uma harmonia de sabores que encanta o paladar. É uma opção saudável e nutritiva, rica em proteínas e ácidos graxos ômega-3"
             },
             {
                 "nome": "Salmão Trufado com flor de sal",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Acompanhado por um toque de sofisticação, o azeite trufado e a flor de sal realçam o sabor do salmão, trazendo um equilíbrio perfeito de texturas e sabores que vão te levar à uma viagem sensorial."
             },
             {
                 "nome": "Atum",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Sashimi de atum é um prato japonês de fatias finas e frescas de atum cru, servido com shoyu e wasabi. Delicado e saboroso, é uma iguaria saudável e nutritiva."
             },
             {
                 "nome": "Peixe Prego",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "O peixe prego é um ingrediente valorizado na culinária japonesa devido à sua carne delicada e sabor suave. É frequentemente utilizado para fazer sashimi, sushi e outros pratos de frutos do mar, sendo uma excelente fonte de proteína magra e ácidos graxos ômega-3."
             },
             {
                 "nome": "Saint Peter",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Polvo",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Kani",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sashimi Tataki (maçaricado)": [
             {
                 "nome": "Salmão Selado",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Sashimi de Salmão maçaricado."
             },
             {
                 "nome": "Salmão Selado Especial",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Sashimi de Salmão maçaricado, com cebola roxa e tare."
             },
             {
                 "nome": "Atum Selado",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Com maionese de wasabi"
             }
         ],
         "Maravilha (Low Carb)": [
             {
                 "nome": "Maravilha de Salmão",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Enrolado de salmão e cream cheese, raspas de limão siciliano e molho tarê."
             },
             {
                 "nome": "Maravilha de Camarão",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Enrolado de salmão e cream cheese, raspas de limão siciliano, camarão e molho tare."
             }
         ],
         "Temaki": [
             {
                 "nome": "Salmão",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão Grelhado",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Skin",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Capa do salmão (Pele), frita, com molho tarê."
             },
             {
                 "nome": "Atum",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "California",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Kani, manga e pepino. Temaki tradicional."
             },
             {
                 "nome": "Shimeji",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": "Vegetariano",
+                "descrição": null
             }
         ],
         "Hossomaki": [
             {
                 "nome": "Salmão",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Atum",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Skin",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Kani",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pepino",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": "Vegano",
+                "descrição": null
             }
         ],
         "Uramaki": [
             {
                 "nome": "Salmão",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Uramaki de Salmão com Cream Cheese: um sushi enrolado de dentro para fora com arroz, alga crocante, salmão fresco e um delicioso recheio de cream cheese. Uma combinação suave e cremosa que derrete na boca. Experimente já!"
             },
             {
                 "nome": "Salmão Crispy",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Uramaki de Salmão Grelhado com Cream Cheese e Crispy de Couve: sushi enrolado de dentro para fora com arroz, alga crocante, salmão grelhado macio e um delicioso recheio de cream cheese. Crocante e saborosa finalização com crispy de couve. Sabores inesquecíveis em cada mordida!"
             },
             {
                 "nome": "Skin",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Uramaki Skin com Cream Cheese e Tare: um sushi enrolado de dentro para fora com arroz, alga crocante e a pele crocante e saborosa do salmão grelhado, tudo recheado com cream cheese cremoso e finalizado com o delicioso molho Tare. O contraste doce e salgado do Tare complementa perfeitamente o sabor do sushi. Experimente agora!"
             },
             {
                 "nome": "California",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Uramaki California com Manga: um sushi enrolado de dentro para fora com arroz, alga crocante, delicioso kani (carne de caranguejo), manga fresca e crocante pepino japonês. Servido com gergelim torrado. Uma combinação perfeita de sabores frescos e saborosos"
             },
             {
                 "nome": "Tomato",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Uramaki de Tomate Seco, Rúcula e Cream Cheese: um sushi enrolado de dentro para fora com arroz, alga crocante, tomate seco macio, folhas frescas de rúcula e cremoso cream cheese. Servido com gergelim torrado. Uma combinação saborosa e única de ingredientes frescos e deliciosos em cada mordida! Experimente agora."
             }
         ],
         "Niguiri": [
             {
                 "nome": "Salmão",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão Maçaricado",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Niguiri de salmão maçaricado."
             },
             {
                 "nome": "Saint Peter",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Skin",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Polvo",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Joy": [
             {
                 "nome": "Joy Cream",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Peixe branco em volta de cream cheese com molho tare e cebola roxa."
             },
             {
                 "nome": "Joy Salmão",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Opções sem arroz"
             },
             {
                 "nome": "Joy Crispy Poró",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Flambado",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy de Ovas",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Camarão",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Shimeji",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Polvo",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Doritos",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Franbo Cheese",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Maracujá",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Acelga Maki (Salmão)",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Unidade (não low carb)"
             },
             {
                 "nome": "Acelga Tem (Salmão Grelhado)",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Unidade (não low carb)"
             },
             {
                 "nome": "Acelga Brocolís",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Vegetariano",
                 "descrição": "Unidade (não low carb)"
             },
             {
                 "nome": "Acelga Shimeji",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": "Vegetariano",
+                "descrição": null
             }
         ],
         "Sushis Hot": [
             {
                 "nome": "Hot Roll",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hot Roll Chico Cesar",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Hot Roll tradicional, coberto com Crispy de couve."
             },
             {
                 "nome": "Cae Roll",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Idêntico ao Hotroll, com o diferencial de ter a massa do Harumaki no Lugar da Alga (Nori), com uma fina fatia se limão."
             },
             {
                 "nome": "Fry Cheese",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Saint peter em volto de cream cheese, empanado com farinha Panko."
             },
             {
                 "nome": "Fry Honey",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Nosso tradicional Fry Cheese com um toque de mel"
             }
         ],
         "Grelhado": [
             {
                 "nome": "Teppan Salmão",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Teppan Saint Peter",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Teppan de Lula",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Foto meramente ilustrativa. Teppan de lula: Uma deliciosa iguaria japonesa preparada na chapa, com fatias suculentas de lula grelhada. A lula é temperada com ingredientes tradicionais da culinária japonesa, resultando em um sabor delicado e suave."
             },
             {
                 "nome": "Teppan de Carne (Prime Steak)",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Shitake e Shimeji",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Shimeji refogado na manteiga: experimente a clássica técnica de preparação japonesa, realçando a suavidade e a profundidade do cogumelo. Uma combinação irresistível de textura e sabor. Aproveite!"
             },
             {
                 "nome": "Mushiake",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Cogumelos (Shiitake e Shimeji) refogado com Legumes, peixe branco e salmão, embrulhado em papel aluminio."
             },
             {
                 "nome": "Tempurá de Camarão",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Camarão rosa grande, empanado na farinha Panko."
             },
             {
                 "nome": "Teppan Salmão do cheff",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Nosso delicioso teppan , agora com um delicioso molho pesto de azeitona preta acompanhado de uma crosta de farofa maçaricada e purê"
             }
         ],
         "Sobremesa": [
             {
                 "nome": "Dupla de Joy Nutella",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Uma fatia de goiabada envolto de cream cheese, coberto com nutella e leite condensado."
             },
             {
                 "nome": "Banamaki Doce de Leite",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Banana enrolada na massa do harumaki frita e finalizada com doce de leite e leite condensado."
             },
             {
                 "nome": "Brigadeiro no Copinho",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Brigadeiro cremoso, com cobertura de paçoca e calda de frutas vermelhas."
             },
             {
                 "nome": "Cheese Cake no Copinho",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Creme de cheese cake, com cobertura de bolacha cream craken e goiabada cremosa."
             },
             {
                 "nome": "Brigadeiro Kit-Kat",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Com uma base de creme de cheese cake, cobertura de brigadeiro cremosa, calda de frutas vermelhas e Kit-kat"
             },
             {
                 "nome": "Bola de Sorvete",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Chocolate, Morango ou Chocolate Branco Pode acompanhar calda de chocolate ou morango."
             }
         ]
@@ -530,287 +629,340 @@
         "Entrada": [
             {
                 "nome": "Sunomono",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ceviche",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Carpaccio do Chef",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Salmão e azeite trufado, raspas de limão siciliano na pedra de sal"
             },
             {
                 "nome": "Carpaccio Pesto",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Sant Peter com azeite pesto picante"
             },
             {
                 "nome": "Orange Chicken",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Iscas de Frango com molho agridoce"
             }
         ],
         "Sashimi": [
             {
                 "nome": "Salmão",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão Trufado",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Atum",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Saint Peter",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sashimi Tataki": [
             {
                 "nome": "Salmão Selado",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Atum Selado",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Com maionese de wasabi"
             }
         ],
         "Temaki": [
             {
                 "nome": "Salmão",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "California",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "recheio de Kani, manga e pepino."
             },
             {
                 "nome": "Kani",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Hossomaki": [
             {
                 "nome": "Salmão",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Skin",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Kani",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pepino",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Uramaki": [
             {
                 "nome": "Salmão",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão Crispy",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Skin",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "California",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tomato",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Niguiri": [
             {
                 "nome": "Salmão",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão Maçaricado",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Com flor de sal"
             },
             {
                 "nome": "Saint Peter",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Skin",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Joy": [
             {
                 "nome": "Joy Salmão",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Crispy Poró",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Flambado",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Shimeji",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Doritos",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Framboesa Chesse",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Maracujá",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Acelga Maki",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Acelga Tem",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Acelga Brocolis",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Cream",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Hot": [
             {
                 "nome": "Hot Roll",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hot Roll Chico Cesar",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cae Roll",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fry Cheese",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fry Honey",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Com mel"
             }
         ],
         "Grelhado": [
             {
                 "nome": "Teppan Salmão",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tepann Saint Peter",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Shitake e Shimeji",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Yakissoba",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mushiake",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolinha de Peixe",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gyoza",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tempurá de Legumes Rolinho Primavera",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Legumes, queijo, pres e queijo, frango"
             }
         ],
         "Sobremesa": [
             {
                 "nome": "1 Bola de Sorvete",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Morango, Chocolate ou Chocolate Branco."
             },
             {
                 "nome": "Dupla de Joy Nutela",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "A vontade"
             }
         ]
@@ -819,525 +971,624 @@
         "Entradas Frias": [
             {
                 "nome": "Carpaccio do Chef (20 fatias)",
-                "preço": "R$ 50,90",
+                "preço": 50.9,
+                "informação-extra": null,
                 "descrição": "Na pedra de sal com azeite trufado e raspas de limão siciliano."
             },
             {
                 "nome": "Carpaccio de Salmão",
-                "preço": "R$ 45,90",
+                "preço": 45.9,
+                "informação-extra": null,
                 "descrição": "20 fatias (Molho especial de Sake, Shoyo e limão)"
             },
             {
                 "nome": "Carpaccio de Polvo",
-                "preço": "R$ 40,90",
+                "preço": 40.9,
+                "informação-extra": null,
                 "descrição": "20 fatias (Molho especial de Sake, Shoyo,pimenta shiracha e limão)"
             },
             {
                 "nome": "Ceviche",
-                "preço": "R$ 34,90",
+                "preço": 34.9,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Peixe Branco (Saint Peter) marinada no limáo com cebola roxa, pimenta dedo de moça e tempero. 220g"
             },
             {
                 "nome": "Sunomono",
-                "preço": "R$ 13,90",
+                "preço": 13.9,
+                "informação-extra": null,
                 "descrição": "Marinado com tempero agridoce. 220g"
             },
             {
                 "nome": "Salada Octopus",
-                "preço": "R$ 44,90",
+                "preço": 44.9,
+                "informação-extra": null,
                 "descrição": "Polvo, tomate, cebola roxa, azeite, limão e temperos. 220g"
             }
         ],
         "Hossomaki": [
             {
                 "nome": "Salmão",
-                "preço": "R$ 12,90",
-                "descrição": ""
+                "preço": 12.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Kani",
-                "preço": "R$ 9,90",
-                "descrição": ""
+                "preço": 9.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pepino",
-                "preço": "R$ 9,90",
-                "descrição": ""
+                "preço": 9.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Skin",
-                "preço": "R$ 10,90",
-                "descrição": ""
+                "preço": 10.9,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Uramaki": [
             {
                 "nome": "Salmão",
-                "preço": "R$ 24,90",
-                "descrição": ""
+                "preço": 24.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Skin Roll",
-                "preço": "R$ 19,90",
-                "descrição": ""
+                "preço": 19.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "California",
-                "preço": "R$ 17,90",
-                "descrição": ""
+                "preço": 17.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tomato Roll",
-                "preço": "R$ 19,90",
-                "descrição": ""
+                "preço": 19.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Crispy Poró",
-                "preço": "R$ 26,90",
-                "descrição": ""
+                "preço": 26.9,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Temaki": [
             {
                 "nome": "Salmão",
-                "preço": "R$ 48,90",
-                "descrição": ""
+                "preço": 48.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão em Cubos",
-                "preço": "R$ 55,90",
-                "descrição": ""
+                "preço": 55.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão",
-                "preço": "R$ 53,90",
+                "preço": 53.9,
+                "informação-extra": null,
                 "descrição": "Empanado ou Grelhado"
             },
             {
                 "nome": "Camarão",
-                "preço": "R$ 79,90",
-                "descrição": ""
+                "preço": 79.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Kani",
-                "preço": "R$ 19,90",
-                "descrição": ""
+                "preço": 19.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Skin",
-                "preço": "R$ 25,90",
-                "descrição": ""
+                "preço": 25.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Shimeji",
-                "preço": "R$ 41,90",
-                "descrição": ""
+                "preço": 41.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "TEMAKI HOT ROOL",
-                "preço": "R$ 45,90",
+                "preço": 45.9,
+                "informação-extra": null,
                 "descrição": "DELICIOSO TEMAKI DE SALMAO COM CREEAN CHEESE E CEBOLINHA EMPANADO E FRITO COMPLETAMENTE"
             }
         ],
         "Niguiri": [
             {
                 "nome": "Salmão",
-                "preço": "R$ 8,90",
-                "descrição": ""
+                "preço": 8.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Polvo",
-                "preço": "R$ 7,90",
-                "descrição": ""
+                "preço": 7.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Kani",
-                "preço": "R$ 5,90",
-                "descrição": ""
+                "preço": 5.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Flambado com Flor de Sal",
-                "preço": "R$ 8,90",
-                "descrição": ""
+                "preço": 8.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Skin",
-                "preço": "R$ 6,90",
-                "descrição": ""
+                "preço": 6.9,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sashimi": [
             {
                 "nome": "Salmão",
-                "preço": "R$ 52,90",
-                "descrição": ""
+                "preço": 52.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Polvo",
-                "preço": "R$ 36,90",
-                "descrição": ""
+                "preço": 36.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Saint Peter",
-                "preço": "R$ 34,90",
-                "descrição": ""
+                "preço": 34.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "kani",
-                "preço": "R$ 19,90",
-                "descrição": ""
+                "preço": 19.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Peixe Prego",
-                "preço": "R$ 29,90",
-                "descrição": ""
+                "preço": 29.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tataki Salmão Hot",
-                "preço": "R$ 40,90",
-                "descrição": ""
+                "preço": 40.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tataki Especial",
-                "preço": "R$ 41,90",
+                "preço": 41.9,
+                "informação-extra": null,
                 "descrição": "Salmão maçaricado, com cebola roxa picada e molho tare."
             }
         ],
         "Combinados Tradicionais": [
             {
                 "nome": "Combo Júnior",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "(30 Unid.) 10 Sashimis, 2Joy, 5 Hot Roll, 5 Urumaki 4 Niguiri e 4 fry cheese"
             },
             {
                 "nome": "Combo Shitake",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "(42 Unid.) 10 Sashimis, 5 Joy, 5 Hot Roll, 5 Fry, 5 Urumaki, 4 Niguiri e 8 Hossomaks"
             },
             {
                 "nome": "Combo Shú",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "(61 unid.) 15 Sashimis, 6 Joy, 10 Hot Roll, 6 Fry, 10 Urumakis, 6 Niguiri e 8 Hossomakis"
             },
             {
                 "nome": "Combo Day",
-                "preço": "R$ 299,90",
+                "preço": 299.9,
+                "informação-extra": null,
                 "descrição": "(101 Unid.) 15 Sashimis, 10 Jor, 10 Hot Roll, 10 Fry, 20 Urumakis, 10 Niguiri, 16 Hossomakis, e 10 Acelga Maki"
             },
             {
                 "nome": "Combinado Tradcional",
-                "preço": "R$ 89,90",
+                "preço": 89.9,
+                "informação-extra": null,
                 "descrição": "(50 Unid.) 10 Acelga Maki Cru, 16 Hossomakis, 10 Urumakis, 10 Sashimis e 4 Niguiris, (OBS: Sem opção de troca)"
             }
         ],
         "Novos Combinados": [
             {
                 "nome": "Combinado Happy Hour",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "(40 Unid.) 5 Fry Cheese, 5 Acelga Maki, 5 Joy, 5 Cae Roll, 10 Sasahimis, 10 Hot Roll (OBS: sem opção de troca)"
             },
             {
                 "nome": "Combinado Low Carb",
-                "preço": "R$ 131,90",
+                "preço": 131.9,
+                "informação-extra": null,
                 "descrição": "(36 Unid.) 5 Sashimi Salmão, 5 Sashimi Saint Peter, 5 Sashimi Tataki, 5 Maravilha Salmão,4 Maravilha de Camarão, 4 Joy Salmão, 4 Joy Shimeji, 4 Joy Polvo,100g de ceviche, Carpaccio Salmão/Polvo. (OBS: combinado Low Carb tem baixo índice de carboidrato e não zera carboidrato.)"
             },
             {
                 "nome": "Combinado do Chef Low Carb",
-                "preço": "R$ 159,90",
+                "preço": 159.9,
+                "informação-extra": null,
                 "descrição": "(40 Unid.) 8 Sashimis de Salmão, 4 Niguiris Flambados com Ovas, 2 Niguiris de Saint Peter Flambado com Azeite Trufado, 4 Maravilha, 4 Joy Salmão, 4 Joy Flambado com Shimeji, 5 Hot Roll com Crispy de Couve, 5 Cae Roll, 4 Fry Cheese"
             },
             {
                 "nome": "Combinado Japa Lounge Low Carb",
-                "preço": "R$ 149,90",
+                "preço": 149.9,
+                "informação-extra": null,
                 "descrição": "(40 Unid.) Sashimi de Salmão, 5 Sashimi de Tataki Especial (Maçaricada, Tarê e Cebola Roxa), 8 Joy Salmão sem arroz, 4 Maravilha Salmão, 4 Maravilha Camarão, 4 Fry Cheese, 5 Hot Roll Chico Cesar (Hot Roll com Crispy de Couve) 5 Cae Roll."
             },
             {
                 "nome": "Combinado dos Preferidos",
-                "preço": "R$ 149,90",
+                "preço": 149.9,
+                "informação-extra": null,
                 "descrição": "(36 Unid.) 6 Sashimi Salmão, 4 Tataki Especial, 4 Maravilha Camarão (Dentro) 4 Joy Crispy Couve, 2 Joy Crispy Alho Porô, 2 Frambo, 4 Joy Maçaricado Sem Arroz, 2 Niguiri Flambado com Flor de Sal, 4 Urumaki Salmão com Crispy de Alho Porê, 4 Cae Roll."
             },
             {
                 "nome": "Combinado Salmão",
-                "preço": "R$ 135,90",
+                "preço": 135.9,
+                "informação-extra": null,
                 "descrição": "(50 Unid.) 10 Sashimis Salmão, 2 Joys, 4 Niguiris, 24 Hossomakis, 10 Urumaki. Combo para 3 pessoas. (OBS: Sem opção de troca)"
             }
         ],
         "Combinados Individuais": [
             {
                 "nome": "Combinado 10 Joy",
-                "preço": "R$ 41,90",
+                "preço": 41.9,
+                "informação-extra": null,
                 "descrição": "2 Joy Salmão, 2 Joy Camarão, 2 Joy Shimeji, 2 Joy Framboesa, 2 Joy Doritos (OBS: Sem opção de troca)"
             },
             {
                 "nome": "Combinado Temakito",
-                "preço": "R$ 51,90",
+                "preço": 51.9,
+                "informação-extra": null,
                 "descrição": "Um mini temaki de salmão batido cru, 5 Sashimis Variados, 5 Fry Cheese, 4 Maravilhas"
             },
             {
                 "nome": "Combo Especial",
-                "preço": "R$ 52,90",
+                "preço": 52.9,
+                "informação-extra": null,
                 "descrição": "2 Niguiris Salmão Flambados, 5 Urumaki de Salmão com Alho Porô Frito, 4 Sashimi de Salmão, 5 Hot Chico Cesar, (OBS: Sem opção de troca)"
             },
             {
                 "nome": "Combinado 16 Unidades",
-                "preço": "R$ 48,90",
+                "preço": 48.9,
+                "informação-extra": null,
                 "descrição": "4 Sashimi Salmão, 4 Hot Roll, 4 Urumaki Variado, 2 Joy Salmão, 2 Niguiri Skin. (OBS: Sem opção de troca)"
             },
             {
                 "nome": "Combo Baby",
-                "preço": null,
+                "preço": 58.9,
+                "informação-extra": null,
                 "descrição": "(19 Unid.) 5 Sashimis salmão, 2 Joy, 5 Hot Roll, 2 fry e 5 Urumaki"
             },
             {
                 "nome": "Vegetariano",
-                "preço": "R$ 52,90",
+                "preço": 52.9,
+                "informação-extra": "Vegetariano",
                 "descrição": "(25 Unid.) 5 Fry Legumes, 5 Hot Shimeji, 5 Acelga Brocolís, 5 Niguiri Tomato, 5 Urumaki Abacate."
             }
         ],
         "Porções": [
             {
                 "nome": "Shitake ou Shimeji",
-                "preço": "R$ 36,90",
+                "preço": 36.9,
+                "informação-extra": "Vegetariano",
                 "descrição": "Cogumelos refogado na manteiga, com shoyo e temperos. 220g"
             },
             {
                 "nome": "Camarão a Dorê",
-                "preço": "R$ 45,90",
+                "preço": 45.9,
+                "informação-extra": null,
                 "descrição": "Camarão sete barbas com casca, empanado e frito."
             },
             {
                 "nome": "Lula a Dorê",
-                "preço": "R$ 55,90",
+                "preço": 55.9,
+                "informação-extra": null,
                 "descrição": "Aneis de Lula empanados e fritos. (300g)"
             },
             {
                 "nome": "Harumaki",
-                "preço": "R$ 23,90",
+                "preço": 23.9,
+                "informação-extra": null,
                 "descrição": "(5 Unid.) Queijo, Legumes, Presunto e Queijo, Frango com Catupiry"
             },
             {
                 "nome": "Hurumaki de Carne",
-                "preço": "R$ 29,90",
+                "preço": 29.9,
+                "informação-extra": null,
                 "descrição": "(5 Unid.) Crane com legumes, carne com cream cheese"
             },
             {
                 "nome": "Hurumaki Camarão ou Salmão",
-                "preço": "R$ 39,90",
+                "preço": 39.9,
+                "informação-extra": null,
                 "descrição": "(5 Unid.) Pode ser feito com ou sem cream cheese."
             },
             {
                 "nome": "Gyoza",
-                "preço": "R$ 8,90",
+                "preço": 8.9,
+                "informação-extra": null,
                 "descrição": "Bolinho chines, recheado com carne suina e legumes. Podendo ser feito, tanto no vapor, como frito. (2 Unid.)"
             },
             {
                 "nome": "Isca de Peixe",
-                "preço": "R$ 41,90",
+                "preço": 41.9,
+                "informação-extra": null,
                 "descrição": "Cortes de Saint peter empanado e frito. (300g)"
             }
         ],
         "Teppan (Grelhado)": [
             {
                 "nome": "Teppan Salmão",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Salmão grelhado e legumes na manteiga, acompanhada com Gohan e Misso."
             },
             {
                 "nome": "Lula",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Frango",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Prime Steak",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Saint Peter",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pescada Fry",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "St. Peter empanado"
             },
             {
                 "nome": "Teppan Sr. Shiitake",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Camarão, Lula e Salmão"
             },
             {
                 "nome": "Mushiaki",
-                "preço": "R$ 61,90",
+                "preço": 61.9,
+                "informação-extra": "Vegetariano",
                 "descrição": "Cogumelos (Shimeji e Shiitake) refogados com Salmão, Saint peter e legumes. Acompanha Gohan"
             }
         ],
         "Yakissoba": [
             {
                 "nome": "Vegetais",
-                "preço": "R$ 33,90",
-                "descrição": ""
+                "preço": 33.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Carne",
-                "preço": "R$ 49,90",
-                "descrição": ""
+                "preço": 49.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Frango",
-                "preço": "R$ 39,90",
-                "descrição": ""
+                "preço": 39.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Misto",
-                "preço": "R$ 41,90",
-                "descrição": ""
+                "preço": 41.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Frutos do Mar",
-                "preço": "R$ 69,90",
-                "descrição": ""
+                "preço": 69.9,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Acompanhamento": [
             {
                 "nome": "Missô",
-                "preço": "R$ 9,90",
-                "descrição": ""
+                "preço": 9.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gohan",
-                "preço": "R$ 11,90",
-                "descrição": ""
+                "preço": 11.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Legumes na manteiga",
-                "preço": "R$ 24,90",
-                "descrição": ""
+                "preço": 24.9,
+                "informação-extra": "Vegetariano",
+                "descrição": null
             }
         ],
         "Especialidades": [
             {
                 "nome": "Cae Roll",
-                "preço": "R$ 31,90",
+                "preço": 31.9,
+                "informação-extra": null,
                 "descrição": "(10 Unid.) Salmão enrolado na massa do Hurumaki com recheio de Cream Cheese, frito e servido com molho de Tarê e fatias de limão."
             },
             {
                 "nome": "Rodrigo Roll",
-                "preço": "R$ 21,90",
+                "preço": 21.9,
+                "informação-extra": null,
                 "descrição": "(4 Unid.) Tomate seco, Rúcula, e Cream Cheese envolto por Salmão"
             },
             {
                 "nome": "Fry Cheese",
-                "preço": "R$ 11,90",
+                "preço": 11.9,
+                "informação-extra": null,
                 "descrição": "(4 Unid.) Empanado de Saint Peter com Cream Cheese"
             },
             {
                 "nome": "Gemaki",
-                "preço": "R$ 18,90",
+                "preço": 18.9,
+                "informação-extra": null,
                 "descrição": "(4 Unid.) Empanado de Salmão com recheio de Brócolis e Cebolinha"
             },
             {
                 "nome": "Gunka Flam",
-                "preço": "R$ 18,90",
+                "preço": 18.9,
+                "informação-extra": null,
                 "descrição": "(4 Unid.) Alga envolto do Arroz com cobertura de cubos de Frutos do Mar flambados"
             },
             {
                 "nome": "Shiromi Especial",
-                "preço": "R$ 18,90",
+                "preço": 18.9,
+                "informação-extra": null,
                 "descrição": "(4 Unid.) Peixe branco em volta de Skin, Tomate Seco, Rúcula, Fatia de Limão, Cream Cheese e Molho Especial"
             },
             {
                 "nome": "Sr. Joy",
-                "preço": "R$ 18,90",
+                "preço": 18.9,
+                "informação-extra": null,
                 "descrição": "(4 unid.) polvo em volta de Camarão, Kani Cream Cheese, Cebolinha e Molho Especial"
             },
             {
                 "nome": "Acelga Maki",
-                "preço": "R$ 26,90",
+                "preço": 26.9,
+                "informação-extra": null,
                 "descrição": "(10 Unid.) Acelga em volta do Arroz com cobertura de Salmão batido com Cebolinha"
             },
             {
                 "nome": "Acelga Tem",
-                "preço": "R$ 26,90",
+                "preço": 26.9,
+                "informação-extra": null,
                 "descrição": "(10 Unid.) Acelga em volta do Arroz com cobertura de Salmão grelhado e molho Tarê"
             },
             {
                 "nome": "Hot Roll",
-                "preço": "R$ 27,90",
+                "preço": 27.9,
+                "informação-extra": null,
                 "descrição": "(10 Unid.) Salmão enrolado na Alga Marinha com Recheio de Cream Cheese sem Arroz - Empanado e servido com molho Tarê"
             },
             {
                 "nome": "Hot Roll Tradicional",
-                "preço": "R$ 19,90",
+                "preço": 19.9,
+                "informação-extra": null,
                 "descrição": "(10 Unid.) Salmão enrolado na Alga Marinha com Recheio de Arroz e Cream Cheese - Empanado e servido com molho Tarê"
             },
             {
                 "nome": "Joy",
-                "preço": "R$ 12,90",
+                "preço": 12.9,
+                "informação-extra": null,
                 "descrição": "(4 Unid.) Salmão em volta do Arroz com cobertura de Salmão batido e Cebolinha"
             },
             {
                 "nome": "Maravilha de Salmão",
-                "preço": "R$ 12,90",
+                "preço": 12.9,
+                "informação-extra": null,
                 "descrição": "(4 unid.) Enrolado de Salmão e Cream Cheese, raspas de Limão Siciliano e molho"
             },
             {
                 "nome": "Maravilha de Camarão",
-                "preço": "R$ 14,90",
+                "preço": 14.9,
+                "informação-extra": null,
                 "descrição": "(4 unid.) Enrolado de Salmão e Cream Cheese, raspas de Limão Siciliano e molho"
             },
             {
                 "nome": "Hot Urumaki",
-                "preço": "R$ 31,90",
+                "preço": 31.9,
+                "informação-extra": null,
                 "descrição": "(10 Unid.) Salmão selado com recheio de Nabo, Polvo, Kani, Rúcula e cobertura de Shimeji e Cebolinha"
             },
             {
                 "nome": "Kyurimaki",
-                "preço": "R$ 24,90",
+                "preço": 24.9,
+                "informação-extra": null,
                 "descrição": "(4 Unid.) Pepino em volta de Salmão, Kani e Cream Cheese"
             }
         ],
         "Sobremesa": [
             {
                 "nome": "Brownie com Sorvete",
-                "preço": "R$ 17,90",
-                "descrição": ""
+                "preço": 17.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Taça de Sorvete - Nutella",
-                "preço": "R$ 23,90",
+                "preço": 23.9,
+                "informação-extra": null,
                 "descrição": "Um taça recheada com Nutella, com Sorvete e Kitkat."
             },
             {
                 "nome": "Cheese Cake no Copo",
-                "preço": "R$ 10,90",
-                "descrição": ""
+                "preço": 10.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brigadeiro no Copo",
-                "preço": "R$ 12,90",
-                "descrição": ""
+                "preço": 12.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brigadeiro de Kit Kat",
-                "preço": "R$ 14,90",
-                "descrição": ""
+                "preço": 14.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Joy Nutella",
-                "preço": "R$ 9,90",
+                "preço": 9.9,
+                "informação-extra": null,
                 "descrição": "4 Unidades"
             },
             {
                 "nome": "Banana Flambada",
-                "preço": "R$ 19,90",
+                "preço": 19.9,
+                "informação-extra": null,
                 "descrição": "Deliciosa banana flambada acompanhado com sorvete"
             }
         ]
@@ -1346,57 +1597,68 @@
         "Soft": [
             {
                 "nome": "Refrigerante KS 290ml\nRefrigerante KS 290ml",
-                "preço": null,
-                "descrição": "Refrigerante KS 290ml"
+                "preço": 11.9,
+                "informação-extra": null,
+                "descrição": "REFRIGERANTE EM GARRAFA RETORNAVEL"
             },
             {
                 "nome": "Refrigerante",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco Natural Copo (Um sabor)",
-                "preço": null,
+                "preço": 14.9,
+                "informação-extra": null,
                 "descrição": "Morango, Laranja, Limão, Abacaxi, Maracuja, Acerola. (Sujeito a disponibilidade)"
             },
             {
                 "nome": "Suco Natural Copo (Dois sabores)",
-                "preço": "R$ 17,90",
+                "preço": 17.9,
+                "informação-extra": null,
                 "descrição": "Limonada Suíça, Abacaxi com gengibre, Laranja com Morango, para mais sabores verificar disponibilidade de frutas com o garçom."
             },
             {
                 "nome": "Soda Italiana",
-                "preço": null,
+                "preço": 21.9,
+                "informação-extra": null,
                 "descrição": "Tangerina, Morango, Framboesa, Gengibre, Maçã Verde, limão siciliano."
             },
             {
                 "nome": "H2O",
-                "preço": null,
+                "preço": 15.9,
+                "informação-extra": null,
                 "descrição": "Limão e Limoneto"
             },
             {
                 "nome": "Água Mineral com e Sem Gás",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Energetico Red Bull",
-                "preço": null,
+                "preço": 12.9,
+                "informação-extra": null,
                 "descrição": "Açaí, Tropical, Melancia, Tradicional e Maracuja/melao. Atenção: Valor Promocional apenas para o Sabor Tradicional. Demais sabores com valor de R$ 12,90"
             },
             {
                 "nome": "Cha Gelado sabores",
-                "preço": null,
+                "preço": 20.9,
+                "informação-extra": null,
                 "descrição": "Tangerina, Morango, Framboesa, Gengibre, Maçã Verde, limão siciliano."
             },
             {
                 "nome": "Cha Gelado preto com LImao siciliano",
-                "preço": null,
+                "preço": 19.9,
+                "informação-extra": null,
                 "descrição": "limão siciliano."
             },
             {
                 "nome": "sprite lemon fresh",
-                "preço": null,
+                "preço": 12.9,
+                "informação-extra": null,
                 "descrição": "Limão sem açucar"
             }
         ]
@@ -1405,47 +1667,56 @@
         "Cervejas": [
             {
                 "nome": "AMSTEL ULTRA 275 ML",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Budweiser",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Corona",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Heineken",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Stella Artois",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Eisenbahn Pilsen",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Therezópolis Gold",
-                "preço": null,
+                "preço": 14.9,
+                "informação-extra": null,
                 "descrição": "Experimente a riqueza dourada da cerveja Therezopolis Gold. Com notas sutis de malte e um final suave, é a escolha perfeita para aqueles que procuram uma cerveja refinada e saborosa. Aproveite o sabor da tradição cervejeira brasileira com Therezopolis Gold."
             },
             {
                 "nome": "CERVEJA 1906",
-                "preço": null,
+                "preço": 16.9,
+                "informação-extra": null,
                 "descrição": "A cerveja 1906 é uma cerveja espanhola da marca Estrella Galícia, que possui características marcantes e é produzida com maltes torrados e duas variedades de lúpulos: Aparência: De coloração âmbar escuro, limpa e brilhante, com espuma espessa e cremosa Aroma: Predominante aroma limpo, franco e intenso do malte tostado Sabor: Espessa, densa e redonda, com um ponto de amargor elegante e um residual longo e agradável Graduação alcoólica: 6,0%"
             },
             {
                 "nome": "Cerpa Export",
-                "preço": null,
+                "preço": 17.9,
+                "informação-extra": null,
                 "descrição": "Com uma graduação alcoólica de 5,3%, apresenta uma coloração dourada e um amargor leve, proporcionando uma experiência única ao paladar. Elaborada em Belém, Pará, com água de absoluta pureza, malte, lúpulo e cereais não malteados cuidadosamente escolhidos, esta cerveja representa a excelência e a qualidade."
             }
         ]
@@ -1454,129 +1725,154 @@
         "Drinks e Coquetéis": [
             {
                 "nome": "Paloma - DonJulio",
-                "preço": "R$ 34,90",
+                "preço": 34.9,
+                "informação-extra": null,
                 "descrição": "A Paloma é um coquetel popular e refrescante da culinária mexicana. Acredita-se que tenha sido criado na década de 1950 e, desde então, se tornou uma bebida icônica no México e em muitas outras partes do mundo."
             },
             {
                 "nome": "Aperol Peach\nAperol Peach",
-                "preço": "R$ 36,90",
-                "descrição": "Aperol Peach"
+                "preço": 36.9,
+                "informação-extra": null,
+                "descrição": "O Aperol Spritz é um coquetel refrescante e saboroso, feito com Aperol,vodka , Redbull sabor Pessego. Ideal para acompanhar aperitivos leves e pratos de frutos do mar. Experimente em nosso cardápio e desfrute do sabor autêntico da Itália. 🇮🇹🍹"
             },
             {
                 "nome": "Aperol Spritz",
-                "preço": "R$ 34,90",
+                "preço": 34.9,
+                "informação-extra": null,
                 "descrição": "O Aperol Spritz é um coquetel refrescante e saboroso, feito com Aperol, prosecco, água com gás e uma rodela de laranja. Ideal para acompanhar aperitivos leves e pratos de frutos do mar. Experimente em nosso cardápio e desfrute do sabor autêntico da Itália. 🇮🇹🍹"
             },
             {
                 "nome": "Mojito",
-                "preço": null,
+                "preço": 26.9,
+                "informação-extra": null,
                 "descrição": "Rum , suco de limão, água com gás, hortelã"
             },
             {
                 "nome": "Sakerinha",
-                "preço": null,
+                "preço": 24.9,
+                "informação-extra": null,
                 "descrição": "Sake e fruta"
             },
             {
                 "nome": "Caipiroska Smirnoff",
-                "preço": null,
+                "preço": 29.9,
+                "informação-extra": null,
                 "descrição": "Vodka e fruta"
             },
             {
                 "nome": "Caipiroska Sky",
-                "preço": null,
+                "preço": 26.9,
+                "informação-extra": null,
                 "descrição": "Vodka e fruta"
             },
             {
                 "nome": "Caipiroska Absolut",
-                "preço": null,
+                "preço": 34.9,
+                "informação-extra": null,
                 "descrição": "Vodka Absolut e fruta"
             },
             {
                 "nome": "Caipirinha",
-                "preço": null,
+                "preço": 20.9,
+                "informação-extra": null,
                 "descrição": "Cachaça e fruta"
             },
             {
                 "nome": "Blessed",
-                "preço": null,
+                "preço": 38.9,
+                "informação-extra": null,
                 "descrição": "Gin, Limão siciliano, hortela e redbull maracuja com melão."
             },
             {
                 "nome": "Gin Tônica (BullDog)",
-                "preço": null,
-                "descrição": ""
+                "preço": 39.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gin Tônica (Gordon's)",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gin Sabores (Gordon's)",
-                "preço": null,
+                "preço": 36.9,
+                "informação-extra": null,
                 "descrição": "Maça verde, Limão siciliano, Tangerina, Gengibre e frutas vermelhas."
             },
             {
                 "nome": "Gin frozen",
-                "preço": null,
+                "preço": 36.9,
+                "informação-extra": null,
                 "descrição": "O gin frozen com frutas vermelhas é um coquetel refrescante feito com gin, frutas vermelhas congeladas, suco de limão, xarope ou calda de açúcar e gelo."
             },
             {
                 "nome": "Tropical Gin (Gordon's)",
-                "preço": null,
+                "preço": 36.9,
+                "informação-extra": null,
                 "descrição": "Gin, Red Bul Tropical, rodela de Laranja."
             },
             {
                 "nome": "Gin Melancia",
-                "preço": null,
+                "preço": 36.9,
+                "informação-extra": null,
                 "descrição": "Gin, Red Bul Melancia, folhas de hortelã."
             },
             {
                 "nome": "Campari Tonica",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Moscow Mule (Absolut)",
-                "preço": null,
+                "preço": 34.9,
+                "informação-extra": null,
                 "descrição": "A escolha da vodka certa pode fazer toda a diferença em um Moscow Mule. E se estamos falando de qualidade, a Absolut é uma excelente opção. A Absolut é uma vodka premium, reconhecida por seu sabor suave e puro, que complementa perfeitamente os outros ingredientes do coquetel. Com a Absolut como base, o Moscow Mule fica ainda mais sofisticado e saboroso. O sabor suave da vodka se funde com a picância do gengibre e a acidez do limão, criando uma mistura equilibrada e deliciosa. É uma bebida que agrada tanto os paladares mais exigentes quanto aqueles que buscam uma experiência mais suave e refrescante. Portanto, se você deseja um Moscow Mule verdadeiramente premium, a escolha da vodka é essencial e a Absolut é uma excelente opção para quem busca qualidade e sabor."
             },
             {
                 "nome": "Moscow Mule (Smirnoff)",
-                "preço": null,
+                "preço": 30.9,
+                "informação-extra": null,
                 "descrição": "A Smirnoff é uma vodka premium com um sabor suave e limpo que harmoniza perfeitamente com os ingredientes do Moscow Mule. Ao utilizá-la como base do coquetel, você terá uma experiência sensorial equilibrada e refinada. A qualidade da vodka adiciona uma camada de sofisticação ao coquetel, tornando-o uma opção deliciosa para qualquer ocasião."
             },
             {
                 "nome": "Moscow Mule zero alcool",
-                "preço": null,
+                "preço": 19.9,
+                "informação-extra": null,
                 "descrição": "o delicioso drink russo com um toque especial, agora sem alcool para voçes"
             },
             {
                 "nome": "The Classic",
-                "preço": null,
+                "preço": 36.9,
+                "informação-extra": null,
                 "descrição": "Vodka, e Redbull (Sabores)"
             }
         ],
         "Doses": [
             {
                 "nome": "Sake Azuma Kirin",
-                "preço": null,
+                "preço": 17.9,
+                "informação-extra": null,
                 "descrição": "Azuma Kirin Gold: Um sake premium japonês produzido a partir de arroz polido e água pura, seguindo técnicas tradicionais de produção. Possui um aroma floral e delicado, com notas suaves de arroz e um sabor equilibrado e refinado. Sua textura é macia e aveludada, com um final suave e elegante."
             },
             {
                 "nome": "Johnnie Walker Red Label",
-                "preço": null,
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "Um uísque blended escocês reconhecido mundialmente por seu sabor rico e intenso. É produzido a partir de whiskies de malte e grãos selecionados, envelhecidos em barris de carvalho. Possui notas de frutas cítricas, especiarias e mel, com um toque defumado, resultando em um sabor equilibrado e ousado."
             },
             {
                 "nome": "Negroni N45",
-                "preço": null,
+                "preço": 32.9,
+                "informação-extra": null,
                 "descrição": "Um coquetel clássico e sofisticado, feito com gin, vermute e Campari, em uma proporção equilibrada de 1:1:1. O gin proporciona um sabor herbal e levemente cítrico, o vermute contribui com notas de especiarias e ervas, e o Campari adiciona um toque amargo e refrescante. O N45 é uma versão moderna do Negroni, com um perfil de sabor mais complexo e intenso."
             },
             {
                 "nome": "Whisky Old Parr 12 Anos",
-                "preço": null,
+                "preço": 32.9,
+                "informação-extra": null,
                 "descrição": "Envelhecido por 12 anos, o Whisky Old Parr é uma bebida charmosa e elegante de cor dourada. Um blend escocês de perfil de sabor equilibrado e frutado, mas com personalidade marcante. Old Parr é o whisky que representa uma vida bem vivida, uma homenagem à Thomas Parr, o homem que teria vivido 152 anos na Inglaterra. O Whisky Grand Old Parr é mais do que uma bebida, é o símbolo de tradição e muita qualidade. Produto não acompanha embalagem, acesse nossa política e saiba mais."
             }
         ]
@@ -1585,37 +1881,44 @@
         "Vinhos": [
             {
                 "nome": "Julio Bouchon Foye Chardonnay, 2017",
-                "preço": null,
+                "preço": 84.9,
+                "informação-extra": null,
                 "descrição": "De cor amarelo suave e brilhante. Aromas tropicais como maracujá, com notas de mel. Na boca, muito frutado, com boa acidez. Ideal com saladas, peixes e frutos do mar"
             },
             {
                 "nome": "FOYE RESERVA TINTO, 2019",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "Olfativo: Frutas vermelhas com notas de pimenta preta. Gustativo: Frutado, taninos macios e saboroso. Harmonização: Massas com molhos picantes, e diferentes tipos de comida apimentadas."
             },
             {
                 "nome": "Foye Reservado Rosé",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "Este vinho rosé é feito a partir das uvas Malbec e Syrah do Valle do Maule, no Chile. Vinho harmonioso, ideal para aperitivos na beira da piscina ou da praia, e até mesmo para harmonizar com sushi e comidas leves."
             },
             {
                 "nome": "3158. cordero tinto malbec, 2021",
-                "preço": null,
+                "preço": 99.9,
+                "informação-extra": null,
                 "descrição": "São realizados trabalhos delicados de extração para obter aromas frutados e taninos equilibrados."
             },
             {
                 "nome": "Encostas Do Bairro Tinto, 2023",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "Aspecto límpido, cor granada, aroma com notas de fruta madura e sabor encorpado, macio e equilibrado."
             },
             {
                 "nome": "Monte das Azenhas",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "Cor límpida e brilhante esverdeada. No nariz, sente-se intensidade aromática com notas tropicais e de fruta fresca intensa, alperce e pêssego, que revelam um aroma pleno de carácter. Na prova, tem um ataque fresco, vibrante, com textura e volume tudo em grande harmonia. Notas de espargo, mineral, muito equilibrado e possível de sentir a influência de cada uma das castas. Revela grande frescura e equilíbrio"
             },
             {
                 "nome": "Encostas do Bairro Branco",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "Cor: Brilhante e citrina Aroma: Intenso, misto de flores e frutos Sabor: Frutado e equilibrado com final persistente Relação com a Gastronomia: Servido bem como aperitivo, é óptimo para acompanhar carnes brancas, peixe e marisco."
             }
         ]

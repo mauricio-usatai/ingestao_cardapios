@@ -3,109 +3,130 @@
         "Entradas": [
             {
                 "nome": "Dadinhos De Tapioca À “Lorena Improta”",
-                "preço": "R$ 37,00",
+                "preço": 37.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(9 Unid.) Crocantes por fora e macios por dentro, acompanhados de geleias de pimenta da casa e de damasco"
             },
             {
                 "nome": "Bolinhos De Arroz À “Bruno Belutti”",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(6 Unid.) Cremosamente recheados com queijo brie, servidos com geleia de pimenta da casa"
             },
             {
                 "nome": "Bruschettas Caprese À “Dhiovanna”",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Preparadas com mozzarella de búfala ao forno, com tomate concassê e manjericão"
             },
             {
                 "nome": "Pasteizinhos De Brie À “Camilla Camargo”",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(6 Unid.) Clássico Paris 6, deliciosamente acompanhados de geleia de pimenta"
             },
             {
                 "nome": "Frites Au Fromage À “Dentinho”",
-                "preço": "R$ 57,00",
+                "preço": 57.0,
+                "informação-extra": null,
                 "descrição": "Porção extremamente bem servida de fritas crocantes preparadas com creme de brie e crispy de presunto de Parma"
             },
             {
                 "nome": "Canapés De Tartare De Salmão À “Mirella Fernandez”",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Torradinhas com salmão cru picado na ponta da faca, temperado e finalizado com azeite de ervas"
             },
             {
                 "nome": "Iscas De Peixe À “Mauro Naves”",
-                "preço": "R$ 61,00",
+                "preço": 61.0,
+                "informação-extra": null,
                 "descrição": "Empanadas e servidas com molho tártaro"
             },
             {
                 "nome": "Nouveau\nPoulpes À La Mode Du Chef Isaac “Isadora Pompeo”",
-                "preço": "R$ 90,00",
-                "descrição": "Nouveau"
+                "preço": 90.0,
+                "informação-extra": null,
+                "descrição": "Saborosos tentáculos de polvo, puxados na manteiga de conhaque, com tomate concassé, alcaparras, acompanhadas de torradinhas"
             },
             {
                 "nome": "Crevettes Panée À L’a Confiture D’Apricot À “Pocah”",
-                "preço": "R$ 165,00",
+                "preço": 165.0,
+                "informação-extra": null,
                 "descrição": "(6 Unid.) Saborosa porção de camarões premium grandes, empanados e crocantes, servidos com nossa clássica geleia de damasco. Um prato sofisticado com uma combinação deliciosíssima"
             },
             {
                 "nome": "Canapés De Brie E Presunto De Parma À “Phillipe Coutinho”",
-                "preço": "R$ 75,00",
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "Torradinhas servidas com queijo brie derretido e presunto de Parma"
             },
             {
                 "nome": "Pasteizinhos De Carne À \"Ivo Meireles\"",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "(6 Unid.) Preparados com carne ao molho bechamel e toque de molho inglês, acompanhados de geleia de pimenta"
             },
             {
                 "nome": "Ceviche de Poisson Au Zeste de Citron À \"Lexa\"",
-                "preço": "R$ 69,00",
+                "preço": 69.0,
+                "informação-extra": null,
                 "descrição": "Iscas de tilápia marinadas no suco de limão siciliano, com coentro, cebola roxa, azeite e toque de pimenta, deliciosamente acompanhadas de torradinhas"
             },
             {
                 "nome": "Fricassée de Champignons Du Truf À \"Serginho Mallandro\"",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Deliciosa mescla de cogumelos Paris e Shiitake salteados ao alho, acompanhados de ovos poché e torradinhas, finalizados ao azeite trufado."
             },
             {
                 "nome": "Canapés De Steak Tartare À “Gianne Albertoni”",
-                "preço": "R$ 54,00",
+                "preço": 54.0,
+                "informação-extra": null,
                 "descrição": "Torradinhas com filé mignon picado na ponta da faca, temperado e finalizado com mostarda dijon"
             },
             {
                 "nome": "Sashimi De Saumon À L’huile Trufee À “Gabi Martins”",
-                "preço": "R$ 82,00",
+                "preço": 82.0,
+                "informação-extra": null,
                 "descrição": "Sashimi de salmão levemente maçaricado, finalizado com sal rosa do himalaia, azeite trufado e raspas de limão siciliano"
             },
             {
                 "nome": "Pasteizinhos De Carne Ao Açúcar À “Juliette” (6 Unid.)",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Pasteizinhos de carne ao molho bechamel e toque de molho inglês, fritos e empanados no açúcar."
             }
         ],
         "Pratos Leves": [
             {
                 "nome": "Salade Tropical À \"Val Drummond\"",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": "Vegano",
                 "descrição": "Salada muito bem servida de folhas com palmito, tomate e pepino, finalizada com molho vinagrete da casa"
             },
             {
                 "nome": "Salade Caprese À \"Cláudia Raia\"",
-                "preço": "R$ 47,00",
+                "preço": 47.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Clássica e bem servida salada de folhas com mozzarella de búfala, rodelas de tomate e manjericão, finalizada com molho vinagrete da casa"
             },
             {
                 "nome": "Caesar Salade Au Poulet À \"Miguel Falabella\"",
-                "preço": "R$ 47,00",
+                "preço": 47.0,
+                "informação-extra": null,
                 "descrição": "Salada muito bem servida com folhas de alface americano mescladas com pedaços de peito de frango, croutons e parmesão, finalizada com o tradicional molho Caesar"
             },
             {
                 "nome": "Moqueca Vegetariana À \"Ellen Jabour\"",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Deliciosa moqueca vegana de palmito grelhado, ao azeite de dendê, leite de coco e iguarias, servida com arroz ao próprio molho da moqueca e farofa de banana"
             },
             {
                 "nome": "Carpaccio méditerranée à \" Jaque do Vôlei\"",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Delicioso carpaccio de carne ao molho de mostarda com alcaparras picadas, finalizado com folhas de rúcula e parmesão ralado, servido com torradas preparadas ao azeite de"
             }
         ]
@@ -114,330 +135,394 @@
         "Massas": [
             {
                 "nome": "Fettuccine Alfredo À \"Luísa Sonza\"",
-                "preço": "R$ 62,00",
+                "preço": 62.0,
+                "informação-extra": null,
                 "descrição": "Um clássico Paris 6, delicioso fettuccine inspirado no molho Alfredo com creme de leite, queijo parmesão e estragão"
             },
             {
                 "nome": "Spaghetti Carbonara À La Française Au Poulet À \"Alexandre Pato\"",
-                "preço": "R$ 67,00",
+                "preço": 67.0,
+                "informação-extra": null,
                 "descrição": "Clássico spaghetti puxado ao molho carbonara à moda francesa, preparado com creme de leite, bacon, queijo parmesão, lascas de frango, gema de ovo e finalizado com tiras de bacon"
             },
             {
                 "nome": "Ravioli De Brie Et Abricot À \"Thaila Ayala\"",
-                "preço": "R$ 67,00",
+                "preço": 67.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Elegante preparo de ravioli com recheio de queijo brie e damasco, puxado ao creme de champagne"
             },
             {
                 "nome": "Spaghetti Bolognaise À \"Jayme Monjardim\"",
-                "preço": "R$ 69,00",
+                "preço": 69.0,
+                "informação-extra": null,
                 "descrição": "Delicioso spaghetti puxado ao molho bolonhesa de alcatra, com tomates frescos picados, com manjericão e queijo parmesão, finalizado com azeite trufado"
             },
             {
                 "nome": "Fettuccine Aux Quatre Fromages À \"Paola Antonini\"",
-                "preço": "R$ 75,00",
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "Fettuccine deliciosamente puxado ao molho quatro queijos com camarões e queijo parmesão"
             },
             {
                 "nome": "Fettuccine Au Crevettes À \"Emerson Sheik\"",
-                "preço": "R$ 99,00",
+                "preço": 99.0,
+                "informação-extra": null,
                 "descrição": "Fettuccine ao molho rosé com camarões, finalizado com dupla de camarões premium grelhados"
             },
             {
                 "nome": "Fettuccine Alfredo Au Crevettes À \"Ludmilla\"",
-                "preço": "R$ 97,00",
+                "preço": 97.0,
+                "informação-extra": null,
                 "descrição": "Fettuccine puxado no molho Alfredo com camarões ao creme de leite, estragão, finalizado com queijo parmesão e com duo de camarões premium grelhados"
             },
             {
                 "nome": "Spaghetti Carbonara À Mode Française Aux Crevettes Et Brie A L’huile À La Truffe Et Fleur Du Sel À \"Pocah\"",
-                "preço": "R$ 97,00",
+                "preço": 97.0,
+                "informação-extra": null,
                 "descrição": "Cremoso spaghetti à carbonara à moda francesa, com bacon deglaceado em vinho branco, camarões, creme de leite ao queijo brie, gema de ovo pasteurizada e dupla de camarões rosa ao azeite de trufa e flor de sal"
             },
             {
                 "nome": "Conchiglione De Brie À La Bolognaise À “Paulo André (P.A.)”",
-                "preço": "R$ 69,00",
+                "preço": 69.0,
+                "informação-extra": null,
                 "descrição": "Conchiglione com recheio de queijo brie ao molho bolonhesa, gratinado ao forno com parmesão e finalizado com azeite trufado"
             },
             {
                 "nome": "Conchiglione De Brie Aux Crevettes Sauce Champagne À “Matheus Donelli”",
-                "preço": "R$ 97,00",
+                "preço": 97.0,
+                "informação-extra": null,
                 "descrição": "Conchiglione recheado de queijo brie ao creme de champagne com camarões, gratinado ao forno com parmesão e finalizado com camarão premium grelhado"
             },
             {
                 "nome": "Conchiglione De Brie Au Quatre Fromages À “Raphael Veiga”",
-                "preço": "R$ 69,00",
+                "preço": 69.0,
+                "informação-extra": null,
                 "descrição": "Conchiglione com recheio de queijo brie ao molho quatro queijos, gratinado ao forno com parmesão e finalizado com crispy de Parma"
             },
             {
                 "nome": "Conchiglione de brie au sauce rosé à “Yasmin Brunet”",
-                "preço": "R$ 69,00",
+                "preço": 69.0,
+                "informação-extra": null,
                 "descrição": "Conchiglione com recheio de queijo brie ao molho rosé, gratinado ao forno com parmesão."
             },
             {
                 "nome": "Fettuccine à La Crème de Shiitake À “Matuê”",
-                "preço": "R$ 75,00",
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "Fettuccine puxado ao creme de shiitake e finalizado com azeite trufado"
             }
         ],
         "Gnocchi": [
             {
                 "nome": "Gnocchi De Brie Au Sugo À \" Mammie Jeanette\"",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Clássica receita da vovó Jeanette Azar, delicioso Gnocchi P6 de batata baroa com recheio de brie, puxado ao molho sugo com manjericão e gratinado ao forno com parmesão"
             },
             {
                 "nome": "Gnocchi De Brie Aux Quatre Fromages À \"Marina Ruy Barbosa\"",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Clássico P6, delicioso gnocchi de batata baroa com recheio de queijo brie, preparado ao molho quatro queijos, gratinado ao forno com queijo parmesão"
             },
             {
                 "nome": "Gnocchi De Brie À La Carbonara À La FarnçaiseÀ “Falcão\"",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Gnocchi P6 de batata baroa com recheio de queijo brie, puxado ao molho carbonara à moda francesa, preparado com creme de leite, bacon, queijo parmesão, gema de ovo e pimenta preta, gratinado ao forno com queijo parmesão"
             },
             {
                 "nome": "Gnocchi de Brie Au Bolognaise À \"Yasmin Scorse\"",
-                "preço": "R$ 69,00",
+                "preço": 69.0,
+                "informação-extra": null,
                 "descrição": "Delicioso gnocchi de batata baroa com recheio de brie, preparado com a nova receita bolonhesa de Isaac Azar! Carne moída puxada ao molho de tomate com toque de bechamel, tomate cereja, manjericão, parmesão e manteiga, finalizado com azeite ao manjericão."
             },
             {
                 "nome": "Gnocchi De Brie Au Crème Caprese Et Crevettes À \"Baby Do Brasil”",
-                "preço": "R$ 85,00",
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "Gnocchi preparado com batata baroa e recheio de queijo brie puxado ao molho de tomates frescos, com mozzarella de búfala, camarões e manjericão, toque de creme de leite e finalizado ao forno com queijo parmesão"
             }
         ],
         "Risottos": [
             {
                 "nome": "Risotto Caprese À \"Estrela Blanco\"",
-                "preço": "R$ 67,00",
+                "preço": 67.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Delicioso risotto de arroz arbóreo com mozzarella de búfala, tomates frescos picados e manjericão"
             },
             {
                 "nome": "Risotto Aux Cèpes À \"Chris Torloni\"",
-                "preço": "R$ 89,00",
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "Tradicional risotto P6 de champignon e shiitake, finalizado com azeite trufado e parmesão"
             },
             {
                 "nome": "Risotto Citrouille À \"Tirullipa\"",
-                "preço": "R$ 82,00",
+                "preço": 82.0,
+                "informação-extra": null,
                 "descrição": "Uma releitura nordestina de risotto de abóbora com carne seca e queijo coalho, finalizado com manteiga de garrafa e coentro"
             },
             {
                 "nome": "Risotto Au Citron Aux Crevettes À “Tati Zaqui”",
-                "preço": "R$ 95,00",
+                "preço": 95.0,
+                "informação-extra": null,
                 "descrição": "Risotto ao limão siciliano com camarões, finalizado com duo de camarões premium empanados"
             },
             {
                 "nome": "Risotto Quatre Fromages Aux Crevettes À \"César Filho\"",
-                "preço": "R$ 99,00",
+                "preço": 99.0,
+                "informação-extra": null,
                 "descrição": "Delicioso risotto de camarão ao creme de quatro queijos, finalizado com duo de camarões premium grelhados"
             },
             {
                 "nome": "Nouveau\nRisotto À Provençal À “Bruna Biancardi”",
-                "preço": "R$ 103,00",
-                "descrição": "Nouveau"
+                "preço": 103.0,
+                "informação-extra": null,
+                "descrição": "Risoto de arroz arbóreo com camarões à provençal, preparado com champignon, tomate concassê, manteiga de ervas ao vinho branco, finalizado com azeite trufado, dupla de camarões grelhados e amêndoas laminadas"
             },
             {
                 "nome": "Risotto de Paella À \"Léo Picon\"",
-                "preço": "R$ 103,00",
+                "preço": 103.0,
+                "informação-extra": null,
                 "descrição": "Deliciosa e bem servida combinação de arroz arbóreo ao açafrão, lula, polvo, camarões, mexilhões, pimentões coloridos e finalizado com camarão premium grelhado."
             },
             {
                 "nome": "Risotto Gorgonzola Et Poire À \"Ana Clara\"",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Delicioso risotto de arroz arbóreo com queijo gorgonzola e pera, finalizado com lâminas de pera caramelizadas"
             },
             {
                 "nome": "Risotto de Jambon et Apricot à \" Cacau Protásio\"",
-                "preço": "R$ 99,00",
+                "preço": 99.0,
+                "informação-extra": null,
                 "descrição": "Delicioso risotto de arroz arbóreo, preparado com presunto de Parma, geleia de damasco, ao toque de creme de leite, queijo emmenthal e rúcula, finalizado com crispy de Parma e uma flor de Parma recheada com mozzarella de búfala e geleia de damasco"
             }
         ],
         "Peixes & Frutos do Mar": [
             {
                 "nome": "Filet Du Poisson Du Jour Grillé Au Risotto Au Citron À \"Carol Castro\"",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": null,
                 "descrição": "Filé de peixe do dia grelhado, acompanhado de risotto de limão siciliano, finalizado com azeite de ervas"
             },
             {
                 "nome": "Moqueca Baiana À \"Luis Miranda\"",
-                "preço": "R$ 85,00",
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "Bem servida moqueca de peixe grelhado ao azeite de dendê, leite de coco, iguarias e toque de pimenta, servida com arroz ao próprio molho da moqueca e farofa de banana"
             },
             {
                 "nome": "Saumon Parmigiana Au Risotto de Tomate À \"Fábio Rabin\"",
-                "preço": "R$ 103,00",
+                "preço": 103.0,
+                "informação-extra": null,
                 "descrição": "Delicioso Salmão gratinado ao forno com parmesão, com toque de tomate cereja, acompanhado de risotto parmegiana"
             },
             {
                 "nome": "Saumon Grillé Aux Crevettes À \"Bianca Andrade\"",
-                "preço": "R$ 119,00",
+                "preço": 119.0,
+                "informação-extra": null,
                 "descrição": "Bem servido filé de salmão grelhado (200g) ao molho de camarões, acompanhado de legumes salteados e purê de batata baroa"
             },
             {
                 "nome": "Saumon Au Risotto De Crevettes À \"Gabi Martins\"",
-                "preço": "R$ 119,00",
+                "preço": 119.0,
+                "informação-extra": null,
                 "descrição": "Salmão grelhado ao molho de tomate, acompanhado de risotto de tomate com camarões, manjericão e toque de cream cheese"
             },
             {
                 "nome": "Moqueca De Poisson Du Jour Et Crevettes À \"Tierry\"",
-                "preço": "R$ 99,00",
+                "preço": 99.0,
+                "informação-extra": null,
                 "descrição": "Moqueca de peixe e camarões puxados ao azeite de dendê, leite de coco e iguarias, toque de pimenta, servida com arroz ao próprio molho da moqueca e farofa de banana"
             },
             {
                 "nome": "Saumon Au Risotto Palmier À \"Paulo Ricardo\"",
-                "preço": "R$ 107,00",
+                "preço": 107.0,
+                "informação-extra": null,
                 "descrição": "Saboroso filé de salmão fresco grelhado sob o tradicional molho Hollandaise, acompanhado do cremoso risotto de palmito pupunha fresco"
             },
             {
                 "nome": "Poulpes Au Fettuccine Provençal À \"Mel Lisboa\"",
-                "preço": "R$ 136,00",
+                "preço": 136.0,
+                "informação-extra": null,
                 "descrição": "Saborosos tentáculos de polvo, acompanhados de fettuccine à provençal com cogumelos, tomate concassê e amêndoas laminadas, e um delicioso tomate recheado com farofa de shiitake, gratinado ao forno com parmesão"
             },
             {
                 "nome": "Fruits de Mergrillés Au Vin Blanca À \"Hungria\" (serve 2 pessoas)",
-                "preço": "R$ 259,00",
-                "descrição": ""
+                "preço": 259.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Saumon Fruit De La Passion À \"Ingrid Ohara\"",
-                "preço": "R$ 89,00",
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "Salmão ao molho de maracujá, acompanhado de purê aligot (purê de batata com queijo emmenthal)"
             },
             {
                 "nome": "Strogonoff de Crevettes Au Créme de Formage À \"Cleo\"",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": null,
                 "descrição": "Strogonoff de camarões com champignon e toque cremoso de requeijão, deliciosamente servido na caçarola de ferro sobre arroz e finalizado com batata palha."
             }
         ],
         "Carnes & Aves": [
             {
                 "nome": "Strogonoff De Poulet À \"Vanessa Lopes\"",
-                "preço": "R$ 67,00",
+                "preço": 67.0,
+                "informação-extra": null,
                 "descrição": "Delicioso strogonoff de filé de frango com champignon, acompanhado de arroz e batata palha"
             },
             {
                 "nome": "Grand Parmeggiana De Poulet À “Camila Loures”",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Tenro filé de peito de frango empanado, levado ao forno com molho de tomates frescos ao molho rôti, gratinado com queijo emmenthal, servido na panelinha de ferro, acompanhado de batatinhas fritas crocantes e arroz"
             },
             {
                 "nome": "Steak Haché À \"Helena Ranaldi\"",
-                "preço": "R$ 78,00",
+                "preço": 78.0,
+                "informação-extra": null,
                 "descrição": "Delicioso e bem servido polpetone recheado de queijo brie derretido e manjericão ao molho de tomates frescos, acompanhado de capellini puxado ao molho do polpetone"
             },
             {
                 "nome": "Picadinho Carioca À \"Wolf Maya\"",
-                "preço": "R$ 74,00",
+                "preço": 74.0,
+                "informação-extra": null,
                 "descrição": "O clássico picadinho Paris 6, preparado com filé mignon em cubos, acompanhado de arroz, feijão, ovo poché, farofa e pasteizinhos de brie"
             },
             {
                 "nome": "Steak Tartare À \"Leo Picon\"",
-                "preço": "R$ 96,00",
+                "preço": 96.0,
+                "informação-extra": null,
                 "descrição": "Um dos pratos mais tradicionais da França e do Paris 6. Saboroso Steak Tartare de filé mignon temperado e picado na ponta da faca, finalizado com toque de pimenta , acompanhado de folhas verdes e batatas rústicas ao alho e alecrim"
             },
             {
                 "nome": "Entrecôte Grillée Garni De Frites À \"Ronnie Von\"",
-                "preço": "R$ 93,00",
+                "preço": 93.0,
+                "informação-extra": null,
                 "descrição": "Entrecôte nobre uruguaio (250g) ao tradicional molho Bernaise, acompanhado de batatas fritas"
             },
             {
                 "nome": "Filet Sauce Ancienne À \"Gloria Menezes & Tarcísio Meira\"",
-                "preço": "R$ 95,00",
+                "preço": 95.0,
+                "informação-extra": null,
                 "descrição": "Steak filé mignon (200g) ao molho de mostarda em grãos, acompanhado de arroz de forno gratinado com parmesão, puxado ao cream cheese, tomates, azeitonas e ervilhas"
             },
             {
                 "nome": "Grand Parmeggiana À \"Rodrigo Faro\"",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Receita exclusiva Paris 6. Bem servido filé à parmegiana de steak de baby beef batido, ao rôti de tomate e manjericão, gratinado com queijo emmenthal, acompanhado de batatas fritas crocantes e arroz"
             },
             {
                 "nome": "Chateaubriand Au Fettuccine Alfredo À “Lexa”",
-                "preço": "R$ 99,00",
+                "preço": 99.0,
+                "informação-extra": null,
                 "descrição": "Clássico corte alto de filé mignon servido com fettuccine ao molho Alfredo P6, preparado com parmesão e estragão"
             },
             {
                 "nome": "Steak Au Poivre Vert Et Spaghetti Carbonara À La Française À \"Fefe\"",
-                "preço": "R$ 106,00",
+                "preço": 106.0,
+                "informação-extra": null,
                 "descrição": "Tradicional corte alto de filé mignon ao molho de pimenta verde, acompanhado de spaghetti puxado ao molho carbonara à moda Francesa e finalizado com tiras de bacon"
             },
             {
                 "nome": "Noveau\nMédaillons Au Poivre Et Risotto Quatre Fromages À “Mari Fernandez”",
-                "preço": "R$ 106,00",
-                "descrição": "Noveau"
+                "preço": 106.0,
+                "informação-extra": null,
+                "descrição": "Medalhões de filé mignon ao clássico molho francês Poivre, de pimentas verdes, servidos no prato de ferro e acompanhados de risotto aos quatro queijos"
             },
             {
                 "nome": "Picanha À L’ancienne Et Frites À “Léo Santana”",
-                "preço": "R$ 108,00",
+                "preço": 108.0,
+                "informação-extra": null,
                 "descrição": "Picanha deliciosamente servida na chapa de ferro com fritas crocantes e molho de mostarda"
             },
             {
                 "nome": "Tranches De Picanha À \"Dudu Nobre\"",
-                "preço": "R$ 116,00",
+                "preço": 116.0,
+                "informação-extra": null,
                 "descrição": "220g de filé de picanha maturada grelhada, fatiada ao azeite de ervas, acompanhado de farofa de ovos e arroz carreteiro puxado com carne seca, ervilhas e coentros"
             },
             {
                 "nome": "Picanha Pf À Mirella Fernandez",
-                "preço": "R$ 116,00",
+                "preço": 116.0,
+                "informação-extra": null,
                 "descrição": "Deliciosa picanha acompanhada de arroz biro-biro, farofa de bacon, banana à milanesa e vinagrete"
             },
             {
                 "nome": "Médaillons À La Sauce Rôti Au Risotto De BrieÀ L'huile D'olive Trufee À \"Chorão\"",
-                "preço": "R$ 116,00",
+                "preço": 116.0,
+                "informação-extra": null,
                 "descrição": "Medalhões (200g) de filé mignon grelhados ao molho rôti com shiitake, acompanhados de risotto de queijo brie, finalizado com azeite trufado"
             },
             {
                 "nome": "Grand Plancha Barbecue À \"Bárbara Labres\"",
-                "preço": "R$ 247,00",
+                "preço": 247.0,
+                "informação-extra": null,
                 "descrição": "Serve 3 pessoas | Extremamente bem servido, nosso delicioso churrasco apresentado na chapa de ferro, com 250g de bife ancho uruguaio, 220g de picanha e calabresa defumada grelhados na hora e acompanhados de cebola aperitivo, abobrinha grelhada, picles, queijo coalho grelhado, molho barbecue, mostarda Dijon, arroz biro-biro, vinagrete e farofa baiana"
             },
             {
                 "nome": "Steak Au Vin Et Risotto De Cepes Et Brie A L’huile De Truffe À “Mano Walter”",
-                "preço": "R$ 116,00",
+                "preço": 116.0,
+                "informação-extra": null,
                 "descrição": "Filé Chateaubriand ao molho de vinho tinto e cebolas echalotes, acompanhado de risotto de cogumelos ao queijo brie e toque final de azeite trufado"
             },
             {
                 "nome": "Médaillons Au Spaghetti Bolognaise À “Brunna Gonçalves”",
-                "preço": "R$ 99,00",
+                "preço": 99.0,
+                "informação-extra": null,
                 "descrição": "Medalhões (200g) de filé mignon grelhados, acompanhados de spaghetti ao tradicional molho à bolonhesa italiano"
             },
             {
                 "nome": "Médaillons Aux Quatre Fromages Au RizÀ L ́ail À \"Felipe Araujo\"",
-                "preço": "R$ 95,00",
+                "preço": 95.0,
+                "informação-extra": null,
                 "descrição": "Dupla de medalhões de filé mignon ao molho quatro queijos, acompanhados de arroz puxado ao alho e batatas fritas"
             },
             {
                 "nome": "Paillard De Boeuf Et Spaghetti Carbonara À La Française À “Cássio Ramos”",
-                "preço": "R$ 82,00",
+                "preço": 82.0,
+                "informação-extra": null,
                 "descrição": "Paillard de baby beef sob nosso delicioso spaghetti carbonara à moda Francesa, servido na panela de ferro"
             },
             {
                 "nome": "Paillard De Boeuf Et Fettuccine Alfredo À “Matheus Fernandes”",
-                "preço": "R$ 77,00",
+                "preço": 77.0,
+                "informação-extra": null,
                 "descrição": "Paillard de baby beef sob clássico fettuccine Alfredo, deliciosamente servido na panela de ferro"
             },
             {
                 "nome": "Strogonoff De Boeuf À \"Mumuzinho\"",
-                "preço": "R$ 87,00",
+                "preço": 87.0,
+                "informação-extra": null,
                 "descrição": "Delicioso strogonoff de filé mignon com champignon, acompanhado de arroz e batata palha"
             },
             {
                 "nome": "Chateaubriand Et Ghocchi Sauce Quatre Fromages À \"Luciana Peixoto\"",
-                "preço": "R$ 116,00",
+                "preço": 116.0,
+                "informação-extra": null,
                 "descrição": "Chateabriand de filé mignon ao molho rôti, acompanhado de gnocchi de brie ao molho quatro queijos, puxado em vinho branco"
             },
             {
                 "nome": "Chauteubriand Et Spaghetti Au Gorgonzola Sauce À \"Julia Puzzuoli\"",
-                "preço": "R$ 99,00",
+                "preço": 99.0,
+                "informação-extra": null,
                 "descrição": "Corte alto de filé mignon ao molho roty, deliciosamente servido com spaghetti puxado ao molho gorgonzola com nozes picadas"
             },
             {
                 "nome": "Baião de Deux à \"Dra. Deolane\"",
-                "preço": "R$ 103,00",
+                "preço": 103.0,
+                "informação-extra": null,
                 "descrição": "Aquela viagem ao melhor da culinária nordestina! Bem servido baião de dois preparado com carne seca,queijo coalho,linguiça e bacon, servido com cortes de galeto e finalizado com tiras de bacon frito e toque de azeite de pimenta."
             },
             {
                 "nome": "Poulet rôti a la sauce a l’ancienne à “key Alves”",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": null,
                 "descrição": "Cortes de galeto assado ao molho de mostarda em grãos, acompanhados de arroz à grega e batatas rústicas"
             }
         ]
@@ -446,22 +531,26 @@
         "Burguers & Co": [
             {
                 "nome": "Croque Monsieur Classique À “Flavio Rossi”",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Tradicional e bem servido \"misto quente francês\" no pão de forma de brioche ao molho bechamel, recheado com presunto e gratinado com queijo emmenthal | Opcional + R$12,00 ovo frito"
             },
             {
                 "nome": "Burger P6 Au Gorgonzola À \"Simaria\"",
-                "preço": "R$ 61,00",
+                "preço": 61.0,
+                "informação-extra": null,
                 "descrição": "Delicioso burguer gourmet com blend exclusivo P6 (180g) preparado na chapa com queijo gorgonzola derretido, servido em pão de brioche com fatias de bacon, com alface e maionese verde caseira P6"
             },
             {
                 "nome": "Burger P6 Au Fromage Et Échalote À \"Péricles\"",
-                "preço": "R$ 61,00",
+                "preço": 61.0,
+                "informação-extra": null,
                 "descrição": "Suculento e bem servido burguer com blend exclusivo P6 (180g) preparado na chapa com queijo coalho grelhado, cebola caramelizada, servido em pão australiano com alface e maionese verde caseira P6"
             },
             {
                 "nome": "Burger P6 Gourmet Au Poireau Et Brie À \"Viih Tube\"",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": null,
                 "descrição": "Delicioso burger gourmet com blend exclusivo P6 (180g) preparado na chapa com queijo brie, servido em pão de brioche com fatias de bacon, crispy de alho-poró, alface e maionese verde caseira P6"
             }
         ]
@@ -470,188 +559,224 @@
         "Sobremesas Clássicas": [
             {
                 "nome": "Profiteroles Classique Au Vanille À \"Amanda Françozo\"",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Profiteroles duplo em releitura da clássica receita francesa, com sorvete de vanilla, cobertas com ganache de chocolate meio amargo e amêndoas caramelizadas"
             },
             {
                 "nome": "Petit Gateau Au Lait Sucré À \"Miá Mello\"",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Bolinho quente de doce de leite, coberto com calda de doce de leite, acompanhado de sorvete de vanilla"
             },
             {
                 "nome": "Petit Gateau De Nutella® À \"Sheron Menezzes\"",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Petit Gateau de Nutella®, coberto com calda de Nutella®, acompanhado de morangos picados, avelãs granuladas, leite condensado e uma bola de sorvete de vanilla"
             },
             {
                 "nome": "Petit Gateau De Nutella® Au Brigadeiro Ninho® À \"Gabriella Medina\"",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Petit Gateau de Nutella® coberto com ganache de brigadeiro de leite Ninho®, nozes granuladas, morangos picados, finalizado com leite Ninho® polvilhado e acompanhado de sorvete de vanilla"
             },
             {
                 "nome": "Confit De Noix De Coco À \"Tiago Leifert\"",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Nova receita da nossa cocada cremosa, agora servida com calda de frutas vermelhas | SEM GLÚTEN E SEM LACTOSE"
             },
             {
                 "nome": "Millefeuille Au Lait Sucré À \"Bruna Marquezine\"",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Majestoso mil-folhas com camadas de massa folhada recheadas com doce de leite, polvilhado com açúcar de confeiteiro e nozes granuladas"
             },
             {
                 "nome": "Pavé Au Chocolat Blanc À \"Kelly Key\"",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Delicioso pavê ao creme de chocolate branco com bolachas de maisena ao leite, coberto com raspas de chocolate branco"
             },
             {
                 "nome": "Millefeuille D’amoùr À \"Priscila Fantin\"",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Receita exclusiva Paris 6 de mil-folhas com camadas de massa folhada intercaladas com pavê de chocolate branco, coberto com ganache de chocolate branco, morangos picados, finalizado com leite Ninho® polvilhado e toque de leite condensado"
             },
             {
                 "nome": "Cheesecake Aux Fruits Rouges À \"Jade Picon\"",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Maravilhosa cheesecake com pedaços de frutas vermelhas no recheio, delicadamente coberta com ganache de chocolate branco e frutas vermelhas"
             },
             {
                 "nome": "Pasteizinhos De Doce De Leite À \"Mc Mirella\"",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "(6 unid.) Pasteizinhos recheados com doce de leite e nozes, acompanhados com calda doce de leite e nozes, morangos picados, sorvete de vanilla ao centro e toque final de açúcar de confeiteiro polvilhado"
             },
             {
                 "nome": "Churros Au Pôt À \"Viih Tube\"",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Deliciosa porção de churros para compartilhar, com camada extra de doce de leite, morangos picados, sorvete de vanilla, leite Ninho® polvilhado e toque final de leite condensado"
             },
             {
                 "nome": "Grand Crêpe De Pavage Chocolat Blanc À “Rafaella Santos”",
-                "preço": "R$ 47,00",
+                "preço": 47.0,
+                "informação-extra": null,
                 "descrição": "Delicioso e bem servido crepe recheado com creme de pavê de chocolate branco, coberto com ganache de chocolate branco, morangos picados, raspas de chocolate branco, finalizado com uma bola de sorvete gourmet de vanilla sobre a cobertura"
             },
             {
                 "nome": "Grand Crêpe Au Chocolat De Grand Gateau À “Neymar”",
-                "preço": "R$ 47,00",
+                "preço": 47.0,
+                "informação-extra": null,
                 "descrição": "Delicioso e bem servido crepe com recheio cremoso de chocolate de Grand Gateau® mesclado com avelãs granuladas, cobertura de ganache de chocolate branco, sorvete gourmet de vanilla, raspas de chocolate meio amargo e toque final de leite condensado"
             }
         ],
         "Crème Brûlées ": [
             {
                 "nome": "Crème Brûlée Classique",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Clássico creme brûlée de fava de baunilha, coberto com tradicional casquinha de açúcar queimado"
             },
             {
                 "nome": "Nouveau\nBrigadeiro Brûlée Au Lait Sucré À “Mustache”",
-                "preço": "R$ 42,00",
-                "descrição": "Nouveau"
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": "Deliciosa receita P6 de brigadeiro brûlée, com casquinha de açúcar queimado, coberto com calda de doce de leite, bola de sorvete de vanilla, morangos em pedaços e finalizado com confeitos de chocolate"
             },
             {
                 "nome": "Crème Brûlée Au Nutella ® À \"Keyt Alves\"",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Creme brûlée de fava de baunilha, casquinha de açúcar queimado, coberto com calda de Nutella®, morangos picados, avelãs granuladas e bola de sorvete de vanilla ao centro e toque final de leite condensado."
             }
         ],
         "Grand Gateau Na Panelinha": [
             {
                 "nome": "Grand Gateau Au Pôt À “Cinthia Cruz”",
-                "preço": "R$ 70,00",
+                "preço": 70.0,
+                "informação-extra": null,
                 "descrição": "Serve 2 a 3 pessoas | Grand Gateau® P6 de chocolate com cobertura de calda de doce de leite com nozes, morangos picados, com bola de sorvete cremoso de vanilla ao centro e toque final de leite Ninho®"
             },
             {
                 "nome": "Grand Gateau Au Pôt À “Jojô Todynho”",
-                "preço": "R$ 70,00",
+                "preço": 70.0,
+                "informação-extra": null,
                 "descrição": "Serve 2 a 3 pessoas | Grand Gateau® P6 de chocolate coberto com ganache crocante de Diamante Negro®, morangos picados, bola de sorvete cremoso sabor vanilla ao centro e toque final de raspas de chocolate branco e leite Ninho® polvilhado"
             },
             {
                 "nome": "Grand Gateau Au Pôt À “Projota”",
-                "preço": "R$ 70,00",
+                "preço": 70.0,
+                "informação-extra": null,
                 "descrição": "Serve 2 a 3 pessoas | Grand Gateau® P6 de chocolate coberto com creme de chocolate meio amargo, morangos picados, chocolates KitKat® picados, bola de sorvete cremoso sabor vanilla ao centro, finalizado com pedaços de KitKat® inteiros e toque de leite condensado"
             },
             {
                 "nome": "Grand Gateau Au Pôt À “Luísa Sonza”",
-                "preço": "R$ 75,00",
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "Serve 2 a 3 pessoas | Grand Gateau® P6 de chocolate coberto com creme de pavê de chocolate branco ao crocante de cookies’n cream, morangos picados, bola de sorvete de vanilla ao centro, finalizado com pedaços de bombons Ouro Branco® e toque de leite condensado"
             },
             {
                 "nome": "Grand Gateau Au Pôt À “Thais Braz”",
-                "preço": "R$ 75,00",
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "Serve 2 a 3 pessoas |Grand Gateau® de chocolate coberto com ganache de chocolate meio amargo ao crocante de Ferrero Rocher®, morangos picados, raspas de chocolate, bola de sorvete de vanilla ao centro, finalizado com toque de leite condensado e um bombom Ferrero Rocher®"
             },
             {
                 "nome": "Grand gateau au pôt à “Maya Mazzafera”",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Serve 2 a 3 pessoas Grand Gateau® P6 deliciosamente servido na panelinha de ferro, finalizado com camada do nosso exclusivo e delicioso creme de pavê de chocolate branco, morangos picados, raspas de chocolate branco e sorvete de vanilla"
             },
             {
                 "nome": "Grand Gateau au pôt les trois chocolats à “Eliezer”",
-                "preço": "R$ 78,00",
+                "preço": 78.0,
+                "informação-extra": null,
                 "descrição": "Serve 2 a 3 pessoas Uma reunião deliciosa de chocolates!! Grand Gateau® P6 de chocolate servido na panela sob camada de creme de pavê de chocolate branco, cobertura de ganache de chocolate meio amargo, Bis Black® em pedaços, bola de sorvete de vanilla ao centro, finalizado com raspas de chocolate branco e toque de leite condensado"
             }
         ],
         "Grand Gateau  \"O Original Por Izaac Azar\"": [
             {
                 "nome": "Grand Gateau Aux Fruits Rouges À “Anaju”",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": null,
                 "descrição": "Grand Gateau® P6 de chocolate coberto com ganache de chocolate branco mesclado com calda de frutas vermelhas, finalizado com calda e pedaços de frutas vermelhas, raspas de chocolate branco, toque de leite condensado e com pedaço de Hershey's® mergulhado no Grand Gateau®"
             },
             {
                 "nome": "Grand Gateau À “Bárbara Labres”",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Grand Gateau® P6 com deliciosa cobertura de creme de pavê de chocolate branco, morangos picados e raspas de chocolate branco"
             },
             {
                 "nome": "Grand Gateau Au Sonho De Valsa® À “Carlinhos Maia”",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Grand Gateau® P6 de chocolate recheado de bombons Sonho de Valsa® derretidos, cobertura de calda de doce de leite, pedaços de bombons Sonho de Valsa®, raspas de chocolate e toque final de leite condensado"
             },
             {
                 "nome": "Grand Gateau Au Brigadeiro Au Four À La Crème De Lait Sucré À “Deborah Secco”",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Grand Gateau® P6 de chocolate recheado com brigadeiro de colher, coberto com ganache de chocolate meio amargo, toque de calda de doce de leite, finalizado com confeitos de chocolate e morangos picados"
             },
             {
                 "nome": "Grand Gateau Au Ferrero Rocher® À “Dri Birolli”",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Grand Gateau® P6 de chocolate recheado com castanha de caju granulada, coberto com calda de Nutella®, pedaços de bombom Ferrero Rocher®, um bombom inteiro, avelãs granuladas e toque final de leite condensado"
             },
             {
                 "nome": "Grand Gateau Au Kinder® À ”Jade Barbosa”",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": null,
                 "descrição": "Grand Gateau® P6 de chocolate coberto com ganache de chocolate meio amargo, pedaços de Kinder Bueno® ao leite, toque de calda de doce de leite, avelãs granuladas, finalizado com leite condensado"
             },
             {
                 "nome": "Grand Gateau Au Ouro Branco® À “Juliana Paiva”",
-                "preço": "R$ 62,00",
+                "preço": 62.0,
+                "informação-extra": null,
                 "descrição": "Grand Gateau® P6 de chocolate coberto com ganache de chocolate branco, morangos picados, pedaços de bombom Ouro Branco® e toque final de ganache de chocolate meio amargo"
             },
             {
                 "nome": "Grand Gateau Brigadeiro Ninho® À “Maraisa”",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Grand Gateau® P6 de chocolate com recheio de brigadeiro de leite Ninho®, cobertura de ganache de brigadeiro de leite Ninho®, morangos picados, e toque final de leite em pó polvilhado"
             },
             {
                 "nome": "Grand Gateau Chocolat Nutella® À “Paloma Bernardi”",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Uma das sobremesas mais consumidas do Brasil. Delicioso Grand Gateau® P6 de chocolate com calda de Nutella®, morangos picados, avelãs granuladas e toque final de leite condensado"
             },
             {
                 "nome": "Grand Gateau Au Kinder White® À “Paulo Ricardo”",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Grand Gateau® de chocolate coberto com ganache de chocolate branco, pedaços de Kinder Bueno White®, toque de calda de doce de leite, avelãs granuladas, finalizado com leite condensado"
             },
             {
                 "nome": "Grand gateau à la Paçoca À “Gkay”",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Grand Gateau® P6 de chocolate coberto com ganache de doce de leite, morangos picados, paçoca esfarelada, finalizado com toque de leite condensado"
             },
             {
                 "nome": "Grand gateau au Bis Black® à “Mari Menezes”",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Grand Gateau® P6 de chocolate coberto com ganache de chocolate ao crocante de Bis Black®, morangos picados, raspas de chocolate branco, finalizado com dois Bis Black® inteiros e toque de leite condensado"
             },
             {
                 "nome": "Grand Gateau Ninho® à “Mateus Vital”",
-                "preço": "R$ 62,00",
+                "preço": 62.0,
+                "informação-extra": null,
                 "descrição": "Delicioso Grand Gateau® P6 de chocolate recheado com brigadeiro de leite Ninho®, coberto com ganache de chocolate meio amargo, morangos picados, leite Ninho® polvilhado e toque final de leite condensado"
             }
         ]
@@ -660,191 +785,228 @@
         "Bebidas": [
             {
                 "nome": "Água sem gás",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Sem gás"
             },
             {
                 "nome": "Água com gás",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água Tônica Original",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água Tônica Zero",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água Perrier",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água De Coco",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Guaraná Original",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Guaraná Zero",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "H2O Original",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "H2OH Limoneto",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sukita Laranja",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pepsi Original",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Black Pepsi Twist",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá gelado de limão",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco Mix",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Duas frutas a sua escolha, consulte sabores disponíveis."
             },
             {
                 "nome": "Sucos",
-                "preço": null,
+                "preço": 14.0,
+                "informação-extra": null,
                 "descrição": "Laranja | abacaxi | limão | maracujá | melancia | morango | abacaxi c/ hortelã P6"
             },
             {
                 "nome": "Limonada Suíça",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco Tomate",
-                "preço": null,
+                "preço": 17.0,
+                "informação-extra": null,
                 "descrição": "Suco de tomate com limão, molho inglês, finalizado com gotas de pimenta Tabasco e pitada de sal e pimenta-do-reino"
             },
             {
                 "nome": "Suco “Paris 6”",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Laranja, abacaxi, morango e mel"
             },
             {
                 "nome": "Energético",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Café": [
             {
                 "nome": "Café Espresso",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Finezzo",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Delicado com notas florais"
             },
             {
                 "nome": "Leggero",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Equilibrado com notas de cereais"
             },
             {
                 "nome": "Decaffeinato",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Encorpado com notas de torrado"
             },
             {
                 "nome": "Ristretto",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Intenso com notas de cacau"
             },
             {
                 "nome": "Chá Natural Hortelã",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chás Importados",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Espresso Machi",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café Duplo",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chocolate Quente",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Capuccino Class",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Capuccino Avelã",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Capuccino Brigadeiro",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Macaron",
-                "preço": "R$ 5,50",
+                "preço": 5.5,
+                "informação-extra": null,
                 "descrição": "Unid."
             }
         ],
         "Talchá": [
             {
                 "nome": "Infusão Frescor de Capim Limão",
-                "preço": "R$ 15,00",
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Frutado, levemente picante e refrescante. Ingredientes: Capim limão, raiz de beterraba, casca de laranja, pedaços de maçã, flores de hibisco, pedaços de gengibre, açafrão, folhas de alecrim e menta. Não possui cafeína."
             },
             {
                 "nome": "Infusão Laranja Citrus",
-                "preço": "R$ 15,00",
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Sabor pronunciado de laranja, cítrico e refrescante. Ingredientes: Pedaços de laranja e maçã, casca de laranja liofilizada, flores de calêndula, folhas de amora e aroma natural. Não contém glúten. Não possui cafeína."
             },
             {
                 "nome": "Infusão de Gengibre Fresh",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Refrescante, de sabor delicado e levemente picante. Ingredientes: Folhas de capim limão e hortelã, pedaços de gengibre, casca de limão e pimenta-do-reino em grãos. Não possui cafeína."
             }
         ]
@@ -853,344 +1015,410 @@
         "Caipirinhas": [
             {
                 "nome": "Sakerinha",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Caipirinha Tradicional",
-                "preço": null,
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Caipiroska",
-                "preço": null,
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Caipirinha de Gin à \"Lior Raz\"",
-                "preço": null,
-                "descrição": ""
+                "preço": 43.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Refrescantes": [
             {
                 "nome": "Coquetel de Frutas Sem Álcool",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Soda Paris 6",
-                "preço": null,
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coquetel de Frutas com Álcool",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Morango | Laranja | Abacaxi"
             },
             {
                 "nome": "Clericot",
-                "preço": null,
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sangria",
-                "preço": null,
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Aperol Spritz",
-                "preço": null,
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Clássicos": [
             {
                 "nome": "Mojito",
-                "preço": null,
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Piña Colada",
-                "preço": null,
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Kir Royal",
-                "preço": null,
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bellini",
-                "preço": null,
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Margarita",
-                "preço": null,
-                "descrição": ""
+                "preço": 47.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Moscow Mule",
-                "preço": null,
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Whisky Sour",
-                "preço": null,
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cosmopolitan",
-                "preço": null,
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Negroni",
-                "preço": null,
-                "descrição": ""
+                "preço": 47.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Manhattan",
-                "preço": null,
-                "descrição": ""
+                "preço": 47.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Dry Martini",
-                "preço": null,
-                "descrição": ""
+                "preço": 47.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Doses": [
             {
                 "nome": "Jun Daiti",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cachaça Espírito De Minas",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cachaça Sagatiba",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ypioca 5 Chaves",
-                "preço": null,
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Rum Bacardi Prata",
-                "preço": null,
-                "descrição": ""
+                "preço": 28.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Rum Bacardi Ouro",
-                "preço": null,
-                "descrição": ""
+                "preço": 28.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tequila Cuervo Prata",
-                "preço": null,
-                "descrição": ""
+                "preço": 31.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tequila Cuervo Ouro",
-                "preço": null,
-                "descrição": ""
+                "preço": 31.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vodka Smirnoff",
-                "preço": null,
-                "descrição": ""
+                "preço": 28.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vodka Ketel One",
-                "preço": null,
-                "descrição": ""
+                "preço": 31.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vodka Cîroc",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Campari",
-                "preço": null,
-                "descrição": ""
+                "preço": 28.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "J.W. Red Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "J.W. Black Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "J.W. Old Parr",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jack Daniels 8 Anos",
-                "preço": null,
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Buchanans 12 Anos",
-                "preço": null,
-                "descrição": ""
+                "preço": 37.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chivas Regal",
-                "preço": null,
-                "descrição": ""
+                "preço": 37.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gin Tanqueray",
-                "preço": null,
-                "descrição": ""
+                "preço": 43.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Remy Martini V.S.O.P.",
-                "preço": null,
-                "descrição": ""
+                "preço": 61.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vodka Absolut",
-                "preço": null,
-                "descrição": ""
+                "preço": 31.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Licores": [
             {
                 "nome": "Limoncello",
-                "preço": null,
-                "descrição": ""
+                "preço": 31.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Amarula",
-                "preço": null,
-                "descrição": ""
+                "preço": 47.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cointreau",
-                "preço": null,
-                "descrição": ""
+                "preço": 31.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Licor 43",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Baileys",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Frangelico",
-                "preço": null,
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cervejas": [
             {
                 "nome": "Brahma 0,0% (Sem Álcool)",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cervejas Long Neck",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hoegarden",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Leffe Blonde",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Patagonia",
-                "preço": null,
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chopp",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Drinks": [
             {
                 "nome": "Flor De Mandacaru",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Ypióca 150, suco de maracujá, mel e suco de limão"
             },
             {
                 "nome": "Ketel One® Cosmopolitan",
-                "preço": null,
+                "preço": 37.0,
+                "informação-extra": null,
                 "descrição": "Ketel One, licor de laranja, suco de limão e suco de cranberry"
             },
             {
                 "nome": "Bloody Mary",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Clássico drink com a reunião de vodka com suco de tomate, suco de limão, molho-inglês, finalizado com gotas de pimenta Tabasco® e pitadas de sal e pimenta-do-reino"
             },
             {
                 "nome": "Cîroc® Punch",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Cîroc, suco cranberry, água tônica, morangos e cascas de Lima da Pérsia e laranja"
             },
             {
                 "nome": "Tanqueray Gin & Tonic",
-                "preço": null,
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Tanqueray, água tônica e rodela de limão"
             },
             {
                 "nome": "Triplet",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "Tanqueray, água tônica e limão siciliano"
             },
             {
                 "nome": "Tanqueray Tea And Tonic",
-                "preço": null,
+                "preço": 47.0,
+                "informação-extra": null,
                 "descrição": "Tanqueray, água tônica, chá de camomila e mel"
             },
             {
                 "nome": "French 75",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "Tanqueray, suco de limão, espumante e xarope de açúcar"
             },
             {
                 "nome": "Old Fashioned",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "Bourbon, bitters e xarope de açúcar"
             },
             {
                 "nome": "Bramble",
-                "preço": null,
+                "preço": 47.0,
+                "informação-extra": null,
                 "descrição": "Tanqueray, suco de limão siciliano, xarope de açúcar e licor de framboesa"
             },
             {
                 "nome": "Gin À “Duda Aquino”",
-                "preço": null,
+                "preço": 47.0,
+                "informação-extra": null,
                 "descrição": "Gin, xarope de framboesa, suco de limão siciliano, morangos e folha de hortelã"
             },
             {
                 "nome": "Amarula Iced Coffee",
-                "preço": null,
+                "preço": 47.0,
+                "informação-extra": null,
                 "descrição": "Amarula, café e gelo"
             }
         ]
@@ -1199,130 +1427,154 @@
         "Entradas ": [
             {
                 "nome": "Salade Caprese À \"Claudia Raia\"",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Clássica salada de folhas com mozzarella de búfala, rodelas de tomate e manjericão, servida com molho vinagrete da casa"
             },
             {
                 "nome": "Salada Tropical À \"Val Drummond\"",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Pequenas saladas de folhas com palmito, tomate e pepino ao molho vinagrete da casa"
             },
             {
                 "nome": "Bruschettas Caprese À \"Dhiovanna\" (3 unid)",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Torradinhas com mozarela de búfala ao forno, com tomate concasse e manjericão"
             },
             {
                 "nome": "Pasteizinhos De Carne À \"Ivo Meireles\"",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "(3 Unid.) Preparados com carne ao molho bechamel e toque de molho inglês, acompanhados de geleia de pimenta"
             }
         ],
         " Formule \" Lipp \" R$ 59,00": [
             {
                 "nome": "Risotto Caprese À “Estrela Blanco”",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Vegetariano",
                 "descrição": "Delicioso risotto de arroz arbóreo com mozzarella de búfala, tomate fresco picado e manjericão"
             },
             {
                 "nome": "Risotto Gorgonzola Et Poire À “Ana Clara”",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Vegetariano",
                 "descrição": "Delicioso risotto de arroz arbóreo com queijo gorgonzola e pera, finalizado com lâminas de pera caramelizadas"
             },
             {
                 "nome": "Fettuccine Alfredo À \"Luísa Sonza\"",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Um clássico Paris 6, delicioso fettuccine inspirado no molho alf redo com creme de leite, queijo parmesão e estragão"
             }
         ],
         "\" La Coupole\" R$ 69,00": [
             {
                 "nome": "Spaghetti Carbonara À La Française Au Poulet À “Alexandre Pato”",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Clássico spaghetti puxado ao molho carbonara à moda paris 6, preparado com creme de leite, queijo parmesão, lascas de frango, gema de ovo e finalizado com tiras de bacon"
             },
             {
                 "nome": "Spaghetti Bolognaise À “Jayme Monjardim”",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Delicioso spaghetti puxado ao molho bolonhesa, com tomate fresco picado, manjericão, parmesão, finalizado com azeite trufado"
             },
             {
                 "nome": "Gnocchi De Brie Au Sugo À “Mamie Jeanette”",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Clássica receita da vovó jeanette azar, delicioso gnocchi p6 de batata baroa com recheio de brie, puxado ao molho sugo com manjericão e gratinado ao forno com parmesão"
             },
             {
                 "nome": "Picadinho Carioca À “Wolf Maya”",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "O clássico picadinho paris 6, preparado com filé mignon em cubos, acompanhado de arroz, feijão, ovo poché, farofa e pasteizinhos de brie"
             },
             {
                 "nome": "Strogonoff De Poulet À \"Vanessa Lopes\"",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Delicioso strogonoff de tiras de filé de frango com champignon, acompanhado de arroz e batata palha"
             },
             {
                 "nome": "Moqueca Vegetariana À \"Ellen Jabour\"",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Vegetariano",
                 "descrição": "Deliciosa moqueca vegana de palmito grelhado, ao azeite de dendê, leite de coco e iguarias, servida com arroz ao próprio molho da moqueca e farofa de banana"
             }
         ],
         "\" Le Balzar \" R$ 75,00": [
             {
                 "nome": "Steak Haché À “Helena Ranaldi”",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Delicioso e bem servido polpetone recheado de queijo brie derretido e manjericão ao molho de tomates frescos, acompanhado de capellini puxado ao molho do polpetone"
             },
             {
                 "nome": "Paillard de Bouef Et Spaghetti Carbonara À La Française \"Cassio Ramos\"",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Paillard de baby beef sob nosso delicioso spaghetti carbonara à moda francesa, servido na panela de ferro e finalizado com toque de molho rôti"
             },
             {
                 "nome": "Gnocchi De Brie Aux Quatre Fromages À \"Marina Ruy Barbosa\"",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Vegetariano",
                 "descrição": "Clássico P6, delicioso gnocchi de batata baroa com recheio de queijo brie, preparado ao molho quatro queijos, gratinado ao forno com queijo parmesão"
             },
             {
                 "nome": "Paillard De Boeuf Et Fettuccine Alfredo À “Matheus Fernandes”",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Paillard de baby beef sob clássico fettuccine Alfredo, deliciosamente servido na panela de ferro"
             },
             {
                 "nome": "Strogonoff De Boeuf À \"Mumuzinho\"",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Delicioso strogonoff de filé mignon com champignon, acompanhado de arroz e batata palha"
             },
             {
                 "nome": "Filet Du Poisson Du Jour Grillé Au Risotto Au CitronÀ “Carol Castro”",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Filé de peixe do dia grelhado, acompanhado de risotto de limão siciliano, finalizado com azeite de ervas"
             },
             {
                 "nome": "Entrecôte Grillée Garni De Frites À \"Ronnie Von\"",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Entrecôte nobre uruguaio (250g) ao tradicional molho Bernaise, acompanhado de batatas fritas"
             },
             {
                 "nome": "Médaillons Aux Quatre Fromages Au RizÀ L ́ail À \"Felipe Araujo\"",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Dupla de medalhões de filé mignon ao molho quatro queijos, acompanhados de arroz puxado ao alho e batatas fritas"
             }
         ],
         "Sobremesas": [
             {
                 "nome": "Crème Brûlée Classique",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Clássico creme brûlée de fava de baunilha, coberto com tradicional casquinha de açúcar queimado"
             },
             {
                 "nome": "Pavé Au Chocolatet Blanca À \"Kelly Key\"",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Delicioso pavê ao creme de chocolate branco com bolachas de maisena ao leite, coberto com raspas de chocolate branco"
             },
             {
                 "nome": "Ananas Fraiche Au Zest de Citron",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Abacaxi fresco servido com raspas de limão"
             }
         ]
@@ -1331,41 +1583,48 @@
         "Saladas": [
             {
                 "nome": "Salada de Tomate",
-                "preço": "R$ 15,00",
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Tomates em rodelas"
             },
             {
                 "nome": "Salada Verde",
-                "preço": "R$ 15,00",
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Salada de Alface"
             },
             {
                 "nome": "Salada Mista",
-                "preço": "R$ 17,00",
+                "preço": 17.0,
+                "informação-extra": null,
                 "descrição": "Folhas de alface servidas com tomates em rodelas"
             }
         ],
         "Massas": [
             {
                 "nome": "Fettuccine ou Penne",
-                "preço": "R$ 45,00",
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Carnes e Aves": [
             {
                 "nome": "Filé de peito de frango",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Servido com purê de batatas"
             },
             {
                 "nome": "Strogonoff de Frango",
-                "preço": "R$ 58,00",
+                "preço": 58.0,
+                "informação-extra": null,
                 "descrição": "Servido com arroz branco, batata palha ou fritas"
             },
             {
                 "nome": "Paillard de Filé Mignon",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": null,
                 "descrição": "Servido com arroz, feijão e purê de batata ou fritas"
             }
         ]

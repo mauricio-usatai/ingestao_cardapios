@@ -3,59 +3,70 @@
         "Antepastos": [
             {
                 "nome": "Tábua de Polvo à Vinagrete",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Pedaços de polvo conservados em azeite extravirgem de oliva, com nossa Salsa Campera, Pote de vidro de 170g, Pão Multigrãos de Fermentação Lenta e Natural, e Mix de Castanhas."
             },
             {
                 "nome": "Tábua de Polvo no Azeite e Ervas",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Pedaços de polvo conservados em azeite extravirgem de oliva, com um toque de funcho e limão siciliano. Pote de vidro de 170g, Pão Multigrãos de Fermentação Lenta e Natural, e Mix de Castanhas."
             },
             {
                 "nome": "Tábua de Camarão ao Alho e Óleo",
-                "preço": "R$ 91,00",
+                "preço": 91.0,
+                "informação-extra": null,
                 "descrição": "Camarões rosa preparados com alho e um toque de pimenta limão, pronto para ser degustado como aperitivo ou ainda para ser usado como ingrediente em outras preparações. Pote de vidro de 170g, Pão Multigrãos de Fermentação Lenta e Natural, e Mix de Castanhas."
             },
             {
                 "nome": "Tábua de Salmão ao Natural",
-                "preço": "R$ 91,00",
+                "preço": 91.0,
+                "informação-extra": null,
                 "descrição": "Lascas de salmão cozinhado em água e sal, Pão Multigrãos de Fermentação Lenta e Natural, e Mix de Castanhas."
             },
             {
                 "nome": "Tábua de Lombo no Azeite",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Lombo no azeite, pote de vidro de 220g. Feito com lombo suíno confitado, tomate seco, azeite extravirgem de oliva e especiarias, sem conservantes artificiais. Acompanha Pão Multigrãos de Fermentação Lenta e Natural e Mix de Castanhas."
             },
             {
                 "nome": "Crostino Toscano",
-                "preço": "R$ 88,00",
+                "preço": 88.0,
+                "informação-extra": null,
                 "descrição": "O antepasto mais clássico da Toscana, é um patê cremoso feito com figado de frango, aliche e alcaparras. Acompanha Pão de Fermentação Lenta e Natural e Mix de Castanhas."
             }
         ],
         "Petiscos": [
             {
                 "nome": "Tábua de Frios",
-                "preço": "R$ 107,00",
+                "preço": 107.0,
+                "informação-extra": null,
                 "descrição": "Copa, Salame, Queijo Parmesão, Queijo Gorgonzola, Queijo Mussarela, Pão Multigrãos de Fermentação Lenta e Natural, e Mix de Castanhas."
             },
             {
                 "nome": "Tábua de Brie Brullé Mel Trufado",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Queijo Brie Brullé, Maçaricado com Mel Trufado, Pão Multigrãos de Fermentação Lenta e Natural, e Mix de Castanhas."
             },
             {
                 "nome": "Tapenade Azeitonas Pretas",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Pasta de Azeitonas Pretas, Aliche, Pimenta, Pão Multigrãos de Fermentação Lenta e Natural, e Mix de Castanhas."
             },
             {
                 "nome": "Caponata Siciliana Berinjela e Abobrinha",
-                "preço": "R$ 91,00",
+                "preço": 91.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Berinjelas e abobrinhas se combinam com tomates secos e azeite de oliva, com um toque de alecrim, manjericão e uma picância moderada de pimenta calabresa para fazer nosso molho vegetariano com inspiração do sul da Itália, Pão Multigrãos de Fermentação Lenta e Natural, e Mix de Castanhas."
             },
             {
                 "nome": "Sardela Aliche e Pimentões",
-                "preço": "R$ 88,00",
+                "preço": 88.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Feita com aliche, pimentão, tomate, óleo extra-virgem, alho, pimenta e temperos. Acompanha Pão Multigrãos de Fermentação Lenta e Natural e Mix de Castanhas."
             }
         ]
@@ -64,44 +75,52 @@
         "Espumantes": [
             {
                 "nome": "Asciutto Extra Brut",
-                "preço": null,
+                "preço": 152.0,
+                "informação-extra": null,
                 "descrição": "VISUAL: Amarelo palha intenso. PERLAGE: Fino e curto. NASAL: Delicado, aromas de frutas maduras, com notas de pão torrado. BOCA: Envolvente, equilibrado com uma boa persistência. HARMONIZAÇÃO: Acompanha queijos fortes, massas com condimentos marcantes no paladar."
             },
             {
                 "nome": "Bolle Extra Brut",
-                "preço": null,
+                "preço": 116.0,
+                "informação-extra": null,
                 "descrição": "VISUAL: Amarelo esverdeado, pálido. PERLAGE: Fino, elegante e persistente. NASAL: Frutas cítricas, maçã verde, toque floral. BOCA: Ótima acidez, fresco, equilibrado, boa persistência. HARMONIZAÇÃO: Acompanha queijos, massas, aperitivos, carnes, peixes e feijoada."
             },
             {
                 "nome": "Burroso Brut",
-                "preço": null,
+                "preço": 143.0,
+                "informação-extra": null,
                 "descrição": "VISUAL: Amarelo claro. PERLAGE: Fino, abundante e persistente. NASAL: Intenso e persistente. BOCA: Harmônico, equilibrado e muito agradável. HARMONIZAÇÃO: Acompanha frios apimentados, aves e peixes."
             },
             {
                 "nome": "Sole Rosso Brut Rosé",
-                "preço": null,
+                "preço": 143.0,
+                "informação-extra": null,
                 "descrição": "VISUAL: Rosa claro, brilhante. PERLAGE: Fino e abundante. NASAL: Aromas florais, de frutas vermelhas. BOCA: Excelente cremosidade, boa persistência com retrogosto agradável. HARMONIZAÇÃO: Acompanha queijos, massas, aperitivos, carnes e peixes."
             }
         ],
         "Tintos": [
             {
                 "nome": "Di Vino Syrah Single Vineyard Itupeva",
-                "preço": null,
+                "preço": 197.0,
+                "informação-extra": null,
                 "descrição": "BOCA: Aromático, intenso e tânico, envolvente. GASTRONOMIA: Carnes (carnes bovinas e suínas grelhadas; carnes de caça e pernil de cordeiro) Massas e risotos (com ragu de carnes, pasta alla parmegiana) Queijos (parmesão, grana padano, gouda)"
             },
             {
                 "nome": "Di Vino Syrah Single Vineyard Indaiatuba",
-                "preço": null,
+                "preço": 179.0,
+                "informação-extra": null,
                 "descrição": "BOCA: Aromático, intenso e tânico. GASTRONOMIA: Carnes (carnes bovinas e suínas grelhadas; carnes de caça e pernil de cordeiro) Massas e risotos (com ragu de carnes, pasta alla parmegiana) Queijos (parmesão, grana padano, gouda)"
             },
             {
                 "nome": "Singolare Cabernet Franc Single Vineyard Indaiatuba",
-                "preço": null,
+                "preço": 188.0,
+                "informação-extra": null,
                 "descrição": "BOCA: Aromas vibrantes, frutas vermelhas, vibe rústica. GASTRONOMIA: Carnes (carnes bovinas e suínas grelhadas; carnes de caça e pernil de cordeiro) Massas e risotos (com ragu de carnes, pasta alla parmegiana) Queijos (parmesão, grana padano, gouda)"
             },
             {
                 "nome": "Deborah Rose Syrah e Viognier, 2022",
-                "preço": null,
+                "preço": 161.0,
+                "informação-extra": null,
                 "descrição": "Mosto flor de syrah 92% e viognier 8%"
             }
         ]

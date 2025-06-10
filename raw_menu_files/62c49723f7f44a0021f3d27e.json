@@ -3,199 +3,236 @@
         "Ceviches": [
             {
                 "nome": "Ceviche Clasico",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Cubos de peixe branco fresquíssimos, marinado com leche de tigre de pimentas e servidos com batata doce glaceada, milho verde, milho peruano e chips de banana da terra."
             },
             {
                 "nome": "Ceviche Mixto",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Um incrível mix de peixe branco, lula, camarão e polvo. Tudo temperado com leite de tigre tradicional. Acompanhado de batata doce glaceada milho verde, milho peruano e chips de batata doce."
             },
             {
                 "nome": "Ceviche Caretillero",
-                "preço": "R$ 67,00",
+                "preço": 67.0,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Ceviche famoso nas ruas do Peru. Leva peixe e camarão com leche de tigre de pimenta vermelha acompanhado de chips de banana e lula dorê"
             },
             {
                 "nome": "Ceviche Tataki",
-                "preço": "R$ 82,00",
+                "preço": 82.0,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Delicioso Atum selado com molho acevichado de pimentas peruanas. Acompanha camarões empanados e carpacio de polvo. Finalizado com alga wakame, cebolinha, pepino e gergelim."
             },
             {
                 "nome": "Ceviche Verde Criollo",
-                "preço": "R$ 73,00",
+                "preço": 73.0,
+                "informação-extra": "Sem açúcar",
                 "descrição": "Cubos de salmão frescos, iscas de polvo grelhado e peixe crocante acompanhados de um cremoso molho pesto peruano acevichado"
             },
             {
                 "nome": "Tuna do Chef",
-                "preço": "R$ 61,00",
+                "preço": 61.0,
+                "informação-extra": "Diet",
                 "descrição": "Fresco filet de atum marinado em molho de pimenta amarela acevichada. Acompanha batata doce e mouse de abacate."
             },
             {
                 "nome": "Ceviche Apaltado",
-                "preço": "R$ 67,00",
+                "preço": 67.0,
+                "informação-extra": "Sem açúcar",
                 "descrição": "File de Atum, marinada com leite de tigre de abacate defumada, acompanhadas com tortilhas de milho e purê de batata doce."
             },
             {
                 "nome": "Anticuchos de atum",
-                "preço": "R$ 73,00",
+                "preço": 73.0,
+                "informação-extra": "Sem açúcar",
                 "descrição": "Atum do dia , feitos espetos, marinado com molho anticuchero peruano, feita com pimentas e temperos peruanos, acompanhados de batatas bravas e milho verde."
             },
             {
                 "nome": "Novo menu QCeviche!\nNovo QCeviche!",
-                "preço": "R$ 82,00",
-                "descrição": "Novo menu QCeviche!"
+                "preço": 82.0,
+                "informação-extra": "Levemente Apimentado",
+                "descrição": "Nosso QCeviche! Está de cara nova: Peixe temperado com leite de tigre com pimentas peruanas, acompanhado de milho peruano, milho verde, lula ao dorê, camarões ao Panko e tortitas de milho peruanas."
             }
         ],
         "Entradas": [
             {
                 "nome": "Ensalada Miraflorina",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Mix de folhas de alfaces selecionadas, fios de cenoura ( organico ), ovo,tomate cereja e manga. Acompanhado de queijo minas com iscas de frango e massa crocantes, temperada com honey moustard ( mel organica ) do chef."
             },
             {
                 "nome": "Causa Crocante Acevichada",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Postas de causa frita com panko acompanhado de tartare acevichado de peixe branco e abacate."
             },
             {
                 "nome": "Chifles Mistos",
-                "preço": "R$ 25,00",
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Chips de batata doce e banana da terra. Acompanha Guacamole da casa."
             },
             {
                 "nome": "Camarão ao Panko",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": "Light",
                 "descrição": "Deliciosos camaroes crocantes, marinados com molho da casa. Fritos ao panko, acompanha molho de maracuja da casa"
             },
             {
                 "nome": "Ensalada Marina.",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Mix de folhas de alfaces selecionadas, fios de cenoura ( organico ), semente de abobora, tomate cereja e manga e Camaroes . Acompanha molho Golf da casa ( mel organica )."
             },
             {
                 "nome": "Ensalada Salmao",
-                "preço": "R$ 63,00",
+                "preço": 63.0,
+                "informação-extra": null,
                 "descrição": "Mix de folhas de alfaces selecionadas, queijo minas frescal, milho cozido, abacaxi tomate cereja, abacate, crutones crocantes e cubos de salmao fresco selado, temperada com molho de vinagre balsamico, ( mel organica )."
             }
         ],
         "Platos Calientes ": [
             {
                 "nome": "Pulpo Anticuchero",
-                "preço": "R$ 107,00",
+                "preço": 107.0,
+                "informação-extra": null,
                 "descrição": "Polvo ao molho anticuchero acompanhado de batatas salteadas e salada coleslaw ao estilo qceviche."
             },
             {
                 "nome": "Lomo Saltado de Filet Mignon",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Um importante prato da gastronomia peruana nikkey, composto por tiras de filet mignon com cebola roxa, tomate, alho, coentro e shoyo, servidos com arroz e fritas rústicas."
             },
             {
                 "nome": "Chaufa Misto",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Arroz tradicional frito com iscas de carne e frango, ovos, mix de pimentões, shoyu e óleo de gergelim."
             },
             {
                 "nome": "Arroz Thai com Panceta",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Arroz frito com curry, manga, capim santo e panceta glaceada a baixa temperatura."
             },
             {
                 "nome": "Chaufa Veg",
-                "preço": "R$ 62,00",
+                "preço": 62.0,
+                "informação-extra": "Vegano",
                 "descrição": "Arroz gohan Salteado com mix de cogumelos e cebolinha, temperados com óleo de gergelim e temperos selecionados asiáticos"
             },
             {
                 "nome": "Tacu Tacu de Lomo",
-                "preço": "R$ 67,00",
+                "preço": 67.0,
+                "informação-extra": null,
                 "descrição": "Tradicional prato peruano numa reinterpretação brasileira. Leva um mix de arroz e feijão servido com nosso lomo saltado banana frita e ovo."
             },
             {
                 "nome": "Aeropuerto Marinero",
-                "preço": "R$ 71,00",
+                "preço": 71.0,
+                "informação-extra": null,
                 "descrição": "Arroz salteado com legumes e temperado com especiárias orientais acompanhado de omelete de frutos do mar."
             },
             {
                 "nome": "NOVO MENU QCEVICHE\nPepiam do norte Peruano",
-                "preço": "R$ 52,00",
-                "descrição": "NOVO MENU QCEVICHE"
+                "preço": 52.0,
+                "informação-extra": "Levemente Apimentado",
+                "descrição": "Sabroso pepian de milho do norte peruano com escabeche de Meca, acompanhado de arroz."
             },
             {
                 "nome": "NOVO MENU QCEVICHE\nArroz con Chancho",
-                "preço": "R$ 52,00",
-                "descrição": "NOVO MENU QCEVICHE"
+                "preço": 52.0,
+                "informação-extra": "Levemente Apimentado",
+                "descrição": "Um dos pratos mais sabrosos do norte peruano, arroz cozido com porco acompanha uma ensalada criola de hortela, abacate tatemado e gema de ovo caipira."
             },
             {
                 "nome": "Chanchito Chifa",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Saborosas costelinhas de porco marinadas com molho tare da casa, acompanhado com arroz oriental."
             }
         ],
         "Sopas ": [
             {
                 "nome": "Criolla",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Sopa tradicional peruana com cubos de carne e temperos \"criollos\". Combinados com macarrão cabelo de anjo e um ovo frito, acompanha pão de fermentacion natural (100% organico)."
             },
             {
                 "nome": "Creme de Abóbora",
-                "preço": "R$ 37,00",
+                "preço": 37.0,
+                "informação-extra": null,
                 "descrição": "Crema de abobora cozida lentamente e em baixa temperatura com temperos peruanos, acompanhado de ovo frito, queijo minas e pao de fermentação natural (100% organico)."
             }
         ],
         "Sangucheria": [
             {
                 "nome": "Tipakay Sandu",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Sobrecoxa de frango corcante no molho agridoce no estilo tipakay, famoso nas casas chino-peruanas de Lima. Acompanha saladinha oriental e coentro e porçao de fritas Tudo em um delicioso pão de brioche. Acompanha molho extra."
             },
             {
                 "nome": "Lomito",
-                "preço": "R$ 51,00",
+                "preço": 51.0,
+                "informação-extra": null,
                 "descrição": "Nosso delicioso Lomo Saltado em forma de Hamburguer inclui batatas fritas"
             }
         ],
         "Risotos e Massas": [
             {
                 "nome": "Risoto de Lomo",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": null,
                 "descrição": "Cremoso risoto servido com o \"icônico\" lomo saltado e cogumelos ao \"fogo vivo\"."
             },
             {
                 "nome": "Fettuccine com Frango e Quinoa",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Ao molho huancaino com filé de frango em crosta crocante de quinoa."
             },
             {
                 "nome": "Arroz com Marisco",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Arroz cozido no molho bisque misturado com lulas,camarões e polvo frescos, flambados ao vinho branco.Acompanhado com chalaquita, queijo parmesão e mousse de abacate."
             },
             {
                 "nome": "Risoto de Cogumelos",
-                "preço": "R$ 57,00",
+                "preço": 57.0,
+                "informação-extra": "Vegano",
                 "descrição": "Cremoso risoto servido com o cogumelos organicos salteados com abobrinha(organico), brocolis e molho anticuchero"
             },
             {
                 "nome": "NOVO MENU QCEVICHE\nAdobo de Chancho",
-                "preço": "R$ 48,00",
-                "descrição": "NOVO MENU QCEVICHE"
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": "Releitura do um dos mais afamados pratos da cidade de Arequipa-Peru, fetuccini em molho de adobo de porco feito ragu acompanhado de pao de fermentacion natural (pão 100% organico)."
             },
             {
                 "nome": "FETTUCCINI AO PESTO",
-                "preço": "R$ 51,00",
+                "preço": 51.0,
+                "informação-extra": null,
                 "descrição": "Delicioso fettuccini com molho pesto da casa, acompanhado de um saltado de frango (estilo lomo saltado)."
             },
             {
                 "nome": "Fettuccini a la huancaina",
-                "preço": "R$ 51,00",
+                "preço": 51.0,
+                "informação-extra": null,
                 "descrição": "Delicioso Fettuccini com molho huanaina da casa, acompanhado de um saltado de frango (estilo do nosso lomo saltado)"
             }
         ],
         "La Plancha": [
             {
                 "nome": "La Plancha",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Escolha sua Proteina e mais dois acompanhamentos: Legumes salteadas ( abobrinha organica, cenoura organica, brocolis, acelga e batatas ) ao chimichurri, fritas, salada de quinoa, salada verde , arroz ou feijão"
             }
         ]
@@ -204,17 +241,20 @@
         "Sobremesas": [
             {
                 "nome": "Bolo Tres Leches",
-                "preço": "R$ 27,00",
+                "preço": 27.0,
+                "informação-extra": null,
                 "descrição": "Nossa versão do delicioso bolo tres Leches molhado com uma mistura de três texturas de leite e coberto de chantilly da casa e canela em pó."
             },
             {
                 "nome": "Suspiro Limeño",
-                "preço": "R$ 25,00",
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Creme de leite condensado e gemas, coberto com merengue italiano ao vinho do Porto e polvilhado com canela."
             },
             {
                 "nome": "Alfajor",
-                "preço": "R$ 27,00",
+                "preço": 27.0,
+                "informação-extra": null,
                 "descrição": "Saborosas bolachas macias recheadas com doce de leite da casa."
             }
         ]
@@ -223,62 +263,74 @@
         "Vinhos e Espumante": [
             {
                 "nome": "Tantehue Chardonnay - Chile",
-                "preço": null,
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "Tipicidade varietal, com equilibrio de boca, corpo leve e ligeiro, acidez refrescante e aromas de frutas tropicais. Harmoniza muito bem com carnes brancas, frutos do mar, saladas e massas"
             },
             {
                 "nome": "Vestiquero Clásico Sauvignon Blanc - Chile",
-                "preço": null,
+                "preço": 107.0,
+                "informação-extra": null,
                 "descrição": "Um vinho branco fresco, aromático, de paladar seco e refrescante, perfeito para acompanhar pratos leves, camarões e saladas"
             },
             {
                 "nome": "Espumante La Roche Brut - França",
-                "preço": null,
-                "descrição": ""
+                "preço": 122.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Codici Puglia Branco - Itália",
-                "preço": null,
+                "preço": 107.0,
+                "informação-extra": null,
                 "descrição": "Com aromas cítricos, paladar delicado e fresco, permitem que esse vinho refrescado seja um ótimo parceiro para uma conversa e boa pedida para acompanhar pratos leves."
             },
             {
                 "nome": "Tantehue Carmenere - Chile",
-                "preço": null,
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "Uma coloração tinto rubi com um delicioso aroma de mirtillo, morango e especiarias, harmoniza com carne suína e queijos"
             },
             {
                 "nome": "Codici Puglia Tinto - Itália",
-                "preço": null,
+                "preço": 107.0,
+                "informação-extra": null,
                 "descrição": "Um blend italiano, de aroma frutas frescas, como amora e mirtilo. Seus taninos suaves e acidez delicada, permitem que seja ótimo com pizzas, grelhados, legumes assados e massas."
             },
             {
                 "nome": "Bons Ventos Tinto - Portugal",
-                "preço": null,
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Massas e carnes"
             },
             {
                 "nome": "Bons Ventos Branco - Portugal",
-                "preço": null,
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Camarão, mariscos e legumes"
             },
             {
                 "nome": "Ventisquero Clásico Chardonnay - Chile",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Um vinho branco fresco e delicado. De paladar seco, aroma frutado e perfeito para acompanhar pratos leves, aperitivos, saladas, peixes e carne branca"
             },
             {
                 "nome": "Ventisquero Clásico Merlot - Chile",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Um tinto de taninos macios, acidez leve, frutado e muito equilibrado. Ótimo para massas, carnes e grelhados."
             },
             {
                 "nome": "Ventisquero Clásico Cabernet Sauvignon, 2022",
-                "preço": null,
+                "preço": 107.0,
+                "informação-extra": null,
                 "descrição": "Possui coloração vermelho rubi profundo que destaca sua grande intensidade aromática, com frutas vermelhas (como framboesas e morangos) e o cassis matizado com notas de especiarias. Em boca tem corpo médio e acidez equilibrada. Harmoniza com pratos que contenham carnes vermelhas."
             },
             {
                 "nome": "La Tournee, Rose",
-                "preço": null,
+                "preço": 107.0,
+                "informação-extra": null,
                 "descrição": "Corpo medio, citrico e floral."
             }
         ]
@@ -287,220 +339,261 @@
         "Cervejas Tradicionais ": [
             {
                 "nome": "Stella",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "SPATEN",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Corona",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Original",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Heineken",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cerveja heineken Zero Alcool",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cervejas Especiais ": [
             {
                 "nome": "Cusqueña",
-                "preço": null,
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "Ícone do Peru, com cor dourada intensa, composta por notas cítricas e doces. Ideal para aperitivo, carnes brancas e fruto do mar."
             },
             {
                 "nome": "Cusqueña Trigo",
-                "preço": null,
-                "descrição": ""
+                "preço": 20.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Coquetéis Peruanos ": [
             {
                 "nome": "Pisco Sour",
-                "preço": null,
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "O drink mais tradicional do Peru, uma combinação perfeira do acido do limão, a textura da clara de ovo, o doce do xarope de açúcar e a autenticidade do pisco peruano."
             },
             {
                 "nome": "Nazca",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Coquetel a base de Pisco, com adição do cítrico do limão e o frescor das folhas de hortelã, açúcar e o toque final de Angostura, para deixar o coquetel com um aroma irresistível!"
             },
             {
                 "nome": "Pisquirinha",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Releitura da nossa caipirinha, utilizamos neste coquetel Pisco. Um coquetel bem aromático pela adição de pisco e refrescante pela união do limão, açúcar e gelo."
             },
             {
                 "nome": "Pisco Martini",
-                "preço": null,
+                "preço": 37.0,
+                "informação-extra": null,
                 "descrição": "Um Martini com a base de Pisco e abacaxi, açúcar e limão. O segredo desse coquetel éa mistura perfeita entre seus ingredientes, frutado, doce e refrescante."
             }
         ],
         "Clássicos ": [
             {
                 "nome": "Gin Tônica.",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gin Tônica Primium.",
-                "preço": null,
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Caipirinha",
-                "preço": null,
-                "descrição": ""
+                "preço": 27.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Caipirinha Premium",
-                "preço": null,
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Destilados ": [
             {
                 "nome": "Vodka Smirnoff",
-                "preço": null,
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vodka Absolut",
-                "preço": null,
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "JW Red Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "JW Black Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jack Daniel’s",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chivas",
-                "preço": null,
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cachaça Seleta",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Licor Cointreau",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Campari",
-                "preço": null,
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cachaça Yaguara",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cachaça Velho Barreiro",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tequila Ouro",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gin Apogee",
-                "preço": null,
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Rum Bacardi Prata",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Rum Malibu",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sake",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Não Alcóolicos": [
             {
                 "nome": "Água Com e Sem Gás",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água de Coco",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá Gelado",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco Natural",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chicha Morada",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Refrigerantes",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Soda Italiana Sabores",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Energético Red Bull",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cafés": [
             {
                 "nome": "Café Espresso",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },

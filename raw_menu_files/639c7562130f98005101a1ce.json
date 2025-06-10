@@ -3,341 +3,404 @@
         "Empanadas": [
             {
                 "nome": "Nordelta",
-                "preço": "R$ 21,00",
+                "preço": 21.0,
+                "informação-extra": null,
                 "descrição": "Empanada Artesanal de Linguiça Blumenau, Cebola, Provolone e Mussarela. Nossas Empanadas são todas feitas no Merci, desde a massa ao recheio, todas feitas frescas no dia!"
             },
             {
                 "nome": "A FAVORITA DA FAMILIA MERCI\nSan Telmo",
-                "preço": "R$ 19,00",
-                "descrição": "A FAVORITA DA FAMILIA MERCI"
+                "preço": 19.0,
+                "informação-extra": "Vegetariano",
+                "descrição": "Empanada Artesanal de Alhó-Poró, Nozes e Gorgonzola (receita autoral e a favorita da familia Merci). Nossas Empanadas são todas feitas no Merci, desde a massa ao recheio, todas feitas frescas no dia!"
             },
             {
                 "nome": "Tigre",
-                "preço": "R$ 19,00",
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "Empanada Artesanal de Bacon defumado, Cebola, Provolone, Mussarela argentina e orégano. Nossas Empanadas são todas feitas no Merci, desde a massa ao recheio, todas feitas frescas no dia!"
             },
             {
                 "nome": "Las Cañitas",
-                "preço": "R$ 19,00",
+                "preço": 19.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Empanada Artesanal de Mussarela argentina e cebola, um clássico argentino! Nossas Empanadas são todas feitas no Merci, desde a massa ao recheio, todas feitas frescas no dia!"
             },
             {
                 "nome": "Recoleta",
-                "preço": "R$ 21,00",
+                "preço": 21.0,
+                "informação-extra": null,
                 "descrição": "Empanada Artesanal de Carne cortada à faca, Manjericão e Ovo cozido, com um delicioso molho de tomate. Nossas Empanadas são todas feitas no Merci, desde a massa ao recheio, todas feitas frescas no dia!"
             },
             {
                 "nome": "Porteña",
-                "preço": "R$ 21,00",
+                "preço": 21.0,
+                "informação-extra": null,
                 "descrição": "Empanada Artesanal de Carne moída, Pimentão Vermelho, Azeitona, Cebola e Ovo cozido, o verdadeiro sabor argentino! Nossas Empanadas são todas feitas no Merci, desde a massa ao recheio, todas feitas frescas no dia!"
             },
             {
                 "nome": "Adrogué",
-                "preço": "R$ 21,00",
+                "preço": 21.0,
+                "informação-extra": null,
                 "descrição": "Empanada Artesanal de Carne moída, cozida no Limão com Tomate e Cebola. Receita trazida da família , em homenagem ao avô Eloy, do bairro de Adrogué. Nossas Empanadas são todas feitas no Merci, desde a massa ao recheio, todas feitas frescas no dia!"
             },
             {
                 "nome": "NOVIDADE\nCaminito",
-                "preço": "R$ 19,00",
-                "descrição": "NOVIDADE"
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": "Empanada Artesanal de Frango, Cebola refogada, Pimentão Vermelho, Ovos e um delicioso molho de tomate. Nossas Empanadas são todas feitas no Merci, desde a massa ao recheio, todas feitas frescas no dia!"
             }
         ],
         "Mini Pizza": [
             {
                 "nome": "Burrata",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Pizza com massa de Fermentação Natural com Burrata de Búfula fresca, Pesto artesanal feito na casa e Tomate Cereja"
             },
             {
                 "nome": "Parma",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Pizza com massa de Fermentação natural com Queijo Brie, Parma e Granulado de Pistache"
             },
             {
                 "nome": "Gorgonzola e Nozes",
-                "preço": "R$ 30,00",
+                "preço": 30.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Pizza com massa de Fermentação natural com Gorgonzola e Nozes picadas"
             },
             {
                 "nome": "Pepperoni",
-                "preço": "R$ 30,00",
+                "preço": 30.0,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Pizza com massa de Fermentação natural com mussarela argentina e Pepperoni"
             },
             {
                 "nome": "Margherita",
-                "preço": "R$ 30,00",
+                "preço": 30.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Pizza com massa de Fermentação natural com Mussarela argentina, Pesto artesanal feito na casa e tomate cereja"
             }
         ],
         "Tarte": [
             {
                 "nome": "Espinafre",
-                "preço": "R$ 38,00",
+                "preço": 38.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "O nosso Tarte é feito com a massa do nosso Croissant, recheado de Espinafre, Ovos, Pimentão Vermelho, Cebola, Creamcheese, finalizado com um creme de ovos e creme de leite!"
             },
             {
                 "nome": "Linguiça Blumenau",
-                "preço": "R$ 38,00",
+                "preço": 38.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Nosso Tarte é feito com a massa do nosso Croissant, recehado de Linguiça Blumenau, Queijo Provolone, Mussarela e Cibullete."
             }
         ],
         "Bruschettas": [
             {
                 "nome": "Amalfitana",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Pasta Merci, Parma, Queijo Brie, Tomate Cereja e Pistache Granulado"
             },
             {
                 "nome": "Mediterranea",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Pasta Merci, Gorgonzola, Pera Caramelizada e Nozes"
             },
             {
                 "nome": "Mamma Mia",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Pasta Merci, Figo, Parma, Mel e Manjericao"
             },
             {
                 "nome": "Toscana",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Pasta de Avocado e Ovos Mexidos"
             },
             {
                 "nome": "Genovesa",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": "Vegano",
                 "descrição": "Pasta de avocado com cogumelos refogados e cibulette"
             },
             {
                 "nome": "Murano",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Pasta Merci, Pesto, Burrata, Parma e tomate cereja"
             }
         ],
         "Burrata": [
             {
                 "nome": "Burrata Caprese",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Deliciosa Burrata cremosa com Molho Pesto, Nozes e Tomate Cereja. Acompanhada com cesta de Pão Ciabatta de Fermentação Natural"
             }
         ],
         "Omeletes": [
             {
                 "nome": "Ovos Mexidos",
-                "preço": "R$ 24,00",
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "Porção de 3 ovos mexidos. Acompanha uma porção de Ciabatta"
             },
             {
                 "nome": "Omelete Misto",
-                "preço": "R$ 28,00",
+                "preço": 28.0,
+                "informação-extra": null,
                 "descrição": "Omelete feito de 2 ovos, Mussarella e Presunto."
             },
             {
                 "nome": "Omelete Merci",
-                "preço": "R$ 30,00",
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Omelete feito de 2 ovos, Mussarela, Tomate Cereja e Manjeri"
             }
         ],
         "Ciabattas Recheadas": [
             {
                 "nome": "Misto Ciabatta",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Misto Quente (presunto e queijo) feito no Pão Ciabatta"
             },
             {
                 "nome": "Ciabatta Rústica",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Nosso delicioso Pão Ciabatta de fermentação natural recheado com uma pasta de Cream Cheese, Rúcula, Parma e Tomates Secos."
             }
         ],
         "Croissant": [
             {
                 "nome": "NOVIDADE!\nRústico",
-                "preço": "R$ 45,00",
-                "descrição": "NOVIDADE!"
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": "Croissant Artesanal recheado com a nossa Pasta Merci, Parma, Rúcula fresca e Tomate Seco. Servido fresco e frio."
             },
             {
                 "nome": "Caprese",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Croissant artesanal recheado com Queijo Mussarela, Tomate cereja e Pesto de Manjericão artesanal e feito na casa, levado ao forno!"
             },
             {
                 "nome": "Presunto e Queijo",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Croissant artesanal recheado com Presunto e Queijo Musarella levado ao forno!"
             },
             {
                 "nome": "O MAIS VENDIDO\nPistache",
-                "preço": "R$ 45,00",
-                "descrição": "O MAIS VENDIDO"
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": "Croissant recheado com uma ganache de Pistache puro, chocolate branco nobre e decorado com Pistache Granulado."
             },
             {
                 "nome": "Nutella com Morango",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Croissant recheado com Nutella e Morangos frescos"
             },
             {
                 "nome": "Nutella",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Croissant recheado com 100g de Nutella"
             },
             {
                 "nome": "Doce de Leite",
-                "preço": "R$ 38,00",
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Croissant recheado com Doce de Leite Argentino"
             },
             {
                 "nome": "Creme",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Croissant recheado de Creme de confeiterio de baunilha"
             },
             {
                 "nome": "Croissant",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Croissant de Manteiga Artesanal, produzido aqui no Merci!"
             },
             {
                 "nome": "NOVIDADE!\nIbérico",
-                "preço": "R$ 45,00",
-                "descrição": "NOVIDADE!"
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": "Croissant Artesanal recheado com Parma e Queijo Brie. Servido quente!"
             }
         ],
         "Medialunas": [
             {
                 "nome": "Medialuna de Pistache",
-                "preço": "R$ 30,00",
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Nossa deliciosa Medialuna Argentina artesanal recheada com a nossa ganache de Pistache"
             },
             {
                 "nome": "Medialuna Nutella",
-                "preço": "R$ 28,00",
+                "preço": 28.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Medialuna artesanal de Manteiga recheada com Nutella"
             },
             {
                 "nome": "Medialuna Doce de Leite",
-                "preço": "R$ 26,00",
+                "preço": 26.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Medialuna de Manteiga artesanal recheada com Doce de Leite argentino"
             },
             {
                 "nome": "Medialuna Creme",
-                "preço": "R$ 22,00",
+                "preço": 22.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Medialuna de Manteiga artesanal recheada com Creme de confeiteiro de baunilha feito na casa."
             },
             {
                 "nome": "Misto Medialuna",
-                "preço": "R$ 26,00",
+                "preço": 26.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Misto Quente (presunto e queijo) feito na Medialuna de Manteiga"
             },
             {
                 "nome": "NOVIDADE\nMedialuna Parma",
-                "preço": "R$ 35,00",
-                "descrição": "NOVIDADE"
+                "preço": 35.0,
+                "informação-extra": "Contém Lactose",
+                "descrição": "Medialuna de Manteiga recheada com Parma e Queijo Brie"
             },
             {
                 "nome": "Medialuna Crocante",
-                "preço": "R$ 12,00",
+                "preço": 12.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Folhado tipicamente argentino com massa crocante e adocicada."
             },
             {
                 "nome": "Medialuna Manteiga",
-                "preço": "R$ 12,00",
+                "preço": 12.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Massa folhada tipicamente argentina, com um leve toque de mel, raspas de limão de limão e laranja feita artesanalmente aqui no Merci"
             }
         ],
         "Tartim Merci": [
             {
                 "nome": "Tartim de Pistache",
-                "preço": "R$ 27,00",
+                "preço": 27.0,
+                "informação-extra": null,
                 "descrição": "Massa folhada com Ganache de Pistache feita com pistache puro, chocolate branco nobre e decorado com pistache granulado."
             },
             {
                 "nome": "Tartim de Nutella com Morango",
-                "preço": "R$ 27,00",
+                "preço": 27.0,
+                "informação-extra": null,
                 "descrição": "Massa folhada com Nutella e Morangos frescos"
             },
             {
                 "nome": "Tartim de Frutas Vermelhas",
-                "preço": "R$ 25,00",
+                "preço": 25.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Folhado com base de Creme de Confeiteiro, Frutas Vermelhas variadas e amendôas laminadas"
             },
             {
                 "nome": "Tartim de Maça",
-                "preço": "R$ 20,00",
+                "preço": 20.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Folhado com base de Creme de Confeitero, com laminada de Maça Verde e Canela (opcional)."
             }
         ],
         "Cannoli": [
             {
                 "nome": "O MAIS PEDIDO\nCannoli Pistache",
-                "preço": "R$ 18,00",
-                "descrição": "O MAIS PEDIDO"
+                "preço": 18.0,
+                "informação-extra": "Contém açúcar",
+                "descrição": "Massa folhada com recheio de Pistache"
             },
             {
                 "nome": "Cannoli Nutella",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Massa folhada com recheio de Nutella"
             },
             {
                 "nome": "Cannoli Doce de Leite",
-                "preço": "R$ 16,00",
+                "preço": 16.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Massa folhada com recheio de Doce de Leite argentino"
             },
             {
                 "nome": "Cannoli Creme",
-                "preço": "R$ 15,00",
+                "preço": 15.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Massa folhada com recheio de Creme"
             }
         ],
         "Para Toda Hora": [
             {
                 "nome": "Rosetta de Nutella",
-                "preço": "R$ 22,00",
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Folhado feito com Nutella entre as camandas, a nossa Rosetta vai ao forno e é finalizada com Nutella por cima."
             },
             {
                 "nome": "Roll de Pistache",
-                "preço": "R$ 22,00",
+                "preço": 22.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "O Roll de Pistache, criação do Merci, um folhado feito com Creme de Confeiteiro e Ganache de Pistache em meio as camadas do folhado, deixando uma massa fofinha e bem macia! Finalizada com Ganache e Pistache granulado!"
             },
             {
                 "nome": "Cinnamon Roll",
-                "preço": "R$ 22,00",
+                "preço": 22.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "O nosso Cinnamon Roll, feito com uma deliciosa massa folhada com canela, uva-passa e finalizada com amêndoas em lascas."
             },
             {
                 "nome": "Pain Au Chocolat",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Folhado tipicamente Francês com gotas de chocolate meio amargo"
             },
             {
                 "nome": "Vigilante de Membrillo",
-                "preço": "R$ 14,00",
+                "preço": 14.0,
+                "informação-extra": null,
                 "descrição": "Massa folhada crocante e adocicada com membrillo e creme"
             },
             {
                 "nome": "Vigilante de Açúcar",
-                "preço": "R$ 12,00",
+                "preço": 12.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Massa folhada crocante e adocicada com acucar"
             },
             {
                 "nome": "Alfajor de Chocolate",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "Doce feito com dois biscoitos macios, recheados com doce de leite e cobertos com chocolate"
             },
             {
                 "nome": "Estrela de Pistache",
-                "preço": "R$ 22,00",
+                "preço": 22.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "A Estrela de Pistache, criação do Merci, um folhado feito com Ganache de Pistache, finalizada com Pistache granulado!"
             },
             {
                 "nome": "Estrela de Nutella com Morango",
-                "preço": "R$ 22,00",
+                "preço": 22.0,
+                "informação-extra": "Contém açúcar",
                 "descrição": "A Estrela de Nutella com Morango, criação do Merci, um folhado feito com Nutella e Morango."
             }
         ],
         "Pães": [
             {
                 "nome": "Ciabatta",
-                "preço": "R$ 10,00",
+                "preço": 10.0,
+                "informação-extra": "Sem açúcar",
                 "descrição": "Ciabatta de Fermentação Natural PARA LEVAR (Não vem cortado)!"
             }
         ]
@@ -346,265 +409,314 @@
         "Cáfes Quentes": [
             {
                 "nome": "Espresso",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Carioca",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Café espresso com água"
             },
             {
                 "nome": "Macchiato",
-                "preço": null,
+                "preço": 11.0,
+                "informação-extra": null,
                 "descrição": "Café espresso com uma pequena quantidade de leite espumado"
             },
             {
                 "nome": "Pingado",
-                "preço": null,
+                "preço": 11.0,
+                "informação-extra": null,
                 "descrição": "Café espresso pingado com leite"
             },
             {
                 "nome": "Café com Leite",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Lágrima",
-                "preço": null,
+                "preço": 11.0,
+                "informação-extra": null,
                 "descrição": "Leite espumado com pouco café"
             },
             {
                 "nome": "Ristretto",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Versão mais ”restrita” de um café espresso"
             },
             {
                 "nome": "Descafeinado",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Café espresso feito com café descafeinado"
             },
             {
                 "nome": "Chá Twinings",
-                "preço": null,
+                "preço": 12.0,
+                "informação-extra": null,
                 "descrição": "Verificar sabores disponíveis"
             }
         ],
         "Bebidas Especiais": [
             {
                 "nome": "Mochaccino Black",
-                "preço": null,
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "Feito com Café Espresso, Leite espumado e Gotas de Chocolate Meio Amargo e Cacau"
             },
             {
                 "nome": "Mochaccino Nutella",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Feito com Café Espresso, Leite espumada e Nutella"
             },
             {
                 "nome": "Cappuccino Italiano",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Dose de Café Espresso, Leite Vaporizado e polvilhado com canela e cacau"
             },
             {
                 "nome": "Chocolate Quente",
-                "preço": "R$ 22,00",
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Chocolate suisse cremoso e quente"
             }
         ],
         "Cafés Gelados": [
             {
                 "nome": "Iced Latte",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "O nosso Iced Latte é feito com Gelo, Leite da sua preferência, Café espresso, Leite espumada e cacau em pó."
             },
             {
                 "nome": "Iced Vanilla Latte",
-                "preço": null,
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "O nosso Iced Vanilla Latte é feito com essência de Baunilha Monin, Gelo, Leite da sua preferência, Café espresso, Leite espumada e cacau em pó."
             },
             {
                 "nome": "Iced Avelã Latte",
-                "preço": null,
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "O nosso Iced Avelã Latte é feito com essência de Avelã Monin, Gelo, Leite da sua preferência, Café espresso, Leite espumada e cacau em pó."
             },
             {
                 "nome": "Iced Caramel Latte",
-                "preço": null,
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "O nosso Iced Caramel Latte é feito com essência de Caramelo Monin, Gelo, Leite da sua preferência, Café espresso, Leite espumada e cacau em pó."
             },
             {
                 "nome": "Iced Salted Caramel Late",
-                "preço": null,
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "O nosso Iced Latte é feito com essência de Caramelo Salgado Monin, Gelo, Leite da sua preferência, Café espresso, Leite espumada e cacau em pó."
             }
         ],
         "Extras": [
             {
                 "nome": "Leite Vegetal de Aveia",
-                "preço": null,
+                "preço": 4.0,
+                "informação-extra": null,
                 "descrição": "Leite Vegetal NaVeia"
             }
         ],
         "Sucos ": [
             {
                 "nome": "Laranja",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Suco de Laranja Natural, espremido na hora!"
             },
             {
                 "nome": "Maracujá",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Suco de Maracujá polpa"
             },
             {
                 "nome": "Limão",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Suco natural de Limão"
             },
             {
                 "nome": "Morango",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Suco natural de Morango"
             },
             {
                 "nome": "Detox",
-                "preço": null,
+                "preço": 17.0,
+                "informação-extra": null,
                 "descrição": "Couve, abacaxi, gengibre e limão"
             },
             {
                 "nome": "Abacaxi e Hortelã",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Suco natural de Abacaxi com Hortela"
             },
             {
                 "nome": "Frutas Vermelhas",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Suco de Frutas Vermelhas sortidas natural"
             },
             {
                 "nome": "SUCO FAVORITO DOS MERCILOVERS\nTangerina",
-                "preço": null,
-                "descrição": "SUCO FAVORITO DOS MERCILOVERS"
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": "Suco de Tangerina natural feito na hora"
             },
             {
                 "nome": "Laranja + 1 Fruta",
-                "preço": null,
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "Suco de Laranja natural feito na hora + uma fruta de sua escolha (EX: Laranja com Morango)"
             },
             {
                 "nome": "Suco de 2 Frutas",
-                "preço": null,
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "Suco de duas frutas de sua escolha"
             }
         ],
         "Vitaminas": [
             {
                 "nome": "Morango",
-                "preço": "R$ 20,00",
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Vitamina feita com o leite da sua preferência e Morango"
             },
             {
                 "nome": "Banana e Frutas Vermelhas",
-                "preço": "R$ 22,00",
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Vitamina feita com o leite da sua preferência, Banana e Frutas Vermelhas"
             },
             {
                 "nome": "Banana",
-                "preço": "R$ 20,00",
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Vitamina feita com o leite da sua preferência e Banana"
             }
         ],
         "Soda Italiana": [
             {
                 "nome": "Tangerina",
-                "preço": null,
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "Água gaseificada com xarope de frutas MONIN"
             },
             {
                 "nome": "Limão Siciliano",
-                "preço": null,
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "Água gaseificada com xarope de frutas MONIN"
             },
             {
                 "nome": "Grenadine",
-                "preço": null,
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "Água gaseificada com xarope de frutas MONIN"
             },
             {
                 "nome": "Cranberry",
-                "preço": null,
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "Água gaseificada com xarope de frutas MONIN"
             },
             {
                 "nome": "Framboesa",
-                "preço": null,
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "Água gaseificada com xarope de frutas MONIN"
             }
         ],
         "Vinhos": [
             {
                 "nome": "Taça Vinho Branco",
-                "preço": "R$ 27,00",
+                "preço": 27.0,
+                "informação-extra": null,
                 "descrição": "Chardonnay"
             },
             {
                 "nome": "Taça Vinho Tinto",
-                "preço": "R$ 27,00",
+                "preço": 27.0,
+                "informação-extra": null,
                 "descrição": "Merlot"
             },
             {
                 "nome": "Taça Vinho Rosé",
-                "preço": "R$ 27,00",
+                "preço": 27.0,
+                "informação-extra": null,
                 "descrição": "Cabernet Sauvignon/ Merlot"
             },
             {
                 "nome": "TAÇA EM DOBRO",
-                "preço": "R$ 27,00",
+                "preço": 27.0,
+                "informação-extra": null,
                 "descrição": "VÁLIDO SOMENTE AS SEXTAS-FEIRAS"
             }
         ],
         "Bebidas Alcoólicas ": [
             {
                 "nome": "Classic Gin Tonic",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Feito com Gin Beefeater, Tônica Schweppes, Laranja desidratada e Alecrim."
             },
             {
                 "nome": "Red Gin Tonic",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Feito com Gin Beefeater, Tônica Schweppes e Frutas Vermelhas"
             }
         ],
         "Refrescos": [
             {
                 "nome": "Água Mineral",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Refrigerante",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Coca⁃Cola, Coca⁃Cola Zero, Guaraná Antártica, Tônica, Fanta Laranja"
             },
             {
                 "nome": "Suco Integral",
-                "preço": null,
+                "preço": 10.0,
+                "informação-extra": null,
                 "descrição": "Uva ou laranja"
             },
             {
                 "nome": "Choco Leite",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "HEINEKEN 330ml",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Cerveja Heineken Longneck"
             },
             {
                 "nome": "Cerveja QUILMES 340ml",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Cerveja Quilmes Argentina LongnecK"
             }
         ]
@@ -613,160 +725,190 @@
         "Pizzas": [
             {
                 "nome": "Auguri",
-                "preço": "R$ 112,00",
+                "preço": 112.0,
+                "informação-extra": null,
                 "descrição": "Pizza de Fermentaçao Natural e Longa feita com Molho de Tomate italiano, Jamón Ibérico, Queijo Brie e Granulado de Pistache."
             },
             {
                 "nome": "Bellissima (4 Formaggi)",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Pizza de Fermentação Nartural e Longa, feita com Molho de Tomate italiano, Mussarela, Gorgonzola, Parmessão e Queijo Brie."
             },
             {
                 "nome": "Fugazetta",
-                "preço": "R$ 115,00",
+                "preço": 115.0,
+                "informação-extra": null,
                 "descrição": "Pizza tradicionamente Argentina sem molho, recheada com Presunto e Mussarela, coberta com Musarella e Cebola."
             },
             {
                 "nome": "Andiamo",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Pizza de Fermentação Natural e Longa, feita com Molho de Tomate italiano, Mussarella, Tomate seco, Rúcula e lascas de Parmessão."
             },
             {
                 "nome": "Grazzie Mille (Jamon y Morron)",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "A escolha dos Argentinos, com Molho de tomate italiano, Mussarela, Presunto, Pimentão Vermelho e Azeitonas Pretas."
             },
             {
                 "nome": "Buonasera (Margherita)",
-                "preço": "R$ 78,00",
+                "preço": 78.0,
+                "informação-extra": null,
                 "descrição": "Pizza de Fermentação Natural e Longa, feita com Molho de tomate italiano, Mussarela, Pesto e Tomate Cereja."
             },
             {
                 "nome": "Arrivederchi",
-                "preço": "R$ 115,00",
+                "preço": 115.0,
+                "informação-extra": null,
                 "descrição": "Pizza de Fermentaçao e Longa , feita com Molho de Tomate italiana, Mussarela e Aliche."
             },
             {
                 "nome": "Piccolo",
-                "preço": "R$ 110,00",
+                "preço": 110.0,
+                "informação-extra": null,
                 "descrição": "Pizza de Fermentaçao Natural e Longa, feita com Molho de Tomate italiano, Mussarela, Pêra, Gorgonzola, Nozes e Mel."
             },
             {
                 "nome": "Attraversiamo",
-                "preço": "R$ 115,00",
+                "preço": 115.0,
+                "informação-extra": null,
                 "descrição": "Pizza de Fermentaçao Natural de longa, feita com Molho de Tomate italiano, Mussarela, Parma, Rúcula e Lascas de Parmessão."
             },
             {
                 "nome": "Buongiorno (Portuguesa)",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Pizza de Fermentação Natural e Longa, feita com Molho de tomate italiano, Mussarela, Presunto,Azeitona Preta, Ovos, Cebola e Orégano."
             },
             {
                 "nome": "Piacere",
-                "preço": "R$ 112,00",
+                "preço": 112.0,
+                "informação-extra": null,
                 "descrição": "Molho de Tomate italiano, Mussarela, Pesto, Burrata de Búfala e Tomate Cereja."
             },
             {
                 "nome": "Bravissima",
-                "preço": "R$ 88,00",
+                "preço": 88.0,
+                "informação-extra": null,
                 "descrição": "Pizza de Fermentaçao Natural e Longa, feita com Molho de Tomate italiano, Mussarela e Pepperoni"
             }
         ],
         "Calzone": [
             {
                 "nome": "Piano Piano",
-                "preço": "R$ 102,00",
+                "preço": 102.0,
+                "informação-extra": null,
                 "descrição": "Calzone feita com Molho de Tomate, Mussarela, Presunto, Manjeriçao e Alho."
             },
             {
                 "nome": "Ti Amo",
-                "preço": "R$ 108,00",
+                "preço": 108.0,
+                "informação-extra": null,
                 "descrição": "Calzone feito com Molho de Tomate, Linguiça Blumenau, Mussarela e Manjerição."
             }
         ],
         "Barchetta": [
             {
                 "nome": "Prego",
-                "preço": "R$ 110,00",
+                "preço": 110.0,
+                "informação-extra": null,
                 "descrição": "Uma “barca” com a base de Pesto feito na casa, Stracciatella, Presunto Parma, Lascas de Parmessão e finalizada com Pistache granulado e com a borda recheada de Cream Cheese!"
             }
         ],
         "Dolce": [
             {
                 "nome": "Tiramisú",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Sobremesa tipicamente italiana. Feita com Queijo Mascarpone, Bolacha Champagne, Café e Cacau."
             },
             {
                 "nome": "Mousse di Cioccolato",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Elaborado com Chocolate Meio Amargo e Licor."
             },
             {
                 "nome": "Pizza Pistacchio",
-                "preço": "R$ 90,00",
+                "preço": 90.0,
+                "informação-extra": null,
                 "descrição": "Pizza com Ganache de Pistache Merci, com Pistache Granulado, finalizado com Chocolate Meio Amargo."
             },
             {
                 "nome": "Mousse di Pistacchio",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Elaborado com Chocolate Branco e Pistache."
             }
         ],
         "Drinks": [
             {
                 "nome": "Gin Tonic",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Drink a base de Gin Beefeater, Tônica Schweppes e Limão."
             },
             {
                 "nome": "Red Gin Tonic",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Drink a base de Gin Beefeater, Tônica Schweppes e variado de Frutas Vermelhas."
             },
             {
                 "nome": "Auguri",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Drink autoral casa. Feito a base de Campari, Tônica Schweppes, Limão Tahiti e Limão Siciliano com um toque de Hortelã."
             },
             {
                 "nome": "Caipirinha",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Feita a base de Cachaça. Sabores: - Limão - Morango - Maracujá - Tangerina"
             },
             {
                 "nome": "Caipiroska",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Feita a base de Vodka. - Limão - Morango - Maracujá - Tangerina"
             },
             {
                 "nome": "Garibaldi",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Drinks feito com Campari e Suco de Laranja."
             },
             {
                 "nome": "Aperol Spritz",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Drink feito com Aperol, Espumante Proseco, Água com Gás e uma Rodela de Laranja."
             },
             {
                 "nome": "Cynar Julep",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Drinks feito com Cynar, Suco de Limão, Hortelã, Açucar e Rodela de Laranja."
             },
             {
                 "nome": "Negroni",
-                "preço": null,
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Feito a base Gin Beefeater, Campari, Vermouth Cinzano e Rodela de Laranja."
             },
             {
                 "nome": "Vermouth Auguri",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Feito a base de Vermouth Rosso, Campari, Tônica Schweppes e Laranja."
             },
             {
                 "nome": "Caipirinha Morango",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Feita a base de Cachaça."
             }
         ]

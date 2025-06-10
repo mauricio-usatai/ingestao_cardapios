@@ -3,121 +3,144 @@
         "Petiscos": [
             {
                 "nome": "Porção de Pastel - Patacho Camponez",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Queijo meia cura ou carne seca. Porção com quatro unidades"
             },
             {
                 "nome": "Bolinho de feijoada ( 2 unidades)",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Vinagrete de bergamota, crispys de bacon e couve refogada"
             },
             {
                 "nome": "Batata Rústica Frita - Sumaca Zulmira",
-                "preço": "R$ 19,00",
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "Com molho barbecue"
             },
             {
                 "nome": "Caldinho de Feijão- Patacho Social",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "caldinho de feijão com crocante de bacon"
             },
             {
                 "nome": "Croquete de Cupim - Patacho Feliz do Oriente",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Porção com seis unidades com molho de mostarda"
             },
             {
                 "nome": "Sonho salgado de camarão",
-                "preço": "R$ 26,00",
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Sonho assado recheado com creme de camarão- 2unidades"
             }
         ],
         "Entradas": [
             {
                 "nome": "Couvert da casa - Bernardo & Motta",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Pastel de fubá com recheio brasileiro de queijo canastra com umbigo de bananeira, brioche de moranga, salame de javali fatiado, pesto de coentro, vela de manteiga clarificada, goiabada cremosa com cachaça."
             }
         ],
         "Pratos Principais": [
             {
                 "nome": "Moqueca Mista para uma pessoas - Manoel Teixeira Serpa",
-                "preço": "R$ 92,00",
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Peixe do dia, frutos do mar no molho de moqueca com arroz, pirão, farofa e molho de pimenta"
             },
             {
                 "nome": "Bobó de camarão- Rita Inocência Rocha Serra",
-                "preço": "R$ 86,00",
+                "preço": 86.0,
+                "informação-extra": null,
                 "descrição": "Camarão refogado com tomate e especiarias e purê de aipim servido em mini moranga com arroz branco acompanhando"
             },
             {
                 "nome": "Polvo brasileiro - Antônio Guimarães Soares",
-                "preço": "R$ 92,00",
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "(Polvo grelhado na manteiga com arroz caldoso de brócolis, milho e queijo)"
             },
             {
                 "nome": "Pirarucu Amazônico - Anacleto Martins",
-                "preço": "R$ 92,00",
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Lombo de pirarucu selvagem grelhado na manteiga e ervas brasileiras, creme de castanhas embrulhado na folha de bananeira e cuzcuz brasileiro com tomate e queijo coalho"
             },
             {
                 "nome": "Arroz de Pato - Arthur Moura",
-                "preço": "R$ 86,00",
+                "preço": 86.0,
+                "informação-extra": null,
                 "descrição": "Arroz arbóreo e pato no tucupi e jambu"
             },
             {
                 "nome": "Carne na brasa - Barão de Peixoto Serra",
-                "preço": "R$ 92,00",
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Mignon na brasa com arroz de carreteiro de charque, farofa de bacon, polenta frita recheada com queijo canastra e vinagrete gourmet."
             },
             {
                 "nome": "Risoto de caranguejo",
-                "preço": "R$ 86,00",
+                "preço": 86.0,
+                "informação-extra": null,
                 "descrição": "Arroz arbóreo com vinho branco, caldo de legumes, carne de caranguejo."
             },
             {
                 "nome": "Feijão tropeiro com costelinha suína - Antônio Lourenço Torres Junior",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": null,
                 "descrição": "Feijão tropeiro clássico com bacon, couve, farofa, feijão carioca, costelinha suína assada com barbecue de goiaba."
             },
             {
                 "nome": "Entremet de Matambre Bovino - Aarão Peixoto",
-                "preço": "R$ 92,00",
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Matambre de Black Angus em formato de mil folhas com ervas, arroz de vinho tinto, legumes e farofa de erva mate"
             },
             {
                 "nome": "Salada Brasileira - Francisco da Cunha Brandão",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Mix de folhas, castanha de caju, queijo canastra marinado no pesto de manjericão, e molho de maracujá. com pipoca de queijo coalho"
             },
             {
                 "nome": "Prato Kids",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Somente feriados, sábados e domingos. Arroz branco, feijão preto, salada e proteína a escolha. Filé de frango ou filé de mignon em iscas"
             },
             {
                 "nome": "Feijoada Tradicional Bernardo Mendes da Costa",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Disponível todos os dias! Acompanha arroz branco, farofa de bacon, couve na manteiga, torresmo e laranja"
             },
             {
                 "nome": "Capelete veget",
-                "preço": "R$ 76,00",
+                "preço": 76.0,
+                "informação-extra": null,
                 "descrição": "Capelete artesanal feito na casa recheado com moranga e gengibre ao molho de queijos."
             },
             {
                 "nome": "Coxa e sobrecoxa de frango orgânico",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": null,
                 "descrição": "Coxa e sobrecoxa de frango orgânico Karin assado ao molho cítrico picante, purê de aipim e maçã assada."
             },
             {
                 "nome": "Feijoada Vegetariana Leopoldina Adelaide de Guimarães Serpa",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Disponível todos os dias! Feita com batata, cenoura, tofu e cogumelos in natura. Acompanha arroz integral, farofa de panko com alho e coco, couve e laranja"
             },
             {
                 "nome": "Entrecot na brasa",
-                "preço": "R$ 89,00",
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "Servido com aligot de aipim e legumes brasileiros quiabo, maxixe, inhame e pimentões"
             }
         ]
@@ -126,32 +149,38 @@
         "Sobremesas": [
             {
                 "nome": "Mousse de maracujá com açaí (O Renovador dos Cabellos de Hall",
-                "preço": "R$ 26,00",
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Mousse de maracujá com açaí"
             },
             {
                 "nome": "Brigadeiro de café com pimenta- Mata-dores de Perry Davis",
-                "preço": "R$ 21,00",
+                "preço": 21.0,
+                "informação-extra": null,
                 "descrição": "Chocolate, café e pimenta"
             },
             {
                 "nome": "Sorvete artesanal de queijo com goiabada e cachaça- O Renovador dos Cabellos de Hall",
-                "preço": "R$ 34,00",
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "Sorvete de queijo com calda de goiaba e cachaça - destilado feito a partir de caldo de cana fermentado"
             },
             {
                 "nome": "Torta de Chocolate Sardinha & Araújo",
-                "preço": "R$ 26,00",
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Torta de cacau ao creme de leite fresco e leite caramelizado"
             },
             {
                 "nome": "Pave de tiramissu",
-                "preço": "R$ 24,00",
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "Pave de tiramissu com bolacha champagne e castanha do pará"
             },
             {
                 "nome": "Pera em calda",
-                "preço": "R$ 26,00",
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Pera em calda de vinho branco, massa folhada e sorvete de limão siciliano"
             }
         ]
@@ -160,45 +189,53 @@
         "Softs": [
             {
                 "nome": "Refrigerantes",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coca Cola KS",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sucos",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Soda Italiana",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "H2O tradicional ou limoneto",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cervejas": [
             {
                 "nome": "Cerveja long neck Eisenban",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cerveja long neck Hei",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -206,39 +243,46 @@
         "Nossas Caipis": [
             {
                 "nome": "Triple Lemon",
-                "preço": null,
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Limão cravo, limão taiti e limão siciliano"
             },
             {
                 "nome": "Tangerina",
-                "preço": null,
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Tangerina, xarope de tangerina, pimenta dedo de moça e raspas de limão taiti"
             },
             {
                 "nome": "Caju",
-                "preço": null,
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Xarope de gengibre, caju e açúcar"
             },
             {
                 "nome": "Maracujá",
-                "preço": null,
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Maracujá, tabasco e pimenta rosa"
             },
             {
                 "nome": "Morango",
-                "preço": null,
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Morango, hortelã, xarope de morango e hibisco"
             }
         ],
         "Nossos Drinks Especiais": [
             {
                 "nome": "Cítrico",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Gin, tônica, limão, laranja e tangerina"
             },
             {
                 "nome": "Frutas Vermelhas",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Gin, tônica, morango, xarope de morango, chá especial de frutas vermelhas, cereja e hibisco"
             }
         ]

@@ -3,108 +3,128 @@
         "Biomas do Brasil": [
             {
                 "nome": "Amazônia",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Leve, vegetal e frutado. Manteiga de mastruz, clorofila, gin, amaro bianco, néctar de goiaba, falernum e xarope de ruibarbo. *contém lactose"
             },
             {
                 "nome": "Caatinga",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Encorpado, ácido e seco. Óleo de babaçu, amaro cola, jerez tio pepe, amaro rosato e vinagre de amora."
             },
             {
                 "nome": "Cerrado",
-                "preço": null,
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Amendoado, intenso e encorpado. Cold brew Um Coffee Co. bourbon rosa, tequila don julio blanco, bacuri e óleo de coco."
             },
             {
                 "nome": "Mata Atlântica",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Ácido, cítrico e frutado. Cordial de cambuci, whisky Bulleit Bourbon, aguardente de pera e orange bitter."
             },
             {
                 "nome": "Pampa",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Leve, refrescante e floral. Vinho do porto Graham’s n°5, licor de ederflower com cardamomo, licor bergamontello Single Fin e fermentado de bergamota."
             },
             {
                 "nome": "Pantanal",
-                "preço": null,
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Leve, aromático e umami. Pequi, água de tomate, champagne acid, awamori, saquê, camomila e pó de batata doce."
             }
         ],
         "SubClássicos": [
             {
                 "nome": "Bijoux Caju",
-                "preço": null,
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Refrescante, ácido e frutado. Gin, Chartreuse Amarelo, Amêndoas, Licor de Lúpulo, Limão-taiti e Borbulhante de Caju."
             },
             {
                 "nome": "Rosalía Rosita",
-                "preço": null,
+                "preço": 57.0,
+                "informação-extra": null,
                 "descrição": "Frutado, seco e amargo. Tequila Don Julio Blanco, Aperitivo Rosato, Campari, Vermute Bianco e Melancia."
             },
             {
                 "nome": "Tropical Old Fashioned",
-                "preço": null,
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Frutado e encorpado. Whiskey Singleton, Cachaça Princesa Isabel Carvalho, Banana, Abacaxi, Cocoa Bitter e Licor de Ervas."
             },
             {
                 "nome": "Fluffy Paloma",
-                "preço": null,
+                "preço": 62.0,
+                "informação-extra": null,
                 "descrição": "Refrescante, frutado e cítrico. Tequila Don Julio Blanco, Grapefruit, Limão Siciliano, Xarope de Agave, Kefir e Sal Secreto."
             },
             {
                 "nome": "Sub-Zero Martini",
-                "preço": null,
+                "preço": 65.0,
+                "informação-extra": null,
                 "descrição": "Seco e aveludado. Gin Tanqueray Ten, Vermute Dry, Azeitona, Picles, Alcaparrone e Twist de Limão"
             },
             {
                 "nome": "Porn Star On The Rocks",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Frutado, floral e refrescante. Vodka Ketel One, Macadâmia, Baunilha, Maracujá, Cítricos e Borbulhante de Cambuci."
             },
             {
                 "nome": "Sub Espresso",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Intenso e encorpado. Rum com Cumaru, Licor de Café Tia Maria, Licor de Ervas e Espuma de Café."
             },
             {
                 "nome": "Painkiller (+55)",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Refrescante e frutado. Rum Spice, Laranja, Abacaxi, Leite de Coco e Marsala."
             }
         ],
         "Clássicos Brasileiros": [
             {
                 "nome": "Caipirinha Clássica",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Cítrico e refrescante. Cachaça Princesa Isabel Prata, Limão-taiti e Açúcar."
             },
             {
                 "nome": "Macunaíma (By Boca De Ouro)",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Cítrico e refrescante. Cachaça Mato Dentro Prata, Limão-taiti, Fernet-Branca e Açúcar."
             },
             {
                 "nome": "Rabo De Galo",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Encorpado e amargo. Blend de Cachaça, Cynar, Vermute Tinto e Orange Bitter."
             }
         ],
         "Mocktails": [
             {
                 "nome": "Colada",
-                "preço": null,
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "Frutado, leve e floral. Cupuaçu, Mel de Cacau, Abacaxi e Água de Coco."
             },
             {
                 "nome": "Mango Shirley Temple",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Picante, refrescante e frutado. Manga, Grenadine, Limão Siciliano e Ginger Beer Artesanal. *contém lactose"
             },
             {
                 "nome": "Check-in Mate",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Refrescante e leve. Mate, Capim-limão, Tangerina, Limão-taiti e Mel. *contém lactose"
             }
         ]
@@ -113,74 +133,88 @@
         "Comidinhas": [
             {
                 "nome": "Mandiopan & Zaatar",
-                "preço": "R$ 25,00",
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Croqueta de Pupunha",
-                "preço": "R$ 47,00",
+                "preço": 47.0,
+                "informação-extra": null,
                 "descrição": "Com queijo serra da canastra e limão siciliano. (5 un)"
             },
             {
                 "nome": "Croquete de Carne",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Recheado com mussarela. (8 un)"
             },
             {
                 "nome": "Besteira à Milanesa",
-                "preço": "R$ 70,00",
+                "preço": 70.0,
+                "informação-extra": null,
                 "descrição": "Pão tostado, milanesa e queijo derretido."
             },
             {
                 "nome": "Pastéis Clássicos",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Queijo, Carne, Camarão ou Misto (6 Uni)"
             },
             {
                 "nome": "Canapés & Croquetas",
-                "preço": "R$ 63,00",
+                "preço": 63.0,
+                "informação-extra": null,
                 "descrição": "Canapés de steak tartare e de berinjela & croquetas de carne e de pupunha. (2 un de cada)"
             },
             {
                 "nome": "Sub Burger",
-                "preço": "R$ 62,00",
+                "preço": 62.0,
+                "informação-extra": null,
                 "descrição": "Com cheddar inglês e batata frita."
             },
             {
                 "nome": "Club Sandwich de Salmão",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Salmão defumado, maionese de wasabi, ovo poché e avocado no brioche."
             },
             {
                 "nome": "Steak Tartare",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Com batata gaufrette."
             },
             {
                 "nome": "Burrata Caprese",
-                "preço": "R$ 75,00",
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "Com tomates crus grelhados e azeite extra virgem."
             },
             {
                 "nome": "Berinjela à moda Casablanca",
-                "preço": "R$ 51,00",
+                "preço": 51.0,
+                "informação-extra": null,
                 "descrição": "Com coalhada, romã e ervas frescas."
             },
             {
                 "nome": "Sanduíche de Carpaccio",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "(4 un)"
             },
             {
                 "nome": "Filé à Palmira",
-                "preço": "R$ 67,00",
+                "preço": 67.0,
+                "informação-extra": null,
                 "descrição": "Mignon com queijo e tomate na baguete francesa."
             }
         ],
         "Sobremesas": [
             {
                 "nome": "Caramel Sundae",
-                "preço": "R$ 38,00",
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Sorvete, calda de caramelo e conhaque com pipoca."
             }
         ]
@@ -189,60 +223,71 @@
         "Soft Drinks": [
             {
                 "nome": "Acqua Panna",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "San Pellegrino",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Perrier",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ginger Beer Artesanal",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Refrigerante",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água (com ou sem gás)",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.5,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cervejas": [
             {
                 "nome": "Stella Artois",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Goose Island IPA",
-                "preço": null,
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beck's",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Corona",
-                "preço": null,
-                "descrição": ""
+                "preço": 20.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },

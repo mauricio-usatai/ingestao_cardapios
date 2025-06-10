@@ -3,455 +3,543 @@
         "Porções": [
             {
                 "nome": "Fritas",
-                "preço": null,
-                "descrição": ""
+                "preço": 28.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Batata Rústica",
-                "preço": null,
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Onion Rings",
-                "preço": null,
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Berinjela Gratinada",
-                "preço": null,
+                "preço": 29.0,
+                "informação-extra": null,
                 "descrição": "Com vinagrete e catupiry"
             },
             {
                 "nome": "Queijo Coalho Grelhado com Melaço",
-                "preço": "R$ 21,00",
-                "descrição": ""
+                "preço": 21.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coxinha - 3 unidades",
-                "preço": "R$ 27,00",
-                "descrição": ""
+                "preço": 27.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Kibe",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Croquete",
-                "preço": null,
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Linguiça Acebolada",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Massas e Omeletes": [
             {
                 "nome": "Lasanha à Bolonhesa",
-                "preço": "R$ 51,00",
+                "preço": 51.0,
+                "informação-extra": null,
                 "descrição": "Com creme de espinafre"
             },
             {
                 "nome": "Penne à Bolonhesa",
-                "preço": "R$ 49,00",
-                "descrição": ""
+                "preço": 49.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Penne Pomodoro com Mussarela de Bufala",
-                "preço": "R$ 49,00",
-                "descrição": ""
+                "preço": 49.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Penne Molho Branco com Filet Mignon",
-                "preço": "R$ 75,00",
-                "descrição": ""
+                "preço": 75.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Massa Integral com Shitake, Brócolis e Molho Missô",
-                "preço": "R$ 51,00",
-                "descrição": ""
+                "preço": 51.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Omelete de Queijo",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Omelete Misto",
-                "preço": "R$ 38,00",
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Omelete Peito de Peru e Queijo Branco",
-                "preço": "R$ 38,00",
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Omelete Shitake, Tomate e Queijo de Búfala",
-                "preço": "R$ 47,00",
-                "descrição": ""
+                "preço": 47.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Grelhados": [
             {
                 "nome": "Filet Mignon",
-                "preço": null,
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filet Mignon à Milanesa",
-                "preço": "R$ 55,00",
-                "descrição": ""
+                "preço": 55.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filet Mignon à Parmegiana",
-                "preço": "R$ 75,00",
-                "descrição": ""
+                "preço": 75.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "New\nFraldinha",
-                "preço": "R$ 69,00",
-                "descrição": "New"
+                "preço": 69.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Picanha",
-                "preço": "R$ 73,00",
-                "descrição": ""
+                "preço": 73.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Entrecôte",
-                "preço": "R$ 76,00",
-                "descrição": ""
+                "preço": 76.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chuleta",
-                "preço": "R$ 69,00",
-                "descrição": ""
+                "preço": 69.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filet de Frango",
-                "preço": "R$ 39,00",
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filet de Frango à Milanesa",
-                "preço": "R$ 49,00",
-                "descrição": ""
+                "preço": 49.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filet de Frango à Parmegiana",
-                "preço": "R$ 69,00",
-                "descrição": ""
+                "preço": 69.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Frango Desossado",
-                "preço": "R$ 41,00",
-                "descrição": ""
+                "preço": 41.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filet de Saint Peter",
-                "preço": "R$ 44,00",
-                "descrição": ""
+                "preço": 44.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Truta",
-                "preço": "R$ 49,00",
-                "descrição": ""
+                "preço": 49.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão",
-                "preço": "R$ 65,00",
-                "descrição": ""
+                "preço": 65.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Acompanhamento Pratos": [
             {
                 "nome": "Acebolado",
-                "preço": "R$ 6,50",
-                "descrição": ""
+                "preço": 6.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Arroz Biro Biro",
-                "preço": "R$ 9,50",
-                "descrição": ""
+                "preço": 9.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Arroz Branco",
-                "preço": "R$ 8,50",
-                "descrição": ""
+                "preço": 8.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Arroz Integral",
-                "preço": "R$ 9,50",
-                "descrição": ""
+                "preço": 9.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bacon",
-                "preço": "R$ 10,00",
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Banana à Milanesa",
-                "preço": "R$ 7,00",
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Batata Doce Assada",
-                "preço": "R$ 12,50",
-                "descrição": ""
+                "preço": 12.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Batata Frita",
-                "preço": "R$ 10,00",
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Batata Rústica",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Catupiry",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Couve Crocante",
-                "preço": "R$ 7,50",
-                "descrição": ""
+                "preço": 7.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Creme de Milho",
-                "preço": "R$ 14,00",
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Feijão",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Legumes",
-                "preço": "R$ 15,00",
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Omeletinho",
-                "preço": "R$ 15,00",
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ovo",
-                "preço": "R$ 4,00",
-                "descrição": ""
+                "preço": 4.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Palmitos",
-                "preço": "R$ 13,00",
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pupunha Desfiada",
-                "preço": "R$ 13,00",
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Purê de Batata",
-                "preço": "R$ 13,00",
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Purê de Batata Doce",
-                "preço": "R$ 13,00",
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Queijo Derretido",
-                "preço": "R$ 9,00",
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salada Caesar",
-                "preço": "R$ 15,00",
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salada de Alface e Tomate",
-                "preço": "R$ 8,50",
-                "descrição": ""
+                "preço": 8.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salada de Maionese",
-                "preço": "R$ 9,00",
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Shitake",
-                "preço": "R$ 18,00",
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vinagrete",
-                "preço": "R$ 6,50",
-                "descrição": ""
+                "preço": 6.5,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Salada": [
             {
                 "nome": "Caesar",
-                "preço": "R$ 27,00",
-                "descrição": ""
+                "preço": 27.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mini Rúcula, Tomate Seco e Muçarela de Búfala",
-                "preço": "R$ 31,00",
-                "descrição": ""
+                "preço": 31.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salada de Maionese",
-                "preço": "R$ 21,00",
-                "descrição": ""
+                "preço": 21.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salada Mista",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Alface, tomate, cebola, ervilha e palmito"
             },
             {
                 "nome": "Mini Rúcula, Tomate Cereja, Cebola Roxa e Queijo Gorgonzola",
-                "preço": "R$ 35,00",
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mix Folhas",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Castanhas de cajú e molho levemente apimentado."
             },
             {
                 "nome": "New\nSalada Grega",
-                "preço": "R$ 40,00",
-                "descrição": "New"
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": "Pepino, tomate, cebola e queijo de ovelha."
             },
             {
                 "nome": "New\nFolha de Espinafre Japonês, Shitake, Balsâmico com Azeite Trufado",
-                "preço": "R$ 39,00",
-                "descrição": "New"
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Kids": [
             {
                 "nome": "Xburguinho",
-                "preço": "R$ 25,00",
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "XSaladinhaBurguer",
-                "preço": "R$ 27,00",
-                "descrição": ""
+                "preço": 27.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "XDoguinho",
-                "preço": "R$ 23,00",
-                "descrição": ""
+                "preço": 23.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Macarrão com Bifinho",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Molho branco ou tomate"
             },
             {
                 "nome": "Bifinho Com Arroz e Feijão ou Purê ou Fritas",
-                "preço": "R$ 46,00",
-                "descrição": ""
+                "preço": 46.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "New\nNuggets com Arroz, Purê ou Fritas",
-                "preço": "R$ 39,00",
-                "descrição": "New"
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Batata Smiles",
-                "preço": "R$ 23,00",
-                "descrição": ""
+                "preço": 23.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sobremesas": [
             {
                 "nome": "Açaí ou Fronzen Açaí",
-                "preço": "R$ 30,00",
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salada de Frutas",
-                "preço": "R$ 27,00",
-                "descrição": ""
+                "preço": 27.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Petit Gâteau de Nutella com Sorvete la Basque",
-                "preço": "R$ 39,00",
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Petit Gâteau de Doce de Leite com Sorvete la Basque",
-                "preço": "R$ 39,00",
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pudim de Leite",
-                "preço": "R$ 22,00",
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Milk Shake la Basque",
-                "preço": "R$ 46,00",
-                "descrição": ""
+                "preço": 46.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sorvete la Basque",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Banana Split",
-                "preço": "R$ 69,00",
-                "descrição": ""
+                "preço": 69.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sundae",
-                "preço": "R$ 38,00",
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sundae Nutella com Calda",
-                "preço": "R$ 39,00",
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Churros e Doce de Leite",
-                "preço": "R$ 24,00",
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Merengue de Morango",
-                "preço": "R$ 28,00",
-                "descrição": ""
+                "preço": 28.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheesecake",
-                "preço": "R$ 33,00",
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Creme de Papaya",
-                "preço": "R$ 33,00",
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo de Cenoura com Calda de Chocolate",
-                "preço": "R$ 22,00",
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -459,243 +547,290 @@
         "Hambúrguers ": [
             {
                 "nome": "Hambúrguer",
-                "preço": "R$ 29,00",
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Maionese",
-                "preço": "R$ 38,00",
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Salada",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Bacon",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Salada Bacon",
-                "preço": "R$ 48,00",
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Egg",
-                "preço": "R$ 39,00",
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Egg Salada",
-                "preço": "R$ 45,00",
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Egg Bacon",
-                "preço": "R$ 45,00",
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Egg Salada Bacon",
-                "preço": "R$ 51,00",
-                "descrição": ""
+                "preço": 51.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Tudo Dizzy",
-                "preço": "R$ 65,00",
-                "descrição": ""
+                "preço": 65.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Com Hambúrguer Max 200g",
-                "preço": "R$ 8,00",
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Calabresa",
-                "preço": "R$ 35,00",
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Calabresa Vinagrete",
-                "preço": "R$ 38,50",
-                "descrição": ""
+                "preço": 38.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Calabresa Salada",
-                "preço": "R$ 41,00",
-                "descrição": ""
+                "preço": 41.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Picanha",
-                "preço": "R$ 51,00",
-                "descrição": ""
+                "preço": 51.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Picanha Salada",
-                "preço": "R$ 51,00",
-                "descrição": ""
+                "preço": 51.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Burguer Picanha Bacon",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Pão, hambúrguer picanha, queijo e bacon."
             },
             {
                 "nome": "Cheese Burguer Picanha Salada Bacon",
-                "preço": "R$ 60,00",
-                "descrição": ""
+                "preço": 60.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Autênticos": [
             {
                 "nome": "Costelaburger",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Hambúrguer de costela 170g black angus, cheddar, cebola, tomates grelhados e molho barbecue no pão preto"
             },
             {
                 "nome": "DBB | Doble Black Burger",
-                "preço": "R$ 51,00",
+                "preço": 51.0,
+                "informação-extra": null,
                 "descrição": "Dois hambúrgueres 140g black angus, cheddar e cebola caramelizada no pão preto"
             },
             {
                 "nome": "Mestreburger",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Hambúrguer 200g black angus, maionese, tomate, cheddar, picles, rúcula, cebola roxa e bacon crocante no pão brioche"
             },
             {
                 "nome": "Americanburger",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Hambúrguer 200g black angus, molho dizzy , cheddar, picles, alface americana, tomate e cebola roxa no pão brioche"
             },
             {
                 "nome": "Gema Burger",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Hambúrguer 200g black angus, crisp de parmesão, maionese e ovo gema mole no pão brioche"
             },
             {
                 "nome": "Cebolaburger",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Hambúrguer 200g black angus, cebola caramelizada, cheddar e gorgonzola no pão brioche"
             },
             {
                 "nome": "Geleiaburger",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Hambúrguer 200g black angus, maionese, cheddar, catupiry, bacon, tomate cereja e geleia de pimenta no pão brioche"
             },
             {
                 "nome": "Churrasburger",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Hambúrguer de picanha 170g, molho tártaro, queijo coalho, melaço e bacon no pão de hambúrguer"
             }
         ],
         "Tradicionais": [
             {
                 "nome": "Beirute Filet Mignon",
-                "preço": null,
-                "descrição": ""
+                "preço": 95.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beirute Filet Frango",
-                "preço": null,
-                "descrição": ""
+                "preço": 79.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Americano",
-                "preço": "R$ 30,50",
-                "descrição": ""
+                "preço": 30.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bauru",
-                "preço": "R$ 27,50",
-                "descrição": ""
+                "preço": 27.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Misto Quente",
-                "preço": "R$ 27,50",
-                "descrição": ""
+                "preço": 27.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hot Dog",
-                "preço": "R$ 19,00",
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Hot Dog",
-                "preço": "R$ 28,50",
-                "descrição": ""
+                "preço": 28.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filet de Frango no Pão",
-                "preço": "R$ 38,00",
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Filet de Frango",
-                "preço": "R$ 45,00",
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Filet de Frango Salada",
-                "preço": "R$ 51,00",
-                "descrição": ""
+                "preço": 51.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filet Mignon no Pão",
-                "preço": "R$ 44,00",
-                "descrição": ""
+                "preço": 44.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Filet Mignon",
-                "preço": "R$ 51,00",
-                "descrição": ""
+                "preço": 51.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Filet Mignon Vinagrete",
-                "preço": "R$ 54,50",
-                "descrição": ""
+                "preço": 54.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheese Filet Mignon Salada",
-                "preço": "R$ 58,00",
-                "descrição": ""
+                "preço": 58.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sanduiches Fit": [
             {
                 "nome": "Shitake e Muçarela de Búfala",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "No pão ciabatta"
             },
             {
                 "nome": "Abobrinha, Berinjela Grelhados e Queijo Branco",
-                "preço": "R$ 37,00",
+                "preço": 37.0,
+                "informação-extra": null,
                 "descrição": "No pão ciabatta"
             },
             {
                 "nome": "Peito de Peru",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Cebola chapeada, tomate e alface no pão integral"
             },
             {
                 "nome": "Filet de Frango",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Queijo minas, cebola chapeada, tomate e alface no pão integral"
             },
             {
                 "nome": "Cheese Soja no Pão Integral",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filet de Frango",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Tomate seco, rúcula e muçarela de búfala no pão integral."
             }
         ]
@@ -704,184 +839,219 @@
         "Carnes": [
             {
                 "nome": "Hambúrguer Tradicional",
-                "preço": "R$ 27,00",
-                "descrição": ""
+                "preço": 27.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hambúrguer Costela",
-                "preço": "R$ 38,00",
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hambúrguer Picanha",
-                "preço": "R$ 38,00",
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hambúrguer Calabresa",
-                "preço": "R$ 28,00",
-                "descrição": ""
+                "preço": 28.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hambúrguer Max Tradicional",
-                "preço": "R$ 37,00",
-                "descrição": ""
+                "preço": 37.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filet Mignon",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filet de Frango",
-                "preço": "R$ 37,00",
-                "descrição": ""
+                "preço": 37.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Queijos": [
             {
                 "nome": "Prato",
-                "preço": "R$ 7,00",
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Catupiry",
-                "preço": "R$ 8,50",
-                "descrição": ""
+                "preço": 8.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheddar",
-                "preço": "R$ 7,50",
-                "descrição": ""
+                "preço": 7.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Muçarela",
-                "preço": "R$ 7,00",
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Muçarela de Búfala",
-                "preço": "R$ 7,50",
-                "descrição": ""
+                "preço": 7.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Parmesão",
-                "preço": "R$ 7,50",
-                "descrição": ""
+                "preço": 7.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Minas",
-                "preço": "R$ 7,00",
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Queijo Coalho e Melaço",
-                "preço": "R$ 7,00",
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Ingredientes": [
             {
                 "nome": "Alface",
-                "preço": "R$ 2,50",
-                "descrição": ""
+                "preço": 2.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bacon",
-                "preço": "R$ 7,00",
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cebola Caramelizada",
-                "preço": "R$ 5,00",
-                "descrição": ""
+                "preço": 5.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cebola Chapeada",
-                "preço": "R$ 5,00",
-                "descrição": ""
+                "preço": 5.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Creme de Milho",
-                "preço": "R$ 6,00",
-                "descrição": ""
+                "preço": 6.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ovo",
-                "preço": "R$ 3,50",
-                "descrição": ""
+                "preço": 3.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Maionese",
-                "preço": "R$ 2,00",
-                "descrição": ""
+                "preço": 2.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Presunto",
-                "preço": "R$ 7,00",
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mini Rúcula",
-                "preço": "R$ 3,50",
-                "descrição": ""
+                "preço": 3.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Shitake",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tártaro",
-                "preço": "R$ 4,50",
-                "descrição": ""
+                "preço": 4.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tomate",
-                "preço": "R$ 2,50",
-                "descrição": ""
+                "preço": 2.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vinagrete",
-                "preço": "R$ 4,00",
-                "descrição": ""
+                "preço": 4.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Peito de Peru",
-                "preço": "R$ 10,50",
-                "descrição": ""
+                "preço": 10.5,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Pão   ": [
             {
                 "nome": "Pão de Hambúrguer",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pão de Brioche",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pão Integral",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pão Ciabatta",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pão Preto",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pão Francês",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -889,117 +1059,139 @@
         "Soft Drinks": [
             {
                 "nome": "Água",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Refrigerantes e Tônica",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "H2O",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco Natural",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Frozen Açaí",
-                "preço": null,
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Milk Shake La Basque",
-                "preço": "R$ 39,00",
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Energético",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Soda Italiana",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá Gelado Pêssego ou Limão",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pink Lemonade",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cervejas": [
             {
                 "nome": "Cerpa",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Heineken",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "300ml"
             },
             {
                 "nome": "Malzbier",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Baden Baden Cristal",
-                "preço": null,
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Therezópolis Gold",
-                "preço": null,
-                "descrição": ""
+                "preço": 21.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chopp Heineken",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chopp Cerpa",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.5,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cafés": [
             {
                 "nome": "Café",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café com Chantilly",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café com Leite",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café Nespresso",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Capuccino",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },

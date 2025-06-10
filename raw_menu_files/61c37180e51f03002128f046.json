@@ -3,396 +3,472 @@
         "Para começar...": [
             {
                 "nome": "Croquete De Piracuí Com Maionese De Jambu",
-                "preço": "R$ 21,90",
+                "preço": 21.9,
+                "informação-extra": null,
                 "descrição": "Massa de macaxeira, recheio de bodó desidratado, acompanhado com maionese caseira de jambu"
             },
             {
                 "nome": "Pastel De Tacacá",
-                "preço": "R$ 38,00",
+                "preço": 38.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Pastel com recheio de camarão e jambu, acompanhado de caldo de tucupi"
             },
             {
                 "nome": "Fritinho De Crueira",
-                "preço": "R$ 16,90",
+                "preço": 16.9,
+                "informação-extra": null,
                 "descrição": "Feito com farinha de mandioca, é uma massa que não passou pela peneira e da origem a um sabor e crocância especial."
             },
             {
                 "nome": "Banana Frita com Patê de Tucumã 20 gr",
-                "preço": "R$ 16,90",
+                "preço": 16.9,
+                "informação-extra": null,
                 "descrição": "Banana pacovã torratinha acompanhada de patê de tucumã"
             },
             {
                 "nome": "Tacacá (500ml)",
-                "preço": "R$ 25,00",
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Escolha doce, misto ou azedo, do jeitinho que você gostar."
             }
         ],
         "Sanduíches": [
             {
                 "nome": "Especial da Ilha",
-                "preço": "R$ 26,90",
+                "preço": 26.9,
+                "informação-extra": "Contém glúten",
                 "descrição": "Pão caseiro com queijo manteiga, tucumã e ingrediente secreto da vó Vilma"
             },
             {
                 "nome": "X-Caboquinho",
-                "preço": "R$ 27,90",
+                "preço": 27.9,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Pão francês com tucumã, queijo coalho e banana"
             },
             {
                 "nome": "Manauara",
-                "preço": "R$ 24,90",
+                "preço": 24.9,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Sanduíche no pão francês com queijo coalho e tucumã"
             },
             {
                 "nome": "Misto francês",
-                "preço": "R$ 17,00",
+                "preço": 17.0,
+                "informação-extra": "Contém glúten",
                 "descrição": "Sanduíche no pão francês com queijo e presunto"
             },
             {
                 "nome": "Pão com queijo",
-                "preço": "",
+                "preço": null,
+                "informação-extra": "Contém glúten",
                 "descrição": "Saboroso pão com queijo (escolha o queijo)"
             },
             {
                 "nome": "Pão na chapa com manteiga",
-                "preço": "R$ 6,50",
+                "preço": 6.5,
+                "informação-extra": "Contém glúten",
                 "descrição": "Crocante com manteiga"
             },
             {
                 "nome": "Monte seu sanduíche",
-                "preço": "R$ 6,50",
+                "preço": 6.5,
+                "informação-extra": "Contém glúten",
                 "descrição": "Escolha os adicionais do seu sanduíche no pão francês ou caseiro"
             },
             {
                 "nome": "Pão na Chapa com Requeijao",
-                "preço": "R$ 11,00",
+                "preço": 11.0,
+                "informação-extra": null,
                 "descrição": "Pão crocante com uma generosa camada de requeijão assado na chapa"
             }
         ],
         "Tapiocas": [
             {
                 "nome": "Tapioca Parintinense",
-                "preço": "R$ 26,90",
+                "preço": 26.9,
+                "informação-extra": null,
                 "descrição": "Queijo manteiga feito artesanalmente em Parintins e tucumã"
             },
             {
                 "nome": "Tapioca Caboquinha",
-                "preço": "R$ 27,90",
+                "preço": 27.9,
+                "informação-extra": null,
                 "descrição": "Queijo coalho, tucumã e banana"
             },
             {
                 "nome": "Tapioca Manauara",
-                "preço": "R$ 25,90",
+                "preço": 25.9,
+                "informação-extra": null,
                 "descrição": "Queijo coalho com tucumã"
             },
             {
                 "nome": "Tapioca Especial MB",
-                "preço": "R$ 6,50",
+                "preço": 6.5,
+                "informação-extra": null,
                 "descrição": "Muito fininha e crocante, só com manteiga"
             },
             {
                 "nome": "Monte sua tapioca",
-                "preço": "R$ 4,00",
+                "preço": 4.0,
+                "informação-extra": "Contém glúten",
                 "descrição": "Escolha os adicionais da sua tapioca"
             },
             {
                 "nome": "Crepioca",
-                "preço": "R$ 20,00",
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Deliciosa crepioca feita com ovos selecionados e a mais pura goma da mandioca"
             },
             {
                 "nome": "Monte sua crepioca",
-                "preço": "R$ 16,00",
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Deixe Sua Crepioca Do Seu Jeito, Adicionando Itens Da Sua Escolha"
             },
             {
                 "nome": "Tapioca Pizza Caboquinha",
-                "preço": "R$ 45,90",
+                "preço": 45.9,
+                "informação-extra": null,
                 "descrição": "massa de tapioca super macia e recheada com banana frita, tucuma e queijo coalho de bufalo"
             },
             {
                 "nome": "Tapioca Pizza Manauara",
-                "preço": "R$ 42,90",
+                "preço": 42.9,
+                "informação-extra": null,
                 "descrição": "massa de tapioca macia e super recheada com melhor queijo coalho de bufalo e tucuma"
             },
             {
                 "nome": "Tapioca Pizza MIsta",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Massa macia de tapioca recheada com queijo mussarela e presunto premium sem capa de gordura"
             }
         ],
         "Cuscuz": [
             {
                 "nome": "Queijo",
-                "preço": "R$ 17,50",
-                "descrição": ""
+                "preço": 17.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Queijo Com Ovo",
-                "preço": "R$ 18,90",
-                "descrição": ""
+                "preço": 18.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Simples Só Com Manteiga",
-                "preço": "R$ 11,90",
-                "descrição": ""
+                "preço": 11.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coco E Leite Condensado",
-                "preço": "R$ 13,90",
-                "descrição": ""
+                "preço": 13.9,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Farofas": [
             {
                 "nome": "Farofa De Ovo",
-                "preço": "R$ 17,50",
-                "descrição": ""
+                "preço": 17.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Farofa De Charque",
-                "preço": "R$ 28,50",
-                "descrição": ""
+                "preço": 28.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Farofa De Piracuí",
-                "preço": "R$ 25,00",
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Farofa De Conserva",
-                "preço": "R$ 23,90",
-                "descrição": ""
+                "preço": 23.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Farofa De Camarão",
-                "preço": "R$ 29,90",
-                "descrição": ""
+                "preço": 29.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "farofa de banana",
-                "preço": "R$ 20,00",
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "deliciosa farofa feita com banana da terra e farinha ovinha torradinha"
             }
         ],
         "Omeletes": [
             {
                 "nome": "Queijo",
-                "preço": "R$ 20,90",
-                "descrição": ""
+                "preço": 20.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Marguerita",
-                "preço": "R$ 19,90",
+                "preço": 19.9,
+                "informação-extra": null,
                 "descrição": "Tomate e Manjericão"
             },
             {
                 "nome": "Fritada do Luís",
-                "preço": "R$ 22,90",
+                "preço": 22.9,
+                "informação-extra": null,
                 "descrição": "Famosa fritada do Luís - É uma saborosa mistura de ovos, calabresa, seleta e maionese"
             }
         ],
         "Pra quem ta brocado...": [
             {
                 "nome": "Pirarucu com cuscuz amazônico",
-                "preço": "R$ 49,90",
+                "preço": 49.9,
+                "informação-extra": null,
                 "descrição": "Pirarucu grelhado, com molho especial de tomate e tucupi. Acompanhado de mix de ervas e cuscuz amazônico, uma releitura do chibé, comida indígena feita de farinha de mandioca e água, na nossa receita a farinha vai embebecida de tucupi e leite de coco, temperada com verduras, o verdadeiro sabor da amazônia."
             },
             {
                 "nome": "Prato sortido do arraial",
-                "preço": "R$ 54,90",
+                "preço": 54.9,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Vatapá, pirarucu à casaca, farofa e arroz"
             },
             {
                 "nome": "Pirarucu à Casaca",
-                "preço": "R$ 36,80",
+                "preço": 36.8,
+                "informação-extra": null,
                 "descrição": "Deliciosas lascas de pirarucu assado, seleta de legumes, farinha e banana frita."
             },
             {
                 "nome": "Vatapá",
-                "preço": "R$ 34,90",
+                "preço": 34.9,
+                "informação-extra": null,
                 "descrição": "Feito com massa de pão caseiro e camarões selecionados"
             },
             {
                 "nome": "Costela e lombo de tambaqui fritos ou assados",
-                "preço": "R$ 49,90",
+                "preço": 49.9,
+                "informação-extra": null,
                 "descrição": "Acompanha: Baião, farinha, vinagrete e banana frita."
             },
             {
                 "nome": "Costela e Lombo de tambaqui frita ou assada",
-                "preço": "R$ 59,90",
+                "preço": 59.9,
+                "informação-extra": null,
                 "descrição": "Acompanha Arroz de Tacacá."
             },
             {
                 "nome": "Sardinha frita empanada com farinha ovinha",
-                "preço": "R$ 37,00",
+                "preço": 37.0,
+                "informação-extra": null,
                 "descrição": "Acompanha: baião, farinha e vinagrete."
             },
             {
                 "nome": "Pacu frito empanado",
-                "preço": "R$ 39,90",
+                "preço": 39.9,
+                "informação-extra": null,
                 "descrição": "Acompanha baião, farinha e vinagrete"
             },
             {
                 "nome": "Estrogonofe de Carne",
-                "preço": "R$ 29,90",
-                "descrição": ""
+                "preço": 29.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Estrogonofe de Frango",
-                "preço": "R$ 25,90",
-                "descrição": ""
+                "preço": 25.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "File de Pirarucu com Arroz Cremoso\nFilé de Pirarucu Grelhado com Arroz Cremoso",
-                "preço": "R$ 79,00",
-                "descrição": "File de Pirarucu com Arroz Cremoso"
+                "preço": 79.0,
+                "informação-extra": null,
+                "descrição": "posta de filé de pirarucu grelhado, servido com nosso delicioso arroz cremoso embebido no tacaca com pedacos de abobora, queijo coalho e calabresa"
             },
             {
                 "nome": "CAMARAO ROSA COM PURE DE BANANA\nCamarao Rosa com Pure de Banana da Terra",
-                "preço": "R$ 85,00",
-                "descrição": "CAMARAO ROSA COM PURE DE BANANA"
+                "preço": 85.0,
+                "informação-extra": null,
+                "descrição": "porcao de 8 camaroes salteados no azeite, acompanhado de pure de banana da terra e farofa amazonica , segredinho do chef"
             },
             {
                 "nome": "Filé de Pirarucu Empanado",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Suculento filé de pirarucu empanado ou grelhado servido com baião de dois ,farofa crocante, vinagrete"
             }
         ],
         "Porções E Adicionais": [
             {
                 "nome": "Nutella",
-                "preço": "R$ 8,00",
+                "preço": 8.0,
+                "informação-extra": null,
                 "descrição": "40 gramas"
             },
             {
                 "nome": "Geleias 20 gr",
-                "preço": "R$ 4,00",
+                "preço": 4.0,
+                "informação-extra": null,
                 "descrição": "Banana,Tucupi, Morango, Pimenta"
             },
             {
                 "nome": "Patê de Tucumã 20 gr",
-                "preço": "R$ 5,00",
-                "descrição": ""
+                "preço": 5.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Porção de Arroz 140 gramas",
-                "preço": "R$ 3,50",
-                "descrição": ""
+                "preço": 3.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Banana Madura Frita",
-                "preço": "R$ 13,00",
+                "preço": 13.0,
+                "informação-extra": null,
                 "descrição": "6 unidades"
             },
             {
                 "nome": "Porção de Camarão",
-                "preço": "R$ 11,90",
+                "preço": 11.9,
+                "informação-extra": null,
                 "descrição": "10 unidades"
             },
             {
                 "nome": "Creme de Leite ou Leite Condensado",
-                "preço": "R$ 6,00",
+                "preço": 6.0,
+                "informação-extra": null,
                 "descrição": "40 gramas"
             },
             {
                 "nome": "Porção de Vatapá",
-                "preço": "R$ 19,90",
+                "preço": 19.9,
+                "informação-extra": null,
                 "descrição": "150 gramas"
             },
             {
                 "nome": "Unidade de Jaraqui empanado",
-                "preço": "R$ 10,00",
+                "preço": 10.0,
+                "informação-extra": null,
                 "descrição": "delicioso jaraqui fritinho"
             },
             {
                 "nome": "Unidade de Sardinha",
-                "preço": "R$ 13,00",
+                "preço": 13.0,
+                "informação-extra": null,
                 "descrição": "Deliciosa sardinha fritinha empanada na farinha ovinha."
             },
             {
                 "nome": "2 Unidades de Sardinhas",
-                "preço": "R$ 26,00",
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Deliciosa sardinha frita empanada na farinha ovinha"
             },
             {
                 "nome": "1 Unidade de Pacu",
-                "preço": "R$ 20,00",
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Delicioso pacu fritinho"
             },
             {
                 "nome": "Farinha ovinha porção 50 gramas",
-                "preço": "R$ 3,00",
+                "preço": 3.0,
+                "informação-extra": null,
                 "descrição": "Farinha ovinha toradinha"
             },
             {
                 "nome": "Farofa 50 gramas",
-                "preço": "R$ 6,00",
+                "preço": 6.0,
+                "informação-extra": null,
                 "descrição": "Deliciosa farinha de mandioca,com cubinhos bem pequenos de calabresa bem torradinha"
             },
             {
                 "nome": "Porção de jambu 30 gramas",
-                "preço": "R$ 3,00",
+                "preço": 3.0,
+                "informação-extra": null,
                 "descrição": "jambu cozido"
             },
             {
                 "nome": "Leite desnatado 200ml",
-                "preço": "R$ 6,00",
+                "preço": 6.0,
+                "informação-extra": "Light",
                 "descrição": "Leite desnatado"
             },
             {
                 "nome": "Maionese de jambu 30 gramas",
-                "preço": "R$ 6,00",
+                "preço": 6.0,
+                "informação-extra": null,
                 "descrição": "Deliciosa maionese de jambu ,feita com ovos selecionados e folhas e flores de jambu in natura."
             },
             {
                 "nome": "Manteiga com sal 30 gramas",
-                "preço": "R$ 3,00",
+                "preço": 3.0,
+                "informação-extra": null,
                 "descrição": "Porção de manteiga com sal"
             },
             {
                 "nome": "Vinagrete 50 gramas",
-                "preço": "R$ 6,00",
+                "preço": 6.0,
+                "informação-extra": null,
                 "descrição": "Molho de vinagrete com cebolinha, cebola , tomate e cheiro verde regado com azeite extra virgem e sal"
             },
             {
                 "nome": "Arroz de tacacá 200gr",
-                "preço": "R$ 15,00",
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Delicioso arroz com tucupi, camarão e jambu"
             },
             {
                 "nome": "Sumo de Limão 1 unidade",
-                "preço": "R$ 2,00",
-                "descrição": ""
+                "preço": 2.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Rodelas de Limão 1 unidade",
-                "preço": "R$ 2,00",
-                "descrição": ""
+                "preço": 2.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Porção de Arroz 200 gramas",
-                "preço": "R$ 6,00",
-                "descrição": ""
+                "preço": 6.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "PORÇAO DE TUCUMA 40 GR",
-                "preço": "R$ 8,00",
+                "preço": 8.0,
+                "informação-extra": null,
                 "descrição": "NOSSO DELICIOSO TUCUMA NA POLPA"
             },
             {
                 "nome": "TUCUMÃ 60 GR",
-                "preço": "R$ 14,00",
+                "preço": 14.0,
+                "informação-extra": null,
                 "descrição": "TUCUMÃ REGIONAL"
             },
             {
                 "nome": "PATE DE TUCUMÃ 140 GR",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Patê de tucumã super cremoso com tucumã selecionado e aquele segredinho da vó wilma"
             },
             {
                 "nome": "Patê de tucumã 40 gr",
-                "preço": "R$ 10,00",
+                "preço": 10.0,
+                "informação-extra": null,
                 "descrição": "Patê de tucumã super cremoso feio com tucumãs selecionados e aquele toque secreto da vó wilma"
             }
         ]

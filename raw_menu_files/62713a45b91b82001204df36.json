@@ -3,102 +3,121 @@
         "Patisserie": [
             {
                 "nome": "Tiramissu 2.0",
-                "preço": "R$ 32,00",
-                "descrição": ""
+                "preço": 32.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Citron",
-                "preço": "R$ 32,00",
-                "descrição": ""
+                "preço": 32.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Entremet Chocolate e Pistache",
-                "preço": "R$ 34,00",
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Entremet Caramelo e Framboesa",
-                "preço": "R$ 32,00",
-                "descrição": ""
+                "preço": 32.0,
+                "informação-extra": "Contém Lactose",
+                "descrição": null
             },
             {
                 "nome": "Cacau 70%",
-                "preço": "R$ 34,00",
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Gelatos": [
             {
                 "nome": "Casquinha pequena",
-                "preço": "R$ 21,00",
+                "preço": 21.0,
+                "informação-extra": null,
                 "descrição": "1 sabor"
             },
             {
                 "nome": "Casquinha média",
-                "preço": "R$ 24,00",
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "2 sabores"
             },
             {
                 "nome": "Pequeno",
-                "preço": "R$ 19,00",
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "2 sabores"
             },
             {
                 "nome": "Médio",
-                "preço": "R$ 21,00",
+                "preço": 21.0,
+                "informação-extra": null,
                 "descrição": "3 sabores"
             },
             {
                 "nome": "Pote 630 ml",
-                "preço": "R$ 79,00",
-                "descrição": ""
+                "preço": 79.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pote 1,3L",
-                "preço": "R$ 114,00",
-                "descrição": ""
+                "preço": 114.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Grande",
-                "preço": "R$ 25,00",
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "3 sabores"
             }
         ],
         "Macarons": [
             {
                 "nome": "Blueberry",
-                "preço": "R$ 8,00",
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pistache",
-                "preço": "R$ 8,00",
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chocolate",
-                "preço": "R$ 8,00",
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Maracujá",
-                "preço": "R$ 8,00",
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Framboesa",
-                "preço": "R$ 8,00",
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Baunilha",
-                "preço": "R$ 8,00",
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Avelã",
-                "preço": "R$ 8,00",
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },

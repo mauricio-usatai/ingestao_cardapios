@@ -3,898 +3,1069 @@
         "Entradas": [
             {
                 "nome": "Edamame",
-                "preço": "R$ 35,00",
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": "Vegano",
+                "descrição": null
             },
             {
                 "nome": "Sunomono",
-                "preço": "R$ 24,00",
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": "Vegetariano",
+                "descrição": null
             },
             {
                 "nome": "Tartar de spicy tuna com massago",
-                "preço": "R$ 90,00",
-                "descrição": ""
+                "preço": 90.0,
+                "informação-extra": "Levemente Apimentado",
+                "descrição": null
             },
             {
                 "nome": "Tartar de salmão",
-                "preço": "R$ 84,00",
+                "preço": 84.0,
+                "informação-extra": null,
                 "descrição": "Salmão picado, com massago em um molho com molho de soja e gengibre."
             },
             {
                 "nome": "Tartar de centolla chilena com trufas negras",
-                "preço": "R$ 188,00",
+                "preço": 188.0,
+                "informação-extra": null,
                 "descrição": "Centolla chilena com trufas negras e massago"
             },
             {
                 "nome": "Tartar especial",
-                "preço": "R$ 104,00",
+                "preço": 104.0,
+                "informação-extra": null,
                 "descrição": "Salmão, vieira canadense e camarão"
             },
             {
                 "nome": "Ceviche",
-                "preço": "R$ 114,00",
+                "preço": 114.0,
+                "informação-extra": null,
                 "descrição": "Peixe branco, camarão e polvo espanhol"
             },
             {
                 "nome": "Crispy rice spicy tuna - 6 unidades",
-                "preço": "R$ 58,00",
-                "descrição": ""
+                "preço": 58.0,
+                "informação-extra": "Apimentado",
+                "descrição": null
             },
             {
                 "nome": "Crispy rice spicy salmon - 6 unidades",
-                "preço": "R$ 52,00",
-                "descrição": ""
+                "preço": 52.0,
+                "informação-extra": "Apimentado",
+                "descrição": null
             },
             {
                 "nome": "Mini donburi de spicy tuna com ikura",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "acompanha nori premium"
             },
             {
                 "nome": "Mini donburi de enguia com uni e ikura",
-                "preço": "R$ 92,00",
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "acompanha nori premium"
             },
             {
                 "nome": "Ostras frescas - 6 unidades",
-                "preço": "R$ 82,00",
-                "descrição": ""
+                "preço": 82.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Lula crocante",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "Com maionese de wasabi e massago"
             },
             {
                 "nome": "Shimeji",
-                "preço": "R$ 58,00",
-                "descrição": ""
+                "preço": 58.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Shitake",
-                "preço": "R$ 58,00",
-                "descrição": ""
+                "preço": 58.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hana-nirá",
-                "preço": "R$ 62,00",
-                "descrição": ""
+                "preço": 62.0,
+                "informação-extra": "Vegetariano",
+                "descrição": null
             },
             {
                 "nome": "Hana-nirá com lula",
-                "preço": "R$ 74,00",
-                "descrição": ""
+                "preço": 74.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hana-nirá com polvo espanhol",
-                "preço": "R$ 92,00",
-                "descrição": ""
+                "preço": 92.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Guioza suína - 6 unidades",
-                "preço": "R$ 44,00",
-                "descrição": ""
+                "preço": 44.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Rock shrimp spicy",
-                "preço": "R$ 104,00",
-                "descrição": ""
+                "preço": 104.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Carpaccio": [
             {
                 "nome": "Atum com hortelã e raspas de limão siciliano - 8 laminas",
-                "preço": "R$ 54,00",
-                "descrição": ""
+                "preço": 54.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Atum com hortelã e raspas de limão siciliano - 16 laminas",
-                "preço": "R$ 102,00",
-                "descrição": ""
+                "preço": 102.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Atum com wakame e tempura de camarão com maionese de wasabi",
-                "preço": "R$ 128,00",
+                "preço": 128.0,
+                "informação-extra": null,
                 "descrição": "acompanha molho tataki"
             },
             {
                 "nome": "Peixe branco - 8 laminas",
-                "preço": "R$ 52,00",
-                "descrição": ""
+                "preço": 52.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Peixe branco - 16 laminas",
-                "preço": "R$ 94,00",
-                "descrição": ""
+                "preço": 94.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Usuzukuri de peixe branco - 16 laminas",
-                "preço": "R$ 98,00",
-                "descrição": ""
+                "preço": 98.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão - 8 fatias",
-                "preço": "R$ 45,00",
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão - 16 fatias",
-                "preço": "R$ 86,00",
-                "descrição": ""
+                "preço": 86.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Usuzukuri de salmão - 16 laminas",
-                "preço": "R$ 86,00",
-                "descrição": ""
+                "preço": 86.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Barriga de salmão - 8 fatias",
-                "preço": "R$ 53,00",
-                "descrição": ""
+                "preço": 53.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Barriga de salmão - 16 fatias",
-                "preço": "R$ 102,00",
-                "descrição": ""
+                "preço": 102.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Polvo espanhol - 7 laminas",
-                "preço": "R$ 104,00",
+                "preço": 104.0,
+                "informação-extra": null,
                 "descrição": "Com alcaparras e curry."
             }
         ],
         "Caviar giaveri": [
             {
                 "nome": "Tartar de atum com caviar",
-                "preço": "R$ 280,00",
-                "descrição": ""
+                "preço": 280.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tartar de toro com caviar",
-                "preço": "R$ 310,00",
-                "descrição": ""
+                "preço": 310.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Siberian Baerii - lata de 15g",
-                "preço": "R$ 520,00",
-                "descrição": ""
+                "preço": 520.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ossetra - lata de 15g",
-                "preço": "R$ 610,00",
-                "descrição": ""
+                "preço": 610.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beluga Siberian - lata de 15g",
-                "preço": "R$ 690,00",
-                "descrição": ""
+                "preço": 690.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sashimis tradicionais - 5 fatias": [
             {
                 "nome": "Maguro | Atum",
-                "preço": "R$ 60,00",
-                "descrição": ""
+                "preço": 60.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Toro | Atum gordo",
-                "preço": "R$ 132,00",
-                "descrição": ""
+                "preço": 132.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hirame | Linguado",
-                "preço": "R$ 54,00",
-                "descrição": ""
+                "preço": 54.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tai | Pargo",
-                "preço": "R$ 54,00",
-                "descrição": ""
+                "preço": 54.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Buri | Olho de boi",
-                "preço": "R$ 54,00",
-                "descrição": ""
+                "preço": 54.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Katsuo | Serra",
-                "preço": "R$ 54,00",
-                "descrição": ""
+                "preço": 54.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Aji | Carapau",
-                "preço": "R$ 54,00",
-                "descrição": ""
+                "preço": 54.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suzuki | Robalo",
-                "preço": "R$ 59,00",
-                "descrição": ""
+                "preço": 59.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Shake | Salmão",
-                "preço": "R$ 56,00",
-                "descrição": ""
+                "preço": 56.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Toro shake | Barriga de salmão",
-                "preço": "R$ 68,00",
-                "descrição": ""
+                "preço": 68.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hotategai | Vieira canadense",
-                "preço": "R$ 84,00",
-                "descrição": ""
+                "preço": 84.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tako | Polvo espanhol",
-                "preço": "R$ 104,00",
-                "descrição": ""
+                "preço": 104.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sashimis ao maçarico": [
             {
                 "nome": "Atum",
-                "preço": "R$ 73,00",
-                "descrição": ""
+                "preço": 73.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão - 6 fatias",
-                "preço": "R$ 69,00",
-                "descrição": ""
+                "preço": 69.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Barriga de salmão - 5 fatias",
-                "preço": "R$ 72,00",
-                "descrição": ""
+                "preço": 72.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sashimis com trufas negras e massago": [
             {
                 "nome": "Salmão - 5 fatias",
-                "preço": "R$ 68,00",
-                "descrição": ""
+                "preço": 68.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão com ovo de codorna - 2 fatias",
-                "preço": "R$ 48,00",
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vieira canadense - 5 fatias",
-                "preço": "R$ 92,00",
-                "descrição": ""
+                "preço": 92.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Polvo espanhol - 5 fatias",
-                "preço": "R$ 114,00",
-                "descrição": ""
+                "preço": 114.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sashimis especiais": [
             {
                 "nome": "Akami bluefin | Atum bluefin - 1 fatia",
-                "preço": "R$ 43,00",
-                "descrição": ""
+                "preço": 43.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chutoro bluefin | Atum semi-gordo bluefin - 1 fatia",
-                "preço": "R$ 55,00",
-                "descrição": ""
+                "preço": 55.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Toro bluefin | Atum gordo bluefin - 1 fatia",
-                "preço": "R$ 69,00",
-                "descrição": ""
+                "preço": 69.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Atum selado com ovas de mujjol - 6 fatias",
-                "preço": "R$ 86,00",
+                "preço": 86.0,
+                "informação-extra": null,
                 "descrição": "servido sobre o molho de missô"
             },
             {
                 "nome": "Salmão selado com ovas de mujjol - 6 fatias",
-                "preço": "R$ 82,00",
+                "preço": 82.0,
+                "informação-extra": null,
                 "descrição": "servido sobre o molho de missô"
             },
             {
                 "nome": "Centolla chilena - 2 patas",
-                "preço": "R$ 182,00",
-                "descrição": ""
+                "preço": 182.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Wagyu - 6 fatias",
-                "preço": "R$ 118,00",
-                "descrição": ""
+                "preço": 118.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Wagyu com foie gras e trufas negras - 2 fatias",
-                "preço": "R$ 118,00",
-                "descrição": ""
+                "preço": 118.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Nakka sashimi - 18 fatias",
-                "preço": "R$ 202,00",
+                "preço": 202.0,
+                "informação-extra": null,
                 "descrição": "Seleção de peixes do chef"
             }
         ],
         "Sushis tradicionais - dupla": [
             {
                 "nome": "Maguro | Atum",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Toro | Atum gordo",
-                "preço": "R$ 90,00",
-                "descrição": ""
+                "preço": 90.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hirame | Linguado",
-                "preço": "R$ 37,00",
-                "descrição": ""
+                "preço": 37.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tai | Pargo",
-                "preço": "R$ 37,00",
-                "descrição": ""
+                "preço": 37.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Buri | Olho de boi",
-                "preço": "R$ 37,00",
-                "descrição": ""
+                "preço": 37.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Katsuo | Serra",
-                "preço": "R$ 37,00",
-                "descrição": ""
+                "preço": 37.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Aji | Carapau",
-                "preço": "R$ 37,00",
-                "descrição": ""
+                "preço": 37.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Toro saba | Cavalinha",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suzuki | Robalo",
-                "preço": "R$ 41,00",
-                "descrição": ""
+                "preço": 41.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Shake | Salmão",
-                "preço": "R$ 40,00",
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Toro shake | Barriga de salmão",
-                "preço": "R$ 46,00",
-                "descrição": ""
+                "preço": 46.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ikura | Ovas de salmão",
-                "preço": "R$ 66,00",
-                "descrição": ""
+                "preço": 66.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Unagui | Enguia",
-                "preço": "R$ 86,00",
-                "descrição": ""
+                "preço": 86.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ika | Lula",
-                "preço": "R$ 38,00",
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ebi | Camarão",
-                "preço": "R$ 84,00",
-                "descrição": ""
+                "preço": 84.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Uni | Ouriço",
-                "preço": "R$ 78,00",
-                "descrição": ""
+                "preço": 78.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tako | Polvo espanhol",
-                "preço": "R$ 66,00",
-                "descrição": ""
+                "preço": 66.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hotategai | Vieira Canadense",
-                "preço": "R$ 98,00",
-                "descrição": ""
+                "preço": 98.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sushis ao maçarico - dupla": [
             {
                 "nome": "Atum",
-                "preço": "R$ 50,00",
-                "descrição": ""
+                "preço": 50.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão",
-                "preço": "R$ 48,00",
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Barriga de salmão",
-                "preço": "R$ 50,00",
-                "descrição": ""
+                "preço": 50.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sushis com trufas negras e massago - dupla ": [
             {
                 "nome": "Salmão",
-                "preço": "R$ 50,00",
-                "descrição": ""
+                "preço": 50.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jo de salmão",
-                "preço": "R$ 47,00",
-                "descrição": ""
+                "preço": 47.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jo de ovo de codorna",
-                "preço": "R$ 46,00",
-                "descrição": ""
+                "preço": 46.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Lula",
-                "preço": "R$ 47,00",
-                "descrição": ""
+                "preço": 47.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Polvo espanhol",
-                "preço": "R$ 76,00",
-                "descrição": ""
+                "preço": 76.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vieira canadense",
-                "preço": "R$ 110,00",
-                "descrição": ""
+                "preço": 110.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sushis com foie gras - dupla": [
             {
                 "nome": "Atum",
-                "preço": "R$ 102,00",
-                "descrição": ""
+                "preço": 102.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jo de atum",
-                "preço": "R$ 100,00",
-                "descrição": ""
+                "preço": 100.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Lichia",
-                "preço": "R$ 98,00",
-                "descrição": ""
+                "preço": 98.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sushis especiais": [
             {
                 "nome": "Spicy tuna",
-                "preço": "R$ 46,00",
-                "descrição": ""
+                "preço": 46.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Akami bluefin | Atum bluefin",
-                "preço": "R$ 88,00",
-                "descrição": ""
+                "preço": 88.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chutoro bluefin | Atum semi-gordo bluefin",
-                "preço": "R$ 113,00",
-                "descrição": ""
+                "preço": 113.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Toro bluefin | Atum gordo bluefin",
-                "preço": "R$ 139,00",
-                "descrição": ""
+                "preço": 139.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão de skin",
-                "preço": "R$ 34,00",
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jo de salmão",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jo de ikura",
-                "preço": "R$ 70,00",
-                "descrição": ""
+                "preço": 70.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jo de ikura com ovo de codorna",
-                "preço": "R$ 72,00",
-                "descrição": ""
+                "preço": 72.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Enguia com avocado e massago",
-                "preço": "R$ 102,00",
-                "descrição": ""
+                "preço": 102.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Enguia com risoto de foie gras",
-                "preço": "R$ 116,00",
-                "descrição": ""
+                "preço": 116.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Polvo espanhol com curry e massago",
-                "preço": "R$ 70,00",
-                "descrição": ""
+                "preço": 70.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Centolla chilena",
-                "preço": "R$ 98,00",
-                "descrição": ""
+                "preço": 98.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Wagyu",
-                "preço": "R$ 68,00",
-                "descrição": ""
+                "preço": 68.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Experiência de Atum bluefin - 3 peças",
-                "preço": "R$ 144,00",
+                "preço": 144.0,
+                "informação-extra": null,
                 "descrição": "Toro, churoro e akami, uma unidade de cada."
             }
         ],
         "Uramaki - 8 peças": [
             {
                 "nome": "Spicy tuna",
-                "preço": "R$ 62,00",
-                "descrição": ""
+                "preço": 62.0,
+                "informação-extra": "Apimentado",
+                "descrição": null
             },
             {
                 "nome": "Salmão",
-                "preço": "R$ 58,00",
-                "descrição": ""
+                "preço": 58.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão skin",
-                "preço": "R$ 46,00",
-                "descrição": ""
+                "preço": 46.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Enguia",
-                "preço": "R$ 98,00",
-                "descrição": ""
+                "preço": 98.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Enguia com avocado e pepino",
-                "preço": "R$ 108,00",
-                "descrição": ""
+                "preço": 108.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ebiten",
-                "preço": "R$ 88,00",
+                "preço": 88.0,
+                "informação-extra": null,
                 "descrição": "Com pepino e massago"
             },
             {
                 "nome": "Ebiten especial",
-                "preço": "R$ 102,00",
+                "preço": 102.0,
+                "informação-extra": null,
                 "descrição": "Com pepino, massago e salmão"
             },
             {
                 "nome": "Califórnia",
-                "preço": "R$ 46,00",
-                "descrição": ""
+                "preço": 46.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Hossomaki - 6 peças": [
             {
                 "nome": "Atum",
-                "preço": "R$ 46,00",
-                "descrição": ""
+                "preço": 46.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Toro com cebolinha",
-                "preço": "R$ 84,00",
-                "descrição": ""
+                "preço": 84.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Camarão com pepino",
-                "preço": "R$ 62,00",
-                "descrição": ""
+                "preço": 62.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pepino",
-                "preço": "R$ 34,00",
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Batera - 8 peças": [
             {
                 "nome": "Spicy tuna",
-                "preço": "R$ 76,00",
-                "descrição": ""
+                "preço": 76.0,
+                "informação-extra": "Apimentado",
+                "descrição": null
             },
             {
                 "nome": "Salmão",
-                "preço": "R$ 72,00",
-                "descrição": ""
+                "preço": 72.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Hot roll - 8 peças": [
             {
                 "nome": "Philadelphia",
-                "preço": "R$ 58,00",
-                "descrição": ""
+                "preço": 58.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão",
-                "preço": "R$ 60,00",
-                "descrição": ""
+                "preço": 60.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Temaki": [
             {
                 "nome": "Atum",
-                "preço": "R$ 40,00",
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Spicy tuna",
-                "preço": "R$ 44,00",
-                "descrição": ""
+                "preço": 44.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Toro",
-                "preço": "R$ 74,00",
-                "descrição": ""
+                "preço": 74.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão skin",
-                "preço": "R$ 35,00",
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão",
-                "preço": "R$ 38,00",
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Barriga de salmão",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ikura",
-                "preço": "R$ 85,00",
-                "descrição": ""
+                "preço": 85.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Massago",
-                "preço": "R$ 64,00",
-                "descrição": ""
+                "preço": 64.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Enguia",
-                "preço": "R$ 94,00",
-                "descrição": ""
+                "preço": 94.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Califórnia",
-                "preço": "R$ 34,00",
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Camarão",
-                "preço": "R$ 82,00",
-                "descrição": ""
+                "preço": 82.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Camarão especial",
-                "preço": "R$ 86,00",
+                "preço": 86.0,
+                "informação-extra": null,
                 "descrição": "com pepino, limão e azeite"
             },
             {
                 "nome": "Ebiten",
-                "preço": "R$ 86,00",
-                "descrição": ""
+                "preço": 86.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vieira canadense",
-                "preço": "R$ 70,00",
-                "descrição": ""
+                "preço": 70.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vieira canadense e camarão",
-                "preço": "R$ 82,00",
-                "descrição": ""
+                "preço": 82.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Polvo espanhol",
-                "preço": "R$ 80,00",
-                "descrição": ""
+                "preço": 80.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ouriço",
-                "preço": "R$ 104,00",
-                "descrição": ""
+                "preço": 104.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Centolla chilena",
-                "preço": "R$ 102,00",
-                "descrição": ""
+                "preço": 102.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cozinha quente": [
             {
                 "nome": "Salmão com missô, brócolis e aspargos",
-                "preço": "R$ 102,00",
-                "descrição": ""
+                "preço": 102.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Peixe branco com missô, brócolis e aspargos",
-                "preço": "R$ 104,00",
-                "descrição": ""
+                "preço": 104.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beef shogayaki",
-                "preço": "R$ 96,00",
-                "descrição": ""
+                "preço": 96.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Black cod com missô, brócolis e aspargos",
-                "preço": "R$ 160,00",
-                "descrição": ""
+                "preço": 160.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Tempura ": [
             {
                 "nome": "Shissô spicy tuna",
-                "preço": "R$ 56,00",
-                "descrição": ""
+                "preço": 56.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Shissô spicy salmon",
-                "preço": "R$ 54,00",
-                "descrição": ""
+                "preço": 54.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Palmito com shissô",
-                "preço": "R$ 40,00",
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Camarão",
-                "preço": "R$ 92,00",
-                "descrição": ""
+                "preço": 92.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Berinjela",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brócolis",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Batata doce",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cebola",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Aspargos",
-                "preço": "R$ 40,00",
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Milho",
-                "preço": "R$ 40,00",
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Robata ": [
             {
                 "nome": "Vieira canadense com salmão e massago",
-                "preço": "R$ 154,00",
-                "descrição": ""
+                "preço": 154.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Polvo espanhol com curry",
-                "preço": "R$ 152,00",
-                "descrição": ""
+                "preço": 152.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pancetta",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Frango empanado",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filet mignon",
-                "preço": "R$ 54,00",
-                "descrição": ""
+                "preço": 54.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Aspargos",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brócolis",
-                "preço": "R$ 34,00",
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Berinjela",
-                "preço": "R$ 34,00",
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Queijo coalho",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Abobrinha com queijo coalho e mel trufado",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Shimeji com bacon",
-                "preço": "R$ 40,00",
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Acompanhamento": [
             {
                 "nome": "Gohan - Arroz",
-                "preço": "R$ 16,00",
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Missoshiro - Sopa a base de soja",
-                "preço": "R$ 22,00",
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": "Vegetariano",
+                "descrição": null
             }
         ]
     },
@@ -902,32 +1073,38 @@
         "Sobremesa": [
             {
                 "nome": "Sorvete Cremagelati - 2 bolas",
-                "preço": "R$ 30,00",
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fruta da estação",
-                "preço": "R$ 24,00",
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brigadeiro de colher",
-                "preço": "R$ 38,00",
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Com farofa de castanhas e morango"
             },
             {
                 "nome": "Brownie de chocolate com sorvete",
-                "preço": "R$ 38,00",
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Panna cotta umeshu",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Sorvete artesanal envolto em fina massa de arroz"
             },
             {
                 "nome": "Mochi de sorvete",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Sorvete artesanal envolto por massa fina de arroz"
             }
         ]
@@ -936,17 +1113,20 @@
         "Menus": [
             {
                 "nome": "Executivo sushi e sashimi",
-                "preço": "R$ 130,00",
+                "preço": 130.0,
+                "informação-extra": null,
                 "descrição": "Entrada do chef, temaki de atum ou salmão, robata do chef, sashimi de salmão (3 fatias), sashimi de atum (2 fatias), sushi de salmão, sushi de atum, batera ou hot roll (4 peças), missoshiro e sobremesa do chef"
             },
             {
                 "nome": "Executivo Nakka",
-                "preço": "R$ 135,00",
+                "preço": 135.0,
+                "informação-extra": null,
                 "descrição": "Entrada do chef, temaki de atum ou salmão, robata do chef, sushi de salmão, sushi de atum, batera ou hot roll (4 peças), prato quente, gohan, missoshiro e sobremesa do chef"
             },
             {
                 "nome": "Taça de vinho executivo",
-                "preço": "R$ 30,00",
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Pergunte ao garçom sobre as opções de vinho do dia."
             }
         ]
@@ -955,177 +1135,210 @@
         "Champagne": [
             {
                 "nome": "Veuve Clicquot Vintage Brut",
-                "preço": null,
+                "preço": 800.0,
+                "informação-extra": null,
                 "descrição": "Na região de Champagne, vintages são cuvées produzidas a partir de uma assemblage de crus do mesmo ano excepcional. Em 1810, Veuve Clicquot criou a primeira Vintage conhecida em Champagne e se tornou famosa por seus vinhos lendários. As condições climáticas em 2002 foram ideais. Foram poucas as variações climáticas extremas e baixos os índices pluviométricos. Apresenta uma cor dourada suave, com reflexos prata, aromas plenamente elaborados, puros e complexos. A uva Chardonnay traz a esse vinho o tom mineral, com belas notas de flores (acácia) com toques sutis frutados (frutas de polpa amarela) e de confeitaria (brioche, creme de marzipã). Com um equilíbrio já notável, esse millésime saberá nos encantar com plena elegância enriqueçendo experiências gastronômicas de pleno sucesso."
             },
             {
                 "nome": "Veuve Clicquot Rosé",
-                "preço": null,
+                "preço": 840.0,
+                "informação-extra": null,
                 "descrição": "De cor amarelo claro e brilhante com perlage fino e elegante. Aromas que lembram cereja e morango e especiarias. Bem estruturado.Na boca macio e persistente com um bom mousse."
             },
             {
                 "nome": "Dom Pérignon Brut",
-                "preço": null,
+                "preço": 2400.0,
+                "informação-extra": null,
                 "descrição": "Dispensa apresentações. Elaborado a partir das uvas Chardonnay e Pinot Noir, é um dos melhores crus da região. Produzida unicamente nos anos excepcionais, é uma busca constante da perfeição na elaboração de champagne. Graduação alcoólica de 12,5%"
             }
         ],
         "Espumantes": [
             {
                 "nome": "Cave Amadeu",
-                "preço": null,
+                "preço": 180.0,
+                "informação-extra": null,
                 "descrição": "Possui bela cor amarelo palha, com reflexos esverdeados. Sua perlage e fina e persistente. No olfato, delicada mistura de frutas secas como damasco e amêndoa. Na boca, acidez agradável e boa persistência."
             },
             {
                 "nome": "Cave Amadeu Brut Rosé",
-                "preço": null,
+                "preço": 180.0,
+                "informação-extra": null,
                 "descrição": "Harmonização: Acompanha tortas, quiches, massas com molhos leves, pratos orientais, pescados e frutos do mar"
             },
             {
                 "nome": "Chandon Réserve Brut",
-                "preço": null,
+                "preço": 200.0,
+                "informação-extra": null,
                 "descrição": "O aroma apresenta características florais (flores brancas) e frutadas (cítricos, maçã e um toque de abacaxi) com uma nuance de pão fresco. O paladar começa por um ataque franco de uma acidez equilibrada, continua com uma nítida sensação de redondeza e frescor; e finaliza com notas de frutas secas e cítricas com uma persistência média."
             },
             {
                 "nome": "Chandon Brut Rosé",
-                "preço": null,
+                "preço": 220.0,
+                "informação-extra": null,
                 "descrição": "A degustação do Chandon Brut Rosé começa pela sedução da reluzente e delicada cor rosada lembrando a goiaba junto às características de uma ótima efervescência: borbulhas finas, ativas e numerosas com uma espuma abundante formando um colarinho persistente na taça. Continua conquistando pela sinfonia de aromas a frutas vermelhas com toques sutis de especiarias doces. E leva ao prazer de uma experiência sensorial única de um paladar extremamente equilibrado."
             }
         ],
         "Roses": [
             {
                 "nome": "A. Mare Rosato",
-                "preço": null,
+                "preço": 165.0,
+                "informação-extra": null,
                 "descrição": "Rosé elaborado exclusivamente a partir de Bombino Nero, sem passagem por madeira. Sedutor no nariz e na boca, mostra notas florais, de ervas frescas e de frutas vermelhas e de caroço. Tem bom volume de boca, ótima acidez e final agradável, com toques de framboesas, de pêssegos e de lima. Leve, refrescante e descompromissado, é a companhia perfeita para aplacar os dias mais quentes."
             },
             {
                 "nome": "Garzón Rosé Pinot Noir",
-                "preço": null,
+                "preço": 200.0,
+                "informação-extra": null,
                 "descrição": "Cor de cereja claro. Aroma de frutas vermelhas frescas, notas florais e toques minerais. Sabor leve, com excelente frescor e sutil presença tânica, seu final de boca é elegante e longo."
             },
             {
                 "nome": "Lou Parais Rosé",
-                "preço": null,
+                "preço": 230.0,
+                "informação-extra": null,
                 "descrição": "Na boca dominam os aromas de frutas vermelhas picantes. O vinho é macio e fácil de beber. Bom equilíbrio."
             },
             {
                 "nome": "M de Minuty Rosé",
-                "preço": null,
+                "preço": 450.0,
+                "informação-extra": null,
                 "descrição": "Leve e delicado, este delicioso rosé de Provence é repleto de aromas florais e frutas cítricas. Na boca é saboroso, fresco e facinho de beber."
             }
         ],
         "Brancos": [
             {
                 "nome": "Sophenia Altosur Reserve Chardonnay",
-                "preço": null,
+                "preço": 165.0,
+                "informação-extra": null,
                 "descrição": "Refrescante e frutado Chardonnay elaborado a partir de vinhedos localizados a 1200 metros de altitude, este Altosur surpreende por seu caráter e sua cremosidade. Neste exemplar podemos encontrar notas de frutas tropicais, como abacaxi, manga e toques de damascos, que se mesclam a toques cítricos e minerais"
             },
             {
                 "nome": "Serbal Chardonnay",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "A vista tem a cor amarelo palha com reflexos esverdeados. No nariz o vinho apresenta aromas de frutas brancas frescas, como maçã verde e peras, e notas de flores brancas. No paladar é fresco, com ótima vivacidade e boa presença de boca. Seus aromas de boca confirmam as sensações olfativas, com notas de peras e toques florais."
             },
             {
                 "nome": "Catena Chardonnay",
-                "preço": null,
+                "preço": 320.0,
+                "informação-extra": null,
                 "descrição": "Catena Chardonnay é uma das grandes referências para brancos maturados em barricas de carvalho produzidos na América do Sul, mostrando muita concentração e finesse. Sempre recebe ótimas notas da imprensa especializada, tendo sido chamado de delicioso pela revista Wine Spectator. Um excelente branco com um bouquet cativante de frutas brancas e nota mineral. Na boca é macio e pleno, com frutas maduras, mel, baunilha e um agradável e sutil toque tostado."
             },
             {
                 "nome": "Petirrojo Sauvignon Blanc",
-                "preço": null,
+                "preço": 165.0,
+                "informação-extra": null,
                 "descrição": "Rico e macio com notas de frutas tropicais e delicado toque de baunilha, ideal para acompanhar aves, massas, ou risotos e também para ser apreciado como aperitivo."
             },
             {
                 "nome": "Arboleda Sauvignon Blanc",
-                "preço": null,
+                "preço": 300.0,
+                "informação-extra": null,
                 "descrição": "O Vinho apresenta uma cor palha com reflexos esverdeados, bastante frescor, muita fruta, lembrando maracujá, folhas de tomate, maça verde e pera. Vinho de grande persistencia."
             },
             {
                 "nome": "Garzón Estate Pinot Grigio",
-                "preço": null,
+                "preço": 200.0,
+                "informação-extra": null,
                 "descrição": "\"Cor: Amarelo palha com reflexos esverdeados. Aroma: Frutas cítricas, como lima, frutas brancas, como peras e maçãs, além de toques florais e minerais. Sabor: Leve, com boa acidez e equilíbrio. Seu final de boca é longo e persistente, destacando-se por frutas cítricas e toques florais.\""
             },
             {
                 "nome": "Villa Rosa Bical, Maria-Gomes, Arinto",
-                "preço": null,
+                "preço": 165.0,
+                "informação-extra": null,
                 "descrição": "Cor do vinho: Citrina definida com ligeiros tons esverdeados. Olfativo: Frutado jovem, predominante em notas de frutos de polpa branca, citrinos e nuances tropicais. Gustativo: Frutado, fresco, harmonioso com notória presença final."
             },
             {
                 "nome": "Barone Montalto Acquerello Pinot Grigio",
-                "preço": null,
+                "preço": 180.0,
+                "informação-extra": null,
                 "descrição": "Fresco, leve, frutado. Há notas de frutas cítricas, uma acidez que a torna equilibrada e perfumada."
             },
             {
                 "nome": "Pêra Manca",
-                "preço": null,
+                "preço": 1200.0,
+                "informação-extra": null,
                 "descrição": "Vinho branco de mesa seco tinto, apresenta aromas elegantes e uma cor citrina. É um vinho seco, macio, com um bom corpo nobre que lhe confere harmonia."
             },
             {
                 "nome": "Premier Rendez-Vous Sauvignon Blanc",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Leve, com ótima acidez e excelente frescor. Seu final de boca é agradável, destacando-se por frutas cítricas, como limão e maçãs verdes. Frutas cítricas, como maçã verde e grapefruit, frutas brancas, como peras e maçãs, além de notas herbáceas e toques vegetais."
             }
         ],
         "Tintos": [
             {
                 "nome": "La Danza Malbec",
-                "preço": null,
+                "preço": 165.0,
+                "informação-extra": null,
                 "descrição": "Elaborado sob estrito cuidado da famosa equipe de Altos Las Hormigas, La Danza é um vinho delicado, alegre e fresco. Elaborado a partir de uvas colhidas manualmente e sem estágio em carvalho, é marcado pelo frescor da Malbec, com suas notas de frutas pretas e toques de violetas."
             },
             {
                 "nome": "Catena Malbec",
-                "preço": null,
+                "preço": 320.0,
+                "informação-extra": null,
                 "descrição": "Profunda cor violeta escuro com reflexos rubi. Seu aroma remete a groselhas maduras, especiarias doces, frutas vermelhas e cassis. Em boca é um vinho complexo, com notas de cassis, tabaco e pimenta preta. Este Cabernet Sauvignon se caracteriza por sua elegância, seus taninos firmes e sólida estrutura, e seu final longo e persistente."
             },
             {
                 "nome": "Mancura Etnia Cabernet Sauvignon",
-                "preço": null,
+                "preço": 165.0,
+                "informação-extra": null,
                 "descrição": "Caracteristicamente Cabernet, este vinho apresenta uma cor vermelho-rubi brilhante, com aromas de amora pronunciados no nariz misturando com toques de couro e chocolate. Na boca o vinho é macio e frutado, perfeitamente equilibrado com taninos finos e suaves."
             },
             {
                 "nome": "Petirrojo Cabernet Sauvignon",
-                "preço": null,
+                "preço": 165.0,
+                "informação-extra": null,
                 "descrição": "Elegante e equilibrado Cabernet Sauvignon elaborado pelas mãos habilidosas de Alberto Antonini, este tinto revela notas de frutas vermelhas e toques defumados. Um autêntico Cabernet Sauvignon com boa relação qualidade x preço"
             },
             {
                 "nome": "Leyda Reserva Pinot Noir",
-                "preço": null,
+                "preço": 180.0,
+                "informação-extra": null,
                 "descrição": "Coloração vermelho bordô e aroma de frutas vermelha e herbáceo. Em boca mostrou boa acidez e equilíbrio com álcool."
             },
             {
                 "nome": "Arboleda Pinot Noir",
-                "preço": null,
+                "preço": 310.0,
+                "informação-extra": null,
                 "descrição": "\"Vermelho-rubi de média intensidade. Aromas intensos e complexos com um toque da tradicional compota chilena que logo cede espaço para notas de cereja, sândalo, “sottobosco” e cogumelo sobre um fundo defumado. Na boca confirmou as sensações olfativas e se destacou por seu equilíbrio gustativo e sabor delicioso – taninos macios, acidez que remete aos cânones da casta, traço mineral e madeira judiciosamente utilizada completam o conjunto deste que já pode ser considerado um dos melhores Pinot chilenos da atualidade.\" - Jeriel"
             },
             {
                 "nome": "Bayanegra Tempranillo",
-                "preço": null,
+                "preço": 165.0,
+                "informação-extra": null,
                 "descrição": "Delicioso tinto espanhol elaborado com a Tempranillo cultivada a 800 metros de altitude, o que proporciona uma excelente amplitude térmica, ideal para a boa maturação das uvas. Redondo, frutado e com taninos macios, é uma excelente opção para o dia a dia."
             },
             {
                 "nome": "Bonacchi Primitivo IGT Puglia",
-                "preço": null,
+                "preço": 220.0,
+                "informação-extra": null,
                 "descrição": "\"Rico, repleto de notas de fruta e redondo no palato, o Primitivo de Bonacchi é um vinho realmente saboroso. Franco e cheio, mostra um estilo fácil de gostar e pode ser bebido sozinho ou acompanhando uma diversidade de pratos.\""
             },
             {
                 "nome": "Castello Banfi Brunello Di Montalcino DOCG",
-                "preço": null,
+                "preço": 930.0,
+                "informação-extra": null,
                 "descrição": "Rubi intenso com reflexos granada. Bastante complexo e intenso. Apresenta aroma de frutas negras com toques de baunilha. Encorpado e muito intenso, com taninos aveludados e bastante equilibrado. Retrogosto longo com leve notas de tabaco e especiarias."
             },
             {
                 "nome": "Le Temps des Vendanges IGP Comté Tolosan Rouge",
-                "preço": null,
+                "preço": 230.0,
+                "informação-extra": null,
                 "descrição": "A nova Le Temps des Vendanges de Vigouroux é elaborado com uvas da denominação Comté Tolosan, próxima à cidade de Toulouse. Saboroso e cativante, é repleto de fruta madura e um ótimo frescor no palatp. O tinto é um Malbec bem particular: bem leve e bastante aromático, que acompanha até mesmo alguns tipos de peixes. Um vinho perfeito para os dias mais quentes."
             },
             {
                 "nome": "Rolha",
-                "preço": "R$ 100,00",
-                "descrição": ""
+                "preço": 100.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Fortificados": [
             {
                 "nome": "C. Da Silva Dalva Porto Ruby",
-                "preço": null,
+                "preço": 60.0,
+                "informação-extra": null,
                 "descrição": "Cor rubi bem escura, apresenta aroma delicado de compotas de frutos vermelhos, calda de ameixa, framboesas. Na boca, apresenta equilíbrio entre maciez, doçura, e acidez, o que lhe torna encantador."
             }
         ]
@@ -1134,139 +1347,164 @@
         "Futsushu": [
             {
                 "nome": "Miyako Homare Dry",
-                "preço": null,
-                "descrição": ""
+                "preço": 50.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "King Banshunishiki Josen",
-                "preço": null,
-                "descrição": ""
+                "preço": 50.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Honjozo": [
             {
                 "nome": "Honjikomi Urakasumi",
-                "preço": null,
-                "descrição": ""
+                "preço": 210.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hakushika Honjozo",
-                "preço": null,
-                "descrição": ""
+                "preço": 440.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hakutsuru Josen",
-                "preço": null,
-                "descrição": ""
+                "preço": 440.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Yamamoto Honke Nama Chozo",
-                "preço": null,
-                "descrição": ""
+                "preço": 240.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Takashimizu Seisen",
-                "preço": null,
-                "descrição": ""
+                "preço": 260.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Junmai": [
             {
                 "nome": "Hokushika Kimoto Junmai",
-                "preço": null,
-                "descrição": ""
+                "preço": 65.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hakutsuru Junmai Dry",
-                "preço": null,
-                "descrição": ""
+                "preço": 250.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hakushika Tokusen Junmai",
-                "preço": null,
-                "descrição": ""
+                "preço": 520.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Niida Shizenshu Kan Atsure Kimoto Junmai",
-                "preço": null,
-                "descrição": ""
+                "preço": 460.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Guinjo ": [
             {
                 "nome": "Yamamoto Honke Mizuno Shirabe",
-                "preço": null,
-                "descrição": ""
+                "preço": 400.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hakutsuru Junmai Guinjo",
-                "preço": null,
-                "descrição": ""
+                "preço": 360.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Kikusui Junmai Guinjo",
-                "preço": null,
-                "descrição": ""
+                "preço": 760.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Koshi no Kabai Sai Junmai Guinjo",
-                "preço": null,
-                "descrição": ""
+                "preço": 510.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jozen Mizuno Gotoshi (Jozen White)",
-                "preço": null,
-                "descrição": ""
+                "preço": 1120.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Niida Shizenshu Junmai Guinjo",
-                "preço": null,
-                "descrição": ""
+                "preço": 550.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Takasago Junmai Taisetsu Ice Dome",
-                "preço": null,
-                "descrição": ""
+                "preço": 640.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Daiguinjo": [
             {
                 "nome": "Hakutsuru Daiguinjo Honjozo",
-                "preço": null,
-                "descrição": ""
+                "preço": 640.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Amanoto Junmai Daiguinjo",
-                "preço": null,
-                "descrição": ""
+                "preço": 360.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Dassai 45 Junmai Daiguinjo",
-                "preço": null,
-                "descrição": ""
+                "preço": 620.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hakutsuru \"Yamadaho\" Junmai Daiguinjo",
-                "preço": null,
-                "descrição": ""
+                "preço": 680.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Dassai 23 Junmai Daiguinjo",
-                "preço": null,
-                "descrição": ""
+                "preço": 1100.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Nigori": [
             {
                 "nome": "Hakutsuru Sayuri Nigori",
-                "preço": null,
-                "descrição": ""
+                "preço": 320.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Régua": [
             {
                 "nome": "Régua de sake",
-                "preço": null,
+                "preço": 60.0,
+                "informação-extra": null,
                 "descrição": "Honjozo / Junmai / Guinjo - 40ml cada"
             }
         ]
@@ -1275,42 +1513,50 @@
         "Whiskies Japoneses": [
             {
                 "nome": "Yamazaky single malt",
-                "preço": null,
+                "preço": 130.0,
+                "informação-extra": null,
                 "descrição": "O Yamazaki Whisky é o principal whisky single malt da Suntory, da primeira e mais antiga destilaria de malte do Japão. Com uma variedade de opções desde a Reserva do Destilador Yamazaki até 12, 18 e 25 anos, todos esses whiskies premiados contêm componentes cuidadosamente misturados envelhecidos em carvalho Mizunara americano, espanhol e japonês."
             },
             {
                 "nome": "Yamazaky 12 anos single malt",
-                "preço": null,
+                "preço": 160.0,
+                "informação-extra": null,
                 "descrição": "O Yamazaki Whisky é o principal whisky single malt da Suntory, da primeira e mais antiga destilaria de malte do Japão. Com uma variedade de opções desde a Reserva do Destilador Yamazaki até 12, 18 e 25 anos, todos esses whiskies premiados contêm componentes cuidadosamente misturados envelhecidos em carvalho Mizunara americano, espanhol e japonês."
             },
             {
                 "nome": "Hakushu single malt",
-                "preço": null,
+                "preço": 130.0,
+                "informação-extra": null,
                 "descrição": "Da destilaria da floresta montanhosa de Suntory, situada nas profundezas do Monte Kaikomagatake, o Suntory Single Malt Whisky Hakushu® é o whisky single malt suavemente esfumaçado com notas de ervas que é a revelação dos single malts japoneses."
             },
             {
                 "nome": "Hakushu 12 anos single malt",
-                "preço": null,
+                "preço": 160.0,
+                "informação-extra": null,
                 "descrição": "Da destilaria da floresta montanhosa de Suntory, situada nas profundezas do Monte Kaikomagatake, o Suntory Single Malt Whisky Hakushu® é um whisky single malt crocante e suavemente esfumaçado com notas de ervas que é a revelação dos single malts japoneses."
             },
             {
                 "nome": "Chita single grain",
-                "preço": null,
+                "preço": 100.0,
+                "informação-extra": null,
                 "descrição": "Continuando 40 anos de excelência na destilação de uísques de grãos japoneses na destilaria Chita, os Master Blenders da House of Suntory Whisky criaram um excelente uísque de grão único."
             },
             {
                 "nome": "Hibiki Harmony blend",
-                "preço": null,
+                "preço": 130.0,
+                "informação-extra": null,
                 "descrição": "Florescente e subtil, a n gama de whisky Hibiki celebra uma arte inigualável de mistura, artesanato fino e uma sensação"
             },
             {
                 "nome": "Kakubin blend",
-                "preço": null,
+                "preço": 100.0,
+                "informação-extra": null,
                 "descrição": "Suntory Whisky Kakubin é a base não apenas do Suntory Whisky, mas do próprio Whisky japonês. Kakubin é o nosso exclusivo whisky misturado abraçado por seus sabores e aromas exclusivamente japoneses acentuados com as principais notas de uísques de três destilarias – Yamazaki, Hakushu e Chita. Desde o seu lançamento em 1937, esta mistura distinta tem sido reverenciada como um clássico e continua a ser o whisky mais vendido do Japão."
             },
             {
                 "nome": "Régua de whisky",
-                "preço": null,
+                "preço": 130.0,
+                "informação-extra": null,
                 "descrição": "Chita single grain / Yamazaky single malt / Hibiki harmony blend - 20ml cada"
             }
         ]
@@ -1319,145 +1565,172 @@
         "Coquetéis Nakka": [
             {
                 "nome": "Plum • Cítrico e refrescante",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Vodka, grapefruit, Peychaud's bitters e soda artesanal de ameixa japonesa (xarope ácido natural)"
             },
             {
                 "nome": "Gimlet • Intenso",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Gin, yuzu e cordial de limão artesanal"
             },
             {
                 "nome": "Smoke On The Water • Frutado e defumado",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Bacardi 8 años, shrub de abacaxi, xarope de pipoca e whisky Laphroaig"
             },
             {
                 "nome": "Mexican Boy • Refrescante",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Tequila, calda de abacaxi, hortelã, ginger ale artesanal e angostura bitters"
             },
             {
                 "nome": "On The Wood • Frutado",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Sake, gin, calda de grapefruit com tangerina, espuma de melão e marshmallow maçaricado"
             },
             {
                 "nome": "Marmalade N 1 • Frutado",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Gin Tanqueray, marmelada de grapefruit com yuzu, capim limão e lichia"
             },
             {
                 "nome": "Tropical Julep • Frutado",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Whisky, hortelã, maracujá, suco verde e xarope de baunilha"
             },
             {
                 "nome": "Yuzu Sour (by Rubens Lima) • Umami",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Miyako dry, gin, yuzu, limão siciliano, licor de melão e folhas de hortelã"
             }
         ],
         "Old Is Cool": [
             {
                 "nome": "Bramble • Refrescante e frutado",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Gin, creme de amoras pretas artesanal e limão siciliano"
             },
             {
                 "nome": "Moscow Mule • Cítrico e refrescante",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "O famoso Moscow Mule com espuma desenvolvido por Marcelo Serrano, Vodka, ginger ale artesanal e espuma de gengibre"
             },
             {
                 "nome": "Cosmopolitan • Cítrico e equilibrado",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Vodka com infusão de cítricos, Cointreau, limão e suco de cranberry"
             },
             {
                 "nome": "Bloody Mary • Umami",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Vodka orgânica, suco de tomate artesanal e mix de temperos asiáticos"
             },
             {
                 "nome": "Penicillin • Cítrico e defumado",
-                "preço": "R$ 60,00",
+                "preço": 60.0,
+                "informação-extra": null,
                 "descrição": "Whisky, gengibre fresco, mel de laranjeira, Islay whisky e chá lapsang souchong"
             },
             {
                 "nome": "Fitzgerald • Cítrico e refrescante",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Gin, limão, xarope de açúcar e Angostura bitters"
             }
         ],
         "Gin e tônica ": [
             {
                 "nome": "Gin & tônica - tradicional",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Gin, água tônica e fatias de limão siciliano"
             },
             {
                 "nome": "Floral e amadeirado",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Flor de hibisco, frutas vermelhas, tônica e roiboos."
             },
             {
                 "nome": "Frutado",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Tangerina, earl Grey, manga e cranberry"
             },
             {
                 "nome": "Cítrico",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Gengibre, pepino, hortelã e limões"
             },
             {
                 "nome": "What's Up?",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Pergunte ao bartender sobre a infusão especial do dia"
             }
         ],
         "Caipirinhas": [
             {
                 "nome": "Caipirinha",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Mocktails": [
             {
                 "nome": "Frutado",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Morango, abacaxi, amora, tomilho e xarope de açúcar."
             },
             {
                 "nome": "Herbal",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Água com gás, hortelã, pepino, suco de limão e xarope de açúcar."
             },
             {
                 "nome": "Cosmoflower",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Suco de cranberry, xarope de hibisco e limão"
             },
             {
                 "nome": "G&T",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Infusão de zimbro, água tônica e grapefruit."
             },
             {
                 "nome": "Moscow Mule Virgin",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Ginger ale e espuma cítrica"
             },
             {
                 "nome": "Soda italiana",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Xarope de maçã verde ou romã e água com gás"
             },
             {
                 "nome": "Suco de tomate caseiro",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Suco de tomate com mix de temperos asiaticos"
             }
         ]
@@ -1466,85 +1739,101 @@
         "Cervejas": [
             {
                 "nome": "Stella Artois",
-                "preço": null,
-                "descrição": ""
+                "preço": 20.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Heineken",
-                "preço": null,
-                "descrição": ""
+                "preço": 20.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Corona",
-                "preço": null,
-                "descrição": ""
+                "preço": 20.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cerpa",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Praya",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sapporo",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Não Alcóolicos": [
             {
                 "nome": "Água mineral",
-                "preço": null,
+                "preço": 13.0,
+                "informação-extra": null,
                 "descrição": "Com ou sem gás"
             },
             {
                 "nome": "San Pellegrino",
-                "preço": null,
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Acqua Panna",
-                "preço": null,
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Refrigerantes",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco natural",
-                "preço": null,
-                "descrição": ""
+                "preço": 20.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá feel good",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá gelado de capim limão",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá gelado de hibisco com limão",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mate da casa",
-                "preço": null,
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Com limão, tangerina ou gengibre"
             },
             {
                 "nome": "Café Martins | Chá",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },

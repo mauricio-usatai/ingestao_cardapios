@@ -1,189 +1,202 @@
 {
-    "PRATADA DO DIA": {
-        "TERÇA-FEIRA": [
-            {
-                "nome": "ENTRADA: MACAXEIRA CROCANTE",
-                "preço": "",
-                "descrição": "Macaxeira suflada e frita com queijo do reino ralado. Crocante."
-            },
-            {
-                "nome": "PRINCIPAL: RUBACÃO DO FITÓ",
-                "preço": "R$ 79,00",
-                "descrição": "Prato típico dos sertões brasileiros. No Fitó ele é feito com arroz vermelho, feijão andu da Bahia, linguiça de carne de sol artesanal e carne bovina puxado na nata, pipoca de queijo coalho e finalizado com bastante cheiro verde. SERTÃO na boca."
-            },
-            {
-                "nome": "PRINCIPAL: RUBACÃO DO FITÓ VEGETARIANO",
-                "preço": "R$ 79,00",
-                "descrição": "Prato típico dos sertões brasileiros. No Fitó ele é feito com arroz vermelho, feijão undu da Bahia, com abóbora e cogumelos, finalizado com bastante cheiro verde. SERTÃO na boca."
-            }
-        ]
-    },
     "Menu Principal": {
         "Entradas": [
             {
                 "nome": "Macaxeira Crocante",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Delicie-se com esse petisco de macaxeira crocante. Feitos e moldados um a um com massa de mandioca cozida, queijo coalho e pimenta do reino, fritas perfeitamente até dourarem, finalizados com muito queijo do reino ralado. Uma entrada irresistível para começar uma refeição com sabor e textura únicos."
             },
             {
                 "nome": "Mujica de Siri",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Siri catado puxado com leite de coco, pasta de pimentas, tomate e coentro frescos. Acompanha farinha d'agua e vinagrete."
             },
             {
                 "nome": "Arrumadinho de Carne de Sol",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Pra começar. Nosso arrumadinho é uma homenagem as raízes da chef Cafira, feito com nossa carne de sol artesanal puxada na manteiga de garrafa com cebola roxa, acompanhada de macaxeira crocante, vinagrete de feijão fradinho com pimentas e farofa."
             },
             {
                 "nome": "Dadinho de Tapioca",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Tapioca e queijo coalho, servido com geleia de pimenta da casa. Não contém glúten. (8 unidades)"
             },
             {
                 "nome": "Salada Canastra",
-                "preço": "R$ 37,00",
+                "preço": 37.0,
+                "informação-extra": null,
                 "descrição": "Pra começar. Mix de folhas, queijo da canastra, castanha de caju torrada, tomate cereja, avinagrado de maxixe e molho à base de shrub (xarope concentrado de frutas, vinagre e açúcar)."
             },
             {
                 "nome": "Capitão",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Pra comer que nem quando se era pequeno. Do jeitinho que a vó fazia com as mãos. Feito do nosso baião de dois, acompanhado da coalhada seca da casa. (4 unidades)"
             },
             {
                 "nome": "Bolinho de Costela",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Feito com costela suína marinada e assada em baixa temperatura por 10h com especiarias, empanado na farinha Panko. Acompanha geleia de pimenta da casa. (6 unidades)"
             },
             {
                 "nome": "Bolinho de Caranguejo",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Bolinho de caranguejo sertanejo, vai bem com pimenta. Contém glúten Contém lactose Contém pimenta."
             },
             {
                 "nome": "Snack de Quiabos",
-                "preço": "R$ 38,00",
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Quiabos grelhados com azeite, servidos com molho de amendoim, mix de gergelim e limão siciliano."
             }
         ],
         "Principais": [
             {
                 "nome": "Creme de Galinha",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Um tesouro da culinária nordestina. Especialmente do Piauí e Ceará. Feito com galinha marinada em especiarias e cachaça, finalizada no leite de coco e milho verde. Acompanha arroz branco, tapenade de azeitonas e chips de mandioca artesanal feito aqui na casa. (Há Coentro)"
             },
             {
                 "nome": "Paçoca",
-                "preço": "R$ 93,00",
+                "preço": 93.0,
+                "informação-extra": null,
                 "descrição": "Experimentar essa delícia é sentir o sabor do Piauí. Feita de carne de sol desfiada, farinha de mandioca e cebola roxa. Com nosso baião de dois e tartar de banana da terra e tomate. Pedido indispensável quando se vem ao Fitó. Sim, nosso baião de dois tem coentro."
             },
             {
                 "nome": "Carne de Sol",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Chorizo curado na casa, selado na manteiga de garrafa, servido com baião de dois e vinagrete da casa. (Há Coentro)"
             },
             {
                 "nome": "Arroz de Kimchi Sertanejo com Linguiça de Carne de Sol",
-                "preço": "R$ 75,00",
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "Um pratão completo que mistura nordeste com Ásia. Feito de arroz integral e grão de bico puxados na maravilhosa versão sertaneja de kimchi feito no Fitó com repolhos verde e roxo, cenoura, cebola, coentro, pimentas de cheiro e dedo de moça, com toque de azeite de babaçu. Acompanha a suculenta linguiça artesanal de carne de sol e o nosso ovo perfeito, de gema mole."
             },
             {
                 "nome": "Arroz de Siri Catado",
-                "preço": "R$ 75,00",
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "Arroz integral, caranguejo e fava puxados no saboroso caldo de galinha do Fitó, finalizado com leite de coco e salpicado com rapadura, acompanhado de vinagrete e farofa caseira."
             },
             {
                 "nome": "Curry Mar e Terra",
-                "preço": "R$ 95,00",
+                "preço": 95.0,
+                "informação-extra": null,
                 "descrição": "Encorpado, cozido lentamente no leite de coco com nossa pasta de curry vermelha. A união perfeita entre mar e terra, trazendo o sabor do camarão curado e do copa lombo marinado, puxados com com grão de bico e incorporados no curry. Acompanha arroz com amendoim torrado e fica incrível com limão."
             },
             {
                 "nome": "Peixe Na Tapioca",
-                "preço": "R$ 93,00",
+                "preço": 93.0,
+                "informação-extra": null,
                 "descrição": "Filé de tilápia empanado, finalizado com com granulado de tapioca e manteiga de garrafa, servido com arroz de banana da terra puxado com base cremosa de moqueca baiana. Acompanha vinagrete de feijão fradinho e limão à francesa."
             },
             {
                 "nome": "Frango Assado com Baião",
-                "preço": "R$ 75,00",
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "O almoço de campeões. Nosso Frango Korin marinado na cachaça e especiarias por 12 horas e assado com tucupi preto e geleia de taperebá e especiarias. Completo porque tem nosso baião de dois, aquele típico do Piauí feito com arroz, feijão de corda, queijo coalho e coentro. Pra ficar melhor, a farofa de ovos."
             },
             {
                 "nome": "PF DO FITÓ",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Um PF perfeito pra você, feito do nosso jeito. Com nossa Milanesa - escolha entre Carne ou Frango - acompanhada de purê de cará, vinagrete de feijão fradinho com nossas ervas favoritas e pimentões, salada de folhas, temperadas com o molho limoneto da casa. Acompanha porção de arroz branco."
             }
         ],
         "Vegetarianos": [
             {
                 "nome": "Baião de Dois Vegetariano",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Arroz e feijão de corda, queijo coalho e coentro refogados na manteiga de garrafa. Acompanha legumes do sertão assados, nosso ovo caipira perfeito e vinagrete. (Há Coentro)."
             },
             {
                 "nome": "Curry Sertanejo Vegano",
-                "preço": "R$ 75,00",
+                "preço": 75.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Encorpado, cozido lentamente no leite de coco com nossa pasta de curry vermelha. Nossos legumes grelhados com cominho e azeite, cozidos no ponto certo e nosso grão de bico tostado, trazem um sabor especial para a composição do prato. Acompanha arroz com amendoim torrado e fica incrível com limão,"
             },
             {
                 "nome": "Arrumadinho Vegetariano",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Tudo que é gostoso e colorido num prato só. Salada fria com nossas folhas favoritas, legumes sertanejos, ovo caipira cozido e os avinagrados artesanais do Fitó. Acompanha 3 unidades do nosso croquete Capitão, feito do nosso baião de dois (arroz, feijão, queijo coalho e coentro) e coalhada da casa."
             },
             {
                 "nome": "Baião de Todas Vegano",
-                "preço": "R$ 87,00",
+                "preço": 87.0,
+                "informação-extra": null,
                 "descrição": "Versão vegana criada pelas chefs Cafira (Fitó) e Kátia Barbosa (Aconchego Carioca) para essa tradicional riqueza da cozinha brasileira de essência nordestina. Feita com feijão manteiguinha cozido no tucupi amarelo vindo da Amazônia, mini arroz, quiabo, palmito pupunha frito, tomate chamuscado e brotos de coentro. Cremoso e aromático."
             },
             {
                 "nome": "Creme de Abóbora",
-                "preço": "R$ 60,00",
+                "preço": 60.0,
+                "informação-extra": null,
                 "descrição": "Precisou do carinho da nossa comida? quer esquentar ?pede nosso creme de abóbora! finalizado com creme de leite fresco e cogumelos shimeji e paris refogados na manteiga, tem aquele beijo de pimenta de cheiro e coentro que são a cara do fitó. Acompanha biju de tapioca."
             }
         ],
         "Monte Seu Arrumadinho!": [
             {
                 "nome": "Ovo Caipira Frito",
-                "preço": "R$ 8,00",
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Queijo Coalho Grelhado",
-                "preço": "R$ 8,00",
+                "preço": 8.0,
+                "informação-extra": null,
                 "descrição": "Tudo fica ainda melhor com um queijo coalho grelhado. Com melaço."
             },
             {
                 "nome": "Farofa",
-                "preço": "R$ 8,00",
+                "preço": 8.0,
+                "informação-extra": null,
                 "descrição": "Uma farofinha sempre vai bem, viu?"
             },
             {
                 "nome": "Vinagrete",
-                "preço": "R$ 8,00",
+                "preço": 8.0,
+                "informação-extra": null,
                 "descrição": "O nosso é feito com cebola roxa, pimentões vermelho, amarelo e verde, avinagrado de jiló e maxixe, salsinha, coentro, azeite de oliva, azeite balsâmico e sal."
             },
             {
                 "nome": "Porção de Paçoca",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Não dá pra resistir a nossa paçoca de carne de sol feita na casa. Vai bem com tudo!"
             },
             {
                 "nome": "Porção de Baião de Dois",
-                "preço": "R$ 28,00",
+                "preço": 28.0,
+                "informação-extra": null,
                 "descrição": "O baião de dois do Fitó é uma maravilha feita com arroz, feijão de corda e queijo coalho.Com muito coentro! Confia!"
             },
             {
                 "nome": "Legumes Grelhados",
-                "preço": "R$ 16,00",
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Incremente sua refeição com nossos legumes grelhados: abóbora, beterraba, batata doce, quiabo e banana da terra."
             },
             {
                 "nome": "Biju",
-                "preço": "R$ 8,00",
+                "preço": 8.0,
+                "informação-extra": null,
                 "descrição": "Biju crocante de goma de tapioca."
             },
             {
                 "nome": "Porção de Creme de Galinha",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Quem não ama Creme de Galinha? Pede uma porção só pra ti!"
             }
         ]
@@ -192,32 +205,38 @@
         "Sobremesas": [
             {
                 "nome": "Bolo de Chocolate 70% Cacau",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Servido quentinho, pra te deixar com água na boca. Bem chocolatudo, servido com calda de cupuaçu, fruta típica da região norte. Combinação imperdível. Só confia!"
             },
             {
                 "nome": "Filhós de Doce de Leite e Cajá",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Sinta-se abraçado com esse bolinho meio de chuva, meio panqueca, de massa saborizada com amburana, coberto por doce de leite, calda de cajá, açúcar demerara e raspas de limão e laranja bahia. Contém glúten, contém lactose."
             },
             {
                 "nome": "Pavê dos Anjos",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Um dos preferidos de quem visita nossa casa, o pavê do anjos é composto por bolacha de leite, creme branco saborizado com amburana uma árvore nativa do sertão nordestino, e um delicioso ganache da casa, finalizado farofa de biscoito de chocolate artesanal."
             },
             {
                 "nome": "Flan de Coco",
-                "preço": "R$ 29,00",
+                "preço": 29.0,
+                "informação-extra": null,
                 "descrição": "Você vai ver: assim que começar a comer não dá pra parar. Feito com ovos caipiras orgânicos, leite integral e leite de coco, servido com calda de melaço de cana do Ceará."
             },
             {
                 "nome": "Pirangi",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Caju em compota feita na casa com especiarias, salpicado com xerém de castanha de caju."
             },
             {
                 "nome": "Peça um Espresso",
-                "preço": null,
+                "preço": 10.0,
+                "informação-extra": null,
                 "descrição": "Sua sobremesa fica melhor ainda acompanhada do nosso café especial natural, produzido em Patrocínio, Minas Gerais, na \"Fazenda Bom Jardim\". Aqui o grão é moído na hora!"
             }
         ]
@@ -226,229 +245,272 @@
         "Drinks Autorais": [
             {
                 "nome": "Banana Punch",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Gin super premium, banana nanica, abacaxi amburana e pimenta da jamaica. Clarificado no leite. Especiarias, frutado e adocicado."
             },
             {
                 "nome": "Mandinga",
-                "preço": "R$ 47,00",
+                "preço": 47.0,
+                "informação-extra": null,
                 "descrição": "Bitter italiano infusionado em frutas vermelhas e manjericão, cachaça branca e shrub de goiabada. Frutado, acidez leve, adocicado, levemente amargo e mágico!"
             },
             {
                 "nome": "Copacabana Club",
-                "preço": "R$ 47,00",
+                "preço": 47.0,
+                "informação-extra": null,
                 "descrição": "Bourbon de maçã verde, suco de uva, endro, suco de limão siciliano e xarope de açúcar. Fresco, cítrico e herbal."
             },
             {
                 "nome": "Cocais",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Vodka, rum de coco, limão siciliano e refrigerante de gengibre artesanal."
             },
             {
                 "nome": "Igarapé",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Cachaça armazenada em blend de carvalhos, amaro e shrub de banana da terra. Encorpado e ácido."
             },
             {
                 "nome": "Drama",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Cachaça armazenada em bálsamo e jaqueira, vermute seco e licor de laranja. Fresco, seco e herbal."
             },
             {
                 "nome": "Flora",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Cajuína, suco de limão e refrigerante de gengibre. Características: Cítrico, adocicado e refrescante."
             },
             {
                 "nome": "Irene",
-                "preço": null,
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Cachaça prata Mato Dentro, xarope de açúcar, suco de limão, infusão de hibisco com gengibre e espuma de maracujá com pimenta-rosa. Características: Cítrico e frutado"
             },
             {
                 "nome": "GAL",
-                "preço": "R$ 28,00",
+                "preço": 28.0,
+                "informação-extra": null,
                 "descrição": "Suco de uva branca integral, suco de limão, água de flor de laranjeira e aquafaba. Nesse coquetel cítrico e floral, usamos a aquafaba (água do cozimento do grão de bico) que vem da nossa cozinha para emulsificar e dar a cremosidade que você vai se surpreender."
             }
         ],
         "Drinks Clássicos e Afins": [
             {
                 "nome": "Bloody Mary",
-                "preço": null,
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Vodka, Suco de tomate, molho inglês vegano da casa, suco de limão e tabasco. Condimentado."
             },
             {
                 "nome": "Virgin Bloody Mary",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Suco de tomate, molho inglês vegano da casa, suco de limão e tabasco."
             },
             {
                 "nome": "Rabo de Galo no Barril!",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Cachaça armazenada em jequitibá rosa, vermute tinto e amaro. Coquetel descansado no barril de, também, jequitibá rosa. Amadeirado e encorpado."
             },
             {
                 "nome": "Coentro Smash",
-                "preço": null,
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Gin, suco de limão, xarope de açúcar e coentro! Cítrico."
             },
             {
                 "nome": "Gin Tônica",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Gin, tônica e limão."
             },
             {
                 "nome": "Paper Plane",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Whisky, aperol, amaro e suco de limão. Cítrico e encorpado."
             },
             {
                 "nome": "Dry Martini",
-                "preço": null,
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Gin, vermute branco seco e azeitona"
             },
             {
                 "nome": "Bee's Knees",
-                "preço": null,
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Gin, limão siciliano e xarope de mel de laranjeira. Cítrico e adocicado."
             },
             {
                 "nome": "Negroni",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Gin, vermute rosso e campari."
             },
             {
                 "nome": "Caju Amigo",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Compota de caju da casa, suco de limão e cajuína. Opção : Cachaça ou Vodka."
             },
             {
                 "nome": "Penicillin",
-                "preço": null,
+                "preço": 57.0,
+                "informação-extra": null,
                 "descrição": "Whisky turfado, limão siciliano, xarope de mel e extrato de gengibre."
             },
             {
                 "nome": "Macunaíma",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Cachaça branca Mato Dentro, bitter, xarope de açúcar e suco de limão."
             },
             {
                 "nome": "Boulevardier",
-                "preço": null,
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Whisky Bourbon, vermute rosso e campari."
             }
         ],
         "Bebidas": [
             {
                 "nome": "Sossega Lampião",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Maracujá em natura, xarope de mel e camomila, água com gás. Produção artesanal do Fitó."
             },
             {
                 "nome": "Soda Artesanal de Coentro",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Soda de coentro artesanal feita com seus talos e raízes gaseificada na casa."
             },
             {
                 "nome": "Cajuína",
-                "preço": null,
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Suco clarificado de caju, direto do Piauí."
             },
             {
                 "nome": "Mate Gelado",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Mate com limão e xarope de açúcar. Produção artesanal do Fitó."
             },
             {
                 "nome": "Limonada do Fitó",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Cordial de limão, xarope de açúcar e água com gás."
             },
             {
                 "nome": "Água",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Refrigerante Orgânico de Guaraná",
-                "preço": "R$ 16,00",
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "O Wewi Guaraná Orgânico é o primeiro refrigerante orgânico de guaraná do mundo! Ele tem aquele sabor que nos remete ao sabor de infância e, sem dúvida, é a bebida de guaraná mais saborosa do mercado. Só experimentando para saber! Refrigerante natural, livre de conservantes e aromas sintéticos Orgânico certificado. Livre de agrotóxicos Não transgênico. Zero sódio. Sem glúten. Vegano."
             },
             {
                 "nome": "Refrigerante Orgânico de Laranja",
-                "preço": "R$ 16,00",
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Wewi é um refrigerante orgânico feito com ingredientes naturais, sem conservante, sem sódio e sem adição de aromas artificiais. É produzido com açúcar demerara orgânico."
             }
         ],
         "Cervejas": [
             {
                 "nome": "Stella Artois Pure Gold",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Puro Malte, sem glúten. 350ml, lata."
             },
             {
                 "nome": "Chope Hoppy Lager",
-                "preço": "R$ 23,00",
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "A Hoppy Lager \"Vó Maria e seu lado Zen\" é uma cerveja leve e refrescante, com notas cítricas e frutadas, e amargor equilibrado. Servido em copo de 330 ml. Cervejaria Avós - SP"
             }
         ],
         "Caipirinhas & Caipvodkas": [
             {
                 "nome": "Especial de Tomate Cereja",
-                "preço": null,
+                "preço": 37.0,
+                "informação-extra": null,
                 "descrição": "Com limão tahiti, xarope de açúcar, pitada de sal e pimenta-do-reino.Escolha sua preferida! Cachaça ou Vodka ?"
             },
             {
                 "nome": "Tradicional de Limão",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Escolha sua preferida! Cachaça ou Vodka?"
             },
             {
                 "nome": "Especial de Caju com Limão",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Feita com caju, limão e rapadura. Escolha sua preferida: cachaça ou vodka?"
             }
         ],
         "Doses": [
             {
                 "nome": "Whisky Escocês Chivas Regal 18 anos",
-                "preço": null,
+                "preço": 77.0,
+                "informação-extra": null,
                 "descrição": "Chivas Brothers reuniu diversos whiskies envelhecidos, por no mínimo 18 anos, para criar o Chivas 18, um whisky diferenciado e contemporâneo. Cada gota do Chivas 18 anos proporciona 85 tipos de sabor e a experiência de uma descoberta a ser apreciada, tornando-o um whisky único. De cor âmbar escura e intensa, seu blend é harmônico, rico e suave. Possui aromas de frutas secas, especiarias e bala de leite, um paladar aveludado de chocolate escuro, notas florais e um toque defumado."
             },
             {
                 "nome": "Pure Malt Whisky Turfado Union Distillery",
-                "preço": null,
+                "preço": 66.0,
+                "informação-extra": null,
                 "descrição": "O Pure Malt Whisky Turfado é elaborado com Malt Whisky produzido nas destilarias da Union Distillery, fruto da destilação de variedades selecionadas de cevadas malteadas, turfadas."
             },
             {
                 "nome": "Whisky Bourbon Woodford Reserve",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Woodford Reserve é um Bourbon superpremium de extrema qualidade! Casa fundada em 1797 por Elijah Pepper, é a menor destilaria em Kentucky e a única que produz Bourbon em alambiques de cobre (pot stills), usando tripla destilação (comum também na Irlanda)."
             }
         ],
         "Cachaças": [
             {
                 "nome": "Harmonie Schnapps Amburana",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Leve e perfumada, aromas florais, adocicados e delicado defumado. Retrogosto marcante com especiarias. 2 anos na Amburana, Serra Gaúcha - RS"
             },
             {
                 "nome": "WiBA!",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Blend de carvalhos, uma combinação de cachaças envelhecidas em tonéis de carvalho americano com níveis de tostas variando de 1 a 4. Notas amadeiradas, baunilhadas e frutadas. 3 anos no carvalho, Torre de Pedra - SP"
             },
             {
                 "nome": "Canarinha",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Aromas de banana e especiarias, acidez marcante e álcool equilibrado. Retrogosto anestésico com notas de cravo e canela, 2 anos no bálsamo, Salinas - MG"
             },
             {
                 "nome": "Sanhaçu",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Untuosa, perfumada e marcante na amburana, remete à erva-doce e aromas frutados. De paladar quase que adocicado, é encorpada e envolvente, 2 anos na amburana, Chã Grande - PE"
             },
             {
                 "nome": "Experiência Trio Fitó",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Uma excelente experiência pra quem ama provar cachaças e harmonizar de um jeito bem especial. São 3 opções que acompanham muito bem um trio de petiscos do Fitó: Cachaça Canarinha, de Salinas - MG, envelhecida em Bálsamo + Capitão; Cachaça Wiba! envelhecida por 3 anos em blend de carvalhos + Bolinho de Costela; Cachaça Arbórea armazenada em barris de Amburana,Fazenda São João -MG + Bolinho de Caranguejo."
             }
         ]

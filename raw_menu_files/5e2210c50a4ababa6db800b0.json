@@ -3,51 +3,60 @@
         "Entradas": [
             {
                 "nome": "Mix de Folhas c/ Straciatella",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "c/ Geléia de Manga"
             },
             {
                 "nome": "Bruscheta de Salmão Gravlax",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "c/ Sour Cream e Alho Poró"
             }
         ],
         "Pratos Principais": [
             {
                 "nome": "PEIXE",
-                "preço": "R$ 78,00",
+                "preço": 78.0,
+                "informação-extra": null,
                 "descrição": "Tartare de Atum ou Salmão, Creme de Abacate, Edamame Temperado e Mix de Folhas"
             },
             {
                 "nome": "FRANGO",
-                "preço": "R$ 78,00",
+                "preço": 78.0,
+                "informação-extra": null,
                 "descrição": "Coxa e Sobrecoxa de Frango Sousvide, Polenta de Milho Crioulo e Salsa de Tomates"
             },
             {
                 "nome": "PORCO",
-                "preço": "R$ 78,00",
+                "preço": 78.0,
+                "informação-extra": null,
                 "descrição": "Copa Lombo a Milanesa, Mix de Folhas, Tomates Assados e Limão Siciliano"
             },
             {
                 "nome": "VEGAN",
-                "preço": "R$ 78,00",
+                "preço": 78.0,
+                "informação-extra": null,
                 "descrição": "DIP de Hommus de Beterraba, Legumes Grelhados do dia e Berinjela Assada c/ Mel e Avelãs"
             },
             {
                 "nome": "RISOTTO",
-                "preço": "R$ 78,00",
+                "preço": 78.0,
+                "informação-extra": null,
                 "descrição": "Risotto de Ervilhas, Guanciale e Gema Curada"
             }
         ],
         "Sobremesas": [
             {
                 "nome": "Fruta do dia (Mix)",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Manga, Melão e Abacaxi"
             },
             {
                 "nome": "Brownie de Chocolate c/ Avelã",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "c/ Ganache de Chocolate e Morango"
             }
         ]
@@ -56,168 +65,200 @@
         "Entradas Individuais": [
             {
                 "nome": "Salada de Roastbeef",
-                "preço": "R$ 41,00",
+                "preço": 41.0,
+                "informação-extra": null,
                 "descrição": "Mix de Folhas da estação, Roastbeef feito no sous vide, lascas de parmesão e molho cipriani."
             },
             {
                 "nome": "Sky Burger",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Burger de 160g de Blend de Angus com Queijo Mogiana, maionese de paprica picante e alface grelhado."
             },
             {
                 "nome": "Salada de pera glaceadas, ricota de búfala e pistache",
-                "preço": "R$ 41,00",
+                "preço": 41.0,
+                "informação-extra": null,
                 "descrição": "Mix de folhas, peras glaceadas, ricota de búfala almeida prado, pistache tostado e tomate confit."
             },
             {
                 "nome": "Sanduiche de Roastbeef",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Pão de Fermentação Natural do projeto Tartaruga, Roastbeef caseiro feito em sous vide, Rúcula Selvática, Tomate confit e Maionese de páprica"
             },
             {
                 "nome": "Taco Del Mar",
-                "preço": "R$ 60,00",
+                "preço": 60.0,
+                "informação-extra": null,
                 "descrição": "Tortilla de milho com tinta de lula, lula, polvo e camarão salteados com molho romesco."
             },
             {
                 "nome": "Couve Flor Assada (VGN)",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Couve Flor Dourada com azeite e temperos e finalizada com pesto a base de tomates secos"
             }
         ],
         "Para Compartilhar": [
             {
                 "nome": "Cesta de pães",
-                "preço": "R$ 17,00",
-                "descrição": ""
+                "preço": 17.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Trio de bruschettas",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Salmão Gravlax com sour cream e alho poró, boursin com uvas grelhadas e flor de laranjeira e Caprese com tomates confit e pesto caseiro."
             },
             {
                 "nome": "Arancini",
-                "preço": "R$ 57,00",
+                "preço": 57.0,
+                "informação-extra": null,
                 "descrição": "Prato tradicional italiano com risotto de funghi secchi com queijo, acompanha maionese de párica picante e pistache (5 unds)"
             },
             {
                 "nome": "Anéis de Cogumelo Eryngui (VEGN)",
-                "preço": "R$ 43,00",
+                "preço": 43.0,
+                "informação-extra": "Vegano",
                 "descrição": "Cogumelos Eryngui cozidos com algas e fritos acompanha aioli vegano de alho."
             },
             {
                 "nome": "Dadinho de tapioca",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Clássico dadinho de tapioca com geleia de pimenta."
             },
             {
                 "nome": "Croquetta de Linguiça",
-                "preço": "R$ 61,00",
+                "preço": 61.0,
+                "informação-extra": null,
                 "descrição": "Croqueta de linguiça de pernil com queijo camembert. Acompanha chutney de Maracujá.(05 unds)"
             },
             {
                 "nome": "Pastéis Especiais",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": null,
                 "descrição": "Ragout de cupim, Cogumelos trufados, Mussarela (09 unds)"
             },
             {
                 "nome": "SFC (Sky Fried Chicken)",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "Filé de coxa e peito empanados e fritos, acompanha muita cebolinha e molho tarê."
             },
             {
                 "nome": "Focaccia, Burrata, Tomate orgânico e Pesto",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": null,
                 "descrição": "Carpaccio de tomate orgânico, burrata Almeida Prado, pesto e focaccia tostada."
             },
             {
                 "nome": "Camembert, Pêra Glaceada e Castanha de Baru",
-                "preço": "R$ 78,00",
+                "preço": 78.0,
+                "informação-extra": null,
                 "descrição": "Camembert assado com massa filó, pêra glaceada e crocante de castanha de baru"
             },
             {
                 "nome": "Carpaccio de Gravlax, Coalhada Caseira e Azeite de Dill",
-                "preço": "R$ 93,00",
+                "preço": 93.0,
+                "informação-extra": null,
                 "descrição": "Carpaccio de salmão curado com coalhada seca caseira e azeite de dill. acompanha pães."
             },
             {
                 "nome": "Gambas al Ajillo",
-                "preço": "R$ 98,00",
+                "preço": 98.0,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Camaroes rosa ao forno com azeite e muito alho. (05 unds)"
             },
             {
                 "nome": "Taglieri",
-                "preço": "R$ 135,00",
+                "preço": 135.0,
+                "informação-extra": null,
                 "descrição": "Seleção mista de queijos e embutidos especiais. Consulte nossos atendentes para as opções do dia."
             }
         ],
         "Pratos Principais": [
             {
                 "nome": "Parmegiana de Wagyu",
-                "preço": "R$ 96,00",
+                "preço": 96.0,
+                "informação-extra": null,
                 "descrição": "Steak de Wagyu empanada e frita com molho de tomates tostados, queijo mogiano paulista, bechamel e fritas com alho e salsinha"
             },
             {
                 "nome": "STEAK WAGYU Grelhado",
-                "preço": "R$ 99,00",
+                "preço": 99.0,
+                "informação-extra": null,
                 "descrição": "Vacío de raça Japonesa, arroz piamontês com seleção de cogumelos trufados."
             },
             {
                 "nome": "Salmão Unilateral, Iogurte e Brócolis Tostado",
-                "preço": "R$ 96,00",
+                "preço": 96.0,
+                "informação-extra": null,
                 "descrição": "Salmão Grelhado em técnica francesa, molho de iogurte com dill e curry, brocolis tostado com azeite de pepperoncino."
             },
             {
                 "nome": "Cupim, Polenta Bramata e Farofa de Pão Artesanal",
-                "preço": "R$ 92,00",
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Cupim Braseado por 12h com polenta bramata, parmigiano reggiano e farofa de pão de fermentação natural."
             },
             {
                 "nome": "Atum em crosta e salada de avocado",
-                "preço": "R$ 92,00",
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Atum selado em crosta de gergelim e chá mate com salada de avocado, tomates e amendoas."
             },
             {
                 "nome": "Risotto de Morango com tartare de Vieira",
-                "preço": "R$ 92,00",
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Prato que fez nosso chef Martin Casilli entrar no Masterchef em 2014."
             },
             {
                 "nome": "Spaghetti alla Carbonara",
-                "preço": "R$ 74,00",
+                "preço": 74.0,
+                "informação-extra": null,
                 "descrição": "Massa Clássica Italiana al dente com creme de ovos com pecorino, parmigiano reggiano e pimenta do reino e guanciale."
             },
             {
                 "nome": "Risotto di Zucchine, Hortelã e Pistache",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "Risotto de Arroz Carnaroli, abobrinha tostada, hortelã e pistache, finalizado com quenelle de creme de burrata."
             },
             {
                 "nome": "Gnocchi com Fonduta",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Gnocchi de batatas, fonduta de Queijo Lua Cheia e Farofa de Pão Artesanal com Pistache"
             },
             {
                 "nome": "Arroz de sobrasada, Polvo grelhado e Gremolata",
-                "preço": "R$ 138,00",
+                "preço": 138.0,
+                "informação-extra": null,
                 "descrição": "Arroz arbóreo hidratado com pasta de tomates tostados, Embutido Espanhol Fuet, Polvo grelhado e gremolata."
             },
             {
                 "nome": "Risotto ai Gamberi",
-                "preço": "R$ 88,00",
+                "preço": 88.0,
+                "informação-extra": null,
                 "descrição": "Risotto de arroz carnaroli com camarões rosa em 3 versões: grelhados, bisque e tartare."
             },
             {
                 "nome": "Moqueca De Banana Da Terra (VEGN)",
-                "preço": "R$ 53,00",
+                "preço": 53.0,
+                "informação-extra": "Vegano",
                 "descrição": "Moqueca de Banana da Terra c/ Pimentões, Azeite de Dendê, Leite de Côco. Acompanha Arroz Pilaf e Farofa de Pistache"
             }
         ],
         "Opção Kids": [
             {
                 "nome": "Prato infantil",
-                "preço": "R$ 58,00",
+                "preço": 58.0,
+                "informação-extra": null,
                 "descrição": "Macarrão al sugo ou na manteiga com Peito de frango empanado e frito."
             }
         ]
@@ -226,179 +267,212 @@
         "Para Iniciar": [
             {
                 "nome": "Pão de Queijo Artesanal",
-                "preço": "R$ 29,00",
+                "preço": 29.0,
+                "informação-extra": null,
                 "descrição": "02 Unidades (100 grs cada)"
             },
             {
                 "nome": "Cesta de Pães",
-                "preço": "R$ 17,00",
+                "preço": 17.0,
+                "informação-extra": null,
                 "descrição": "c/ Manteiga e Geléia"
             }
         ],
         "Para Compartilhar": [
             {
                 "nome": "Carpaccio de tomate orgânico, Burrata, Pesto e Focaccia",
-                "preço": "R$ 79,00",
-                "descrição": ""
+                "preço": 79.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Taglieri",
-                "preço": "R$ 135,00",
+                "preço": 135.0,
+                "informação-extra": null,
                 "descrição": "Seleção mista de queijos e embutidos especiais. Consulte nossos atendentes para as opções do dia."
             },
             {
                 "nome": "Dadinho de Tapioca",
-                "preço": "R$ 59,00",
-                "descrição": ""
+                "preço": 59.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Tartines & Outros": [
             {
                 "nome": "Avocado e Cogumelos (VEGAN)",
-                "preço": "R$ 38,00",
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Quiche de Lorraine",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Creme de Leite, Ovos e Bacon"
             },
             {
                 "nome": "Quiche de Cogumelos",
-                "preço": "R$ 48,00",
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ovos Benedict",
-                "preço": "R$ 48,00",
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ovos Royale",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "c/ Salmão Gravlax"
             },
             {
                 "nome": "Duo de Ovo Cozidos Perfeitos com Cogumelos salteados",
-                "preço": "R$ 32,00",
-                "descrição": ""
+                "preço": 32.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sandubas": [
             {
                 "nome": "Bagel Gravlax",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Bagel Caseiro, Dill, Salmão Gravlax, Cebola Roxa, Alcaparras e Cream Cheese"
             },
             {
                 "nome": "Bagel Cream Cheese",
-                "preço": "R$ 38,00",
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Bagel Caseiro, Cream Cheese, Tomate Confit, Cebolinha e Cebola Roxa"
             },
             {
                 "nome": "Queijo Quente",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Mogiana, Mussarela, Fontina"
             },
             {
                 "nome": "Misto Quente",
-                "preço": "R$ 37,00",
+                "preço": 37.0,
+                "informação-extra": null,
                 "descrição": "Mogiana, Mussarela e Jamon"
             },
             {
                 "nome": "Cupim Chapeado",
-                "preço": "R$ 38,00",
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Ragu de Cupim na Chapa c/ Queijo Mogiana, manjericão e tomate confit, cebola e pimentões fatiados"
             },
             {
                 "nome": "Pernil",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Pernil, Queijo Mussarela e Maionese Dijon"
             },
             {
                 "nome": "Croque Madame",
-                "preço": "R$ 48,00",
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cuscuz": [
             {
                 "nome": "Cuscuz Nordestino, Queijo Coalho e Ovo Estrelado.",
-                "preço": "R$ 38,00",
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Principais": [
             {
                 "nome": "Gnocchi com Fonduta",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Gnocchi de batatas, fonduta de Queijo Lua Cheia e Farofa de Pão Artesanal com Pistache"
             },
             {
                 "nome": "Cupim, Polenta Bramata e Farofa de Pão Artesanal",
-                "preço": "R$ 92,00",
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Cupim Braseado por 12h com polenta bramata, parmigiano reggiano e farofa de pão de fermentação natural."
             },
             {
                 "nome": "Salmão Unilateral, Iogurte e Brócolis Tostado",
-                "preço": "R$ 96,00",
+                "preço": 96.0,
+                "informação-extra": null,
                 "descrição": "Salmão Grelhado em técnica francesa, molho de iogurte com dill e curry, brocolis tostado com azeite de pepperoncino."
             },
             {
                 "nome": "Moqueca De Banana Da Terra (VEGN)",
-                "preço": "R$ 53,00",
+                "preço": 53.0,
+                "informação-extra": "Vegano",
                 "descrição": "Moqueca de Banana da Terra c/ Pimentões, Azeite de Dendê, Leite de Côco. Acompanha Arroz Pilaf e Farofa de Pistache"
             },
             {
                 "nome": "Risotto de Cogumelos",
-                "preço": "R$ 69,00",
-                "descrição": ""
+                "preço": 69.0,
+                "informação-extra": "Vegano",
+                "descrição": null
             }
         ],
         "Dessert ": [
             {
                 "nome": "Waffle de Liege c/ Doce de Leite, Banana, Flor de Sal e Canela",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brioche, Morango e Ganache de Chocolate",
-                "preço": "R$ 35,00",
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brioche, Banana e Ganache de Chocolate",
-                "preço": "R$ 34,00",
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Seleção de Frutas",
-                "preço": "R$ 30,00",
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cookie Chocolate",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "01 Unidade - Cookie de Chocolate c/ Gotas de Chocolate"
             },
             {
                 "nome": "Cookie Chocolate - Duplo",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "02 Unidades - Cookie de Chocolate c/ Gotas de Chocolate"
             },
             {
                 "nome": "Brownie de Chocolate",
-                "preço": "R$ 28,00",
-                "descrição": ""
+                "preço": 28.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolo de Cenoura",
-                "preço": "R$ 28,00",
+                "preço": 28.0,
+                "informação-extra": null,
                 "descrição": "c/ Ganache de Chocolate"
             },
             {
                 "nome": "Verrine de Frutas Vermelhas",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "c/ Iogurte e Granola"
             }
         ]
@@ -407,17 +481,20 @@
         "Promoções ": [
             {
                 "nome": "Combo Porções",
-                "preço": "R$ 113,00",
+                "preço": 113.0,
+                "informação-extra": null,
                 "descrição": "Escolha 3 das opções a seguir. 1- Dadinho de Tapioca com Geleia de Pimenta. 2- Trio de Bruschettas (Salmão, Boursin e Caprese.) *Sem alterações* 3- Pastéis Variados ( Mussarela, Cogumelos, e Ragout de Cupim.) 4- SFC (Sky Hall Fried Chicken)"
             },
             {
                 "nome": "Double Long Neck",
-                "preço": null,
+                "preço": 21.0,
+                "informação-extra": null,
                 "descrição": "Coronita, Corona Zero, Stella, Becks, ou Stella Gold (sem gluten), Spaten"
             },
             {
                 "nome": "Promo Drinks (Escolha 1)",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Rubia, Aperol Spritz, Mojito, GT Tradicional, GT Saborizadas: Mel e Jambu e Cítrica com Capim e Limão."
             }
         ]
@@ -426,27 +503,32 @@
         "Para Adoçar": [
             {
                 "nome": "Mousse de chocolate vegano",
-                "preço": "R$ 26,00",
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Mousse vegana de chocolate com café e amêndoas tostadas"
             },
             {
                 "nome": "Creme Brulée de Castanha de Caju",
-                "preço": "R$ 30,00",
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Creme Brulée com creme a base de pasta de castanha de caju, acompanha frutas vermelhas."
             },
             {
                 "nome": "Tarta De Queso com Compota de Laranja, whisky e manjericão roxo.",
-                "preço": "R$ 30,00",
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Tarta de Queso Basca com Compota de Laranja."
             },
             {
                 "nome": "Brioche, Ganache, Banana",
-                "preço": "R$ 34,00",
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "Massa de Brioche caseira tostada com cremeux de chocolate e banana ouro"
             },
             {
                 "nome": "Torta Caprese",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Torta clássica italiana de amêndoas com cacau. Em nossa versão, usamos cerejas amarenas e mascarpone."
             }
         ]
@@ -455,12 +537,14 @@
         "Produtos Sky Hall": [
             {
                 "nome": "Manta Sky",
-                "preço": null,
-                "descrição": ""
+                "preço": 70.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Boné Sky",
-                "preço": null,
+                "preço": 70.0,
+                "informação-extra": null,
                 "descrição": "Boné confeccionado em Algodão com Poliéster preto com logo do Sky Hall Bordado."
             }
         ]
@@ -469,134 +553,159 @@
         "Sem álcool, mas não sem graça": [
             {
                 "nome": "Acalmomila",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Laranja, maracujá, xarope de camomila capim limão e limão taiti"
             },
             {
                 "nome": "Clever Club",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Chá de frutas silvestres, frutas vermelhas, limão taiti, albumina"
             },
             {
                 "nome": "Passeio no parque",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Frutas vermelhas, maracujá e xarope de cardamomo e limão"
             },
             {
                 "nome": "Pineaple Baby",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Abacaxi, falernum, hortelã e limão"
             },
             {
                 "nome": "Honey B",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Abacaxi, earl grey, xarope de mel e limão siciliano"
             },
             {
                 "nome": "Fig Peasy",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Compota de figo, albumina e limão taiti"
             },
             {
                 "nome": "Ginger Ale",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Refri artesanal de gengibre"
             }
         ],
         "Refrescos": [
             {
                 "nome": "Maracujá Com Manjericão",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mate gelado",
-                "preço": null,
+                "preço": 13.0,
+                "informação-extra": null,
                 "descrição": "Chá mate com Cordial de limão ou pêssego."
             },
             {
                 "nome": "Suco Natural de Laranja",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Limonada",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Tradicional, Gengibre e Gaisseficada."
             },
             {
                 "nome": "Limonada da Horta",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Capim Limão e xarope de açúcar."
             },
             {
                 "nome": "Cranberry",
-                "preço": null,
-                "descrição": ""
+                "preço": 17.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Limonada De Coco",
-                "preço": null,
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Leite de Coco, Cordial de Limão e Limão Taiti"
             },
             {
                 "nome": "Água da Jamaica",
-                "preço": null,
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Chá gelado a base de hibisco, gengibre, pimenta da Jamaica e canela."
             }
         ],
         "Não alcoólicos": [
             {
                 "nome": "Água",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Com ou sem gás"
             },
             {
                 "nome": "Refrigerantes",
-                "preço": null,
+                "preço": 11.0,
+                "informação-extra": null,
                 "descrição": "Pepsi | Guaraná | Guaraná Zero e Pepsi zero"
             },
             {
                 "nome": "Tônica/Tônica zero",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Redbull",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Tradicional, Melancia ou Tropical"
             }
         ],
         "Café": [
             {
                 "nome": "Carioca",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Macchiato",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café Coado",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chás Orgânicos",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cappuccino",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café Expresso",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -604,1105 +713,1317 @@
         "Cocktails Autorais": [
             {
                 "nome": "Antusa",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Vodka, licor Saint Germain, uvas verdes e purê de maçã verde."
             },
             {
                 "nome": "Basilisco",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Gin, vermouth seco, manjericão, xarope de capim limão e Melissa."
             },
             {
                 "nome": "Black Stag",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Jägermeister, rum escuro, abacaxi e vermouth italiano."
             },
             {
                 "nome": "Rúbia",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Gin, frutas vermelhas, maracujá e xarope de cardamomo."
             },
             {
                 "nome": "Melissa",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Gin, tangerina, xarope de mel com camomila, limão e cordial cítrico de própolis."
             },
             {
                 "nome": "Cosmonauta",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Vodka cítrica, licor de laranja, cordial de pitanga e acerola e limão."
             },
             {
                 "nome": "Passarinho",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Cachaça, acerola, cordial de tangerina e herbes de Provence, limão e bitters"
             },
             {
                 "nome": "Popstar Martini",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Vodka com Baunilha, Maracujá, Amareto, Pipoca e Limão."
             },
             {
                 "nome": "Gin Gin Mule",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Gin, refrigerante de gengibre com cardamomo e capim limão, hortelã e espuma de hortelã. (gaseificado)"
             }
         ],
         "Cocktails Clássicos": [
             {
                 "nome": "Aperol Spritz",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Boulevardier",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Whiskey Bourbon, Vermouth Tinto e Campari"
             },
             {
                 "nome": "Caipirinha Cachaça",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Sabores: Abacaxi, Frutas vermelhas, Limão, Maracujá"
             },
             {
                 "nome": "Capisake",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Caipiroska Sobieski",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Sabores: Abacaxi, Frutas vermelhas, Limão, Maracujá"
             },
             {
                 "nome": "Cosmopolitan",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Clover Club",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Daiquiri",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Dry Martini",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Espresso Martini",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Vodka, licor de café e café espresso"
             },
             {
                 "nome": "Fitzgerald",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Gin Single Fin, açúcar, limão e bitters aromático"
             },
             {
                 "nome": "Gin Fizz",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Kir Royal",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mojito",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Rum claro, limão, hortelã e água com gás"
             },
             {
                 "nome": "Moscow Mule",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Vodka, refrigerante de gengibre e espuma de gengibre"
             },
             {
                 "nome": "Margarita",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Tequila, licor de laranja, limão e crusta de flor de sal"
             },
             {
                 "nome": "Negroni",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Gin Single Fin, Campari e Vermouth Tinto"
             },
             {
                 "nome": "Old Fashioned",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Whiskey Bourbon, açúcar e bitters aromático"
             },
             {
                 "nome": "Pina Colada",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Penicillin",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Whisky escocês, gengibre, mel, limão e tintura de islay whisky com lapsang souchong"
             },
             {
                 "nome": "Pisco Sour",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Pisco, açúcar, limão e bitters aromático"
             },
             {
                 "nome": "Whiskey Sour",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Whiskey Bourbon, açúcar, limão e bitters aromático"
             },
             {
                 "nome": "Bloody Mary",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Vodka, suco de tomate, limão, mix de temperos e salsão e bacon"
             },
             {
                 "nome": "Jarra de Clericot",
-                "preço": null,
-                "descrição": ""
+                "preço": 154.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Manhattan",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Whiskey Bourbon, vermouth tinto, bitters aromático e cereja amarena"
             },
             {
                 "nome": "Long Island",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jungle Bird",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Rum escuro, abacaxi, Campari e limão"
             },
             {
                 "nome": "Mark Twain",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Whisky escocês, açúcar, limão e bitters aromático"
             },
             {
                 "nome": "Basil Smash",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Gin, manjericão, açúcar e limão"
             },
             {
                 "nome": "Hanky Panky",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Gin, Vermouth tinto e Fernet Branca"
             },
             {
                 "nome": "Rabo de Galo",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Cachaça, Vermouth tinto e Cynar"
             },
             {
                 "nome": "50/50",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Gin Single Fin, Vermouth seco e azeitonas"
             },
             {
                 "nome": "Paper Plane",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Whiskey Bourbon, Aperol, amaro e limão"
             },
             {
                 "nome": "Corpse Reviver N2",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Gin Single Fin, lillet blanc, licor de laranja e limão"
             },
             {
                 "nome": "Old Cuban",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Rum escuro, hortelã, limão, bitters e espumante"
             },
             {
                 "nome": "Caipirinha Sake",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Sabores: Abacaxi, Frutas vermelhas, Limão, Maracujá"
             },
             {
                 "nome": "Bitter Giuseppe",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Vermouth rosso, Cynar, limão e bitters de laranja"
             },
             {
                 "nome": "Carajillo",
-                "preço": null,
+                "preço": 65.0,
+                "informação-extra": null,
                 "descrição": "Licor 43 e café espresso"
             },
             {
                 "nome": "Vesper Martini",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Gin Single Fin, vodka e Lillet"
             },
             {
                 "nome": "Martinez",
-                "preço": null,
+                "preço": 65.0,
+                "informação-extra": null,
                 "descrição": "Gin Single Fin, vermouth tinto, maraschino e bitters aromático"
             },
             {
                 "nome": "Macunaíma",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Cachaça, limão, açúcar e fernet branca"
             },
             {
                 "nome": "Dirty Martini",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Gin, vermouth seco, salmoura de azeitona e azeitona"
             },
             {
                 "nome": "Torre de Aperol",
-                "preço": null,
-                "descrição": ""
+                "preço": 220.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Torre de Aperol",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Valor promocional, válido somente para clientes com Reserva."
             },
             {
                 "nome": "Caju Amigo",
-                "preço": null,
+                "preço": 54.0,
+                "informação-extra": null,
                 "descrição": "Cachaça, compota de caju e suco de caju"
             },
             {
                 "nome": "Paloma",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Tequila, refrigerante de toranja com hibisco e sal apimentado (gaseificado)."
             }
         ],
         "Gin & Tonica": [
             {
                 "nome": "Tanqueray",
-                "preço": null,
-                "descrição": ""
+                "preço": 47.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bombay",
-                "preço": null,
-                "descrição": ""
+                "preço": 44.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beefeater",
-                "preço": null,
-                "descrição": ""
+                "preço": 46.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beefeater 24",
-                "preço": null,
-                "descrição": ""
+                "preço": 60.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beefeater Pink",
-                "preço": null,
-                "descrição": ""
+                "preço": 52.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hendrick's",
-                "preço": null,
-                "descrição": ""
+                "preço": 84.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Martin Millers",
-                "preço": null,
-                "descrição": ""
+                "preço": 84.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Monkey 47",
-                "preço": null,
-                "descrição": ""
+                "preço": 131.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Citadelle",
-                "preço": null,
-                "descrição": ""
+                "preço": 65.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gordons",
-                "preço": null,
-                "descrição": ""
+                "preço": 47.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tradicional",
-                "preço": null,
-                "descrição": ""
+                "preço": 44.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "G&T Saborizadas": [
             {
                 "nome": "Gin & Red Bull Melancia",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gin & Red Bull Tropical",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Maracujá, Mel e Jambu",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Gin Beerita saborizado com jambu e mel, sumo de maracujá e tônica"
             },
             {
                 "nome": "G&T Citrica com Capim Limão",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cervejas": [
             {
                 "nome": "Beck's",
-                "preço": null,
-                "descrição": ""
+                "preço": 21.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Stella Artois",
-                "preço": null,
-                "descrição": ""
+                "preço": 17.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Stella Artois Pure Gold",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Spaten",
-                "preço": null,
-                "descrição": ""
+                "preço": 20.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coronita 210ml",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Corona Zero",
-                "preço": null,
-                "descrição": ""
+                "preço": 20.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "IPA PATAGONIA",
-                "preço": null,
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Combos ": [
             {
                 "nome": "Red Bull 04 unidades + Frutas",
-                "preço": null,
+                "preço": 88.0,
+                "informação-extra": null,
                 "descrição": "(Tradicional, Melância e Tropical)"
             },
             {
                 "nome": "Refrigerantes",
-                "preço": null,
+                "preço": 60.0,
+                "informação-extra": null,
                 "descrição": "6 (unidades) + frutas"
             }
         ],
         "Garrafas  -  Whisky": [
             {
                 "nome": "Johnnie Walker Black Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 546.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Johnnie Walker Double Black",
-                "preço": null,
-                "descrição": ""
+                "preço": 620.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Johnnie Walker Green Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 1260.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Johnnie Walker Gold Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 680.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chivas 12 Anos",
-                "preço": null,
-                "descrição": ""
+                "preço": 441.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ballantine's 12 anos",
-                "preço": null,
-                "descrição": ""
+                "preço": 442.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ballantine's 17 anos",
-                "preço": null,
-                "descrição": ""
+                "preço": 1260.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "GlenfiddIch 12",
-                "preço": null,
-                "descrição": ""
+                "preço": 1260.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Glenfiddich 15",
-                "preço": null,
-                "descrição": ""
+                "preço": 1785.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Glenfiddich 18",
-                "preço": null,
-                "descrição": ""
+                "preço": 3045.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jack Daniels",
-                "preço": null,
-                "descrição": ""
+                "preço": 475.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jim Beam",
-                "preço": null,
-                "descrição": ""
+                "preço": 378.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jameson",
-                "preço": null,
-                "descrição": ""
+                "preço": 399.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bulleit Bourbon",
-                "preço": null,
-                "descrição": ""
+                "preço": 452.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fireball",
-                "preço": null,
-                "descrição": ""
+                "preço": 315.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Makers Mark",
-                "preço": null,
-                "descrição": ""
+                "preço": 630.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Old Par",
-                "preço": null,
-                "descrição": ""
+                "preço": 472.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cardhu 12 anos",
-                "preço": null,
-                "descrição": ""
+                "preço": 1400.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Laphroaig 10",
-                "preço": null,
-                "descrição": ""
+                "preço": 1102.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Johnnie Walker Blue Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 3255.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Garrafas - Gin ": [
             {
                 "nome": "Nordés",
-                "preço": null,
+                "preço": 535.0,
+                "informação-extra": null,
                 "descrição": "Gin Espanhol a base de uva duplamente filtrado"
             },
             {
                 "nome": "Bombay",
-                "preço": null,
-                "descrição": ""
+                "preço": 409.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beefeater",
-                "preço": null,
-                "descrição": ""
+                "preço": 367.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beefeater 24",
-                "preço": null,
-                "descrição": ""
+                "preço": 504.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beefeater Pink",
-                "preço": null,
-                "descrição": ""
+                "preço": 409.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tanqueray",
-                "preço": null,
-                "descrição": ""
+                "preço": 400.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hendricks",
-                "preço": null,
-                "descrição": ""
+                "preço": 525.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Monkey 47",
-                "preço": null,
-                "descrição": ""
+                "preço": 840.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gordons",
-                "preço": null,
-                "descrição": ""
+                "preço": 320.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Martin Miller's",
-                "preço": null,
-                "descrição": ""
+                "preço": 525.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tanqueray Ten",
-                "preço": null,
-                "descrição": ""
+                "preço": 630.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Citadelle",
-                "preço": null,
-                "descrição": ""
+                "preço": 480.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Garrafas - Vodkas ": [
             {
                 "nome": "Absolut",
-                "preço": null,
-                "descrição": ""
+                "preço": 409.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Absolut Extrakt",
-                "preço": null,
-                "descrição": ""
+                "preço": 409.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Absolut Elyx",
-                "preço": null,
-                "descrição": ""
+                "preço": 1180.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ciroc",
-                "preço": null,
+                "preço": 504.0,
+                "informação-extra": null,
                 "descrição": "Tradicional."
             },
             {
                 "nome": "Grey Goose",
-                "preço": null,
+                "preço": 580.0,
+                "informação-extra": null,
                 "descrição": "Tradicional."
             },
             {
                 "nome": "Ketel One",
-                "preço": null,
-                "descrição": ""
+                "preço": 409.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Garrafas- Cachaças": [
             {
                 "nome": "Porto do Vianna",
-                "preço": null,
+                "preço": 189.0,
+                "informação-extra": null,
                 "descrição": "Tradicional ou Premium"
             },
             {
                 "nome": "Cachaça Porto do Vianna 54%",
-                "preço": null,
-                "descrição": ""
+                "preço": 230.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Leblon",
-                "preço": null,
-                "descrição": ""
+                "preço": 400.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Leblon Signature",
-                "preço": null,
-                "descrição": ""
+                "preço": 304.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Yaguara",
-                "preço": null,
+                "preço": 189.0,
+                "informação-extra": null,
                 "descrição": "Orgânica"
             }
         ],
         "Garrafas- Tequilas": [
             {
                 "nome": "José Cuervo Reposado",
-                "preço": null,
-                "descrição": ""
+                "preço": 480.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "José Cuervo Silver",
-                "preço": null,
-                "descrição": ""
+                "preço": 273.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Patron Silver",
-                "preço": null,
-                "descrição": ""
+                "preço": 700.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Patron Reposada",
-                "preço": null,
-                "descrição": ""
+                "preço": 900.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Garrafas- Diversas": [
             {
                 "nome": "Licor 43",
-                "preço": null,
-                "descrição": ""
+                "preço": 493.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jägermeister",
-                "preço": null,
-                "descrição": ""
+                "preço": 400.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Appleton State",
-                "preço": null,
-                "descrição": ""
+                "preço": 945.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sake Cho Karakuchi",
-                "preço": null,
-                "descrição": ""
+                "preço": 630.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gabriel Boudier",
-                "preço": "R$ 535,00",
-                "descrição": ""
+                "preço": 535.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Baileys",
-                "preço": null,
-                "descrição": ""
+                "preço": 367.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bacardi 10 anos",
-                "preço": null,
-                "descrição": ""
+                "preço": 1155.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Drambuie",
-                "preço": null,
-                "descrição": ""
+                "preço": 525.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chambord",
-                "preço": null,
-                "descrição": ""
+                "preço": 420.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Caravella Limoncello",
-                "preço": null,
-                "descrição": ""
+                "preço": 525.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Campari",
-                "preço": null,
-                "descrição": ""
+                "preço": 257.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Doses- Whisky": [
             {
                 "nome": "Old Parr",
-                "preço": null,
-                "descrição": ""
+                "preço": 44.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Johnnie Walker Black Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 44.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Johnnie Walker Double Black",
-                "preço": null,
-                "descrição": ""
+                "preço": 60.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chivas 12",
-                "preço": null,
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ballantine's 12",
-                "preço": null,
-                "descrição": ""
+                "preço": 59.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ballantine's 17",
-                "preço": null,
-                "descrição": ""
+                "preço": 142.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Johnnie Walker Green Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 138.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Johnnie Walker Blue Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 386.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cardhu 12",
-                "preço": null,
-                "descrição": ""
+                "preço": 124.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Glenfiddich 12",
-                "preço": null,
-                "descrição": ""
+                "preço": 138.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Glenfiddich 15",
-                "preço": null,
-                "descrição": ""
+                "preço": 210.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Glenfiddich 18",
-                "preço": null,
-                "descrição": ""
+                "preço": 340.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Glenmorangie",
-                "preço": null,
-                "descrição": ""
+                "preço": 142.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Laphroaig 10",
-                "preço": null,
-                "descrição": ""
+                "preço": 188.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jim Beam",
-                "preço": null,
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jack Daniels",
-                "preço": null,
-                "descrição": ""
+                "preço": 46.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bulleit Bourbon",
-                "preço": null,
-                "descrição": ""
+                "preço": 55.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fireball",
-                "preço": null,
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jameson",
-                "preço": null,
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Makers Mark",
-                "preço": null,
-                "descrição": ""
+                "preço": 68.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Wild Turkey",
-                "preço": null,
-                "descrição": ""
+                "preço": 82.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Johnnie Walker Gold Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 80.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Dose Gin": [
             {
                 "nome": "Hendricks",
-                "preço": null,
-                "descrição": ""
+                "preço": 63.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Martin Millers",
-                "preço": null,
-                "descrição": ""
+                "preço": 73.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tanqueray",
-                "preço": null,
-                "descrição": ""
+                "preço": 44.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bombay Saphire",
-                "preço": null,
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beefeater Pink",
-                "preço": null,
-                "descrição": ""
+                "preço": 44.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beefeater 24",
-                "preço": null,
-                "descrição": ""
+                "preço": 50.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beefeater",
-                "preço": null,
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gordons",
-                "preço": null,
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Nordés",
-                "preço": null,
-                "descrição": ""
+                "preço": 61.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Monkey 47",
-                "preço": null,
-                "descrição": ""
+                "preço": 149.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tanqueray Ten",
-                "preço": null,
-                "descrição": ""
+                "preço": 73.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Citadelle",
-                "preço": null,
-                "descrição": ""
+                "preço": 55.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Doses Vodka": [
             {
                 "nome": "Absolut",
-                "preço": null,
-                "descrição": ""
+                "preço": 35.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Absolut Elyx",
-                "preço": null,
-                "descrição": ""
+                "preço": 142.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Absolut Extrakt",
-                "preço": null,
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ciroc",
-                "preço": null,
+                "preço": 54.0,
+                "informação-extra": null,
                 "descrição": "Tradicional."
             },
             {
                 "nome": "Grey Goose",
-                "preço": null,
+                "preço": 61.0,
+                "informação-extra": null,
                 "descrição": "Tradicional."
             },
             {
                 "nome": "Ketel one",
-                "preço": null,
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Doses- Licor": [
             {
                 "nome": "St Germain",
-                "preço": null,
-                "descrição": ""
+                "preço": 54.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Licor 43",
-                "preço": null,
-                "descrição": ""
+                "preço": 55.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Drambuie",
-                "preço": null,
-                "descrição": ""
+                "preço": 55.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cointreau",
-                "preço": null,
-                "descrição": ""
+                "preço": 55.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Baileys",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jägermeister",
-                "preço": null,
-                "descrição": ""
+                "preço": 55.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Benedictine Dom",
-                "preço": null,
-                "descrição": ""
+                "preço": 68.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gabriel Boudier",
-                "preço": null,
-                "descrição": ""
+                "preço": 61.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chambord",
-                "preço": null,
-                "descrição": ""
+                "preço": 53.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Caravella Limoncello",
-                "preço": null,
-                "descrição": ""
+                "preço": 63.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Doses- cachaça": [
             {
                 "nome": "Porto do Vianna Branca",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Porto do Vianna Ouro",
-                "preço": null,
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Leblon Signature",
-                "preço": null,
-                "descrição": ""
+                "preço": 78.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Leblon",
-                "preço": null,
-                "descrição": ""
+                "preço": 47.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Yaguara",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Doses- Tequila": [
             {
                 "nome": "Patron Silver",
-                "preço": null,
-                "descrição": ""
+                "preço": 84.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "José Cuervo Reposado",
-                "preço": null,
-                "descrição": ""
+                "preço": 57.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "José Cuervo Silver",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Patron Reposado",
-                "preço": null,
-                "descrição": ""
+                "preço": 95.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Dose - Rum": [
             {
                 "nome": "Bacardi Carta Blanca",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bacardi Carta Ouro",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bacardi 4 Anos",
-                "preço": null,
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bacardi 8 Anos",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bacardi 10 anos",
-                "preço": null,
-                "descrição": ""
+                "preço": 125.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Appleton State",
-                "preço": null,
-                "descrição": ""
+                "preço": 90.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Dose - Bitter": [
             {
                 "nome": "Vermouth Punt & Mes",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vermouth Martini",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Aperol",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Campari",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cynar",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fernet Branca",
-                "preço": null,
-                "descrição": ""
+                "preço": 49.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Doses- Vermouth": [
             {
                 "nome": "Noilly Prat",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Carpano Clássico",
-                "preço": null,
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Doses- Sake ": [
             {
                 "nome": "Sakê Cho Karakuchi",
-                "preço": null,
-                "descrição": ""
+                "preço": 37.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sake Cho Karakuchi",
-                "preço": null,
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Garrafas Licor": []
@@ -1711,266 +2032,316 @@
         "Champagne": [
             {
                 "nome": "Veuve Cliquot Brut",
-                "preço": null,
+                "preço": 1200.0,
+                "informação-extra": null,
                 "descrição": "Um champagne poderoso, com força e maciez em perfeito equilíbrio! Oferece persistência aromática frutada de pêssegos e peras maduras, aliadas à aromas de baunilha e confeitaria, deixando sua marca na memória por um longo tempo! Um assemblage consistente de Pinot Noir, Pinot Meunier e Chardonnay, que tem sido protegido por um pequeno grupo em mais de 240 anos de existência. Em seu dourado claro, perlage fina e persistente, é absolutamente festivo e elegante!"
             },
             {
                 "nome": "Moët Nectar Impérial",
-                "preço": null,
+                "preço": 1150.0,
+                "informação-extra": null,
                 "descrição": "Moët Nectar Imperial o champanhe mais ousado e inesperado da Moët & Chandon. Reflete a diversidade e complementaridade das três uvas da Champagne e a riqueza dos melhores vinhedos da região para revelar a magia do champagne mais amado do mundo. Vívido e generoso, Nectar Impérial distingue-se por seu sabor frutado tropical, por sua riqueza no palato e por seu revestimento, que imediatamente surpreendem e deleitam. Seus aromas são generosos e ricos com frutas tropicais (abacaxi e manga) e frutas como ameixa Mirabelle e apricot, nuances de grão (malte) e de especiarias doces (canela e baunilha). No palato é uma combinação de riqueza e elegância, cremosidade extrema e frescor vibrante (grapefruit)."
             },
             {
                 "nome": "Moet & Chandon Imperial",
-                "preço": null,
+                "preço": 1150.0,
+                "informação-extra": null,
                 "descrição": "Distingue-se por seu paladar sedutor e uma elegante maturidade que seduz e delicia continuamente. Ricamente saboroso, é uma combinação de generosidade e plenitude que evidenciam o equilíbrio mágico desse Champagne. Aromas: Abacaxi, manga, ameixa amarela e damasco,com nuances de especiarias, canela e baunilha. Paladar: Elegante, cremoso e fresco. Final que lembra grapefruit bem maduro, revelando um estilo ousado que surpreende."
             },
             {
                 "nome": "Deutz Classic Brut",
-                "preço": null,
+                "preço": 1865.0,
+                "informação-extra": null,
                 "descrição": "Um champagne premiado! Seus aromas vão de notas florais a brioches, amêndoas e frutos maduros. No paladar é seco, frutado e muito persistente. Permanece por, no mínimo, 36 meses em contato com as borras (sur lies). * 90 pontos no Robert Parker. * 91 pontos na Wine Spectator. * 91 pontos no Decanter Wine Awards 2021"
             }
         ],
         "Espumantes ": [
             {
                 "nome": "Veuve Du Vernay Brut",
-                "preço": null,
+                "preço": 231.0,
+                "informação-extra": null,
                 "descrição": "De cor dourado límpido, Aromas de frutas, como pêssego e abacaxi, Em boca, apresenta bom corpo, final macio, frutado, longo e agradável."
             },
             {
                 "nome": "Ferrari Maximum Brut",
-                "preço": null,
+                "preço": 560.0,
+                "informação-extra": null,
                 "descrição": "Elaborado pela famosa vinícola Ferrari, na região de Trentino-Alto Ádige, no norte da Itália, revela aromas com notas combinadas de baunilha, maçã, frutas cítricas e de biscoitos tostados. Em boca, é cremoso e persistente, com acidez vibrante e uma perlage refinada. De grande personalidade, o espumante dos campeões!"
             },
             {
                 "nome": "Filipa Pato 3b Brut Rosé",
-                "preço": null,
+                "preço": 457.0,
+                "informação-extra": null,
                 "descrição": "Linda cor salmão, aromas com notas de morango e framboesa, sabor de mousse cremosa e as bolhas dissolvem-se na língua."
             },
             {
                 "nome": "Chandon Réserve Brut",
-                "preço": null,
+                "preço": 252.0,
+                "informação-extra": null,
                 "descrição": "Com um estilo seco e fresco, é perfeito para brindar em momentos especiais ou acompanhar refeições refinadas. Seu equilíbrio entre frescor e complexidade faz dele uma escolha versátil para várias ocasiões. Estruturado e vibrante, com sabores e aromas de frutas amarelas e nuances de confeitaria. Acidez equilibrada, com final longo e persistente. Este espumante premiado não só carrega a tradição e excelência da Chandon, mas também é a opção ideal para aqueles que buscam elevar suas celebraçõe"
             },
             {
                 "nome": "Vivente Pét-Nat Glera/Chardonnay",
-                "preço": null,
+                "preço": 357.0,
+                "informação-extra": null,
                 "descrição": "Pét-Nat é uma expressão francesa que significa espumante natural. Aqui, o vinho é engarrafado seguindo método ancestral, durante a fermentação, portanto, com menos açúcar e menos álcool, borbulhas mais sutis e macias. Sua estética rústica, com tampa de metal com bidule define o charme dos Pét-Nat. Trata-se de um espumante leve, refrescante com agradável acidez e destaque para notas de pera e maçã verde além de um toque mineral, que deve ser apreciado com pratos leves que deixam o vinho brilhar!"
             }
         ],
         "Vinhos Brancos ": [
             {
                 "nome": "Varanda do Conde Alvarinho Trajadura, 2009",
-                "preço": null,
+                "preço": 300.0,
+                "informação-extra": null,
                 "descrição": "Vinho de aspecto límpido e cor citrina. Seu aroma é frutado e muito elegante, com destaque para os frutos tropicais frescos e delicados. Na boca é encorpado e equilibrado, a frescura das frutas e a excelente combinação das uvas Alvarinho e Trajadura lhe dão um toque especial e apelativo."
             },
             {
                 "nome": "Dinamica Bical e Arinto Branco , 2018",
-                "preço": null,
+                "preço": 470.0,
+                "informação-extra": null,
                 "descrição": "Um belo branco portugues, com passagem em barricas de carvalho francês e em cubas de inox, revelando a sofisticação da arinto, com aromas minerais, frutados, citricos e de ervas como tomilho. Encorpado, com boa acidez e estrutura!"
             },
             {
                 "nome": "Chablis Domaine Hamelin A.C.C, 2018",
-                "preço": null,
+                "preço": 840.0,
+                "informação-extra": null,
                 "descrição": "Um agradável Chablis, com belisima seleção de chardonnays, fermentação malolática e 30 meses de barrica, que garante intensidade, untuosidade, boas notas de citrinos, frutas cristalizadas e especiarias! Uma bela acidez, que o torna muito fresco e persistente. Perfeito com frutos do mar, peixes e pratos vegetarianos, além de queijos suaves!"
             },
             {
                 "nome": "Bertani Velante Pinot Grigio, 2010",
-                "preço": null,
+                "preço": 460.0,
+                "informação-extra": null,
                 "descrição": "Vinho branco italiano, com boa densidade e acidez equilibrada e elegantes. Apresenta aromas de maçãs, pessegos e peras maduras. Harmoniza perfeitamente com pratos vegetarianos, além de peixes e frutos do mar."
             },
             {
                 "nome": "Kabbalah Seleção Especial Sauvignon Blanc, 2020",
-                "preço": null,
+                "preço": 210.0,
+                "informação-extra": null,
                 "descrição": "O Vinho Kabbalah Seleção Especial Sauvignon Blanc é originário da região do Valle del Maulle no Chile. Com aromas e sabores frutados intensos e muito fresco! Seguido de uma textura agradável e delicada. Muito versátil e democratico, é perfeito sozinho ou acompanhando uma bela refeição de verão!"
             },
             {
                 "nome": "Nederburg Sauvignon Blanc",
-                "preço": null,
+                "preço": 215.0,
+                "informação-extra": null,
                 "descrição": "\"O vinho Nederburg Sauvignon Blanc branco Sul Africano tem cor verde brilhante, com aroma de maracujá com notas florais e cítricas. Em boca, é seco, floral e cítrico, com final persistente.\""
             },
             {
                 "nome": "Norton Altura White Blend, 2018",
-                "preço": null,
+                "preço": 380.0,
+                "informação-extra": null,
                 "descrição": "Vinho de altitude, de um amarelo palha com alos dourados. No nariz combina notas cítricas como casca de limão siciliano e laranja selvagem. Na boca tem volume e ao mesmo tempo frescor revigorante confirmando o caráter de frutas citricas. Final longo e equilibrado!"
             },
             {
                 "nome": "Nimbus Estate Casablanca Sauvignon Blanc, 2012",
-                "preço": null,
+                "preço": 360.0,
+                "informação-extra": null,
                 "descrição": "Um Sauvignon blanc chileno do Vale do Aconcágua com notas de limao siciliano e maçã verde, corpo leve e boa acidez de final fresco e mineral, tipico da região maritima! Excelente escolha para acompanhar pratos de frutos do mar e saladas."
             },
             {
                 "nome": "Fernando De Castilla Jerez Fino Manzanilla, 2011",
-                "preço": null,
+                "preço": 575.0,
+                "informação-extra": null,
                 "descrição": "Cor amarelo palha, brilhante! Seco, com elevada acidez e alcool bem incorporado. Retrogosto de frutas secas. Este vinho acomoanha muito bem além de sobremesas, pratos de frutos do mar, peixes e embutidos."
             },
             {
                 "nome": "Fernando De Castilla Jerez Fino Sherry, 2011",
-                "preço": null,
+                "preço": 575.0,
+                "informação-extra": null,
                 "descrição": "Cor amarelo palha, brilhante e visivelmente untuoso. No nariz, lembra frutas cítricas como laranja e nectarina e toques de mel. Já na boca, mostra um corpo com o qual não se está acostumado em vinhos brancos. É seco, tem acidez, e preenche bem a boca. Ótima persistência."
             },
             {
                 "nome": "Caliterra Reserva Sauvignon Blanc, 2023",
-                "preço": null,
+                "preço": 180.0,
+                "informação-extra": null,
                 "descrição": "Um vinho chileno orgânico, 100%sauvigon blanc de produção sustentável, apresenta um pálido e fresco amarelo esverdeado, com notas citricas de toranja, limão siciliano e maçã verde e flor de laranjeira. Revela ainda notas minerais e uma acidez equilibrada, perfeito para pratos de peixe!"
             },
             {
                 "nome": "Vivente Natural Sauvignon Blanc Laranja, 2024",
-                "preço": null,
+                "preço": 465.0,
+                "informação-extra": null,
                 "descrição": "Um vinho nada óbvio! Com maceração de 30 dias com as cascas que confere sua tonalidade laranja, esse Sauvignon Blanc nacional, de produção sustentável, Orgânico e Biodinâmico é redundante e perfeito, assim! Corpo médio, fluido e de acidez vibrante. Cheinho de aromas de flor de laranjeira, camomila, mel e gengibre. Sugerimos acompanhar frutos do mar, ensopados, pratos vegetarianos. Além de carnes brancas e queijos de cura moderada."
             },
             {
                 "nome": "Poderi de Paradiso Vin Santo DOC, 2014",
-                "preço": null,
+                "preço": 918.0,
+                "informação-extra": null,
                 "descrição": "Um vinho toscano fortificado, untuoso, doce e encorpado! Amadurece 4 anos em pequenos barris de carvalho e portanto ganha um tom de dourado intenso, com aromas de damascos, amêndoas e flores secas. Com boa acidez e final persistente é perfeito para acompanhar Sobremesas e Queijos curados."
             }
         ],
         "Vinhos Rosé": [
             {
                 "nome": "Kabbalah Rose",
-                "preço": null,
+                "preço": 210.0,
+                "informação-extra": null,
                 "descrição": "Jovem, frutado e refrescante, o Vinho Kabbalah Seleção Especial Rosé agrada todos os tipos de públicos. Sua versatilidade e equilíbrio o tornam um vinho ideal para qualquer ocasião, podendo ser apreciado sozinho ou harmonizado. No paladar, um sabor frutado, leve e persistente. No olfato, um aroma doce de morango, framboesa e um toque floral. A aparência do vinho é impecável, a cor rosa salmão é delicada e chamativa."
             },
             {
                 "nome": "Le Rosé De Floridene, 2008",
-                "preço": null,
-                "descrição": "França"
+                "preço": 299.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Petalis, 2020",
-                "preço": null,
+                "preço": 324.0,
+                "informação-extra": null,
                 "descrição": "No nariz é de uma bela nítidez e muito afeiçoado, começa em perfumes de frutos vermelhos, seguido de uma sedutora fragância de rosas. Aromas intensos de morango fresco, framboesa e pêssego amarelo, com leves adicionais de louro e tomilho-limão. Na boca é de peso médio-leve, com tons frutados, acidez elegante e uma agradável textura vigorosa que se estende até o final."
             },
             {
                 "nome": "Soto de Oñatil Rosé Tempranillo, 2019",
-                "preço": null,
+                "preço": 230.0,
+                "informação-extra": null,
                 "descrição": "Trata-se de uma edição limitada e numerada: cada garrafa terá um rótulo único. Soto de Oñatil é o nome da propriedade. Na degustação apresenta cor rosa claro. Entre seus aromas frutas vermelhas que lembram framboesa. Em boca é fresco e frutado."
             },
             {
                 "nome": "Manon Ravoire & Fils Côtes de Provence, 2018",
-                "preço": null,
+                "preço": 962.0,
+                "informação-extra": null,
                 "descrição": "Um legítimo rosé da Provence, potente, vinificado à partir de uvas de um solo rico e colhidas no frescor da noite, nos encantando com aromas de madressilva e pessego, textura aveludada e final persistente! Saladas, peixes, frutos do mar e massas leves são companias perfeitas para esse brilhante e perfumado rosé."
             },
             {
                 "nome": "Manon Ravoire & Fils Côtes de Provence, 2018",
-                "preço": null,
+                "preço": 525.98,
+                "informação-extra": null,
                 "descrição": "Um legítimo rosé da Provence, potente, vinificado à partir de uvas de um solo rico e colhidas no frescor da noite, nos encantando com aromas de madressilva e pessego, textura aveludada e final persistente! Saladas, peixes, frutos do ma e massas leves são companias perfeitas para esse brilhante e perfumado rosé."
             }
         ],
         "Vinhos Tintos": [
             {
                 "nome": "Caldora Yume Montepulciano d'Abruzzo, 2018",
-                "preço": null,
+                "preço": 557.0,
+                "informação-extra": null,
                 "descrição": "Apresenta aromas de frutas vermelhas, notas de flores secas e especiarias. Em boca é seco, encorpado, quente e com taninos abundantes, porém macios."
             },
             {
                 "nome": "Alfredo Roca Malbec, 2021",
-                "preço": null,
+                "preço": 223.0,
+                "informação-extra": null,
                 "descrição": "Bordô vivo. Expressão aromática intensa, com notas de ameixa e amora sobre fundo floral."
             },
             {
                 "nome": "Santa Carolina Gran Reserva Assemblage",
-                "preço": null,
+                "preço": 300.0,
+                "informação-extra": null,
                 "descrição": "Na boca é ágil no corpo, com taninos finos e boa aderência. Desdobra frutas vermelhas frescas, notas florais de violetas, chocolate amargo e um final de ervas secas que permanece agradavelmente no paladar."
             },
             {
                 "nome": "Santa Magdalena Signature Pais Y Carigan, 2020",
-                "preço": null,
+                "preço": 300.0,
+                "informação-extra": null,
                 "descrição": "Olfativo: cereja, rosa mosqueta, amêndoas torradas. Notas suaves de chocolate e caramelo. Paladar: Bem estruturado e de alta complexidade. Apresenta um certo calor que é acompanhado pela frescura da sua acidez, com taninos maduros e evolução elegante."
             },
             {
                 "nome": "Kabbalah Merlot",
-                "preço": null,
+                "preço": 210.0,
+                "informação-extra": null,
                 "descrição": "De origem Chilena, o Vinho Kabbalah Seleção Especial Merlot possui aroma de frutos escuros maduros, notas de tabaco e um agradável toque de mineral. O sabor frutado é fresco, porém chamativo. Com isso, o Vinho é sedutoramente persistente e contém um frescor apesar dos taninos ."
             },
             {
                 "nome": "Manor House Shiraz Nederburg",
-                "preço": null,
+                "preço": 620.0,
+                "informação-extra": null,
                 "descrição": "Seco, com corpo médio, acidez alta e taninos bem estruturados."
             },
             {
                 "nome": "Casa Gran Del Siurana Gr 174, 2011",
-                "preço": null,
+                "preço": 550.0,
+                "informação-extra": null,
                 "descrição": "Vinho de cor vermelho cereja com aroma fresco de frutas e um toque de menta. Na boca possui uma estrutura fina, é balanceado e elegante, é tânico e também tem acidez para ser um vinho bem redondo."
             },
             {
                 "nome": "Marques de Tomares Rioja Reserva",
-                "preço": null,
+                "preço": 530.0,
+                "informação-extra": null,
                 "descrição": "Vinho espanhol tinto de cor rubi intenso com aroma que se destaca pela elegância, complexidade e longa duração. No paladar apresenta estrutura tânica elegante e bem constituída, além da longa persistência."
             },
             {
                 "nome": "Pata Negra Oro Tempranillo, 2014",
-                "preço": null,
+                "preço": 230.0,
+                "informação-extra": null,
                 "descrição": "Alta intensidade de cor, rubi com toques violáceos. Um vinho muito aromático, com aromas de frutas negras maduras como ameixas e sutis toques de baunilha. Excelente corpo, com taninos presentes mas não agressivos, gaças aos 6 meses de maturação em carvalho francês e americano, traz um final elegante e agradavel."
             },
             {
                 "nome": "Filipa Pato Dinamica Baga, 2020",
-                "preço": null,
+                "preço": 470.0,
+                "informação-extra": null,
                 "descrição": "Trata-se de um rótulo de agricultura biológica, elaborado com a uva Baga de diversos terroirs da região da Bairrada, no sudoeste de Portugal. Apresenta aromas são elegantes, com toque de frutas como morango e ameixa, nuances de alcaçuz e notas de especiarias como pimenta-do-reino, louro e tomilho. Em boca é frutado, com uma bela estrutura e textura aveludada, com um final de boca muito fresco e convidativo. Destaque para a rolha natural e biológica e para a não utilização da cápsula para lacrar o vinho, como fazem alguns dos principais produtores de vinhos orgânicos do mundo."
             },
             {
                 "nome": "Luccarelli Primitivo di Manduria Old Vines DOP, 2018",
-                "preço": null,
+                "preço": 470.0,
+                "informação-extra": null,
                 "descrição": "Apresenta aromas de ameixa e cereja, notas de tabaco, chocolate e pimenta. Em boca é aveludado, com taninos finos e macios, um toque de baunilha e café."
             },
             {
                 "nome": "Santa Carolina Reserva Carmenère",
-                "preço": null,
+                "preço": 198.0,
+                "informação-extra": null,
                 "descrição": "Envelhecido 8 meses em barrica de carvalho francês, este tinto chileno varietal, apresenta aromas de frutas escuras, especialmente de cereja, além de notas de café e chocolate, pela barrica. Em boca, é encorpado, tem boa acidez e taninos redondos.Ideal para acompanhar carnes vermelhas e massas"
             },
             {
                 "nome": "Camigliano Rosso di Montalcino, 2019",
-                "preço": null,
+                "preço": 540.0,
+                "informação-extra": null,
                 "descrição": "Um tinto italiano, 100% Sangiovese, com maturação de 6 meses em barris de carvalho frances e mais 6 meses em garrafa, o que confere aromas de frutas vermelhas frescas, baunilha e chocolate! No paladar é seco, corpo médio, com taninos finos acidez equilibrada! Um resgate às tradicões dos verdadeiros Chiantis!"
             },
             {
                 "nome": "Forte Ambrone Etichetta Nera IGT",
-                "preço": null,
+                "preço": 260.0,
+                "informação-extra": null,
                 "descrição": "Produzido com uvas selecionadas e envelhecido em barris de carvalho, este vinho é uma experiência única para os amantes da bebida. Com uma coloração rubi intensa e brilhante, o Vinho Forte Ambrone possui um aroma marcante e complexo, com notas de frutas vermelhas maduras, especiarias e toques amadeirados. Seu sabor é encorpado e equilibrado, com taninos macios e um final persistente e elegante. Este vinho é perfeito para acompanhar pratos de carnes vermelhas, massas com molhos intensos e queijos envelhecidos."
             },
             {
                 "nome": "Alfredo Roca Pinot Noir, 2022",
-                "preço": null,
+                "preço": 168.0,
+                "informação-extra": null,
                 "descrição": "Cor vermelha de uma grande vivacidade que é mostrada nos seus tons rubis, intenso e profundo para a variedade Pinot Noir. É elegante e interessante sua variação de aromas. Na boca é complexo e delicado."
             },
             {
                 "nome": "Patriarche Heritage Tinto",
-                "preço": null,
+                "preço": 200.0,
+                "informação-extra": null,
                 "descrição": "Um corte frances de Carignan, Grenache e Syrah, do Vale do Rhone, com aromas acentuados de frutas vermelhas, corpo médio, equilibrado e fresco é uma excelente escolha para pratos de carne vermelha e queijos!"
             }
         ],
         "Vinhos Meia Garrafa": [
             {
                 "nome": "Santa Carolina Vistaña Cabernet Sauvignon Merlot, 2010",
-                "preço": null,
+                "preço": 97.0,
+                "informação-extra": null,
                 "descrição": "Cor vermelha rubi com reflexo violáceos. Seco, corpo leve, boa acidez, taninos finos e final agradável."
             },
             {
                 "nome": "Vistaña Santa Carolina Sauvignon Blanc , 2018",
-                "preço": null,
+                "preço": 97.0,
+                "informação-extra": null,
                 "descrição": "Um sauvignon blanc clássico com aromas cítricos e de frutas tropicais. Leve e de final agradável."
             }
         ],
         "Vinhos em Taça": [
             {
                 "nome": "Santa Carolina Vistaña Semillon Sauvignon Blanc, 2012",
-                "preço": null,
-                "descrição": "Chile"
+                "preço": 56.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fernando De Castilla Jerez Fino Manzanilla, 2011",
-                "preço": null,
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "Cor amarelo palha, brilhante! Seco, com elevada acidez e alcool bem incorporado. Retrogosto de frutas secas. Este vinho acomoanha muito bem além de sobremesas, pratos de frutos do mar, peixes e embutidos."
             },
             {
                 "nome": "Fernando De Castilla Jerez Fino Sherry, 2011",
-                "preço": null,
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "Cor amarelo palha, brilhante e visivelmente untuoso. No nariz, lembra frutas cítricas como laranja e nectarina e toques de mel. Já na boca, mostra um corpo com o qual não se está acostumado em vinhos brancos. É seco, tem acidez, e preenche bem a boca. Ótima persistência."
             }
         ],
         "Vinhos Magnum": [
             {
                 "nome": "Luccarelli Primitivo Puglia , 2020",
-                "preço": null,
+                "preço": 998.0,
+                "informação-extra": null,
                 "descrição": "As uvas são colhidas na primeira quinzena de setembro. Após o desengace, é feita a maceração, e a fermentação alcoólica ocorre sob temperaturas controladas, com remontagem periódica, durante período de 8 a 10 dias. Em seguida, acontece a fermentação malolática, em tanques de aço inox."
             }
         ]

@@ -3,297 +3,354 @@
         "Vinhos em Taças": [
             {
                 "nome": "San José De Apalta Sauvignon Blanc",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Selecionando apenas os melhores uvas que levá-los através de processo de vinificação sob as mais delicadas e precisas procedimento: uvas amadurecem precisamente são cuidadosamente colhidas da vinha e cuidadosamente pressionado quase imediatamente para atingir o mosto mais puro. Depois, o caldo é vertida em grandes tanques de aço inoxidável para a fermentação. antes fermentação do suco é clarificado."
             },
             {
                 "nome": "Espumante Místico Brut",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "O Espumante Místico Brut Branco é produzido por Terroir São Francisco, em Lagoa Grande, Pernambuco. No nariz, ele possui um aroma de flores brancas, combinadas com frutas tropicais e cítricas. No paladar é equilibrado, possuindo boa acidez, com ligeiro toque de frutos secos. Ideal para acompanhar entradas, saladas, carnes brancas grelhada e queijos leves."
             },
             {
                 "nome": "Norton Porteno Malbec",
-                "preço": null,
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ophicus Brut Cuvee Rose",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Delicada coloração rosada, limpo e brilhante, perlage fina e abundante. Intenso no nariz, exibe aromas de cerejas e flores. Na boca é fresco, com acidez agradável e equilibrada e oferece um longo final de boca."
             },
             {
                 "nome": "Graham's Fine Ruby",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Cor rubi, pleno de aromas de frutos vermelhos e pretos. No palato, deliciosos sabores de cereja preta. Um excelente equilíbrio e um intenso final de boca."
             },
             {
                 "nome": "Graham's 10 Anos",
-                "preço": null,
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Cor âmbar profundo, complexo aroma a casca de laranja e frutos secos. No palato, concentrados sabores a fruta madura, harmoniosamente aveludado e um final longo e deleitoso."
             },
             {
                 "nome": "Esperanto",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Um branco delicado, com notas florais, seguido por aromas de maçãs e toques herbáceos."
             },
             {
                 "nome": "Valflor",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Coloração rubi brilhante. O aroma apresenta notas de fruta madura e compota. Paladar persistente, elegante e redondo."
             }
         ],
         "Meia Garrafa": [
             {
                 "nome": "Alamos Chardonnay",
-                "preço": null,
+                "preço": 159.0,
+                "informação-extra": null,
                 "descrição": "Cor: Amarela ouro. Com boa presença em nariz de aromas de frutas, maçã verde e notadamente abacaxi, que aparece de forma marcante em caldas. Em boca oferece bom corpo e estrutura, amadeirado, cremosidade algo amanteigada."
             },
             {
                 "nome": "Alamos Malbec",
-                "preço": null,
+                "preço": 159.0,
+                "informação-extra": null,
                 "descrição": "Em taça, tem uma bela cor rubi. Traz aromas de violeta que se misturam com especiarias e baunilha. Na boca traz camadas de cereja negra e amoras. Tem taninos equilibrados que criam uma sensação aveludada na boca e um final expansivo. Vai muito bem com churrasco na parilla, hambúrguer e massas com molhos ricos. Um blend de Malbec (85%) com Bonarda (10%) e Syrah (5%) que estagia entre 6 e 9 meses em barrica de carvalho."
             },
             {
                 "nome": "Catena Malbec",
-                "preço": null,
+                "preço": 230.0,
+                "informação-extra": null,
                 "descrição": "Catena Malbec conquistou novamente 91 pontos de Robert Parker, que destacou seu palato \"muito equilibrado, elegante e sutil, com taninos muito finos\", além da excelente qualidade pelo que custa. Intenso e concentrado como os grandes tintos argentinos, o Catena Malbec mostra uma complexidade impressionante, raramente encontrada no continente."
             },
             {
                 "nome": "Alfredo Roca Cabernet sauvignon",
-                "preço": null,
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "Apresenta aroma de frutas vermelhas, como ameixa e framboesa. Possui excelente concentração e equilíbrio, com taninos macios."
             }
         ],
         "Champagner": [
             {
                 "nome": "Veuve Clicquo",
-                "preço": null,
+                "preço": 612.0,
+                "informação-extra": null,
                 "descrição": "Amadurecimento por no mínimo 36 meses. Visual: Amarelo limão pálido. Olfativo: Seu aroma, intenso e agradável, tem notas frutadas e de brioche. Sua harmonia, seu frescor e sua notável estrutura frutadas atingem plenamente o paladar. Gustativo: Redondo, com laivos de Pinot Meunier, deve sua estrutura sólida à predominância do Pinot Noir e sua elegância e finura a quase 1/3 de uvas Chardonnay; um equilíbrio perfeito. A mistura inclui cerca de cinqüenta 'crus' classificados na maioria, como \"Grand e Premiers Crus\". Entre 25 e 35% de vinhos de reserva lhe asseguram uma qualidade constante."
             },
             {
                 "nome": "Moet & Chandon Imperial Brut",
-                "preço": null,
+                "preço": 598.0,
+                "informação-extra": null,
                 "descrição": "De cor palha clara com mousse fina; aromas definidos de nozes torradas, torrada de pão de centeio e toranja; o paladar é extra-seco com corpo apenas-tímido-médio e adorável repetição de sabores do nariz com uma nota mineral em um final limpo."
             },
             {
                 "nome": "Moet & Chandon Rosé Imperial",
-                "preço": null,
+                "preço": 698.0,
+                "informação-extra": null,
                 "descrição": "A intensidade suculenta e persistente das bagas (morango, framboesa, groselha) A carnudez e a firmeza do pêssego O frescor de uma nota sutil de mentol"
             }
         ],
         "Espumantes": [
             {
                 "nome": "Espumante Luigi Bosca La Linda Extra Brut",
-                "preço": null,
+                "preço": 149.0,
+                "informação-extra": null,
                 "descrição": "Sedutor e harmonioso, o Espumante Luigi Bosca La Linda Extra Brut encanta com seus aromas de frutas brancas, maçã e pera, com toques florais e nuances de mel. Leve, fresco e equilibrado, ele se revela perfeito para acompanhar aves e pratos da culinária japonesa."
             },
             {
                 "nome": "Chandon Garden Spritz",
-                "preço": null,
+                "preço": 178.0,
+                "informação-extra": null,
                 "descrição": "Chandon Garden Spritz combina nosso espumante excepcional CHANDON Brut com um toque único: nosso bitter de laranja, elaborado artesanalmente com laranjas 100% orgânicas, ervas e especiarias. Uma receita artesanal secreta que vem pronta para servir, idealmente com gelo, uma rodela de laranja e um raminho de alecrim. Elaborado com metade do açúcar de qualquer outro Spritz, não contém sabores nem corantes artificiais. É naturalmente delicioso."
             },
             {
                 "nome": "Chandon Rosé Brut",
-                "preço": null,
-                "descrição": "Brasil"
+                "preço": 208.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chandon Réserve Brut",
-                "preço": null,
+                "preço": 188.0,
+                "informação-extra": null,
                 "descrição": "Um vinho espumante clássico vibrante e vivo. Refrescante, frutado e fácil de beber.Aromas elegantes e nítidos, com notas de frutas cítricas, frutas secas, flores brancas e toques de pão fresco. Teor Alcoólico: 12%."
             },
             {
                 "nome": "Lozano Ophicus Cuvée Brut",
-                "preço": null,
+                "preço": 119.0,
+                "informação-extra": null,
                 "descrição": "Com Perlage brilhante, maravilhoso, sabores de frutas tropicais e final brilhante no palato esta mistura mistura entusiasta de êxtase de Sauvignon Blanc, Verdejo e Airén."
             },
             {
                 "nome": "Ophicus Brut Cuvee Rose",
-                "preço": null,
+                "preço": 119.0,
+                "informação-extra": null,
                 "descrição": "Delicada coloração rosada, limpo e brilhante, perlage fina e abundante. Intenso no nariz, exibe aromas de cerejas e flores. Na boca é fresco, com acidez agradável e equilibrada e oferece um longo final de boca."
             },
             {
                 "nome": "Espumante Místico Brut",
-                "preço": null,
+                "preço": 109.0,
+                "informação-extra": null,
                 "descrição": "O Espumante Místico Brut Branco é produzido por Terroir São Francisco, em Lagoa Grande, Pernambuco. No nariz, ele possui um aroma de flores brancas, combinadas com frutas tropicais e cítricas. No paladar é equilibrado, possuindo boa acidez, com ligeiro toque de frutos secos. Ideal para acompanhar entradas, saladas, carnes brancas grelhada e queijos leves."
             }
         ],
         "Vinhos Brancos e Rosê": [
             {
                 "nome": "Confidencial",
-                "preço": null,
+                "preço": 119.0,
+                "informação-extra": null,
                 "descrição": "O Confidencial Rosé, elaborado a partir de mais de 5 diferentes castas nacionais e internacionais, apresenta cor rosé definida. Aromas predominantes a frutos vermelhos maduros. Corpo médio, revela agradáveis sensações de fruta madura, combinado com evidente mineralidade e acidez. Fim de boca guloso e longo. Harmonizações: Como aperitivo ou acompanhar saladas, marisco, grelhados ou pratos orientais."
             },
             {
                 "nome": "Colomé Torrontés",
-                "preço": null,
+                "preço": 176.0,
+                "informação-extra": null,
                 "descrição": "Coloração dourada brilhante com tons palha. Exala perfumado aroma de rosa, lichia e fruta-do-conde, gengibre e ervas frescas (orégano). Redondo, com textura convincente e oleosa, sápido, com longo final do frutado exótico."
             },
             {
                 "nome": "Alfredo Roca Parcelas Originales Glera",
-                "preço": null,
+                "preço": 176.0,
+                "informação-extra": null,
                 "descrição": "Coloração Amarelo Ouro. Leve, delicado, sutil com acidez equilibrada com aromas frutados e tropicais como pêssego e carambola com"
             },
             {
                 "nome": "Paul Mas Claude Val Rosé",
-                "preço": null,
+                "preço": 169.0,
+                "informação-extra": null,
                 "descrição": "O vinhos ClaudeVal são feitos através da escolha de uvas selecionadas que crescem na região do Languedoc: Limoux, Carcassonne/Puicheric (Minervois) and Pézenas. Graças a modernas técnicas de vinificação e equipamentos, e graças a fusão de conhecimentos de enólogos franceses e australianos, conseguiu-se atingir vinhos elegantes, simples e prazeirosos."
             },
             {
                 "nome": "Horse in the Chardonnay",
-                "preço": null,
-                "descrição": ""
+                "preço": 109.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Catena Zapata Angelica Zapata Chardonnay",
-                "preço": null,
+                "preço": 569.0,
+                "informação-extra": null,
                 "descrição": "Fermentação em barricas de carvalho francês, com leveduras selecionadas e temperatura controlada por 20 dias. Maturado 11 meses em barricas de carvalho francês, sendo 73% novas."
             },
             {
                 "nome": "San José De Apalta Sauvignon Blanc",
-                "preço": null,
+                "preço": 112.0,
+                "informação-extra": null,
                 "descrição": "Selecionando apenas os melhores uvas que levá-los através de processo de vinificação sob as mais delicadas e precisas procedimento: uvas amadurecem precisamente são cuidadosamente colhidas da vinha e cuidadosamente pressionado quase imediatamente para atingir o mosto mais puro. Depois, o caldo é vertida em grandes tanques de aço inoxidável para a fermentação. antes fermentação do suco é clarificado."
             },
             {
                 "nome": "Caliterra Reserva Rosé",
-                "preço": null,
+                "preço": 129.0,
+                "informação-extra": null,
                 "descrição": "Sua bela coloração e brilho intensos, são um convite à degustação. Muito fresco e agradável com aromas cítricos como casca de tangerina e florais como pétalas de rosas. No paladar, temacidez delicada e agradáveis sabores de frutas vermelhas frescas."
             },
             {
                 "nome": "Caliterra Sauvignon Blanc Reserva",
-                "preço": null,
+                "preço": 129.0,
+                "informação-extra": null,
                 "descrição": "Notas cítricas e florais como toranja,limão e flor de laranjeira.acompanhadas de toques de frutas tropicais como maracujá e manga."
             },
             {
                 "nome": "Terranoble Sauvignon Blanc Estate Reserve",
-                "preço": null,
+                "preço": 119.0,
+                "informação-extra": null,
                 "descrição": "Sauvignon muito típico, aromático e vibrante. Cor limão claro, com reflexos esverdeados. Focado nas frutas cítricas (limão, lima), também ervas e maracujá. Na boca é leve, fresco e fácil de se beber."
             },
             {
                 "nome": "Esperanto",
-                "preço": null,
+                "preço": 139.0,
+                "informação-extra": null,
                 "descrição": "Um branco delicado, com notas florais, seguido por aromas de maçãs e toques herbáceos."
             }
         ],
         "Argentina": [
             {
                 "nome": "Catena Zapata Malbec Argentino Catena Zapata",
-                "preço": null,
-                "descrição": ""
+                "preço": 1898.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Luca Nico By Luca Malbec, 2017",
-                "preço": null,
-                "descrição": "Argentina"
+                "preço": 1798.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gran Enemigo Chacayes",
-                "preço": null,
+                "preço": 1189.0,
+                "informação-extra": null,
                 "descrição": "Gran Enemigo Chacayes é elaborado por Alejandro Vigil, provavelmente o maior especialista na casta Cabernet Franc da Argentina.É um vinho elegante que segue 5 tempos de colheitas durante a vendemia, com tempo de duração entre a primeira e última de um mês e meio e matura por 15 meses foudres de 100 anos. Um tinto de grande profundidade, complexo e harmonico em boca."
             },
             {
                 "nome": "Catena Zapata Nicola Catena Parcela Bonarda",
-                "preço": null,
+                "preço": 819.0,
+                "informação-extra": null,
                 "descrição": "Aromas intensos de alcaçuz, especiarias verdes como orégano e tomilho e boca com grande volume e persistência."
             },
             {
                 "nome": "Catena Zapata Angelica Zapata Malbec",
-                "preço": null,
+                "preço": 689.0,
+                "informação-extra": null,
                 "descrição": "Este disputado Malbec é produzido para o mercado interno argentino, onde é cultuado e esgota-se rapidamente, alcançando preços estratosféricos em safras antigas. As uvas vêm de vinhas selecionadas, plantadas em grande altitude, com rendimentos muito baixos, que resultam em um vinho muito complexo e exuberante, com excelente presença de boca e enorme capacidade de envelhecimento."
             },
             {
                 "nome": "Catena Zapata Angelica Zapata Alta Cabernet Sauvignon",
-                "preço": null,
+                "preço": 519.0,
+                "informação-extra": null,
                 "descrição": "Angélica Zapata Cabernet Sauvignon é um vinho elegante e complexo. De cor rubi vermelha profundo, o nariz é embalado com cereja vermelha madura e ameixa, pimenta preta e sabores subtis de eucaliptus. No palato, é um vinho complexo, intenso, bem estruturado, com pano macio, redondo, taninos long-persistente. Acabamentos com brinde delicado e sabores baunilha."
             },
             {
                 "nome": "Catena Zapata Alamos Seleccion Pinot Noir, 2021",
-                "preço": null,
+                "preço": 279.0,
+                "informação-extra": null,
                 "descrição": "Vinho jovem e frutado de corpo leve estagiado por 12 meses em barris de carvalho americano é delicado e sutil. Cheio de caráter e elegância."
             },
             {
                 "nome": "Caro Amancaya",
-                "preço": null,
+                "preço": 439.0,
+                "informação-extra": null,
                 "descrição": "\"Elaborado por uma associação de dois dos maiores nomes do mundo do vinho, Domaines Barons de Rothschild (Lafite) e Catena Zapata, Amancaya é um magnífico corte de Cabernet Sauvignon e Malbec, em um estilo elegante, bem francês. O bouquet é bastante complexo e sutil, mostrando várias nuances e aromas maduros, com carvalho muito fino, de excelente qualidade. No palato é encorpado e muito sofisticado. Um vinho de fantástica relação qualidade/preço, tem recebido excelentes notas da imprensa especializada.\""
             },
             {
                 "nome": "Alfredo Roca Fincas Syrah",
-                "preço": null,
+                "preço": 126.0,
+                "informação-extra": null,
                 "descrição": "\"Vinho de cor rubi com aroma de frutas vermelhas, negras e especiarias. No paladar, percebe-se muita fruta fresca, com taninos maduros e ótimo equilíbrio.\""
             },
             {
                 "nome": "Catena Zapata Dv Catena Cabernet Malbec",
-                "preço": null,
+                "preço": 394.0,
+                "informação-extra": null,
                 "descrição": "DV Catena Cabernet Sauvignon-Malbec é um vinho elegante e complexo, de cor vermelho rubi com reflexos violetas. No nariz apresenta-se intenso e concentrado, oferece notas de especiarias proporcionadas pelo Cabernet Sauvignon do vinhedo La Pirámide, e notas de amoras maduras e ameixas, características do Malbec do vinhedo Angélica, acompanhadas por baunilha, tabaco e licor adquiridas pelo envelhecimento em carvalho. Em boca, de entrada doce e boa complexidade, com taninos integrados e redondos, de final prolongado e persistente."
             },
             {
                 "nome": "Ernesto Catena Tahuan Malbec",
-                "preço": null,
+                "preço": 339.0,
+                "informação-extra": null,
                 "descrição": "Ótimo e saboroso Malbec elaborado por Ernesto Catena, de excelente relação qualidadepreço. Rico, exuberante, macio e encorpado, com boa complexidade."
             },
             {
                 "nome": "Catena Zapata El Enemigo Syrah",
-                "preço": null,
+                "preço": 445.0,
+                "informação-extra": null,
                 "descrição": "Excelente corte, se mostra com uma cor super atraente. Na boca é diferente, saboroso, com ótima acidez e persistente."
             },
             {
                 "nome": "Alfredo Roca Fincas Malbec, 2022",
-                "preço": null,
+                "preço": 129.0,
+                "informação-extra": null,
                 "descrição": "Cor vermelha bordô de excelente concentração e equilíbrio na boca, sobressaindo os taninos doces, combinados com sabores que lembram geléia, com boa permanência na boca."
             },
             {
                 "nome": "Susana Balbo Brioso",
-                "preço": null,
+                "preço": 386.0,
+                "informação-extra": null,
                 "descrição": "Notas de groselhas emolduradas por um toque sutil de baunilha, fornecido por sua passagem pelo carvalho francês. É um vinho exuberante e encorpado, com excelente concentração. Revela sabores intensos de groselhas, chocolate preto, tabaco e cedro, dando a este vinho um final longo e elegante."
             },
             {
                 "nome": "Alfredo Roca Malbec Merlot, 2023",
-                "preço": null,
+                "preço": 114.0,
+                "informação-extra": null,
                 "descrição": "Cor Vermelho rubi. Aroma de Frutas vermelhas maduras. Sabor seco, boa acidez, taninos macios, médio corpo e final agradável."
             },
             {
                 "nome": "NORTON SEXY FISH CABERNET FRANC",
-                "preço": null,
+                "preço": 132.0,
+                "informação-extra": null,
                 "descrição": "Produto Vinhedos de 15 anos de idade, fermentação em tanques de aço inoxidável, fermentação em tanques de concreto. Produtor Com mais de 125 anos de história, a Bodega Norton possui cinco vinhedos distribuídos pelos principais terroirs da província de Mendoza, no sopé da Cordilheira dos Andes, e todos dentro de uma área privilegiada conhecida como Primeira Zona, pela qualidade de suas uvas. Não é apenas a localização geográfica que influencia a qualidade dos vinhos, mas também a idade das vinhas. A idade média é de aproximadamente 30 anos, mas também possuem um grande número de hectares cultivados com vinhas com 80 anos.Forte presença em mais de 70 países 5° maior produtor de vinhos do mundo + de 150 premiações internacionais David Bonomi, enólogo do ano por Tim Atkin e Decanter (2019) Analise Sensorial VISUAL Tonalidade avermelhada com reflexos violáceos OLFATIVA No nariz destacam-se as notas de ameixas e figos, onde as notas maduras destacam a doçura no nariz, com toques de especiarias muito agradáveis GUSTATIVA Na boca sua entrada equilibrada surpreende onde a acidez está no ponto certo dando-lhe uma frescura elegante, além de seu grande volume na boca, agradavelmente sedoso e com um bom meio de boca"
             },
             {
                 "nome": "Norton Barrel Select Malbec",
-                "preço": null,
+                "preço": 169.0,
+                "informação-extra": null,
                 "descrição": "Clara cor rubi médio; Aromas de ameixa madura e groselha, juntamente com notas de anis e baunilha picante; Seco com corpo cheio, acidez equilibrada e estrutura firme; Fruta preta madura é reforçada por notas de baunilha e pimenta preta, e os sabores permanecem em um acabamento de comprimento médio."
             },
             {
                 "nome": "Norton Porteno Malbec , 2023",
-                "preço": null,
-                "descrição": ""
+                "preço": 119.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Luigi Bosca Paraíso",
-                "preço": null,
-                "descrição": "Argentina"
+                "preço": 1060.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Colomé State Malbec",
-                "preço": null,
+                "preço": 314.0,
+                "informação-extra": null,
                 "descrição": "Sofisticado e atraente, este Malbec argentino é elaborado na região de Salta, a partir de vinhedos de altitude e cultivo biodinâmico. Exibe fruta muito bem delineada, ameixas maduras e cerejas sobre tons de ervas e balsâmico. Concentrado e suculento, com taninos firmes. Final puro, intenso."
             },
             {
                 "nome": "LUIGI BOSCA MALBEC",
-                "preço": null,
+                "preço": 254.0,
+                "informação-extra": null,
                 "descrição": "Apresenta coloração vermelha rubi intensa, com aromas de frutos vermelhos maduros, notas de alcaçuz, flores e especiarias. Em boca é marcante e macio com taninos muito finos que respeitam as características da cepa na Argentina. Um tinto puro, de grande corpo, estrutura, caráter e toda a suculência típica da variedade. Permanência longa e final de boca elegante."
             },
             {
                 "nome": "La Posta Armando Bonarda",
-                "preço": null,
+                "preço": 295.0,
+                "informação-extra": null,
                 "descrição": "Elaborado com uvas de vinhedos plantados em \"pé franco\", sem enxerto, o delicioso Estela Armando Bonarda foi apontado pela Wine&Spirits como um dos poucos vinhos notáveis elaborados com a casta Bonarda. Um dos grandes tesouros da Argentina, recebe a assinatura da talentosa Laura Catena, responsável pelos vinhos de Luca e La Posta."
             },
             {
                 "nome": "Amalaya Malbec",
-                "preço": null,
+                "preço": 178.0,
+                "informação-extra": null,
                 "descrição": "Considerado um dos 20 melhores vinhos do mundo disponíveis no mercado inglês, abaixo de 20 libras. Safra após safra, o Amalaya encanta os apreciadores de Malbec, com seus aromas ricos, de morangos e amoras maduras, notas florais e terrosas, impressionante concentração de fruta e taninos suaves."
             },
             {
                 "nome": "Alfredo Roca Parcelas Originales Malbec",
-                "preço": null,
+                "preço": 176.0,
+                "informação-extra": null,
                 "descrição": "8 meses em barricas de carvalho"
             }
         ],
@@ -301,142 +358,168 @@
         "França": [
             {
                 "nome": "Paul Mas Claude Val Rouge",
-                "preço": null,
+                "preço": 169.0,
+                "informação-extra": null,
                 "descrição": "Cor rubi de média intensidade, com halo violáceo muito luminoso. Aromas marcados por ameixa e frutas vermelhas maduras, violeta e especiarias. Ataca o palato com maciez frutada, taninos polidos, fresco e com recordo final a alcaçuz."
             },
             {
                 "nome": "Whispering Angel Rose",
-                "preço": null,
+                "preço": 304.0,
+                "informação-extra": null,
                 "descrição": "Altamente acessível e agradável com uma ampla gama de culinária, Whispering Angel é um rosé premium que você pode beber do meio-dia à meia-noite. Criado por Sacha Lichine após sua aquisição do Château d’Esclans em 2006, sua visão era criar os maiores rosés do mundo incendiando o “Renascimento rosé”. Sacha introduziu novas e inovadoras técnicas de vinificação à Provença que revolucionaram os estilos de rosés que estão sendo produzidos a partir desta região."
             }
         ],
         "Portugal": [
             {
                 "nome": "Graham's 10 Anos",
-                "preço": null,
+                "preço": 630.0,
+                "informação-extra": null,
                 "descrição": "Cor âmbar profundo, complexo aroma a casca de laranja e frutos secos. No palato, concentrados sabores a fruta madura, harmoniosamente aveludado e um final longo e deleitoso."
             },
             {
                 "nome": "Graham's Fine Ruby",
-                "preço": null,
+                "preço": 324.0,
+                "informação-extra": null,
                 "descrição": "Cor rubi, pleno de aromas de frutos vermelhos e pretos. No palato, deliciosos sabores de cereja preta. Um excelente equilíbrio e um intenso final de boca."
             },
             {
                 "nome": "Domingos Alves De Sousa Cume Do Pereiro Douro",
-                "preço": null,
+                "preço": 159.0,
+                "informação-extra": null,
                 "descrição": "Cor rubi. Notas de morangos maduros e pimenta preta, formando um nariz bastante apelativo. Encorpado, harmonioso, cheio de fruta e um grande equilíbrio. Final com boa intensidade."
             },
             {
                 "nome": "Roques Quinta Do Correio Tinto Dão, 2021",
-                "preço": null,
+                "preço": 159.0,
+                "informação-extra": null,
                 "descrição": "No nariz, tem aromas bem agradáveis de frutas silvestres e um toque terroso, típico da região. Paladar fresco, boa acidez e final longo e saboroso. Vale a compra, principalmente para quem quiser conhecer a tipicidade desta região."
             },
             {
                 "nome": "Quinta Da Espiga Tinto, 2020",
-                "preço": null,
-                "descrição": ""
+                "preço": 109.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pintus Tinto",
-                "preço": null,
+                "preço": 119.0,
+                "informação-extra": null,
                 "descrição": "Bela cor vermelha. O sabor é bom para um vinho jovem que não tem um carácter único, o que o torna num alentejano genérico."
             },
             {
                 "nome": "Valflor",
-                "preço": null,
+                "preço": 139.0,
+                "informação-extra": null,
                 "descrição": "Coloração rubi brilhante. O aroma apresenta notas de fruta madura e compota. Paladar persistente, elegante e redondo."
             }
         ],
         "Chile": [
             {
                 "nome": "Carmen Insigne Carmenère",
-                "preço": null,
+                "preço": 179.0,
+                "informação-extra": null,
                 "descrição": "Saboroso tinto elaborado com a mais emblemática casta chilena, a Carménère, originária de Bordeaux e descoberta no Chile em Viña Carmen. É parcialmente barricado, para manter toda a exuberância da fruta."
             },
             {
                 "nome": "Bodegaza Gran Reserva Cabernet Sauvignon, 2021",
-                "preço": null,
+                "preço": 129.0,
+                "informação-extra": null,
                 "descrição": "Um maravilhoso Cabernet, produzido na região de Maule Valley com fermentação em aço inox com controle de temperatura por 7 dias, estabilizado e filtrado para manter toda fruta ,estagio em carvalho frances durante 8 meses."
             },
             {
                 "nome": "Terranoble Cabernet Sauvignon, 2023",
-                "preço": null,
+                "preço": 119.0,
+                "informação-extra": null,
                 "descrição": "Vinho de cor vermelho rubi brilhante com intensos aromas de frutas vermelhas, chocolate e notas de tabaco. Na boca traz um agradável sabor de frutas frescas, com taninos macios e acidez equilibrada. Seu final é longo e frutado."
             },
             {
                 "nome": "Caliterra Reserva Cabernet Sauvignon, 2008",
-                "preço": null,
+                "preço": 129.0,
+                "informação-extra": null,
                 "descrição": "\"Cor rubi intensa com nuanças violáceas. No nariz traz fruta madura (framboesa, cassis) e toques de café e tabaco. Voluptuoso, muito vivaz na acidez, conjunto que pode continuar oferecendo prazer numa média guarda.\""
             },
             {
                 "nome": "Caliterra Reserva Merlot",
-                "preço": null,
+                "preço": 129.0,
+                "informação-extra": null,
                 "descrição": "Cor violácea brilhante. O nariz é fresco e direto na fruta vermelha muito amável, com toques de café e tostado que ligam o conjunto. Completamente resolvido na boca, um vinho para desfrutar sem receio!"
             },
             {
                 "nome": "Caliterra Reserva Malbec, 2022",
-                "preço": null,
-                "descrição": "Chile"
+                "preço": 129.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Horse in the Cabernet Sauvignon , 2020",
-                "preço": null,
-                "descrição": ""
+                "preço": 109.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tantehue Cabernet Sauvignon",
-                "preço": null,
+                "preço": 109.0,
+                "informação-extra": null,
                 "descrição": "Os aromas destacam frutas vermelhas e negras, como framboesa, ameixa e amora. Na boca apresenta de forma equilibrada e suave. Final limpo e elegante."
             },
             {
                 "nome": "Memorias De Los Andes Reserva Pinot Noir",
-                "preço": null,
+                "preço": 165.0,
+                "informação-extra": null,
                 "descrição": "História do produtor: Situado há mais de 450 metros acima do mar, a vinícola fica aos pés dos Andes, com temperaturas que alternam entre dias quentes e noites frias, terrenos variados entre solos argilosos, areias e pedra, que transmitem para o vinhedo características muito particulares e diferenciadas, com grande potencial para a produção de grandes vinhos."
             }
         ],
         "África do Sul": [
             {
                 "nome": "De Wetshof Danie De Wet Pinotage Bio",
-                "preço": null,
+                "preço": 268.0,
+                "informação-extra": null,
                 "descrição": "Com a mesma elegância encontrada nos famosos brancos da vinícola De Wetshof, este novo Pinotage é macio e sedoso, sem perder o caráter varietal da emblemática casta sul-africana."
             },
             {
                 "nome": "STELLENBOSCH HILLS",
-                "preço": null,
+                "preço": 182.0,
+                "informação-extra": null,
                 "descrição": "O VINHO ESTAGIA POR 6 MESES EM BARRICAS DE CARVALHO FRANCÊS E AMERICANO. HARMONIZAÇÃO: CARNES VERMELHAS, AVES, MASSAS COM MOLHO E PIZZAS."
             }
         ],
         "Espanha": [
             {
                 "nome": "Muñoz Legado Muñoz Garnacha",
-                "preço": null,
+                "preço": 162.0,
+                "informação-extra": null,
                 "descrição": "3 meses em barricas novas de carvalho americano. De cor rubi concentrado. Aromas de groselhas confitadas, além de toques de baunilha, coco tostado e especiarias."
             },
             {
                 "nome": "Numanthia",
-                "preço": null,
+                "preço": 534.0,
+                "informação-extra": null,
                 "descrição": "Frutas negras, tostadas, balsâmicas, de especiarias e florais, tudo amparado por acidez refrescante e taninos intensos e firmes. O final é cheio e longo, com toques de ameixas, de tabaco e terrosos."
             }
         ],
         "Itália": [
             {
                 "nome": "Luccarelli Old Vines Primitivo De Manduria Doc",
-                "preço": null,
+                "preço": 558.0,
+                "informação-extra": null,
                 "descrição": "Vinho de cor púrpura intenso com aromas de ameixa e cereja, completados por notas de tabaco, chocolate e delicadas notas de pimenta. No paladar é seco, porém, aveludado, com taninos finos e macios, um toque de baunilha e café no retro-gosto. Muito persistente."
             },
             {
                 "nome": "Luccarelli Primitivo Puglia",
-                "preço": null,
+                "preço": 182.0,
+                "informação-extra": null,
                 "descrição": "Vermelho rubi muito intenso. Análise Olfativa: frutas escuras (ameixa e cereja), ervas finas (alecrim) e notas de baunilha. Análise Gustativa: seco, corpo médio, boa acidez, taninos macios, com final persistente."
             },
             {
                 "nome": "Villa Cardeto Sangiovese Umbria",
-                "preço": null,
+                "preço": 194.0,
+                "informação-extra": null,
                 "descrição": "Vermelho rubi. No nariz é simples e agradável, cereja e eve pimenta. Na boca é leve, com forte acidez e taninos finos, em equilíbrio. O paladar era mais uma vez frutado e apimentado, sendo a persistência boa."
             },
             {
                 "nome": "Magma Primitivo di Manduria DOP",
-                "preço": null,
+                "preço": 328.0,
+                "informação-extra": null,
                 "descrição": "Rico e aromático, este vinho remete a cerejas e frutas de bosque, além de toques de violeta e de especiarias. É encorpado e muito saboroso, com acidez bem dosada e taninos finos."
             }
         ],
@@ -444,19 +527,22 @@
         "Uruguai": [
             {
                 "nome": "Pisano Cisplatino Tannat",
-                "preço": null,
+                "preço": 252.0,
+                "informação-extra": null,
                 "descrição": "Tinto uruguaio elaborado com as uvas Tannat, que amacia e firme estrutura tânica da casta ícone do Uruguai. Na boca é potente, com amplos aromas. Um vinho de ótima relação qualidade / preço."
             },
             {
                 "nome": "Montes Toscanini Carlos Montes Tannat",
-                "preço": null,
+                "preço": 249.0,
+                "informação-extra": null,
                 "descrição": "O aspecto visual é de uma cor rubi intensa e madura. Aromas complexos e elegantes, couro, café, tabaco, em um fundo de frutas vermelhas muito maduras, e madeira muito bem fundida. Sabor intenso e sedoso despejando grande complexidade. Taninos muito maduros e afinados, mas uniformes. De final longo e morno. Mantém-se com firmeza para confirmar a sua distinção."
             }
         ],
         "Nova Zelândia": [
             {
                 "nome": "Cloudy Bay Pinot Noir",
-                "preço": null,
+                "preço": 466.0,
+                "informação-extra": null,
                 "descrição": "Fundada em 1985, Cloudy Bay foi um dos cinco primeiros produtores de vinho a se aventurar em Marlborough. Na época, era um lugar quase inimaginável para montar um vinhedo. Mas o fundador da Cloudy Bay - David Hohnen - estava convencido do seu potencial para produzir um vinho e investiu terras da região. Desde então, Marlborough cresceu e se tornou a principal região vinícola da Nova Zelândia, bem como um dos melhores vinificação do mundo. A vinícola ou nome de Cloud Bay recebeu um corpo de explorador de água ou capitão James Cook localizado durante sua viagem de Nova Zelândia em 1770.Percebendo a aparência opaca da água, Cook habilmente batizou a área de Cloudy Bay. Hoje, Cloudy Bay não apenas captura a essência de Marlborough, mas também incorpora o luxo da Nova Zelândia para o mundo. O luxo do espaço e do tempo, dos momentos íntimos e das qualidades mais raras da natureza."
             }
         ]
@@ -465,143 +551,170 @@
         "Coquetéis Clássicos": [
             {
                 "nome": "Moscow Mule",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Vodka, limão e espuma de gengibre"
             },
             {
                 "nome": "Mojito",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Bacardí rum, hortelã, açúcar, limão e club soda"
             },
             {
                 "nome": "Aperol Spritz",
-                "preço": null,
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Aperol, espumante e laranja"
             },
             {
                 "nome": "Margarita",
-                "preço": null,
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Apple Martine",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Vodka, xarope artesanal de maçã e cointreau"
             },
             {
                 "nome": "Batidinha",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Vodka e mix de coco artesanal feito na casa com coco fresco."
             },
             {
                 "nome": "Dry Martini",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Clericquot Taça",
-                "preço": null,
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Espumante rosé, elderflower, cognac, abacaxi, maçã e cítricos"
             },
             {
                 "nome": "Negroni",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Signature Tragga": [
             {
                 "nome": "GTea",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Yvy Mar gin, xarope de hibisco e violeta com framboesa, tônica e espuma de gengibre"
             },
             {
                 "nome": "Ginger Bramble",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Yvy Mar gin, gengibre, limão taiti, xarope artesanal de amora"
             },
             {
                 "nome": "Gaeta",
-                "preço": null,
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Gin, Lillet, licor 43 com avelã, suco de abacaxi e purê de framboesa"
             },
             {
                 "nome": "BERGAMOTA SMASH",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Gin, suco de tangerina, marmelada de tangerina, gengibre, tônica, manjericão e canela"
             },
             {
                 "nome": "PINK LADY GINGER",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Beefeater Pink, framboesa, abacaxi, limão siciliano, Cointreau e espuma de gengibre."
             },
             {
                 "nome": "ROSÉ TROPICAL",
-                "preço": null,
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Absolut Raspeberri, Lillet Rosé, melancia, limão-taiti e espumante."
             },
             {
                 "nome": "SCOTTISH LUCK",
-                "preço": null,
+                "preço": 56.0,
+                "informação-extra": null,
                 "descrição": "The Glenlivet Founders, Amaro Ramazzotti, hortelã, limão-taiti e abacaxi."
             },
             {
                 "nome": "LONDON PEAR SPRITZ",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Beefeater London Dry, hortelã, purê de pêra, limão siciliano e espumante brut."
             },
             {
                 "nome": "CITRUS ZEST",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Absolut Citron, tangerina, limão siciliano, manjericão verde, Yuzu e ginger ale."
             },
             {
                 "nome": "PORN STAR MARTINI",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Vodka de vanilla, espumante, maracujá, limão e espuma de frutas amarelas."
             },
             {
                 "nome": "SKYLINE MARGARITA",
-                "preço": null,
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Tequila, limão, licor de pêssego e xarope de amora."
             }
         ],
         "Jarras": [
             {
                 "nome": "Sangria",
-                "preço": null,
+                "preço": 139.0,
+                "informação-extra": null,
                 "descrição": "Vinho tinto, espumante, cognac, frutas vermelhas e cítricos"
             },
             {
                 "nome": "Clericquot",
-                "preço": null,
+                "preço": 139.0,
+                "informação-extra": null,
                 "descrição": "Espumante rosé ou vinho branco, elderflower, cognac, abacaxi, maçã e cítricos"
             }
         ],
         "Caipis": [
             {
                 "nome": "Cachaça Nacional",
-                "preço": null,
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Caip Sake",
-                "preço": null,
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vodka Nacional Orloff",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "A vodka Orloff foi a primeira vodka a ser produzida no Brasil. Lançada nos anos 60, hoje é a segunda maior marca de vodka no país. Se destaca pela pureza e suavidade sem igual, reflexo de seu processo de produção. Orloff é a única vodka 5x destilada dentro da sua categoria no país, atendendo ao paladar mais exigente. Uma marca jovem, divertida. Orloff pode ser tomada pura ou em diversos drinks"
             },
             {
                 "nome": "Absolut",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "A Absolut Vodka, utilizando a mesma receita de quando foi produzida pela primeira vez em 1879, é um tributo aos 100 anos de criação da marca, e suas maiores características são a ausência de açúcar e sua única fonte de produção: Åhus, na Suécia, o que garante que cada garrafa aberta ao redor do mundo possua o padrão de qualidade de Absolut. É proibida a venda e consumo de bebidas alcoólicas para menores de 18 anos. Beba com moderação. Se beber não dirija."
             },
             {
                 "nome": "Caip Absolut Elyx",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "A Vodka Absolut vem em uma elegante garrafa, possui um sabor fresco, com notas florais frutadas e uma textura macia. Uma vodka premium de alta qualidade e muita sofisticação."
             }
         ]
@@ -610,321 +723,380 @@
         "Cervejas": [
             {
                 "nome": "Chopp Brahma",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chopp Patagônia",
-                "preço": null,
+                "preço": 26.9,
+                "informação-extra": null,
                 "descrição": "470ml"
             },
             {
                 "nome": "Antarctica Original",
-                "preço": null,
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Original é uma cerveja do tipo pilsen, de cor clara e baixa fermentação. Seu sabor, aroma e amargor são suaves, mas com personalidade."
             },
             {
                 "nome": "Cerveja Puro Malte Spaten",
-                "preço": null,
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Cerveja Puro Malte Spaten Garrafa 600ml"
             },
             {
                 "nome": "Stella Artois",
-                "preço": null,
+                "preço": 17.0,
+                "informação-extra": null,
                 "descrição": "Stella Artois, uma das marcas de cerveja mais conceituadas e antigas do mundo. Comercializada em mais de 80 países, a cerveja, originária da Bélgica - e agora também produzida no Brasil-, conquistou a maioria de seus adeptos no segmento de luxo e tornou-se um dos ícones do mercado europeu"
             },
             {
                 "nome": "Cerveja Stella Artois Pure Gold 330ml",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beck's",
-                "preço": null,
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "A Cerveja Becks é uma legítima German Lager Puro Malte que segue a risca a Lei da Pureza da Cerveja desde 1873. Seu IBU (Unidade Internacional de Amargor) é 20. O resultado é uma cerveja de amargor intenso, sabor marcante e excepcional pureza. Ela é provocante, cheia de personalidade com um sabor característico e único. É a German Lager mais vendida no mundo."
             },
             {
                 "nome": "Cerveja Corona Cero Sunbrew 330ml",
-                "preço": null,
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "Corona Cero Sunbrew é uma American Lager, de sabor leve e muito refrescante, feita com o mesmo cuidado e qualidade da clássica Corona. É a primeira cerveja sem álcool com adição de vitamina D do mundo e contém apenas 48 calorias por long neck. É uma ótima escolha para se harmonizar com pratos leves e frescos como saladas de frutos do mar, ostras, camarão ao alho e óleo e peixe grelhado."
             }
         ],
         "Gin Tônica Classicos": [
             {
                 "nome": "Beefeater",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Gin Beefeater London Dry É o único Premium Gin destilado em Londres. Conhecido como London Dry Gin. Exportado para 170 países e líder em mais de 40 mercados. Está entre as marcas de bebidas mais consumidas no mundo. Características: Origem: Inglaterra. Graduação Alcoólica: 47% vol. Volume: 750 ml."
             },
             {
                 "nome": "Beefeater 24",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Gin Beefeater 24 É um gin único, distinto de qualquer outro. Seu processo de produção é artesanal, e envolve a infusão de 12 botânicos cuidadosamente selecionados, incluindo chás, por 24 horas antes de ser destilado. O resultado é um gin com uma suavidade incrível, tornando o Beefeater 24 facilmente misturável e perfeito para a cultura moderna de drinks. O aroma do Beefeater 24 é limpo e com toques cítricos, assim como o sabor, resultado da adição de casca de grapefruit. A garrafa do gin Beefeater 24 é inspirada na Era Vitoriana, com o intuito de reforçar sua ligação do moderno com o clássico."
             },
             {
                 "nome": "Monkey 47",
-                "preço": null,
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "Gin Monkey 47 Monkey 47 é um gin raro, produzido na Floresta Negra na Alemanha, destilado em pequenos lotes numerados e não filtrado, composto por 47 botânicos, alguns deles bem incomuns. Um gin que une tradições britânicas, o exótico da Índia e a pureza e autenticidade da Floresta Negra. Monkey 47 é caracterizado pelas suas notas florais; o frescor de fortes frutas cítricas; uma clara presença de zimbro e um paladar picante. O Monkey 47 é melhor apreciado puro ou com tônica e uma rodela de grepe fruit / toranja."
             }
         ],
         "Cachaças (dose)": [
             {
                 "nome": "Cachaça Aviador High Level Exclusive 3 Anos Extra Premium",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "A Cachaça Aviador High Level Exclusive 3 anos é uma experiência única que combina tradição e sofisticação. Destilada com maestria e envelhecida durante 3 anos em tonéis de Carvalho Francês, esta cachaça Extra Premium oferece uma harmonia de sabores refinados. Seu perfil complexo revela notas suaves de baunilha e especiarias com toques amadeirados, resultando em uma bebida suavemente equilibrada e irresistivelmente encorpada. Este destilado exclusivo é o reflexo da dedicação à qualidade, tornando-a a escolha ideal para apreciadores exigentes em busca de uma experiência envelhecida e inigualável."
             },
             {
                 "nome": "Cachaça Aviador Premium Blend Amburana e Carvalho",
-                "preço": null,
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Tradição e qualidade sempre fizeram parte da família Aviador. Somos produtores de cana de açúcar desde aproximadamente 1850 na Serra da Ibiapaba no estado do Ceará, com pioneiros na produção de cachaça orgânica feita artesanalmente. Tendo em vista os seus valores e princípios a família Aviador busca sempre a qualidade de seus produtos com conhecimentos e sustentabilidade na produção, além de desenvolver trabalhos sociais que conectam pessoas com o mundo. A produção da cachaça aviador tem seu diferencial devido a união de todo o conhecimento sobre o processo de fabricação, que vai desde o preparo do solo até o envasamento, com o clima ameno e o solo propício de Viçosa do Ceará. Além disso, a matéria prima é cultivada organicamente e de forma manual o que garante uma alta qualidade no produto final."
             },
             {
                 "nome": "Cachaça Brasileira Tellura Prata",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Armazenada por 6 meses em Aço Inox. Tellura,Prata é uma cachaça arte,destilada em alambiques de cobre,elaborada segundo os processos desenvolvidos há décadas pelos melhores especialistas.Sabor equilibrado e com personalidade para degustar pura ou em drinks."
             },
             {
                 "nome": "Cachaça Tellura Jequitibá Rosa E Amburana",
-                "preço": null,
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Cachaça Tellura Jequitibá Rosa E Amburana"
             }
         ],
         "Vodkas (dose)": [
             {
                 "nome": "Vodka Absolut",
-                "preço": null,
+                "preço": 29.0,
+                "informação-extra": null,
                 "descrição": "A Absolut Vodka de 0,75l é uma vodka sueca feita exclusivamente a partir de ingredientes naturais encontrados exclusivamente em Ähus na Suécia, e, ao contrário de algumas outras vodkas, ela não contém açúcar. A ausência de açúcar é um dos pontos que mais diferencia a Vodka Absolut das demais, oferecendo sabor puro e único. De fato, a Absolut é tão limpa quanto uma vodka pode ser, sendo perfeita para união de sabores com diversas misturas, como, frutas, refrigerantes e sucos. Ainda assim mantem um certo sabor característico: rico, encorpado e complexo, mas ao mesmo tempo suave e aveludado com um caráter distinto de grãos, seguido por um toque de frutas secas. Tudo começou em 1879, quando Lars Olsson Smith introduziu o processo de destilação contínua. Através deste processo, a vodka passou a ser destilada infinitas vezes, aumentando assim sua pureza. Todo o processo é realizado de forma minuciosa e da mesma maneira a mais de 100 anos. Absolut Vodka de 0,75l possui uma graduação alcoólica de 40%."
             },
             {
                 "nome": "Absolut Elyx",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Vodka Absolut Elyx A vodka Absolut estudou por quase 10 anos como elaborar um novo conceito de vodka. Sendo assim, criaram a Absolut Elyx, produzida com a união perfeita de combinação perfeita de trigos selecionados a mão e água filtrada e destilada naturalmente. Produzida em pequenos lotes, segue as técnicas tradicionais. Possui sabor limpo e fresco com tons florais frutados e uma textura incrivelmente macia. É uma vodka premium de elegância, é a verdadeira expressão de qualidade e sofisticação."
             },
             {
                 "nome": "vodka Nacional",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Whisky": [
             {
                 "nome": "CHIVAS 12Y",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Whisky Chivas 12 anos O Chivas 12 anos é um clássico whisky de puro malte fabricado em Speyside, desde 1786, na destilaria de Strathisla, a mais antiga das Highlands escocesas. A combinação de blends únicos não disponíveis para venda e o malte de Longmorn são os segredos do sucesso deste Premium Blended Scotch Whisky 12 anos. Atualmente, Chivas Regal é um dos whiskies mais renomados e vendidos do mundo, e é sinônimo de qualidade, luxo e sofisticação onde quer que seja apreciado. O sabor multifacetado do Chivas 12 revela um aroma de maçã e de frutas, seguido do adocicado do mel, notas de baunilha, amêndoas e uma suavidade que perdura no paladar. O sabor único do whisky Chivas 12 permite que ele seja consumido puro ou em drinks."
             },
             {
                 "nome": "CHIVAS 13Y",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Whisky Chivas Regal 13 anos Extra A edição especial do Chivas de 13 anos, American Sherry Cask, leva o estilo inigualável da casa Chivas e amplia as doces e delicadas notas de baunilha deste Blended Scotch Whisky de 13 anos, finalizando-o seletivamente em barris de American Rye Whisky. Excepcionalmente suave e maduro, com sabores de laranja cítrica doce e suculenta, chocolate de leite cremoso e um toque de canela."
             },
             {
                 "nome": "CHIVAS 15Y",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Whisky Chivas Regal 15 anos 750 ml. Este scotch whisky desafia as convenções de como e onde beber scotch whisky. O uso dos barris de conhaque confere a esta novidade notas mais aveludadas e refinadas, abrindo um universo inteiro de possibilidades para criação de drinks e receitas contemporâneas, para que você experimente a bebida de novas maneiras na hora de celebrar momentos especiais. Chivas XV é envelhecido por no mínimo 15 anos e finalizou em tonéis de Grande Champagne Cognac selecionados, reunindo dois dos mais prestigiosos espíritos do mundo para combinar perfeitamente tradição e inovação. O uso de barris de Grande Champagne Cognac oferece uma interpretação rica, refinada e aveludada do tradicional estilo da casa Chivas. Esta combinação oferece o perfil de sabor perfeito para uma ampla variedade de estilos, incentivando os fãs de whisky a desfrutarem do seu espírito favorito de uma forma totalmente nova, indo do whisky puro a coquetéis projetados para enfatizar a qualidade e o sabor rico durante celebrações de energia. O Chivas XV, batizado com o nome da idade, apresenta um novo visual contemporâneo, ao mesmo tempo em que compartilha a mesma forma de garrafa icônica que ajuda a tornar os whiskies Chivas reconhecidos em todo o mundo. O Chivas XV está disponível em dois formatos para atender diferentes ocasiões: uma atraente garrafa ouro se destaca da multidão durante os momentos de comemoração, enquanto uma garrafa transparente com uma sofisticada caixa dourada faz a perfeita compra para presentes."
             },
             {
                 "nome": "CHIVAS 18Y",
-                "preço": null,
+                "preço": 74.0,
+                "informação-extra": null,
                 "descrição": "Whisky Chivas Regal 18 anos Lançado em 1997, este uísque é feito a partir da combinação dos mais puros uísques de grãos e maltes, cada um deles, envelhecido em barris especiais de carvalho por 18 anos ou mais. Uísque de sabor excepcionalmente rico e suave com um paladar aveludado de chocolate escuro com notas florais elegantes. O uísque vende 120 mil caixas por ano no mundo."
             },
             {
                 "nome": "ROYAL SALUTE SIGNATURE 21Y",
-                "preço": null,
+                "preço": 149.0,
+                "informação-extra": null,
                 "descrição": "Chivas Royal Salute foi lançado no dia 2 de Junho de 1953, como um tributo para a Rainha Elizabeth II no seu dia de Coroação. O nome deste Uísque Escocês excepcional vem do nome da Arma de Saudação Real, que é disparada em sinal de respeito para dignitários poderosos. Seu nome \"Royal Salute\", significa \"Saúde Real\". Este uísque rico e complexo representa o casamento perfeito de uísques de malte, cada um dos quais foi envelhecido individualmente em barris de carvalho durante 21 anos. Royal Salute é apresentado em garrafas de porcelanas feitas à mão nas cores Vermelho Grená, Verde ou Azul que são verdadeiras peças de coleção. Sabor único e encorpado, é recomendado para pessoas que apreciam este tipo de bebida."
             },
             {
                 "nome": "THE GLENLIVET FOUNDERS",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Whisky Glenlivet Founders Reserve É o single malt que deu origem a todos os demais. É a mais antiga destilaria legal situada na paróquia de Glenlivet, em Speyside na Escócia. Foi fundada em 1824 e tem operado quase continuamente desde então. O sabor suave, cremoso e equilibrado do single malt The Glenlivet Founder's Reserve é o resultado de uma seleção especial de barris para maturação. São utilizados tradicionais barris de carvalho em conjunto com barris americanos de primeiro uso. Já o aroma do Founder's Reserve possui graciosos aromas frutados e florais."
             },
             {
                 "nome": "THE GLENLIVET CARIBBEAN",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Whisky Glenlivet Caribbean Reserve Single Malt Whisky e Verão? Porque não. Explore o Caribbean Reserve. Suave com um toque tropical. Para criar whisky com notas tropical, a Glenlivet finalizou uma porção do seu suave whisky em barris que anteriormente continham rum das Caraíbas. O resultado é um whisky bem equilibrado e excepcionalmente suave. Nariz com notas doces de pêra e maçã vermelha numa fabulosa mistura tropical com xarope de bananas maduras. Ousado e suave com notas ricas de caramelo, seguidas de sabores a fruta tropical. Final bem equilibrado e excepcionalmente suave."
             }
         ],
         "American & Irish Whiskeys": [
             {
                 "nome": "Jameson",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "o whiskey jameson foi criado por john jameson em 1780 e mantem a mesma receita e qualidade até hoje. Jameson tem um leve buquê floral, apimentado por madeiras aromáticas e notas adocicadas. é produzido em tonéis de bourbon e de xerez e conta com uma cuidadosa tripla destilação. Além disso, jameson é um whiskey blended, ou seja, selecionamos os melhores whiskeys produzidos em alambiques e com cereais de qualidade. Em seguida, eles são triplamente destilados para garantir sua suavidade característica. Ingredientes: combinação de malte whiskies e destilado alcoólico simples de cereais (grain whiskey) envelhecidos e água. Sugestão de drink: tea & lime: em um copo com gelo adicione 50ml de jameson; em seguida adicione 200ml de chá de pêssego; para finalizar, esprema 1/8 de limão tahiti, Podendo jogá-lo dentro do drink após ser espremido. Whiskey irlandês"
             },
             {
                 "nome": "JAMESON IPA",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Jameson Caskmates Ipa é uma edição de Jameson Irish Whiskey, envelhecido em barris de cerveja artesanal Ipa (Indian Pale Ale), proporcionando um toque de lúpulo. Os barris, após armazenarem a cerveja, foram reutilizados para maturar novamente o whiskey. O Master Distiller observou que a essência suave de Jameson harmonizava-se perfeitamente com a cerveja, resultando em um whiskey ideal para acompanhar a bebida."
             }
         ],
         "Cognac": [
             {
                 "nome": "MARTELL V.S.O.P",
-                "preço": null,
+                "preço": 58.0,
+                "informação-extra": null,
                 "descrição": "Cognac francês clássico, denso e rico. Seu corpo se mantém mesmo misturado ou com gelo. Possui uma cor âmbar dourado. Seu aroma é de uvas leves, madeira com um toque de baunilha, finesse e personalidade. No paladar é suave e abrandado com alguma complexidade, sabor de frutas secas, uma sugestão adocicada e uma boa duração."
             }
         ],
         "Licores e Aperitivos": [
             {
                 "nome": "Amaretto",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Amaretto é um licor originário da Itália, feito da infusão básica de damascos e caroços de drupas, tais como pêras. Apesar de possuir apenas 10% de amêndoas, estas sempre se sobressaem no seu sabor."
             },
             {
                 "nome": "Baileys",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Licor irlandês elaborado a partir do casamento natural do puro creme de leite irlandês, com o melhor whisky irlandês e dos sabores naturais de cacau e baunilha, isto tudo misturado com perfeição, utilizando os mais modernos equipamentos de alta tecnologia, num processo que apesar de simples é altamente secreto."
             },
             {
                 "nome": "Amarula",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Licor africano elaborado a partir da destilação da fruta Marula e misturado a um creme fresco. Trata-se de um dos mais sofisticados licores Premium, um produto de textura cremosa, estável, de paladar macio e saboroso."
             },
             {
                 "nome": "Cointreau",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Licor fino, elaborado a partir de um blend único de cascas de laranjas doces e amargas em um processo controlado. Produto de reconhecimento mundial, Cointreau é uma bebida cristalina e transparente, com ricos aromas e sabor aveludado."
             },
             {
                 "nome": "Frangelico",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Licor italiano Frangelico é originário da região de Piemonte, no norte da Itália, tem como marca registrada sua garrafa em forma de monge. Seus principais ingredientes são avelãs e ervas finas. Pode ser degustado puro, com limão e gelo ou em diversos coquetéis."
             },
             {
                 "nome": "Limoncello",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Limoncello é um licor de limão produzido originalmente no sul da Itália, mas também é produzido na Sicília e na Sardenha. É feito à base de limão, álcool, água e açúcar."
             },
             {
                 "nome": "Licor 43",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Licor espanhol derivado de frutas cítricas e plantas aromáticas. Sua história recente começa com a descoberta, por Diego Zamora S.A., em 1924, de um método secreto de refinar o primitivo licor para torná-lo mais suave e delicioso, por meio da adição de ingredientes especiais e obtenção de maior precisão na mistura. O resultado foi o Licor Cuarenta y Tres, composto por 43 ingredientes de primeiríssima qualidade."
             },
             {
                 "nome": "Campari",
-                "preço": null,
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "Bebida alcoólica bitter servida como aperitivo, obtida pela infusão de sessenta ingredientes, combinados e macerados num malte de água destilada e álcool."
             },
             {
                 "nome": "Bacardi Ouro",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Bebida composta a partir de destilado alcoólico de melaço envelhecido simples. Bacardi Ouro é âmbar na cor, amadurecido e suave com aromas de vanilla e nozes. Apresenta também notas picantes de frutas tropicais, com um toque final de carvalho."
             },
             {
                 "nome": "Bacardi Prata",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Elaborado a partir de destilado alcoólico simples de melaço envelhecido. O Bacardi Carta Blanca é o principal representante da origem, arte e autenticidade de Bacardi. Desde 1862, ele carrega o \"Bat Device de Bacardi\" como seu símbolo. A sua personalidade é latina e caribenha, o que dá à marca um ponto de vista incomparável."
             },
             {
                 "nome": "Drambuie",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Traz a tradição de 250 anos de história: era o licor pessoal do Príncipe Edward Stuart, que numa tentativa mal sucedida de reaver o trono britânico, fugiu para a França auxiliado pelo Capitão John Mackinnon. Em reconhecimento a sua lealdade, Charles presenteou Mackinnon com a fórmula secreta de Drambuie. O nome Drambuie deriva da frase Gaélica: \"An dram buidheach\", que significa bebida que satisfaz a anos. Por que não experimentar Drambuie como um drinque refrescante? Pegue um copo alto, encha com cubos de gelo, despeje generosas porções de Drambuie, acrescente água com gás e depois esprema duas fatias de limão. Essa é uma mistura simples e deliciosa! Uma receita mantida em segredo desde 1745. Composição: Licor a base de Whisky. Origem: Escócia Graduação alcoólica: 40% vol. Volume: 750 ml. A marca no mundo: DRAMBUIE, o terceiro licor mais vendido do mundo, é uma marca premium produzida 100% à base de uísques, feito de um único “blend” com maltes acima de 30 anos. Composto por ingredientes refinados cuidadosamente misturados à qualidade de uísques de primeira linha, sempre representou e representará um produto clássico e consistente, vendido em mais de 150 países do mundo."
             }
         ],
         "RUM": [
             {
                 "nome": "HAVANA CLUB 03Y",
-                "preço": null,
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Rum Havana Club Anejo Blanco 3 anos é eferência mundial em rum. É o único rum cubano exportado sendo envelhecido por 3 anos em barris de carvalho. Este belo rum é feito com cana de açúcar cultivada nas mais férteis terras de Cuba, resultando em um dos mais finos e requintados rums de todo o mundo."
             },
             {
                 "nome": "HAVANA CLUB 07Y",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Rum Havana Club Anejo 7 anos é eferência mundial em rum premium."
             }
         ],
         "Tequila": [
             {
                 "nome": "José Cuervo Silver",
-                "preço": null,
+                "preço": 28.0,
+                "informação-extra": null,
                 "descrição": "Tequila José Cuervo Prata Silver Foi introduzida no mercado em 2003, de sabor suave, refrescante e levemente doce, é uma tequila branca, fruto de mistura de tequilas jovens e tequilas amadurecidas em barris de carvalho. Combina perfeitamente com margaritas, frozen margaritas, variados drinks, misturas com refrigerantes ou sucos com gelo."
             },
             {
                 "nome": "José Cuervo Gold",
-                "preço": null,
+                "preço": 28.0,
+                "informação-extra": null,
                 "descrição": "Tequila José Cuervo Ouro É o resultado da combinação de Tequilas “Jovens”, sem envelhecimento, com Tequilas “Reposado”, envelhecidas por no mínimo 6 meses em barris de carvalho. Possui sabor Amadeirado, levemente doce, com notas de Agave e baunilha."
             }
         ],
         "Bebidas": [
             {
                 "nome": "Água Mineral",
-                "preço": null,
+                "preço": 9.9,
+                "informação-extra": null,
                 "descrição": "Com ou sem gás."
             },
             {
                 "nome": "S.Pellegrino",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Origem: Lombardia, norte da Itália, desde 1889. Tipo: Água mineral naturalmente gasosa Elegante, equilibrada e agradável, é a água reconhecida como símbolo do estilo italiano de ser. Ideal para acompanhar e valorizar vinhos tintos, vinhos rosés e pratos a base de carne. Experimente o equilíbrio das borbulhas de S.Pellegrino, dos Alpes italianos para a sua mesa."
             },
             {
                 "nome": "Acqua Panna",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Origem: Toscana, Itália, desde 1564 Tipo: Água mineral natural sem gás Suave, aveludada e delicada é a água preferida dos grandes Chefs e Sommeliers. Acompanha e valoriza vinhos brancos e pratos leves. Experimente a leveza de Acqua Panna, das colinas da Toscana para sua mesa."
             },
             {
                 "nome": "Refrigerantes",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sucos",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco de Tomate",
-                "preço": null,
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sucos Especiais",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco de Uva Integral",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Refrescante não alcoolicos": [
             {
                 "nome": "GINGER FRESH",
-                "preço": null,
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Refrigerante de gengibre, limão, espuma de gengibre e hibisco."
             },
             {
                 "nome": "STRAWBERRY",
-                "preço": null,
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Purê de morango, suco de laranja, xarope de violeta com hibisco, club soda e espuma de frutas amarelas."
             },
             {
                 "nome": "TANJAL",
-                "preço": null,
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Xarope de siciliano com graviola, tangerina e club soda"
             },
             {
                 "nome": "Soda italiana (Consulte sabores)",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Maça verde Tangerina Limão siciliano Melancia Grenadine ou Amora Toranja"
             },
             {
                 "nome": "Mate da Casa",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "480ml"
             },
             {
                 "nome": "Mate com frutas amarelas",
-                "preço": null,
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "Mate com gengibre e espuma de frutas amarelas."
             }
         ],
         "Cafeteria": [
             {
                 "nome": "Chá",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café Nespresso",
-                "preço": null,
+                "preço": 9.9,
+                "informação-extra": null,
                 "descrição": "Escolha entre: Nespresso Leggero, Ristretto ou Descafeínado."
             }
         ]
@@ -933,480 +1105,570 @@
         "Menu Executivo": [
             {
                 "nome": "Filé Mignon em tiras, com linguinni de Cogumelos trufado e alho poró",
-                "preço": "R$ 76,00",
-                "descrição": ""
+                "preço": 76.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coxa e Sobrecoxa",
-                "preço": "R$ 56,00",
-                "descrição": ""
+                "preço": 56.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Frango Crocante",
-                "preço": "R$ 64,00",
+                "preço": 64.0,
+                "informação-extra": null,
                 "descrição": "Recheado com queijo"
             },
             {
                 "nome": "Bombom Argentino",
-                "preço": "R$ 74,00",
-                "descrição": ""
+                "preço": 74.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Polpetone grelhado",
-                "preço": "R$ 62,00",
+                "preço": 62.0,
+                "informação-extra": null,
                 "descrição": "(Blend angus, recheado com queijo sob pomodoro)"
             },
             {
                 "nome": "Bife à Milanesa",
-                "preço": "R$ 68,00",
-                "descrição": ""
+                "preço": 68.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filé Mignon",
-                "preço": "R$ 84,00",
+                "preço": 84.0,
+                "informação-extra": null,
                 "descrição": "200g"
             },
             {
                 "nome": "Filé de Tilápia",
-                "preço": "R$ 69,00",
-                "descrição": ""
+                "preço": 69.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": null,
                 "descrição": "Acompanhado com molho de ervas"
             },
             {
                 "nome": "Copa Lombo",
-                "preço": "R$ 62,00",
+                "preço": 62.0,
+                "informação-extra": null,
                 "descrição": "Com molho agridoce"
             },
             {
                 "nome": "Picadinho da Casa",
-                "preço": "R$ 66,00",
+                "preço": 66.0,
+                "informação-extra": null,
                 "descrição": "Com molho roti , e ovo pochê"
             },
             {
                 "nome": "Escolha 2 Acompanhamentos",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Salada mista (Alface, tomate e cebola roxa) / Pupunha com flor de sal / Arroz branco | Arroz de brócolis C Arroz parrileiro/ Batata frita | Linguini alho e oleo| Legumes à provençal | Purê de baroa | Batata doce salteada na manteiga clarificada | Risoto de Parmesão com açafrão /Farofa de ovos/ creme de milho"
             },
             {
                 "nome": "Sobremesas",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Sobremesa da Semana ou Fruta da Estação"
             }
         ],
         "Antepasto": [
             {
                 "nome": "Antepasto",
-                "preço": "R$ 89,00",
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "Manteiga, chutney de tomate e de abacaxi, queijo de cabra Genovese, parmesão quebrado, cubos de provolone, jamón, queijo de cabra petit, linguiça de costela, picles de cebola roxa, picles de pepino e pão de campo."
             }
         ],
         "Entradas": [
             {
                 "nome": "Los Hermanos",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Cubos crocantes de tapioca e provolone servidos com geléia de pimenta"
             },
             {
                 "nome": "Carpaccio de Filé Mignon",
-                "preço": "R$ 62,00",
-                "descrição": ""
+                "preço": 62.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bruschetta de Cogumelos",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Shimeji e shitake trufados, alho poró e ovo pochê"
             },
             {
                 "nome": "Steak Tartar",
-                "preço": "R$ 69,00",
-                "descrição": ""
+                "preço": 69.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bolinhos de Gorgonzola Trufado",
-                "preço": "R$ 46,00",
-                "descrição": ""
+                "preço": 46.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mini Burger",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Acompanha maionese trufada e Shiracha (04 und)"
             },
             {
                 "nome": "Croquetes",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Croquetes de carne com molho roquefort."
             },
             {
                 "nome": "Shoulder à Pica-Pau",
-                "preço": "R$ 69,00",
+                "preço": 69.0,
+                "informação-extra": null,
                 "descrição": "Shoulder steak em tiras, molho roti fortificado, pimentão vermelho, cebola, louro e palha da casa."
             }
         ],
         "Empanadas": [
             {
                 "nome": "Empanada Criolla",
-                "preço": "R$ 20,00",
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Carne agridoce, ovo, azeitonas pretas e passas"
             },
             {
                 "nome": "Empanada Salteña",
-                "preço": "R$ 20,00",
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Carne picada na faca, batata, pimentão e pimenta"
             },
             {
                 "nome": "Empanada de Cordeiro",
-                "preço": "R$ 25,00",
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Recheada com cordeiro em ervas e especiarias"
             },
             {
                 "nome": "Mini Empanada de Catupiry",
-                "preço": "R$ 27,00",
+                "preço": 27.0,
+                "informação-extra": null,
                 "descrição": "3 unidades"
             }
         ],
         "Linguiças Artesanais": [
             {
                 "nome": "Linguiça Especial de Costela",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Linguiça Tradicional de Pernil",
-                "preço": "R$ 12,00",
+                "preço": 12.0,
+                "informação-extra": null,
                 "descrição": "Unidade"
             },
             {
                 "nome": "Pão com Chimichurri",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pão de Alho",
-                "preço": "R$ 16,00",
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Provoletas": [
             {
                 "nome": "Provoleta",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Com azeite de oliva e orégano ou geleia de pimenta. Servida com torrada de Açafrão"
             },
             {
                 "nome": "Provoleta com Jamón",
-                "preço": "R$ 69,00",
+                "preço": 69.0,
+                "informação-extra": null,
                 "descrição": "Presunto espanhol"
             }
         ],
         "Sanduíches": [
             {
                 "nome": "Tragga Burguer",
-                "preço": "R$ 64,00",
+                "preço": 64.0,
+                "informação-extra": null,
                 "descrição": "Hambúrguer com 180g de blend angus, cheddar, picles de pepino, jamon crispy, maionese de ervas, alface, tomate, servido no pão brioche da casa e fritas."
             },
             {
                 "nome": "Sanduíche de Pastrami",
-                "preço": "R$ 66,00",
+                "preço": 66.0,
+                "informação-extra": null,
                 "descrição": "Pastrami, mostarda dijon, picles de pepino, servido no pão de campo e batatas chips | Sob consulta"
             },
             {
                 "nome": "Choripan",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Baguete da casa, linguiça de costela, mostarda e mel, molho criola, chimichurri e fritas"
             },
             {
                 "nome": "Sanduiche de Milanesa",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "Bife a milanesa, alioli de trufa, rucula, tomate, picles de cebola roxa, servido no pão de campo, acompanha batata chips"
             }
         ],
         "Saladas": [
             {
                 "nome": "Mediterrânea",
-                "preço": "R$ 58,00",
+                "preço": 58.0,
+                "informação-extra": null,
                 "descrição": "Queijo de cabra fresco temperado, azeitona preta, cebola roxa, avocado, pimenta dedo de moça, tomate confitado, pepino e rúcula"
             },
             {
                 "nome": "Veraneio",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "R$ 58,00 | 1/2 - R$ 42,00 | Mix de folhas, guacamole, molho criola, tomate cereja e parmesão em lascas"
             },
             {
                 "nome": "Mix",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "R$ 62,00 | 1/2 - R$ 46,00 | Alface roxa e mimosa, cenoura ralada, beterraba, rodelas de palmito, ovo, batata palha e parmesão"
             },
             {
                 "nome": "Astor",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "1 - R$ 68,00 | 1/2 - R$ 48,00 | Alface ,rúcula, pera, nozes em mel, queijo, Roquefort e damasco"
             },
             {
                 "nome": "Madrid",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "1 - R$ 69,00 | 1/2 - R$ 49,00 | Mix de folhas, croutones, presunto espanhol, parmesão, molho mostarda e mel e gergelim."
             }
         ],
         "Bovino": [
             {
                 "nome": "Bife de Ancho",
-                "preço": "R$ 104,00",
+                "preço": 104.0,
+                "informação-extra": null,
                 "descrição": "Corte do Filé da Costela com gordura marmorizada"
             },
             {
                 "nome": "Bife de Chorizo 300g",
-                "preço": "R$ 94,00",
+                "preço": 94.0,
+                "informação-extra": null,
                 "descrição": "Corte do Contrafilé com uma fina capa de gordura."
             },
             {
                 "nome": "Vacio",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "300g - R$ 102,00 | 520g - R$ 169,00 | Fralda red argentina"
             },
             {
                 "nome": "Ojo de Bife",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "200g - R$ 88,00 | 400g - R$ 164,00 | Miolo do filé da costela"
             },
             {
                 "nome": "Assado de Tiras",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "400g - R$ 109,00 | 600g - R$ 142,00 | Corte especial da costela bovina com osso"
             },
             {
                 "nome": "Filet Mignon",
-                "preço": "R$ 84,00",
+                "preço": 84.0,
+                "informação-extra": null,
                 "descrição": "200g"
             },
             {
                 "nome": "Shoulder Steak | Sob Consulta",
-                "preço": "R$ 96,00",
+                "preço": 96.0,
+                "informação-extra": null,
                 "descrição": "300g | Corte do dianteiro, extremamente macio e de sabor marcante"
             },
             {
                 "nome": "Bife Tragga (sob Consulta- vendido por kg)",
-                "preço": "R$ 419,00",
+                "preço": 419.0,
+                "informação-extra": null,
                 "descrição": "1 kg | Capa do filé da costela altamente marmorizada.(vendida fracionada)"
             },
             {
                 "nome": "Maminha",
-                "preço": "R$ 309,00",
+                "preço": 309.0,
+                "informação-extra": null,
                 "descrição": "1.1kg | Altamente marmorizado. Acompanha manteiga de alho com cinzas de alecrim"
             },
             {
                 "nome": "Milanesa à Napolitana",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": null,
                 "descrição": "Milanesa, tomate, presunto, queijo, pomodoro e crispy de bacon"
             },
             {
                 "nome": "Bife de Chorizo 600g",
-                "preço": "R$ 179,00",
+                "preço": 179.0,
+                "informação-extra": null,
                 "descrição": "Corte do Contrafilé com uma fina capa de gordura"
             }
         ],
         "Aves e Suínos": [
             {
                 "nome": "Galeto",
-                "preço": "R$ 62,00",
-                "descrição": ""
+                "preço": 62.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Frango Crocante",
-                "preço": "R$ 54,00",
+                "preço": 54.0,
+                "informação-extra": null,
                 "descrição": "Recheado com queijo"
             }
         ],
         "Pescados": [
             {
                 "nome": "Filé Tilápia",
-                "preço": "R$ 58,00",
-                "descrição": ""
+                "preço": 58.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão",
-                "preço": "R$ 78,00",
+                "preço": 78.0,
+                "informação-extra": null,
                 "descrição": "Acompanhado com molho de ervas"
             },
             {
                 "nome": "Bacalhau",
-                "preço": "R$ 148,00",
+                "preço": 148.0,
+                "informação-extra": null,
                 "descrição": "Lombo de Bacalhau acompanhado de creme de espinafre, batata amassadas e alho frito"
             },
             {
                 "nome": "Bacalhau Confit",
-                "preço": "R$ 148,00",
+                "preço": 148.0,
+                "informação-extra": null,
                 "descrição": "Lombo de bacalhau confit com batatas, cebola, tomate, azeitona e alho frito."
             }
         ],
         "Frutos do Mar": [
             {
                 "nome": "Polvo",
-                "preço": "R$ 138,00",
+                "preço": 138.0,
+                "informação-extra": null,
                 "descrição": "Tentáculos de polvo grelhado, molho agridoce acompanhado de batata doce com alho poró e crispy de jamón ibérico."
             }
         ],
         "Acompanhamentos Premium": [
             {
                 "nome": "Palmito Pupunha",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "R$ 69,00 | 1/2 - R$ 39,00 | Com manteiga de ervas e flor de sal"
             },
             {
                 "nome": "Arroz Parrileiro",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Arroz com linguiça, ovo, palha de baroa e vinho branco"
             },
             {
                 "nome": "Cebola Recheada",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "1 - R$ 44,00 | 1/2 - R$ 34,00 | Com queijo, presunto, tomate, orégano e azeite"
             },
             {
                 "nome": "Creme de Espinafre",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Farofa de Farinha Panko com Ovos",
-                "preço": "R$ 39,00",
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Farofa de Farinha Panko",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Aji molido e castanha de caju"
             },
             {
                 "nome": "Farofa de Farinha Panko, Cebola Caramelizada",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "E banana"
             },
             {
                 "nome": "Batatas Tupungato",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Batata calabresa, com alho poró e cogumelos trufados"
             },
             {
                 "nome": "Batata Assada com Manteiga de Ervas",
-                "preço": "R$ 39,00",
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Batata Frita",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Escolha entre tradicional ou coberta com alho e salsinha."
             },
             {
                 "nome": "Purê de Abóbora",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Com linguiça crocante, finalizado com queijo de cabra"
             },
             {
                 "nome": "Purê de Baroa",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Legumes Grelhados",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Cobertos com alho e salsinha, pimentão, cebola, tomate, berijela, abóbora, abobrinha, alho e cenoura"
             },
             {
                 "nome": "Risoto de Limão Siciliano",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Risoto com Jamón",
-                "preço": "R$ 48,00",
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bananas Crocantes",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "1/2 Porção: R$ 26,00 | Porção inteira: R$ 39,00 | Bananas empanadas com Grana Padano e Panko"
             },
             {
                 "nome": "Purê Rústico Trufado",
-                "preço": "R$ 48,00",
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Risoto de Funghi",
-                "preço": "R$ 48,00",
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Risotos e Pastas": [
             {
                 "nome": "Risoto vegetariano",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Cenoura, abobrinha, alho poró e tomate."
             },
             {
                 "nome": "Risoto de Camarão",
-                "preço": "R$ 96,00",
+                "preço": 96.0,
+                "informação-extra": null,
                 "descrição": "Com limão siciliano e manteiga de coral"
             },
             {
                 "nome": "Linguini com cogumelos trufados",
-                "preço": "R$ 96,00",
+                "preço": 96.0,
+                "informação-extra": null,
                 "descrição": "Linguini com shimeji e shitake trufados."
             },
             {
                 "nome": "Gnocchi",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Fonduta de parmesão ou molho pomodoro"
             },
             {
                 "nome": "Filé Mignon em tiras, com linguinni de Cogumelos trufado e alho poró",
-                "preço": "R$ 92,00",
-                "descrição": ""
+                "preço": 92.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sobremesas": [
             {
                 "nome": "Flan de doce de Leite",
-                "preço": "R$ 24,00",
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cheesecake com Calda de Frutas Vermelhas",
-                "preço": "R$ 36,00",
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Panqueca de Doce de Leite",
-                "preço": "R$ 38,00",
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Com sorvete"
             },
             {
                 "nome": "Mousse de Chocolate Meio Amargo",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Mousse com creme de baunilha, morangos e farofa de amêndoas"
             },
             {
                 "nome": "Churros de Tapioca",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Churros de tapioca com coco polvilhado com açúcar e canela acompanhado de doce de leite e sorvete de vanilla"
             },
             {
                 "nome": "Bavaroise",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Torta mousse de coco com calda de maracujá"
             },
             {
                 "nome": "Meia culpa",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Sorvete de coco diet com doce de leite"
             },
             {
                 "nome": "Bola de Sorvete",
-                "preço": "R$ 16,00",
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Pistache, vanilla ou coco diet"
             }
         ]
@@ -1415,51 +1677,60 @@
         "Menu Personnalité ": [
             {
                 "nome": "Empanada Saltenha ou Criolla",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Massa fina recheada com carne e temperos tradicionais."
             },
             {
                 "nome": "Bruschetta Mediterrânea",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Pão tostado com tomate, azeite, manjericão e temperos mediterrâneos."
             },
             {
                 "nome": "Filé Mignon na Brasa",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Filé Mignon na Brasa sob cama de molho Roquefort, acompanhado de linguine salteado com Jamon tomates confitados e tomate cereja com crispy de rúcula."
             },
             {
                 "nome": "Panqueca de Doce de Leite",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "com sorvete de creme"
             }
         ],
         "Menu Personnalité Vegetariano": [
             {
                 "nome": "Bolinho de Gorgonzola Trufado",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "(2 und)"
             },
             {
                 "nome": "Bruschetta Mediterrânea",
-                "preço": "",
-                "descrição": ""
+                "preço": null,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Risoto",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Risoto de palmito assado com cogumelo shitake fresco"
             },
             {
                 "nome": "Mini Mousse de Chocolate Amargo",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Com creme de baunilha, morango e farofa de amêndoas"
             }
         ],
         "Vinho Personnalité": [
             {
                 "nome": "Bodegaza Cab. Sauv Gran Reserva, 2019",
-                "preço": null,
+                "preço": 105.0,
+                "informação-extra": null,
                 "descrição": "V. Chi bodegaza cab.Sauv gran reserva 750 ml Um maravilhoso cabernet, produzido com fermentação em aço inox com controle de temperatura por 7 dias, estabilizado e filtrado para manter toda fruta, estágio em carvalho francês durante 8 meses. Possui uma coloração vermelho intenso, aroma frutado com toques de ameixas, notas de chocolate, pimenta e carvalhos intensos. Seu paladar é bastante aveludado. Tipo: tinto Uva: 100% cabernet sauvignon Safra: 2016 (considerada a melhor safra para este vinho) País: chile Região: maule valley - vale central Produtor: vinícola aguirre Teor alcoólico: 13,5% vol Volume da garrafa: 750 ml Temperatura de serviço: 16° a 18° c Harmonização: carnes vermelhas e queijos fortes."
             }
         ]
@@ -1468,64 +1739,76 @@
         "Almoço R$95,00": [
             {
                 "nome": "Salada Astor Individual",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Alface, rúcula, pera, nozes e mel, queijo roquefort e damasco"
             },
             {
                 "nome": "Dupla de Croquete de carne",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Dupla de Croquete de carne com molho Roquefort"
             },
             {
                 "nome": "Filé Mignon em tiras",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Filé Mignon em tiras com linguini de cogumelos trufado e alho poró"
             },
             {
                 "nome": "Bife de Chorizo",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Bife de Chorizo acompanhado fritas trufadas com parmesão nero e salsinha"
             },
             {
                 "nome": "Bavaroise",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Bavaroise Torta-mousse de coco com calda de maracujá"
             },
             {
                 "nome": "Churros de Tapioca",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Churros de Tapioca mini churros de tapioca com coco, doce de leite, sorvete de vanilla e farofa de amêndoas"
             }
         ],
         "Jantar R$115,00": [
             {
                 "nome": "Mini Burguer",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Mini Burguer Acompanha cheddar, maionese trufada e de Sriracha"
             },
             {
                 "nome": "Bruschetta Mediterrânea",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Bruschetta Mediterrânea Pão de campo tostado, Queijo de cabra fresco temperado, azeitona preta, cebola roxa, avocado, pimenta dedo-de-moça, tomate confitado, pepino e rúcula"
             },
             {
                 "nome": "Filé Mignon",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Filé Mignon com molho roti, risoto de funghi e telha parmesão"
             },
             {
                 "nome": "Ojo de Bife",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Ojo de Bife com creme de milho e farofa especial de panko"
             },
             {
                 "nome": "Mousse Chocolate",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Mousse Chocolate mousse de chocolate meio amargo, creme de baunilha, morangos e farofa de amêndoas"
             },
             {
                 "nome": "Panqueca de Doce de Leite",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "panqueca de doce de leite, caramelo da casa, sorvete de vanilla e farofa de amêndoas"
             }
         ]

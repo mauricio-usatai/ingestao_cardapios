@@ -8,31 +8,37 @@
             {
                 "nome": "Frango Leve",
                 "preço": null,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Filé de frango com purê de batata e legumes."
             },
             {
                 "nome": "Rigatoni alla vodka",
                 "preço": null,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Com molho cremoso de tomate e creme de leite fresco flambado com vodka."
             },
             {
                 "nome": "Couve-flor crocante",
                 "preço": null,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Com fonduta de catupiry, arroz com brócolis e alho frito."
             },
             {
                 "nome": "Bananada",
                 "preço": null,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Curry de abóbora com banana da terra, couve flor, pimentões, arroz branco - finalizado com castanha de caju e coentro."
             },
             {
                 "nome": "Gnocchi pesto",
                 "preço": null,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Com molho pesto, castanha, rúcula e berinjela crocante."
             },
             {
                 "nome": "Risoto de abóbora",
                 "preço": null,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Risoto cremoso de abóbora com gorgonzola, castanha de caju e rúcula."
             }
         ],
@@ -40,108 +46,128 @@
             {
                 "nome": "Parmegiana de Frango",
                 "preço": null,
+                "informação-extra": null,
                 "descrição": "Com arroz e fritas crocantes."
             },
             {
                 "nome": "Peixe do Dedé",
                 "preço": null,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Saint peter com purê de banana da terra e legumes."
             },
             {
                 "nome": "Paillard Crocante",
                 "preço": null,
+                "informação-extra": null,
                 "descrição": "Filé de frango crocante com risoto limone."
             },
             {
                 "nome": "Picadinho",
                 "preço": null,
+                "informação-extra": null,
                 "descrição": "Picadinho de filé mignon com arroz, ovo frito, feijão-preto, banana crocante, farofa da casa e pastelzinho de carne."
             },
             {
                 "nome": "Rigatoni a putanesca",
                 "preço": null,
+                "informação-extra": null,
                 "descrição": "Potente molho de tomate com alho, anchovas, alcaparras, pimenta calabresa e azeitonas pretas."
             },
             {
                 "nome": "Risoto trufado",
                 "preço": null,
+                "informação-extra": null,
                 "descrição": "Risoto de cogumelos frescos com toque de azeite de trufas."
             }
         ],
         "Exclusivo Toda Quarta- Feira R$56,90": [
             {
                 "nome": "Dica: Peça a Pimenta da Casa ao Garçom.\nFeijuca",
-                "preço": null,
-                "descrição": "Dica: Peça a Pimenta da Casa ao Garçom."
+                "preço": 55.9,
+                "informação-extra": null,
+                "descrição": "Feijão-preto, linguiça calabresa, paio, carne seca, costelinha e lombo. Acompanha: arroz branco, farofa, vinagrete, couve, torresmo, laranja e banana empanada."
             }
         ],
         "Opções a 67,90 Cada": [
             {
                 "nome": "Salmão Crispy",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Risoto de limão-siciliano com cubos de salmão crocantes e redução de aceto ao marrasquino"
             },
             {
                 "nome": "Salmão Siciliano",
                 "preço": null,
+                "informação-extra": null,
                 "descrição": "Salmão grelhado com risoto limone."
             },
             {
                 "nome": "Bife da Ma",
                 "preço": null,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Filé mignon com ovo estalado, feijão carioca, farofa e pimenta da casa."
             },
             {
                 "nome": "PF DO BANANA",
                 "preço": null,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Bife ancho com cebola crocante, mexido de arroz com feijão, farofa de ovo, vinagrete e batatas crocantes."
             },
             {
                 "nome": "Milanesa de ancho",
                 "preço": null,
+                "informação-extra": null,
                 "descrição": "Bife ancho crocante com purê de batata e limãozinho tostado."
             },
             {
                 "nome": "Rigatoni de salmão",
                 "preço": null,
+                "informação-extra": null,
                 "descrição": "Molho alfredo com lascas de salmão, bacon e espinafre"
             },
             {
                 "nome": "Risoto de mignon",
                 "preço": null,
+                "informação-extra": null,
                 "descrição": "Com gorgonzola e cubos de filé mignon, finalizado com rúcula e castanha de caju"
             },
             {
                 "nome": "Rigatoni de salmão",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Molho alfredo com lascas de salmão, bacon e espinafre"
             },
             {
                 "nome": "Arroz Oswaldo Aranha",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Arroz caldoso com cubos de filé mignon, alho dourado, farofa crocante e chips de batata"
             }
         ],
         "Grelhados de Verão (200g)": [
             {
                 "nome": "Filé de Frango + Salada",
-                "preço": "R$ 37,90",
-                "descrição": ""
+                "preço": 37.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Saint Peter + Salada",
-                "preço": "R$ 47,90",
-                "descrição": ""
+                "preço": 47.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salmão Grelhado + Salada",
-                "preço": "R$ 57,90",
-                "descrição": ""
+                "preço": 57.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filé Mignon + Salada",
-                "preço": "R$ 57,90",
-                "descrição": ""
+                "preço": 57.9,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -149,297 +175,352 @@
         "Besteirinhas": [
             {
                 "nome": "Para Começar",
-                "preço": "R$ 17,00",
+                "preço": 17.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Caldinho de feijão carioca com torresminho pururuca, pimenta da casa e cebolinha."
             },
             {
                 "nome": "Croquete Campeão",
-                "preço": "R$ 36,90",
+                "preço": 36.9,
+                "informação-extra": null,
                 "descrição": "Croquete de cupim desmanchante com cremoso purê de mandioca. Acompanha delicioso molho aioli e pimenta da casa."
             },
             {
                 "nome": "Mini Coxinhas da Dona Júlia",
-                "preço": null,
+                "preço": 36.9,
+                "informação-extra": null,
                 "descrição": "Nossas famosas e deliciosas coxinhas de frango douradinhas, sequinhas e crocantes."
             },
             {
                 "nome": "Dadinho de Tapioca",
-                "preço": null,
+                "preço": 37.9,
+                "informação-extra": "Vegetariano",
                 "descrição": "Cubinhos dourados de tapioca com queijo coalho e geleia artesanal de pimenta."
             },
             {
                 "nome": "Filé Aperitivo",
-                "preço": null,
+                "preço": 77.9,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Cubos de filé mignon puxados na frigideira com cebola roxa e molho roti artesanal. Acompanha vinagrete de freira e cestinho de pão francês."
             },
             {
                 "nome": "Fritas Trufadas",
-                "preço": null,
+                "preço": 36.9,
+                "informação-extra": "Vegetariano",
                 "descrição": "Batatas fritas sequinhas e crocantes com queijo parmesão, orégano e um toque de azeite trufado."
             },
             {
                 "nome": "Pipoca de Frango",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Cubinhos de frango super crocantes- servidos com nosso delicioso molho de limão secreto."
             },
             {
                 "nome": "Surf N'Turf",
-                "preço": null,
+                "preço": 78.0,
+                "informação-extra": null,
                 "descrição": "Cubos crocantes de filé mignon, frango e camarões, cobertos por molho cremoso de gorgonzola- acompanha cesta de pães."
             },
             {
                 "nome": "Parmegiana Aperitivo",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Cubos de filé-mignon crocantes com molho de tomate artesanal, muçarela, Catupiry, queijo parmesão e cestinha de pão."
             },
             {
                 "nome": "Mix de Pastéis",
-                "preço": null,
+                "preço": 39.9,
+                "informação-extra": null,
                 "descrição": "Pastéis crocantes com recheio de carne e queijo brie- acompanha vinagrete de feira."
             },
             {
                 "nome": "Coxinhas D. Júlia 2.0",
-                "preço": null,
+                "preço": 48.9,
+                "informação-extra": null,
                 "descrição": "Delicioso fondue de catupiry com as nossas famosas coxinhas da D.Júlia."
             },
             {
                 "nome": "Linguiça Mineirinha",
-                "preço": null,
+                "preço": 58.0,
+                "informação-extra": null,
                 "descrição": "COLAB banana café e empório novilho- linguiça de sobrecoxa desossada com cerveja e queijo coalho super cremoso!. Acompanha cesta de pão, aioli, vinagrete e farofinha."
             }
         ],
         "Sandubas Pão Brioche": [
             {
                 "nome": "Burguer 481",
-                "preço": null,
+                "preço": 46.9,
+                "informação-extra": null,
                 "descrição": "Hambúrguer 150g, bacon dobradinha, molho malatesta, muçarela, cheddar, alface, tomate, cebola roxa e picles de pepino."
             },
             {
                 "nome": "Banana Burguer",
-                "preço": null,
+                "preço": 55.9,
+                "informação-extra": null,
                 "descrição": "Hambúrguer 150g, cupim desfiado, cebola crisp, muçarela, cheddar e jarra de creme de cheddar cubos de bacon."
             }
         ],
         "Mini Baguete Boca de Anjo": [
             {
                 "nome": "Carne Louca",
-                "preço": "R$ 45,90",
+                "preço": 45.9,
+                "informação-extra": null,
                 "descrição": "Cupim desmanchante, queijo muçarela derretido e rúcula."
             },
             {
                 "nome": "General Osorio",
-                "preço": "R$ 49,80",
+                "preço": 49.8,
+                "informação-extra": null,
                 "descrição": "Suculento lanche de filé mignon empanado, muçarela, rúcula, delicioso molho de gorgonzola, cebola caramelizada e crocante."
             },
             {
                 "nome": "Sanduba de carpaccio",
-                "preço": "R$ 47,90",
+                "preço": 47.9,
+                "informação-extra": null,
                 "descrição": "Nosso espetacular carpaccio trufado com rúcula, dentro de uma baguete crocante"
             }
         ],
         "Entradas": [
             {
                 "nome": "Queijo Brie Empanado",
-                "preço": null,
+                "preço": 59.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Queijo brie crocante e derretido- acompanha deliciosa geleia artesanal de damasco, melaço de cana e torradinhas."
             },
             {
                 "nome": "Tartar de Salmão",
-                "preço": null,
+                "preço": 54.0,
+                "informação-extra": null,
                 "descrição": "Cubos de salmão temperados crus com confit de gengibre, raspas de siciliano e gergelim- acompanha folhas verdes e torradinhas."
             },
             {
                 "nome": "Steak Tartar",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Cubos de filé mignon temperados crus, chips e fritas crocantes, folhas verdes e gema de codorna crua."
             },
             {
                 "nome": "Carpaccio Trufado",
-                "preço": "R$ 44,90",
+                "preço": 44.9,
+                "informação-extra": null,
                 "descrição": "Finas fatias de carne crua, parmesão , nosso exclusivo molho malatesta, alcaparras crocantes e um toque de azeite trufado- acompanha torradinhas."
             },
             {
                 "nome": "Frigideira de camarão",
-                "preço": "R$ 95,00",
+                "preço": 95.0,
+                "informação-extra": null,
                 "descrição": "Deliciosos camarões sem casca feitos na frigideira com azeite, lâminas de alho e cesta de pão."
             },
             {
                 "nome": "Casquinha do Poeta",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Deliciosa casquinha de siri suculenta e cremosa com gostinho do litoral"
             }
         ],
         "Saladas": [
             {
                 "nome": "Campineira",
-                "preço": "R$ 36,90",
+                "preço": 36.9,
+                "informação-extra": null,
                 "descrição": "Tradicional salada de rúcula e cebola com aquele molho especial."
             },
             {
                 "nome": "Salada Caesar",
-                "preço": null,
+                "preço": 39.9,
+                "informação-extra": null,
                 "descrição": "Alface americanas, tiras de frango grelhado, parmesão, croutons crocantes e molho ceasar artesanal."
             }
         ],
         "Risotos": [
             {
                 "nome": "Risoto de Camarão",
-                "preço": null,
+                "preço": 79.9,
+                "informação-extra": null,
                 "descrição": "Deliciosa combinação surf'n'turf: camarão e bacon com um toque de molho de tomate rústico."
             },
             {
                 "nome": "Risoto Siciliano",
-                "preço": null,
+                "preço": 52.9,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Risoto cremoso e cítrico, na medida."
             },
             {
                 "nome": "Salmão Crisp",
-                "preço": null,
+                "preço": 67.0,
+                "informação-extra": null,
                 "descrição": "Risoto cítrico com cubos de salmão crocantes e redução de aceto ao marrasquino."
             },
             {
                 "nome": "Ragu de Cupim",
-                "preço": null,
+                "preço": 61.0,
+                "informação-extra": null,
                 "descrição": "Ragu cozido lentamente com risoto de cebola caramelizada e crocante de cebola."
             },
             {
                 "nome": "Cogumelo Trufado",
-                "preço": null,
+                "preço": 65.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Risoto super cremoso com cogumelos frescos e um toque de azeite de trufas."
             }
         ],
         "Pasta": [
             {
                 "nome": "Brie e Parma",
-                "preço": "R$ 71,00",
+                "preço": 71.0,
+                "informação-extra": null,
                 "descrição": "Com fonduta de queijo brie, presunto parma e farofa crocante."
             },
             {
                 "nome": "Tri Funghi",
-                "preço": null,
+                "preço": 59.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Gnocchi de batata com alho cremoso de cogumelos frescos."
             },
             {
                 "nome": "Camarão Trufado",
-                "preço": "R$ 82,00",
+                "preço": 82.0,
+                "informação-extra": null,
                 "descrição": "Camarões crocantes com delicioso fettuccine Alfredo trufado."
             }
         ],
         "Veg": [
             {
                 "nome": "Bananada",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": "Vegano",
                 "descrição": "Curry de abóbora com banana da terra, couve-flor, pimentão, arroz branco - finalizado com castanha de caju e coentro."
             },
             {
                 "nome": "Couve flor crocante",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": "Vegano",
                 "descrição": "Gratinada com fonduta de Catupiry - acompanha arroz com brócolis e alho"
             }
         ],
         "Carnes": [
             {
                 "nome": "Filé Wellington",
-                "preço": null,
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Tradicional filé mignon ao ponto da casa envolto em parma, duxeles de cogumelos e massa folhada crocante- acompanha alisto molho roti e vagem."
             },
             {
                 "nome": "Bife da Ma",
-                "preço": null,
+                "preço": 73.9,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Filé mignon com ovo estalado, arroz branco, farofa, feijão carioca e pimenta da casa."
             },
             {
                 "nome": "Filé Damasco",
-                "preço": null,
+                "preço": 74.9,
+                "informação-extra": null,
                 "descrição": "Cubos de filé mignon crocantes com cremoso risoto de queijo brie, geleia artesanal de damasco e molho roti."
             },
             {
                 "nome": "Filé Aligot",
-                "preço": null,
+                "preço": 78.9,
+                "informação-extra": null,
                 "descrição": "Imperdível filé mignon com delicioso aligot de batatas, geleia de frutas vermelhas e farofa crocante."
             },
             {
                 "nome": "Filé Parmegiana",
-                "preço": "R$ 66,00",
+                "preço": 66.0,
+                "informação-extra": null,
                 "descrição": "Filé mignon crocante, gratinado com muçarela e molho artesanal de tomates rústicos- acompanha arroz e fritas."
             },
             {
                 "nome": "Filé Banana Cafe",
-                "preço": "R$ 73,90",
+                "preço": 73.9,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Suculento medalhão de filé mignon com purê de batatas, molho roti e arroz biro-biro."
             },
             {
                 "nome": "Filé do Chef",
-                "preço": null,
+                "preço": 77.9,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Filé mignon com carpaccio de pera ao vinho, queijo brie maçaricado, molho roti e risoto de parmesão."
             },
             {
                 "nome": "Paillard Trufado",
-                "preço": null,
+                "preço": 82.0,
+                "informação-extra": null,
                 "descrição": "Filé mignon grelhado com delicioso fettuccine Alfredo trufado."
             },
             {
                 "nome": "Filé Trufado",
-                "preço": null,
+                "preço": 78.9,
+                "informação-extra": null,
                 "descrição": "Filé mignon crocante com risoto de cogumelos frescos, molho roti e um toque de azeite trufado."
             },
             {
                 "nome": "Picadinho",
-                "preço": null,
+                "preço": 58.9,
+                "informação-extra": null,
                 "descrição": "Nosso clássico: picadinho de filé mignon com arroz, feijão preto, ovo, frito, banana empanada, pastelzinho de carne e farofa da casa."
             },
             {
                 "nome": "PF do Banana",
-                "preço": null,
+                "preço": 79.9,
+                "informação-extra": null,
                 "descrição": "Bife ancho com cebola crocante, mexido de arroz com feijão, farofa de ovo, vinagrete e batatas crocantes."
             },
             {
                 "nome": "Exclusivo nas Quartas e Sábados\nFeijuca",
-                "preço": null,
-                "descrição": "Exclusivo nas Quartas e Sábados"
+                "preço": 55.9,
+                "informação-extra": null,
+                "descrição": "Feijoada individual com feijão preto, linguiça calabresa, paio, carne seca, costelinha e lombo. Acompanha: arroz, farofa, vinagrete, couve, torremos, laranja e banana empanada."
             }
         ],
         "Peixes": [
             {
                 "nome": "Salmão Milanese",
-                "preço": null,
+                "preço": 77.9,
+                "informação-extra": "Sem Gluten",
                 "descrição": "Salmão com risoto milanese, vagem holandesa envolta em bacon e molho beurre Blanc."
             },
             {
                 "nome": "Peixe do Dede",
-                "preço": null,
+                "preço": 59.9,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Saint peter com purê de banana da terra e legumes grelhados no azeite."
             },
             {
                 "nome": "Peixe com Banana",
-                "preço": null,
+                "preço": 62.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Deliciosa moqueca de peixe com banana da terra, pimentões, azeite de dendê, arroz e farofa crocante."
             },
             {
                 "nome": "Salmão Mediterrâneo",
-                "preço": null,
+                "preço": 74.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Salmão grelhado com vegetais tostados, manga, mix de quinoa com castanhas e molho cítrico."
             },
             {
                 "nome": "Salmão na Crosta",
-                "preço": null,
+                "preço": 73.0,
+                "informação-extra": null,
                 "descrição": "Salmão grelhado na crosta de quinoa colorida com purê de batata doce roxa e vagem crocante ."
             }
         ],
         "Aves": [
             {
                 "nome": "Frango Levinho",
-                "preço": null,
+                "preço": 49.9,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Filé de frango com cremoso purê de batata doce roxa e legumes grelhados no azeite."
             },
             {
                 "nome": "Frango ao Fettuccine",
-                "preço": null,
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Filé de frango com fettuccine cremoso, alho assado e bacon."
             },
             {
                 "nome": "Corn Bacon",
-                "preço": null,
+                "preço": 56.0,
+                "informação-extra": null,
                 "descrição": "Filé de frango super crocante com risoto de milho fresco e bacon crocante."
             }
         ]
@@ -448,27 +529,32 @@
         "Releituras com um Toque da Casa": [
             {
                 "nome": "Crème Brûlée",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Crème brûlée com calda de frutas vermelhas e praliné de siciliano."
             },
             {
                 "nome": "Banoffe Cafe",
-                "preço": null,
+                "preço": 34.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Massa sucrée com castanhas, doce de leite, banana nanica, nibs de café, canela e chantilly."
             },
             {
                 "nome": "Brownie",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Delicioso brownie de chocolate, acompanhado de sorvete de vanila, frutas vermelhas e calda de chocolate quente."
             },
             {
                 "nome": "Aperol Cheese - PROIBIDO PARA MENORES DE 18 ANOS",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Mousse de Catupiry com espumante, compota de kinkan com manga madura e calda de Aperol."
             },
             {
                 "nome": "Churros New Brown",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Sequinhos e crocantes, passados no açúcar e canela com muuuuito doce de leite."
             }
         ]
@@ -477,67 +563,79 @@
         "Sucos e Coquetéis sem Álcool": [
             {
                 "nome": "Morango",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Abacaxi",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Soda Italiana",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco de Tomate",
-                "preço": null,
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Detox",
-                "preço": null,
+                "preço": 14.0,
+                "informação-extra": null,
                 "descrição": "Água de coco, abacaxi, couve e gengibre."
             },
             {
                 "nome": "Naturais",
-                "preço": null,
+                "preço": 12.0,
+                "informação-extra": null,
                 "descrição": "Laranja, limão ou abacaxi ."
             }
         ],
         "Soft Drinks ": [
             {
                 "nome": "Refrigerante",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Consulte opções ."
             },
             {
                 "nome": "Água Mineral",
-                "preço": null,
+                "preço": 8.0,
+                "informação-extra": null,
                 "descrição": "Com ou sem gás."
             },
             {
                 "nome": "Água de Coco",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água Tônica",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "Normal ou zero."
             },
             {
                 "nome": "Red Bull",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Regular, sugar free, tropical e melancia."
             }
         ],
         "Café": [
             {
                 "nome": "Expresso",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.9,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -545,176 +643,209 @@
         "Destaques do Banana": [
             {
                 "nome": "Banho Tropical",
-                "preço": null,
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Red bull tropical, redução de abacaxi, suco de limão- siciliano e espuma de gengibre."
             },
             {
                 "nome": "Pena Rosa",
-                "preço": null,
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Purê de morango com mel, limão-taiti, espuma de framboesa e pimenta rosa."
             },
             {
                 "nome": "Garota de Ipanema",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Suco de laranja, xarope de framboesa, red bull tropical e spray de tutti frutti."
             },
             {
                 "nome": "Leblon",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Suco de limão-taiti, xarope de gengibre, hortelã e red bull melancia."
             },
             {
                 "nome": "Amante",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Xarope de framboesa, suco de limão; finalizado com espuma de framboesa."
             },
             {
                 "nome": "Dragon Fresh",
-                "preço": null,
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Cordial de hortelã e cardamomo, sprite e espuma de gengibre."
             },
             {
                 "nome": "Cramen Miranda",
-                "preço": null,
+                "preço": 70.0,
+                "informação-extra": null,
                 "descrição": "Cordial de maracujá com puxuri, redução de abacaxi, xarope de framboesa e de gengibre, suco de limão e Sprite."
             },
             {
                 "nome": "Cajueiro",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Limão-cravo, caju e rapadura."
             }
         ],
         "Autorais": [
             {
                 "nome": "Carolina Carol Bela",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Soda de cardamomo, calda de cereja amarena e hortela."
             },
             {
                 "nome": "Banana Cafe",
-                "preço": null,
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Calda de doce de banana com especiarias, cítricos e perfume de cumaru com café."
             },
             {
                 "nome": "Malandragem",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Frutas amarelas e sal de laranja."
             },
             {
                 "nome": "Maluco Beleza",
-                "preço": null,
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Limão-taiti, maracujá e puxuri."
             },
             {
                 "nome": "Whisky A Go Go",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Limão siciliano e ginger ale."
             },
             {
                 "nome": "Monkey Star",
-                "preço": null,
+                "preço": 64.0,
+                "informação-extra": null,
                 "descrição": "Xarope de maracujá com puxuri, mix de limão e espumante brut"
             }
         ],
         "Clássicos ": [
             {
                 "nome": "Moscow Mule",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Xarope de gengibre , suco de limão e espuma de gengibre."
             },
             {
                 "nome": "Soco Collins",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Suco de limão, xarope de açúcar e hortelã."
             },
             {
                 "nome": "Pisco Sour Capel (200ml)",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Suco de limão , açúcar e albumina."
             },
             {
                 "nome": "Cuervo Margarita",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Tequila jose cuervo silver."
             },
             {
                 "nome": "Cuervo Paloma",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Xarope de grapefruit, suco de limão e agua com gás ."
             },
             {
                 "nome": "Carajillo 43",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Licor 43( 50ml) e café expresso."
             },
             {
                 "nome": "1800 Tequila Paloma (200ml)",
-                "preço": null,
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "1800 Tequila silver (50ml) , xarope de grapefruit, suco de limão e água com gás."
             },
             {
                 "nome": "1800 Tequila Margarita (200ml)",
-                "preço": null,
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "1800 Tequila silver (30ml) , licor triple sec (30ml) e suco de limão ."
             },
             {
                 "nome": "Mini Beer 43",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cuervo Muletta",
-                "preço": null,
-                "descrição": ""
+                "preço": 38.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bloody Mary",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Bloody mix, suco de tomate e sal cítrico."
             },
             {
                 "nome": "Fitzgerald",
-                "preço": null,
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Fords gin (50ml), cítricos, xarope de açúcar e angostura bitter."
             },
             {
                 "nome": "Bramble",
-                "preço": null,
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Suco de limão, xarope de açúcar e amoras ."
             },
             {
                 "nome": "Aperol Spritz",
-                "preço": null,
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cervejas": [
             {
                 "nome": "Cerveja Baden",
-                "preço": null,
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Cristal, witbier, golden, ipa ou peach."
             },
             {
                 "nome": "Long Neck",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.9,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Chopp": [
             {
                 "nome": "Heineken",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Amstel",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Blue Moon",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.9,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -722,308 +853,365 @@
         "Licores e Aperitivos ": [
             {
                 "nome": "Licor 43",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fernet Menta",
-                "preço": null,
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fernet Branca Menta",
-                "preço": null,
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jägermeister",
-                "preço": null,
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Villa Massa Limoncello",
-                "preço": null,
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Schlichte Steinhager",
-                "preço": null,
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Peachtree",
-                "preço": null,
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Pisco Capel",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Southern Comfort",
-                "preço": null,
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Whisky": [
             {
                 "nome": "Chivas 12 Anos",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chivas 18 Anos",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ballantine's Finest",
-                "preço": null,
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ballantine's 12",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ballantine's 17",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "American Whiskey": [
             {
                 "nome": "Jack Daniel's Fire",
-                "preço": null,
+                "preço": 265.0,
+                "informação-extra": null,
                 "descrição": "1L"
             },
             {
                 "nome": "Jack Daniel's Honey",
-                "preço": null,
+                "preço": 265.0,
+                "informação-extra": null,
                 "descrição": "1L"
             },
             {
                 "nome": "Jack Daniel's Apple",
-                "preço": null,
+                "preço": 265.0,
+                "informação-extra": null,
                 "descrição": "1L"
             },
             {
                 "nome": "Jack Daniel's Old N.7",
-                "preço": null,
+                "preço": 265.0,
+                "informação-extra": null,
                 "descrição": "1L"
             },
             {
                 "nome": "Gentleman Jack",
-                "preço": null,
+                "preço": 318.0,
+                "informação-extra": null,
                 "descrição": "1L"
             },
             {
                 "nome": "Single Barrel",
-                "preço": null,
-                "descrição": ""
+                "preço": 397.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Woodford Reserve",
-                "preço": null,
-                "descrição": ""
+                "preço": 350.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cachaça ": [
             {
                 "nome": "Santa Capela Clássica",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Santa Capela Carvalho",
-                "preço": null,
-                "descrição": ""
+                "preço": 26.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Vodka ": [
             {
                 "nome": "Absolut",
-                "preço": null,
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Absolut Elyx",
-                "preço": null,
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Gin ": [
             {
                 "nome": "Beefeater",
-                "preço": null,
-                "descrição": ""
+                "preço": 29.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fords Gin",
-                "preço": null,
-                "descrição": ""
+                "preço": 32.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Monkey 47",
-                "preço": null,
-                "descrição": ""
+                "preço": 58.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Rum": [
             {
                 "nome": "Havana 3 Años",
-                "preço": null,
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "American Whiskety": [
             {
                 "nome": "Jack Daniel's Old N.7",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jack Daniel's Honey",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jack Daniel's Apple",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jack Daniel's Fire",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gentleman Jack",
-                "preço": null,
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Single Barrel",
-                "preço": null,
-                "descrição": ""
+                "preço": 45.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Woodford Reserve",
-                "preço": null,
-                "descrição": ""
+                "preço": 40.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Sake": [
             {
                 "nome": "Azuma Kirin",
-                "preço": null,
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gekkeikan Silver",
-                "preço": null,
-                "descrição": ""
+                "preço": 32.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Combos": [
             {
                 "nome": "Gin e Tônica",
-                "preço": null,
-                "descrição": ""
+                "preço": 342.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gin e Red Bull",
-                "preço": null,
-                "descrição": ""
+                "preço": 370.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vodka e Red Bull",
-                "preço": null,
-                "descrição": ""
+                "preço": 355.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vodka Elyx e Red Bull",
-                "preço": null,
-                "descrição": ""
+                "preço": 425.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Whisky e Red Bull",
-                "preço": null,
-                "descrição": ""
+                "preço": 305.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Whisky 12% Red Bull",
-                "preço": null,
-                "descrição": ""
+                "preço": 390.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Whisky e Água de Coco",
-                "preço": null,
-                "descrição": ""
+                "preço": 293.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Whisky 12 e Água de Coco",
-                "preço": null,
+                "preço": 378.0,
+                "informação-extra": null,
                 "descrição": "Red bull - 250ml | água de coco - 330ml | água tônica - 350ml"
             }
         ],
         "Garrafas": [
             {
                 "nome": "Vodka Absolut 1L",
-                "preço": null,
-                "descrição": ""
+                "preço": 295.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Vodka Absolut Elyx",
-                "preço": null,
-                "descrição": ""
+                "preço": 365.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chivas 12",
-                "preço": null,
+                "preço": 295.0,
+                "informação-extra": null,
                 "descrição": "1L"
             },
             {
                 "nome": "Chivas 18",
-                "preço": null,
-                "descrição": ""
+                "preço": 695.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ballantine's Finest",
-                "preço": null,
-                "descrição": ""
+                "preço": 245.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ballantine's 12",
-                "preço": null,
-                "descrição": ""
+                "preço": 330.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Ballantine's 17",
-                "preço": null,
-                "descrição": ""
+                "preço": 570.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Licor 43",
-                "preço": null,
-                "descrição": ""
+                "preço": 320.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Beefeater",
-                "preço": null,
-                "descrição": ""
+                "preço": 310.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Gin Fords",
-                "preço": null,
-                "descrição": ""
+                "preço": 410.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Monkey 47",
-                "preço": null,
-                "descrição": ""
+                "preço": 590.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -1031,125 +1219,148 @@
         "Taça": [
             {
                 "nome": "Espumante, Branco, Rosé ou Tinto",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Consulte Opções"
             }
         ],
         "Espumantes": [
             {
                 "nome": "Chandon Brut",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "Um clássico vibrante e vivo de uma das casas mais tradicionais do mundo. Refrescante, frutado e fácil de apreciar. Aromas elegantes e bem nítidos com notas de frutas cítricas, frutas secas, flores brancas e toques de pão fresco."
             }
         ],
         "Rosés": [
             {
                 "nome": "Estandon Héritage",
-                "preço": null,
+                "preço": 257.0,
+                "informação-extra": null,
                 "descrição": "Rosé de Provence das castas Cinsault, grenache e Syrah sustentável do IGT de Méditerranée, onde se encontram os vinhedos nas encostas dos quais recebem melhor inclinação da luz solar para o amadurecimento das uvas. O resultado é vinhos de alta qualidade e boa complexidade, com muito boa acidez, final longo e notas de frutas vermelhas frescas. Um vinho leve, complexo, muito fresco e equilibrado."
             },
             {
                 "nome": "Un Rosé Bien Frais",
-                "preço": null,
+                "preço": 139.0,
+                "informação-extra": null,
                 "descrição": "De cor rosa pálido muito brilhante e quase translucido. O nariz deliciosamente intenso revela notas de frutas vermelhas frescas e toques florais. O paladar mostra-se exuberante com perfume que confirma seu caráter frutado."
             },
             {
                 "nome": "Ribeiro Santo Pinha Rosé",
-                "preço": null,
+                "preço": 102.0,
+                "informação-extra": null,
                 "descrição": "Com as castas Touriga Nacional e Tinta Roriz, este vinho possui aromas de frutos vermelhos como cerejas, tem uma boa acidez e um final fresco."
             },
             {
                 "nome": "Estandon Brise Marine Rosé",
-                "preço": null,
+                "preço": 164.0,
+                "informação-extra": null,
                 "descrição": "Frutado, leve, fresco e fácil de beber."
             }
         ],
         "Brancos": [
             {
                 "nome": "Un Bon P´tit Blanc Sympa",
-                "preço": null,
+                "preço": 139.0,
+                "informação-extra": null,
                 "descrição": "Belissimo tom de amarelo pálido com reflexos citrinos. No nariz é intenso, mostrando notas de frutas tropicais, frutas cítricas e flores brancas. O o paladar é fresco e vivo com uma maravilhosa expressão de pêssegos, delicadamente completado por notas de limão."
             },
             {
                 "nome": "Plaimont Du Neuf en Gascogne Côtes de Gascogne",
-                "preço": null,
+                "preço": 130.0,
+                "informação-extra": null,
                 "descrição": "Perfeito para um estilo de vida mais leve! Delicie-se com a essência encantadora de Du Neuf. Refrescante, delicado e com baixo teor alcoólico, captura a essência da variedade local Colombard. Destaque em 25 melhores vinhos Franceses de Côtes de Gascogne | Sem estágio em carvalho"
             },
             {
                 "nome": "Astrale Pinot Griggio",
-                "preço": null,
+                "preço": 129.0,
+                "informação-extra": null,
                 "descrição": "Surpreenda seus sentidos com a leveza e harmonia desse delicioso Pinot Grigio"
             },
             {
                 "nome": "Bodegas Carrau Juan Carrau Sauvignon Blanc",
-                "preço": null,
+                "preço": 99.0,
+                "informação-extra": null,
                 "descrição": "De solos calcários e argilosos, com a influência fresca do Río de la Plata, este vinho se move em um estilo simples e leve, com muitos sabores de frutas brancas maduras em um corpo leve, com acidez suculenta. Um para o aperitivo.”"
             },
             {
                 "nome": "Cluster Flock",
-                "preço": null,
+                "preço": 160.0,
+                "informação-extra": null,
                 "descrição": "Quando elas fugiram e comeram metade das uvas, achamos que seria o maior desastre! Porém, a redução inesperada na colheita fez com que as uvas que restaram ficassem mais concentradas e deliciosas. Este é um estilo clássico de Sauvignon Blanc, inspirado na Nova Zelândia e o blend feito na Espanha. Um vinho para os tempos que nos lembra que, por mais complicadas que as coisas se tornem, uma risada e um bom taça de vinho podem fazer toda a diferença!"
             }
         ],
         "Tintos": [
             {
                 "nome": "Riccitelli This Is Not Another Lovely Malbec",
-                "preço": null,
+                "preço": 149.0,
+                "informação-extra": null,
                 "descrição": "Malbec único, que alcança uma elevada expressão de frutas frescas, toque sutil e suculento à boca, com taninos agradáveis e uma vivacidade de acidez que refresca a boca."
             },
             {
                 "nome": "Leyda Reserva Pinot Noir",
-                "preço": null,
+                "preço": 169.0,
+                "informação-extra": null,
                 "descrição": "O sucesso foi tanto que, anos depois, outras vinícolas se instalaram no Vale do Leyda, que tornou-se uma denominação de origem em 2002 e já se transformou em uma das mais promissoras para o plantio de uvas brancas."
             },
             {
                 "nome": "Memorias De Los Andes Reserva Pinot Noir",
-                "preço": null,
+                "preço": 98.0,
+                "informação-extra": null,
                 "descrição": "Grande exemplar da famosa Pinot Noir chilena, este vinho representa a complexidade e elegância desta casta tão emblemática. Vinho maduro e sedutor."
             },
             {
                 "nome": "Un Bon Petit Rouge",
-                "preço": null,
+                "preço": 139.0,
+                "informação-extra": null,
                 "descrição": "Vermelho rubi, média intensidade, frutas vermelhas, azeitonas. equilibrado, maravilhoso"
             },
             {
                 "nome": "Moda Foca",
-                "preço": null,
+                "preço": 138.0,
+                "informação-extra": null,
                 "descrição": "Moda Foca representa a foca da moda. Afinal, o vinho é muito parecido com a indústria da moda."
             },
             {
                 "nome": "Pirueta Gran Malbec",
-                "preço": null,
+                "preço": 99.0,
+                "informação-extra": null,
                 "descrição": "No paladar, a entrada é acolhedora, com uma estrutura sólida, taninos suaves e maduros, culminando em um final extremamente equilibrado."
             },
             {
                 "nome": "Da Flor",
-                "preço": null,
+                "preço": 220.0,
+                "informação-extra": null,
                 "descrição": "Os aromas florais chamam atenção para a taça, que logo revela framboesas e notas de especiarias doces, que beliscam a ponta da língua."
             },
             {
                 "nome": "Bodegas Carrau Juan Carrau Tannat",
-                "preço": null,
+                "preço": 99.0,
+                "informação-extra": null,
                 "descrição": "Vinho vermelho com tons violáceos, aromas de frutas vermelhas de ameixas e marmelos, também especiarias muito complexos, rapé e notas de chocolate dadas pela árvore de carvalho, onde ele passou a sua educação."
             },
             {
                 "nome": "Antico Rosone Montepulciano D'Abruzzo",
-                "preço": null,
+                "preço": 109.0,
+                "informação-extra": null,
                 "descrição": "Vinho equilibrado, tanino macios, acidez perfeita, frutas vermelhas, na boca bem agradável combina com os nosso pratos"
             },
             {
                 "nome": "4 Volte 25 Rosso",
-                "preço": null,
+                "preço": 149.0,
+                "informação-extra": null,
                 "descrição": "Delicioso perfil frutado com notas de frutas negras em compota, especiarias e alcaçuz. Na boca é encorpado, com taninos maduros e sedosos, com acidez equilibrada e final longo."
             },
             {
                 "nome": "Fanti Brunello di Montalcino DOCG",
-                "preço": null,
+                "preço": 699.0,
+                "informação-extra": null,
                 "descrição": "Revelando aromas envolventes de frutas vermelhas frescas, ameixas e cerejas, ele se destaca pela sua estrutura tânica imponente e excelente acidez em boca."
             },
             {
                 "nome": "Barking Dog Organic Tempranillo",
-                "preço": null,
+                "preço": 138.0,
+                "informação-extra": null,
                 "descrição": "Rubi intenso com toques violetas. Nos aromas é uma explosão de frutas maduras, especialmente morangos e cerejas, com alguns toques de ervas. Na boca, tem ótima estrutura e os taninos são maduros e suculentos."
             }
         ]

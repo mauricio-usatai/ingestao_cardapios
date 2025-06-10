@@ -3,12 +3,14 @@
         "Rodízio de Frutos do Mar - Cobrado Taxa de Serviço de 13%.": [
             {
                 "nome": "Rodízio jantar TRADICIONAL + Caranguejo Terça a Quinta",
-                "preço": "R$ 109,90",
+                "preço": 109.9,
+                "informação-extra": null,
                 "descrição": "Buffet de Saladas, Caranguejo, Arroz de Moqueca, Salpicão de Camarão, Chiclete de Camarão, Moqueca de Peixe, Bobó de Camarão, Camarão Empanado, Bolinho de Bacalhau, Espaguete de Frutos do Mar, Paella, Strogonoff de Camarão, Filé de Peixe Grelhado, Camarão Alho e Óleo e Porquinho a dorê."
             },
             {
                 "nome": "Rodízio de Frutos do Mar PREMIUM + Caranguejo de Sexta a Domingo Almoço e Jantar",
-                "preço": "R$ 129,90",
+                "preço": 129.9,
+                "informação-extra": null,
                 "descrição": "Buffet de saladas, Caranguejo, Paella, Camarão Pistola, Casquinha de Siri, Coxinha de Camarão com Queijo, Salmão grelhado, Ceviche, Chiclete de Camarão, Moqueca de Peixe, Bobó de Camarão, Camarão Empanado, Bolinho de Bacalhau, Espaguete de Frutos do Mar, Paella, Strogonoff de Camarão, Filé de peixe grelhado, Camarão Alho e Óleo e Porquinho a dorê."
             }
         ]
@@ -17,161 +19,191 @@
         "Sucos Naturais": [
             {
                 "nome": "Laranja",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Limão",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Laranja com Acerola",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Maracujá com Morango",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Limonada Suíça",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Laranja com Morango",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Maracujá",
-                "preço": "R$ 12,00",
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Maracujá com Leite",
-                "preço": "R$ 14,90",
-                "descrição": ""
+                "preço": 14.9,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Suco Polpas": [
             {
                 "nome": "Abacaxi",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Abacaxi com Hortelã",
-                "preço": null,
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Acerola",
-                "preço": "R$ 11,00",
-                "descrição": ""
+                "preço": 11.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Frutas Vermelhas",
-                "preço": "R$ 13,00",
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Água e Café": [
             {
                 "nome": "Água Sem Gás",
-                "preço": null,
-                "descrição": ""
+                "preço": 6.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água Com Gás",
-                "preço": null,
-                "descrição": ""
+                "preço": 7.9,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "H2OH/ H2O Limoneto",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café Três Corações",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.5,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água mamba water",
-                "preço": "R$ 8,00",
+                "preço": 8.0,
+                "informação-extra": null,
                 "descrição": "(água sem plástico) mamba water com ou sem gás"
             }
         ],
         "Refrigerante": [
             {
                 "nome": "Guaraná Antarctica",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Guaraná Antarctica Zero",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Soda Antarctica",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água Tônica Antarctica",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Schweppes Citrus",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coca-Cola KS",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coca-Cola Zero KS",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fanta Uva",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Fanta Laranja",
-                "preço": null,
-                "descrição": ""
+                "preço": 10.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Itubaína 355ml long neck",
-                "preço": "R$ 9,00",
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Energético": [
             {
                 "nome": "Red Bull Trad",
-                "preço": "R$ 14,00",
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Red Bull Trop",
-                "preço": "R$ 15,00",
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Red Bull Melancia",
-                "preço": "R$ 15,00",
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -179,150 +211,176 @@
         "Cervejas": [
             {
                 "nome": "Original",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Stella Artois",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Heineken",
-                "preço": null,
-                "descrição": ""
+                "preço": 21.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Serramalte",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Spaten",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Corona",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brahma Malzbier",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cerveja Heineken Zero Long Neck",
-                "preço": null,
+                "preço": 14.0,
+                "informação-extra": null,
                 "descrição": "Cerveja Heineken Zero Long Neck"
             },
             {
                 "nome": "Amstel",
-                "preço": "R$ 17,00",
-                "descrição": ""
+                "preço": 17.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Baden Baden",
-                "preço": "R$ 22,00",
+                "preço": 22.0,
+                "informação-extra": null,
                 "descrição": "(ipa, golden, witbier ou cristal)"
             },
             {
                 "nome": "Praya Witbier",
-                "preço": "R$ 15,00",
-                "descrição": ""
+                "preço": 15.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Chopps": [
             {
                 "nome": "Brahma",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.9,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Whiskys": [
             {
                 "nome": "Red Label",
-                "preço": null,
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Jack Daniel's",
-                "preço": null,
-                "descrição": ""
+                "preço": 33.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Gins": [
             {
                 "nome": "Tanqueray",
-                "preço": null,
-                "descrição": ""
+                "preço": 28.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Bombay",
-                "preço": null,
-                "descrição": ""
+                "preço": 28.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Vodkas": [
             {
                 "nome": "Vodka Nacional",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Absolut",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Rum": [
             {
                 "nome": "Bacardí Prata",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cachaças": [
             {
                 "nome": "Espírito de Minas",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Salinas",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Seleta",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Licores": [
             {
                 "nome": "Licor Nacional",
-                "preço": null,
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Dose Licor 43",
-                "preço": "R$ 32,00",
-                "descrição": ""
+                "preço": 32.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Vermuth Bitters": [],
         "Tequila": [
             {
                 "nome": "Tequila Prata José Cuervo",
-                "preço": null,
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tequila Ouro José Cuervo",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -330,192 +388,227 @@
         "Entradas": [
             {
                 "nome": "Batata Frita",
-                "preço": "R$ 34,00",
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Coxinha de Camarão com Queijo",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "12 unidades"
             },
             {
                 "nome": "Casquinha de Siri",
-                "preço": "R$ 29,00",
+                "preço": 29.0,
+                "informação-extra": null,
                 "descrição": "1 Unidade"
             },
             {
                 "nome": "Ceviche Peixe e Camarão",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Individual"
             },
             {
                 "nome": "Ceviche Peixe",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Ceviche Peixe - Tilápia"
             }
         ],
         "Petiscos": [
             {
                 "nome": "Camarão Alho e Óleo",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": null,
                 "descrição": "400 gramas, Foto e Quantidade ilustrativa."
             },
             {
                 "nome": "Camarão Crocante",
-                "preço": "R$ 79,00",
-                "descrição": ""
+                "preço": 79.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Lula pops",
-                "preço": "R$ 75,00",
-                "descrição": ""
+                "preço": 75.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Isca de Cação",
-                "preço": "R$ 89,00",
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "À Dorê"
             },
             {
                 "nome": "Isca de Tilápia",
-                "preço": "R$ 89,00",
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "À Dorê"
             },
             {
                 "nome": "Batata Frita 350g",
-                "preço": "R$ 34,00",
-                "descrição": ""
+                "preço": 34.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Saladas": [],
         "Prato Kids - Somente para Crianças": [
             {
                 "nome": "Filezinho de Peixe Grelhado, Arroz e Fritas",
-                "preço": "R$ 32,00",
-                "descrição": ""
+                "preço": 32.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filezinho de Frango Grelhado, Arroz e Fritas",
-                "preço": "R$ 27,00",
-                "descrição": ""
+                "preço": 27.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filezinho de Carne Grelhado, Arroz e Fritas",
-                "preço": "R$ 30,00",
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Servidos de terça a Sexta no almoço, exceto feriados.": [
             {
                 "nome": "Executivo de filé de peixe",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Arroz, Feijão, Fritas e Salada"
             },
             {
                 "nome": "Executivo de Carne",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Arroz, Feijão e Salada."
             },
             {
                 "nome": "Executivo de Filé de Frango",
-                "preço": "R$ 34,00",
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "Arroz, Feijão e Salada."
             },
             {
                 "nome": "Parmegiana de Filé de Peixe",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Acompanha arroz e batata frita."
             },
             {
                 "nome": "Parmegiana de Carne ou Frango",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Acompanha arroz e batata frita."
             },
             {
                 "nome": "Strogonoff de Camarão",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Acompanha arroz e batata frita."
             },
             {
                 "nome": "Executivo de Peixe",
-                "preço": "R$ 37,00",
+                "preço": 37.0,
+                "informação-extra": null,
                 "descrição": "Acompanha arroz e purê de batata."
             },
             {
                 "nome": "Executivo de Camarão Empanado",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Acompanha arroz e purê de batata."
             }
         ],
         "Pratos Individuais": [
             {
                 "nome": "Salmão grelhado",
-                "preço": "R$ 69,00",
+                "preço": 69.0,
+                "informação-extra": null,
                 "descrição": "Acompanha legumes e arroz."
             },
             {
                 "nome": "Bobó de Camarão com Arroz e Farofa de Dendê",
-                "preço": "R$ 79,00",
+                "preço": 79.0,
+                "informação-extra": null,
                 "descrição": "Bobó de Camarão com Arroz e Farofa de Dendê"
             },
             {
                 "nome": "Fettuccine de Frutos do Mar",
-                "preço": "R$ 89,00",
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "Camarão , Tentáculos de lula , Tentáculos de polvo e Mexilhão."
             },
             {
                 "nome": "Tilápia à parmegiana",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Filé de tilápia à parmegiana com arroz e fritas."
             },
             {
                 "nome": "Polvo a galega",
-                "preço": "R$ 94,00",
+                "preço": 94.0,
+                "informação-extra": null,
                 "descrição": "Acompanha batata cozida."
             }
         ],
         "Moquecas Para 2 Pessoas": [
             {
                 "nome": "Moqueca Peixe do Dia",
-                "preço": "R$ 149,00",
+                "preço": 149.0,
+                "informação-extra": null,
                 "descrição": "Acompanha arroz, pirão, fritas e farofa de dendê."
             },
             {
                 "nome": "Moqueca Peixe e Camarão",
-                "preço": "R$ 179,00",
+                "preço": 179.0,
+                "informação-extra": null,
                 "descrição": "Acompanha arroz, pirão, fritas e farofa de dendê."
             }
         ],
         "Pratos Para 2 Pessoas": [
             {
                 "nome": "Filé de Peixe à Dorê",
-                "preço": "R$ 109,00",
-                "descrição": ""
+                "preço": 109.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filé de Tilápia à Dorê",
-                "preço": "R$ 149,00",
+                "preço": 149.0,
+                "informação-extra": null,
                 "descrição": "Acompanha arroz, pirão e fritas."
             },
             {
                 "nome": "Bobó de Camarão",
-                "preço": "R$ 149,00",
+                "preço": 149.0,
+                "informação-extra": null,
                 "descrição": "Acompanha arroz, batata frita e farofa de dendê."
             },
             {
                 "nome": "Strogonoff de Camarão",
-                "preço": "R$ 129,00",
+                "preço": 129.0,
+                "informação-extra": null,
                 "descrição": "Acompanha Arroz e Batata Frita"
             },
             {
                 "nome": "Chiclete de Camarão",
-                "preço": "R$ 165,00",
+                "preço": 165.0,
+                "informação-extra": null,
                 "descrição": "Acompanha Arroz e Batata Frita Foto e quantidade ilustrativa."
             }
         ],
         "CARANGUEJO": [
             {
                 "nome": "Caranguejo unidade",
-                "preço": "R$ 15,00",
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "acompanha pirão de caranguejo"
             }
         ]
@@ -524,92 +617,109 @@
         "Queridinhos Santo Mar": [
             {
                 "nome": "Santo Mar",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Gyn, Syrup Artesanal de Maracujá, Manjericão Fresco, Água Tônica e Pimenta Rosa."
             },
             {
                 "nome": "Sangue de Tubarão",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Saquê, Xarope de Cranberry, Suco de Limão e Licor 43."
             },
             {
                 "nome": "Ocean Love",
-                "preço": null,
+                "preço": 37.0,
+                "informação-extra": null,
                 "descrição": "Gin, Syrup Artesanl de Morango, Sumo de Limão-Taiti, Água Tônica, Espuma de Gengibre e Anis Estrelados."
             },
             {
                 "nome": "Mar Vermelho",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Gin, Morango, Amora, Melância e Red Bull."
             },
             {
                 "nome": "Maldivas",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Gyn , Canela Ralada,Canela Defumada , Rodelas de Limão Siciliano e Red Bull Tropical."
             }
         ],
         "Clássicos Santo Mar": [
             {
                 "nome": "Moscow Mule",
-                "preço": null,
+                "preço": 33.0,
+                "informação-extra": null,
                 "descrição": "Vodka, Sumo de Limão-Taiti, Syrup Artesanal de Gengibre e Espuma Artesanal de Gengibre."
             },
             {
                 "nome": "Negroni",
-                "preço": null,
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "Bitter Campari, Vermut Rosso, Gin e Bitter Angustura."
             },
             {
                 "nome": "Gin Tônica Clássica",
-                "preço": null,
+                "preço": 31.0,
+                "informação-extra": null,
                 "descrição": "Gin, Tônica, Fatia de Limão Siciliano, Zimbro e Alecrim Fresco."
             },
             {
                 "nome": "Lagoa Azul",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Vodka, Soda, Sumo de Limão Taiti e Curaçau Blue."
             },
             {
                 "nome": "Mojito",
-                "preço": null,
+                "preço": 28.0,
+                "informação-extra": null,
                 "descrição": "Run Ouro, Syrup Simples, Sumo de Limão-Taiti, Hortelã Fresca e Água Gaseificada."
             },
             {
                 "nome": "Margarita",
-                "preço": null,
+                "preço": 29.0,
+                "informação-extra": null,
                 "descrição": "Tequila Prata, Licor de Laranja Triple Sec, Sumo de Limão-Taiti e Borda com Sal Marinho."
             },
             {
                 "nome": "Aperol Sprits",
-                "preço": null,
+                "preço": 29.0,
+                "informação-extra": null,
                 "descrição": "Bitter Aperol, Espumante Brut Seco, Água Gaseificada e Laranja."
             },
             {
                 "nome": "Sex on the Beach",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Vodka, Sumo de Laranja, Triple Sec Peach e Xarope de Cranberry."
             }
         ],
         "Caipirinha": [
             {
                 "nome": "Caipirinha Exótica",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Maracujá, Pimenta e Manjericão."
             },
             {
                 "nome": "Caipirinha Cítrica",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Tangerina, Carambola, Limão Siciliano e Hortelã."
             },
             {
                 "nome": "Morango, Maracujá ou Frutas Vermelhas.",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Limão",
-                "preço": null,
-                "descrição": ""
+                "preço": 30.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },
@@ -617,42 +727,50 @@
         "Sobremesas": [
             {
                 "nome": "Creme de Papaya",
-                "preço": "R$ 22,00",
-                "descrição": ""
+                "preço": 22.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Brownie com Sorvete",
-                "preço": "R$ 24,00",
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "Sorvete sabor creme."
             },
             {
                 "nome": "Petit Gateau",
-                "preço": "R$ 26,00",
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Chocolate ou doce de leite com sorvete de creme."
             },
             {
                 "nome": "Pudim de Leite Condensado",
-                "preço": "R$ 16,00",
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sorvete de Creme 2 bolas",
-                "preço": "R$ 12,00",
+                "preço": 12.0,
+                "informação-extra": null,
                 "descrição": "Delicioso sorvete de creme na taça com cobertura de chocolate"
             },
             {
                 "nome": "Cocada Cremosa",
-                "preço": "R$ 16,00",
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cocada Cremosa com Sorvete",
-                "preço": "R$ 24,00",
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "Cocada cremosa com sorvete de creme"
             },
             {
                 "nome": "Cheesecake",
-                "preço": "R$ 26,00",
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Com calda de frutas vermelhas."
             }
         ]
@@ -661,47 +779,55 @@
         "Brancos": [
             {
                 "nome": "Mancura Etnia Chardonnay",
-                "preço": null,
-                "descrição": ""
+                "preço": 99.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mancura etnia branco",
-                "preço": null,
-                "descrição": ""
+                "preço": 32.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Nieto Benjamin",
-                "preço": null,
-                "descrição": ""
+                "preço": 79.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Rose": [
             {
                 "nome": "Portada rose",
-                "preço": null,
-                "descrição": ""
+                "preço": 129.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Tintos": [
             {
                 "nome": "Portada tinto",
-                "preço": null,
-                "descrição": ""
+                "preço": 129.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Mancura etnia tinto",
-                "preço": null,
-                "descrição": ""
+                "preço": 32.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Leyda Carmenere",
-                "preço": null,
-                "descrição": ""
+                "preço": 149.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Siegel",
-                "preço": null,
-                "descrição": ""
+                "preço": 74.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },

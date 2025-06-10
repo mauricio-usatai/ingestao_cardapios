@@ -3,297 +3,352 @@
         "Batatas e petiscos": [
             {
                 "nome": "Franguinho Marylou",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Pedaços de frango e picles empanados, sour cream, gergelim e ciboulette. DICA: peça com molho oriental agridoce picante por +R$7"
             },
             {
                 "nome": "Batata Rústica",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Batata frita em rodelas servida com alho confit e alecrim."
             },
             {
                 "nome": "Batata Palito",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Batata frita tradicional."
             },
             {
                 "nome": "Batata Cheese",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Batata palito coberta com creme de queijo, sour cream e bacon finalizada com ciboulettte."
             }
         ],
         "Bombom": [
             {
                 "nome": "Bombom20",
-                "preço": "R$ 63,00",
+                "preço": 63.0,
+                "informação-extra": null,
                 "descrição": "Um burguer especial: com pasta de alho negro, queijo gruyere, disco de cebola na chapa e caldo de costela no pão selado na manteiga de tutano."
             },
             {
                 "nome": "Clássico",
-                "preço": "R$ 54,00",
+                "preço": 54.0,
+                "informação-extra": null,
                 "descrição": "Molho de tomate rústico, queijo da casa no pão bossa nova."
             }
         ],
         "Especiais": [
             {
                 "nome": "Chicago Duplo + Batata + Pepsi",
-                "preço": "R$ 59,00",
+                "preço": 59.0,
+                "informação-extra": null,
                 "descrição": "Chicago Duplo smash com batata e Pepsi! O burger leva queijo cheddar, picles, ketchup, mostarda especial e cebola roxa."
             },
             {
                 "nome": "Chicago",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Queijo cheddar, picles, ketchup, mostarda especial e cebola roxa. A homenagem da Lanchonete ao querido Quarteirão!"
             },
             {
                 "nome": "Moraes",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Nossa homenagem ao clássico “Filé do Moraes”: queijo da casa, tomates assados, lâminas de alho frito, agrião e dijonaise, no pão Bossa Nova."
             },
             {
                 "nome": "La Presse",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Mussarela de búfala, compota de tomate e maionese de manjericão, no pão Bossa Nova prensado na chapa."
             },
             {
                 "nome": "Leblon",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Queijo camembert, bacon, tomate assado e alface frisée, no pão Bossa Nova."
             },
             {
                 "nome": "Tropicália",
-                "preço": "R$ 41,00",
+                "preço": 41.0,
+                "informação-extra": null,
                 "descrição": "Provolone, queijo da casa, calabresa artesanal, cebola roxa chapeada, tomate e maionese da casa, no pão Bossa Nova."
             },
             {
                 "nome": "Supimpa",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Queijo da casa, farofinha de bacon e cebola caramelizada com bacon, no pão brioche."
             },
             {
                 "nome": "Cooper",
-                "preço": "R$ 41,00",
+                "preço": 41.0,
+                "informação-extra": null,
                 "descrição": "Queijo cheddar, relish de pepino, mostarda dijon e molho inglês, no pão preto."
             },
             {
                 "nome": "Pinheiros",
-                "preço": "R$ 41,00",
+                "preço": 41.0,
+                "informação-extra": null,
                 "descrição": "Queijo gorgonzola, bacon, sour cream, cebola branca e ciboulette, no pão brioche."
             },
             {
                 "nome": "Smoked",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Cheddar inglês, cebola chapeada, bacon e barbecue com Bulleit Bourbon no pão australiano"
             },
             {
                 "nome": "Marylou",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Frango crocante, alface, relish de pepino e maionese da casa no pão com gergelim. (Peça também na versão spicy)."
             },
             {
                 "nome": "Quitandinha",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Hambúrguer (à base de vegetais, castanha de caju e cogumelos), muçarela de búfala, tomate, rúcula e molho pesto, no pão australiano./ Queijo vegano + R$ 7,00"
             }
         ],
         "Clássicos": [
             {
                 "nome": "X-Salada",
-                "preço": "R$ 33,00",
+                "preço": 33.0,
+                "informação-extra": null,
                 "descrição": "Burguer, queijo da casa, alface, tomate e maionese, no pão brioche."
             },
             {
                 "nome": "X-Burguer",
-                "preço": "R$ 29,00",
+                "preço": 29.0,
+                "informação-extra": null,
                 "descrição": "Burguer e queijo da casa, no pão brioche."
             }
         ],
         "Sandubas Paulistanos": [
             {
                 "nome": "Ibira",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "A nossa versão do sanduba Caprese: muçarela de búfala, tomate assado, rúcula e pesto, no pão Campanha."
             },
             {
                 "nome": "Frevinho",
-                "preço": "R$ 51,00",
+                "preço": 51.0,
+                "informação-extra": null,
                 "descrição": "Sanduba de roastbeef da casa, queijo estepe tostado, compota de tomate, aioli, picles e cebola roxa, no pão Campanha."
             }
         ],
         "Hot-Dogs": [
             {
                 "nome": "Vira-Latinha",
-                "preço": "R$ 31,00",
+                "preço": 31.0,
+                "informação-extra": null,
                 "descrição": "Salsicha Berna envolta em bacon e frita, creme de queijo, picles e cebola."
             },
             {
                 "nome": "X-Totó",
-                "preço": "R$ 31,00",
+                "preço": 31.0,
+                "informação-extra": null,
                 "descrição": "Salsicha Berna, creme de queijo, relish de pepino e mostarda."
             },
             {
                 "nome": "Sampa Dog",
-                "preço": "R$ 27,00",
+                "preço": 27.0,
+                "informação-extra": null,
                 "descrição": "Salsicha Berna, molho de tomate rústico e aioli de leite."
             }
         ],
         "Pratos e Saladas": [
             {
                 "nome": "LC no Prato",
-                "preço": "R$ 58,00",
+                "preço": 58.0,
+                "informação-extra": null,
                 "descrição": "Mix de folhas, batata palito fininha, e uma proteína a sua escolha: - BURGUER DA CASA - FILÉ DE FRANGO - MARYLOU - QUITANDINHA."
             },
             {
                 "nome": "Copa Lombo Milanesa",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Filé de copa lombo à milanesa com picles de mostarda, salada de batata e alface romana."
             },
             {
                 "nome": "Caesar Salad",
-                "preço": "R$ 54,00",
+                "preço": 54.0,
+                "informação-extra": null,
                 "descrição": "Alface romana, crouton, queijo parmesão, molho caesar e filé de frango em tiras."
             },
             {
                 "nome": "Superbowl",
-                "preço": "R$ 54,00",
+                "preço": 54.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Alface, tomates frescos e assados, muçarela de búfala, batata, ovo cozido, picles de cebola roxa e pesto de manjericão."
             },
             {
                 "nome": "Salada de Roastbeef",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Roastbeef da casa, mix de folhas, tomates frescos e assados, picles de mostarda, alcaparra e pistache. Acompanha pão Campanha. Para opção vegetariana, peça sem roastbeef."
             }
         ],
         "Sobremesas": [
             {
                 "nome": "Bolo da Bisa",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Bolo de chocolate com camadas de brigadeiro e calda de chocolate quente."
             },
             {
                 "nome": "Bolo Picnic",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Bolo de coco gelado com calda de doce de leite caseiro."
             },
             {
                 "nome": "Brigadeiro de Colher",
-                "preço": "R$ 24,00",
-                "descrição": ""
+                "preço": 24.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sorvete e Calda",
-                "preço": "R$ 26,00",
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Sorvete (chocolate, creme ou morango) com calda: chocolate ou caramelo."
             }
         ],
         "Milkshakes": [
             {
                 "nome": "Creme",
-                "preço": null,
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "Sorvete de creme batido e calda de caramelo, finalizado com chantilly."
             },
             {
                 "nome": "Chocolate",
-                "preço": null,
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "Sorvete de chocolate batido, calda de chocolate e raspas de chocolate."
             },
             {
                 "nome": "Ovomaltine",
-                "preço": null,
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "O mais pedido! Sorvete de chocolate e creme batidos, calda de chocolate e farofa de Ovomaltine."
             },
             {
                 "nome": "Merengo",
-                "preço": null,
+                "preço": 26.0,
+                "informação-extra": null,
                 "descrição": "Sorvete de morango batido, calda de morango da casa, finalizado com suspiro e chantilly."
             }
         ],
         "Bebidas": [
             {
                 "nome": "Mate Gelado",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Com limão"
             },
             {
                 "nome": "Suco de Laranja",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco de Abacaxi",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Com capim limão"
             },
             {
                 "nome": "Limonada",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco de Uva",
-                "preço": null,
-                "descrição": ""
+                "preço": 16.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água",
-                "preço": null,
-                "descrição": "R$ 7,00 - 300ml"
+                "preço": 7.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Refrigerante",
-                "preço": null,
-                "descrição": "R$ 9,00 - 350ml"
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café Expresso",
-                "preço": null,
+                "preço": 8.0,
+                "informação-extra": null,
                 "descrição": "Rituais TRES"
             }
         ],
         "Cervejas & Coquetéis": [
             {
                 "nome": "Budweiser",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Lager"
             },
             {
                 "nome": "Stella Artois Pure Gold",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Lager sem glúten"
             },
             {
                 "nome": "Corona",
-                "preço": null,
+                "preço": 17.0,
+                "informação-extra": null,
                 "descrição": "Lager"
             },
             {
                 "nome": "Corona Cero",
-                "preço": null,
+                "preço": 17.0,
+                "informação-extra": null,
                 "descrição": "Lager sem álcool"
             },
             {
                 "nome": "Beck's",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Lager"
             },
             {
                 "nome": "Hocus Pocus Bráz Elettrica",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Munich Helles"
             },
             {
                 "nome": "Goose Island Midway",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Session Ipa"
             },
             {
                 "nome": "Gin & Tônica",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Com gin Tanqueray"
             },
             {
                 "nome": "Fitzgerald",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Com gin Tanqueray."
             }
         ]

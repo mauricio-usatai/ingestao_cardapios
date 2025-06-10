@@ -3,675 +3,804 @@
         "Roland-Garros Junior Series ": [
             {
                 "nome": "Match Point",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Aguardente de pêra asiática, licor de flor de sabugueiro, melão, abacaxi, mix de limões e espuma de matcha (carbonatado na preshh)"
             },
             {
                 "nome": "Set Point",
-                "preço": null,
+                "preço": 28.0,
+                "informação-extra": null,
                 "descrição": "Melão, abacaxi, mix de limões e espuma de matcha (carbonatado na preshh) - Coquetel sem Alcóol"
             }
         ],
         "Autorais By Pedro Nascimento": [
             {
                 "nome": "Portinari",
-                "preço": "R$ 56,00",
+                "preço": 56.0,
+                "informação-extra": null,
                 "descrição": "St Verge, Campari, Licor de café Kahlua, Vermouth tinto, Bitter de cacau Enraízes, touile de cacau e café."
             },
             {
                 "nome": "Tarsila",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Cachaça Weber Haus 7 Madeiras, Cointreau Noir, Vermu de Caju Cia dos fermentados, concentrado de Abacaxi, mix cítrico e areia comestível."
             },
             {
                 "nome": "Kobra",
-                "preço": "R$ 56,00",
+                "preço": 56.0,
+                "informação-extra": null,
                 "descrição": "Rum Bacardi Anejo 4, Vermu de jabuticaba Cia dos fermentados, Cynar 70, Monin Paragon Timmur Berry, Xarope The Chai 1883, Jerez oloroso tampa de chocolate."
             },
             {
                 "nome": "Shima",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Aguardente coqueiro azulada, Sake, Campari, Monin Purê de yuzu, Hibisco, Mix cítrico, Leite de Aveia Naveia e folha de shisso."
             },
             {
                 "nome": "Vik",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Bourbon Jim Beam Black, Campari, Shurub de pitanga c/ acerola, Xarope de caramelo salgado Monin, Mix cítrico e flor comestível."
             },
             {
                 "nome": "Magali",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Gin Amz Tropical Jambu, Aperol, Licor de flor de sabugueiro, Suco de limão, Bitter de laranja Enraízes, Soda de melancia c/ manjericão, Bala de melancia com Aperol e Perfume de uvas alvarinhas."
             },
             {
                 "nome": "Capitu",
-                "preço": "R$ 50,00",
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Cachaça Princesa Isabel casório perfeito, Aperol, Blend de amaro c/ vermouth, Bitter de cacau Enraízes, Azeite de cumaru e puxuri e Perfume de tabaco."
             }
         ],
         "Clássicos": [
             {
                 "nome": "Caipirinha / Caipiroska / Saquerinha",
-                "preço": "",
+                "preço": null,
+                "informação-extra": null,
                 "descrição": "Clássico a base de Cachaça, Vodka, ou Sake. Escolha a base alcoolica através da nossa seleta gama de cachaças, vodkas e sakes."
             },
             {
                 "nome": "Blood Mary",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Vodka, Suco de Tomate Temperado, Pimenta e Tabasco"
             },
             {
                 "nome": "Cosmopolitan",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Vodka, Tripe Sec, Suco de Cramberry e Limão Tahiti"
             },
             {
                 "nome": "Dry Martini",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Gin & Vermouth Dry"
             },
             {
                 "nome": "Manhattan",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Bourbon, Vermouth Rosso & Angostura"
             },
             {
                 "nome": "Mojito",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Rum, Limão Tahiti, Hortelã, Club Soda e Açúcar"
             },
             {
                 "nome": "Moscow Mule",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Queridinho da atualidade, o Moscow Mule leva em sua composição vodka, tônica Ginger Ale, suco de limão e finalizado com espuma de gengibre."
             },
             {
                 "nome": "Negroni",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Gin, Campari & Rosso Vermouth"
             },
             {
                 "nome": "Old Fashioned",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Bourbon, Bitter, Açúcar e Casca De Laranja"
             },
             {
                 "nome": "Espresso Martini",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Vodka Yvy, Licor de café, café espresso e xarope de açúcar"
             },
             {
                 "nome": "Penicilin",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Whisky JW Double Black, mel, néctar de gengibre, suco de limão e spray de whisky defumado."
             },
             {
                 "nome": "Adonis",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Jerez oloroso, vermute tinto e bitter de laranja."
             },
             {
                 "nome": "Aperol Spritz",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Aperol, espumante e água com gás decorado com laranja"
             }
         ],
         "Mocktails": [
             {
                 "nome": "Turma da Mônica",
-                "preço": null,
+                "preço": 28.0,
+                "informação-extra": null,
                 "descrição": "Xarope de gengibre, Suco de laranja, Soda de melancia com manjericão. (Carbonatado na preshh)"
             },
             {
                 "nome": "Fusão",
-                "preço": null,
+                "preço": 28.0,
+                "informação-extra": null,
                 "descrição": "Shurub de pitanga c/ acerola, Mix citríco limão e laranja, Xarope de caramelo salgado e Concentrado de abacaxi."
             },
             {
                 "nome": "Chá Matte Gelado",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Chá mate tostado, mel de laranjeira e suco de limões."
             },
             {
                 "nome": "Chá de Hibisco Gelado",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Chá de Hibisco com Suco de Laranja Natural Gelado"
             }
         ],
         "Drinks & Tonic's": [
             {
                 "nome": "YVY Mar & Tonic",
-                "preço": null,
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tanqueray & Tonic",
-                "preço": null,
-                "descrição": ""
+                "preço": 48.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tanqueray Ten & Tonic",
-                "preço": null,
-                "descrição": ""
+                "preço": 56.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Hendricks & Tonic",
-                "preço": null,
-                "descrição": ""
+                "preço": 62.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "The Botanist & Tonic",
-                "preço": null,
-                "descrição": ""
+                "preço": 75.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "AMZ & Tonic",
-                "preço": null,
-                "descrição": ""
+                "preço": 49.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Limoncello & Tonic",
-                "preço": "R$ 43,00",
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "Gin Yvy, xarope de maçã verde, concentrado de gengibre, Limoncello servido com Água Tônica"
             },
             {
                 "nome": "Bulldog & Tonic",
-                "preço": null,
-                "descrição": ""
+                "preço": 51.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cachaças": [
             {
                 "nome": "Serra das Almas",
-                "preço": null,
+                "preço": 33.0,
+                "informação-extra": null,
                 "descrição": "A Cachaça Serra das Almas é produzida na Chapada Diamantina desde 1998, devido ao clima diferenciado com altitude superior a 1.200 m e solos arenosos, foi eleita melhor Branquinha do Brasil pela Revista Vip 2011, com larga pontuação sobre o segundo lugar. A Serra das Almas foi a primeira cachaça com certificação orgânica no Brasil em 2002, a Fazenda Vaccaro produtora da Serra das Almas também ganhou os prêmio de melhor projeto ambiental e social da Bahia, devido à pesquisa e fruticultura orgânica e parcerias com agricultores vizinhos."
             },
             {
                 "nome": "Mato Dentro",
-                "preço": null,
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "A cachaça Mato Dentro Prata é produzida pela destilaria Matodentro onde o senhor Romulo Cembranelli cuidou desde os anos 80 até sua morte em Dez/19, cuidava desde o plantio da cana em seu sítio até sua produção e envelhecimento. Em 1976, na pequena cidade de São Luis do Paraitinga, Manoel Romulo Cembranelli, advogado aposentado, junto com um funcionário do Sitio São Paulo moeu a primeira cana da Destilaria MatoDentro. Ousado para a época, Romulo queria encontrar uma cachaça que agradasse ao seu paladar para embalar as rodas de prosa que tinha com seus familiares e amigos que vinham visitá-lo em seu sítio. Com o tempo, o que era apenas um hobby cresceu e ele viu ali a necessidade de compor mais pessoas para o trabalho."
             },
             {
                 "nome": "Yaguara Branca Orgânica",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "A cachaça Yaguara, criada pelo Master Distiller Erwin Weimann, é destilada em pequenos lotes de 750 litros e é feita com a cana cortada à mão, unindo tecnologia e know-how artesanal. Blend perfeito da mais fina cachaça branca e toques de cachaça envelhecida. Cana-de-açúcar orgânica Fermentação local. Cachaça destilada em alambique de cobre. Destilaria 100% sustentável Desenvolvido pelo lendário Master Distiller Erwin Weimann."
             },
             {
                 "nome": "Reserva 51 Singular",
-                "preço": null,
+                "preço": 41.0,
+                "informação-extra": null,
                 "descrição": "Blend de Cachaça Extra Premium envelhecida em barris de carvalho americano e cachaça envelhecida em barris de amburana, madeira típica brasileira. A Singular representa a qualidade do carvalho no envelhecimento de bebidas com o perfume de uma exótica madeira brasileira. O resultado enaltece sensações que encantam as papilas gustativas. Cachaça Reserva 51 Singular - 700ml A Cachaça Reserva 51 Singular é um destilado de altíssima qualidade, produzida com absoluta precisão para manter inalterados o sabor e a qualidade em cada lote. Com um rico sabor amadeirado e aveludado, essa cachaça proporciona uma experiência única em seu paladar. Seu acabamento suave, marcante e prolongado faz com que seja uma bebida equilibrada e de extremo prazer ao apreciá-la. A Cachaça Reserva 51 Singular é a escolha perfeita para os apreciadores de cachaça que buscam uma bebida de alta qualidade e sabor marcante."
             },
             {
                 "nome": "Ypióca Cinco Chaves",
-                "preço": null,
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "A nova cachaça do portfólio premium de Ypióca chega ao mercado com garrafas numeradas, a partir de uma produção limitada do líquido. É um blend criado com cachaças raras e de altíssima qualidade, que combina aromas diferentes da castanheira, com o mel e o caramelo do carvalho. Gelada, a nova cachaça tem sabor frutado cítrico e levemente picante."
             },
             {
                 "nome": "Salinissima Balsamo",
-                "preço": null,
+                "preço": 29.0,
+                "informação-extra": null,
                 "descrição": "Reúne características de uma genuína cachaça artesanal de alto padrão. O processo de envelhecimento, em barris de bálsamo, confere à bebida um sabor amadeirado e macio. A cor amarelada e o corpo vigoroso, refletem o cuidado em cultivar as práticas originais de produção das cachaças artesanais mineiras."
             },
             {
                 "nome": "Santo Grau P.x",
-                "preço": null,
+                "preço": 34.0,
+                "informação-extra": null,
                 "descrição": "A Cachaça Santo Grau Solera Pedro Ximenes 750ml é produzida em Itirapuã, divisa de São Paulo com Minas Gerais, onde está localizado provavelmente o alambique mais antigo em atividade do estado paulista. É envelhecida através de um sistema de solera com cinco tonéis de 500 litros de carvalho americano que armazenaram o vinho Jerez Pedro Ximenez."
             },
             {
                 "nome": "Weber Haus Organica Amburana",
-                "preço": null,
+                "preço": 41.0,
+                "informação-extra": null,
                 "descrição": "A Cachaça Weber Haus Amburana é uma bebida armazenada por um ano em barris de amburana, madeira tipicamente brasileira. Produzida desde 1948 na encosta da Serra Gaúcha interior do Rio Grande do Sul."
             },
             {
                 "nome": "Weber Haus 7 Madeiras",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "A Cachaça 7 Madeiras Premium Weber Haus é o resultado de um processo de envelhecimento único. Maturada em sete tipos diferentes de madeiras por 2 anos na encosta da Serra Gaúcha interior do Rio Grande do sul: Carvalho Francês, Carvalho Americano, Amburana, Bálsamo, Canela Sassafrás, Cabriúva e Grapia. A Cachaça 7 Madeiras Premium já conquistou Medalha Gran Ouro no Concurso Mundial de Bruxelas, além de diversas medalhas de ouro em outras competições prestigiadas, tanto no Brasil quanto no exterior."
             },
             {
                 "nome": "Princesa Isabel Carvalho",
-                "preço": null,
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "A Cachaça Princesa Isabel é produzida desde 2016, em Linhares, no Espírito Santo, e surgiu de uma paixão antiga de Adão Cellia, idealizador da marca. Em 2005, o produtor adquiriu a Fazenda Tupã e construiu por lá o próprio alambique. Antes de lançar a bebida, passou quase 10 anos estudando os conceitos cachaceiros para levar ao mercado um produto de qualidade. Na propriedade, a colheita é manual, sem queima e com a extração do caldo em no máximo doze horas. Na fermentação, utiliza-se leveduras selecionadas. Para preservar o habitat da região, parte do bagaço da cana torna-se adubo, assim como o esterco do gado. Há também um sistema de placas solares, que geram autonomia energética para o alambique e famílias da região."
             },
             {
                 "nome": "Princesa Isabel Balsamo e Jaqueira",
-                "preço": null,
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "A Cachaça Princesa Isabel Bálsamo e Jaqueira 700ml é produzida através de um blend. Envelhecida em barris de bálsamo e jaqueira, possui graduação alcoólica de 42%. O nome Princesa Isabel é uma homenagem à matriarca da família Cellia. Os rótulos das bebidas trazem, em aquarela, a figura de pássaros da fauna da Serra do Mar, em Linhares, no Espírito Santo."
             },
             {
                 "nome": "Princesa Isabel Casório Perfeito",
-                "preço": null,
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "A Cachaça Princesa Isabel Casório Perfeito 600ml é uma edição especial com 38% de teor alcoólico, um harmonioso blend de Jequitibá Rosa, Bálsamo e Amburana. Concebida em 2021 para celebrar o casamento de um dos filhos de Dr. Adão, fundador do alambique Princesa Isabel, essa cachaça encantou os convidados e conquistou um lugar permanente no catálogo da marca. Batizada de \"Casório Perfeito\", essa mistura equilibrada de sabores é um verdadeiro tributo ao casamento realizado na Paróquia de Nossa Senhora da Saúde, situada na própria fazenda onde a cachaça é produzida. Inspirado pela atmosfera única desse evento memorável, o rótulo da bebida reflete a beleza e a tradição do local, perpetuando a história familiar."
             },
             {
                 "nome": "Gouveia Brasil 44%",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Cachaça única, envelhecida por 3 anos em tonéis de carvalho-americano novo. Premiada com GRAND GOLD MEDAL e Prêmio Inovação no Spirits Selections by Concours Mondial de Bruxelles em 2018. Premiada como melhor drink com café do mundo no World Championship of Coffee In Good Spirits – prêmio máximo conquistado por Dan Fellow, considerado o melhor barista do mundo em 2018."
             },
             {
                 "nome": "Gouveia Brasil Extra Premium",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Blend de madeiras: amburana, carvalho-americano e jequitibá rosa. Envelhecida por mais de 5 anos. Premiada com GRAND GOLD MEDAL no Spirits Selections by Concours Mondial de Bruxelles em 2016. Primeiro e único destilado nacional a conquistar esse prêmio. Medalha de Ouro na maior feira nacional de cachaças – 26ª Edição da Expocachaça em Belo Horizonte/ MG, em 2016, como melhor cachaça nacional. Premiada em 2015 com maior prêmio da Academia Brasileira de Design pela sua embalagem diferenciada e de design elegante."
             }
         ],
         "Gin": [
             {
                 "nome": "Tanqueray",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Tanqueray é uma marca de gin seco londrino produzida pela Diageo. É feito a partir de zimbro, coentro, raiz de angélica e alcaçuz. Características Destilado em alambiques de cobre, Sabor clássico e equilibrado, Perfeito para ser apreciado puro ou em coquetéis, Aroma de zimbro."
             },
             {
                 "nome": "The Botanist Scotch Dry",
-                "preço": null,
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "O Gin The Botanist 22 Islay Dry é conhecido por sua abordagem artesanal e por utilizar uma ampla variedade de botânicos, capturando a essência da flora local. Essa versão destaca-se por incluir 22 botânicos provenientes da Ilha de Islay, resultando em um perfil de sabor único."
             },
             {
                 "nome": "Hendrick’s",
-                "preço": "R$ 55,00",
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Hendrick’s é um gin super premium, elaborado a partir de uma combinação única de pétalas de rosas, pepinos e 11 botânicos, resultando num gin refrescante com um delicado aroma floral. Diferente de outros gins, o Hendrick’s é destilado na Escócia, em pequenos lotes de 500 litros por vez. A combinação única de dois gins elaborados em alambiques diferentes entrega uma bebida balanceada, macia e complexa."
             },
             {
                 "nome": "Tanqueray Ten",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "O único Gin Super Premium da categoria. Nota-se o aroma fresco de várias frutas, ervas e especiarias. Na boca, a essência viva do cítrico e zimbro é evidenciada com suaves notas de camomila. Enquanto o destilado se prolonga no paladar, seu acabamento suave e refrescante é realçado com toques de toranja, laranja e limão. O Gin Tanqueray Ten é perfeito para a criação de drinks icônicos, prova de alta qualidade de seus ingredientes e de seu processo de produção."
             },
             {
                 "nome": "YVY Mar",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "O sabor e o aroma do zimbro misturado a especiarias como a canela, o cardamomo e a noz-moscada se equilibram com o frescor e a paladar cítrico do limão-siciliano e da laranja. Para finalizar, a amêndoa se junta com a alga kombu, trazendo corpo e viscosidade ao destilado. Destilado e engarrafado em Minas gerais - Brasil."
             },
             {
                 "nome": "Bulldog",
-                "preço": null,
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Feito com a água mais pura do País de Gales e com uma mistura de 12 ingredientes provenientes de 8 países diferentes - a semente de papoila da Turquia, folha de lótus da Ásia, zimbro da Itália, amêndoas de Espanha entre outras – combinados com uma quadrupla destilação, fazem do Gin Bulldog um dos mais equilibrados e aromáticos gin do mercado. País: Inglaterra"
             }
         ],
         "Vodkas": [
             {
                 "nome": "Absolut Original",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "Absolut é uma vodka sueca feita completamente a partir de ingredientes naturais encontrados exclusivamente em ähus na Suécia. Ao contrário de algumas outras vodkas, ela não contém açúcar e esse é um dos pontos que mais diferencia Absolut das demais vodkas, oferecendo sabor puro e único."
             },
             {
                 "nome": "Belvedere",
-                "preço": null,
+                "preço": 56.0,
+                "informação-extra": null,
                 "descrição": "Vodka Belvedere Pure 700 ml Fundada na Polônia Belvedere é uma das destilarias mais antigas da Polônia produzindo vodka desde 1910. Belvedere foi pioneira ao estabelecer um novo padrão. Uma vodka totalmente natural produzida utilizando centeio 100% polonês e água pura de suas fontes. Contém zero aditivos de açúcar e é produzida de acordo com os requisitos legais para ser denominada como uma Polska Vodka. de vodka a vodka super premium. A expressão natural de Belvedere. Produzida a partir do centeio polonês Dankowskie Gold Rye. Sem glúten e naturalmente suave, com notas de baunilha, creme e pimenta branca. Perfeita para ser consumida pura ou para agregar valor aos seus coquetéis. Gelar a garrafa de 8ºC a 10ºC."
             },
             {
                 "nome": "Grey Goose",
-                "preço": null,
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "A GREY GOOSE® é o resultado da determinação absoluta para criar uma vodka francesa diferente de qualquer outra. Em cada garrafa de GREY GOOSE® está presente a essência dos ingredientes franceses da melhor qualidade: o trigo macio de inverno de Picardia e suas proximidades, em combinação com a água mineral pura de Gensac, na região de Cognac. Ambos cultivados e levados do campo para a garrafa, através de um processo exclusivo elaborado e controlado pelo empenho e as habilidades extraordinárias do nosso Mestre de Adega, François Thibault."
             },
             {
                 "nome": "Ketel One",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "A Ketel One é produzida em Schiedam, na destilaria Nolet. O nome da produtora vem do seu fundador, Joannes, que estabeleceu o negócio em 1691 para dar um toque autoral ao genever, destilado no qual o zimbro é o principal responsável pelo sabor. O espaço segue produzindo rótulos de genever, mas conta com a vodka entre as joias de seu portfólio.Não foi ideia de Joannes dar início a Ketel One. Na verdade, o rótulo só foi introduzido na linha de produção da Nolet alguns anos depois – ou melhor, séculos depois. Na década de 1980, Carolus Nolet, representante da 10ª geração que assumiu os negócios da família poucos anos antes, entendeu que a vodka era a bebida do momento no maior mercado consumidor do mundo, os Estados Unidos. A destilaria não poderia perder a oportunidade."
             },
             {
                 "nome": "Sky",
-                "preço": null,
+                "preço": 29.0,
+                "informação-extra": null,
                 "descrição": "Criada em São Francisco (EUA) no início dos anos 90 com o objetivo de ser a Vodka mais pura do mundo, chegou ao Brasil em 2000 como uma Vodka importada. Hoje, SKYY VODKA celebra a mistura de pessoas, interesses, talentos, cenários que estimulam a criatividade e o progresso na nossa sociedade. Destilada quatro vezes e filtrada três, a SKYY é uma vodka premium, extremamente suave e versátil, resultado da produção inovadora que contempla todos os processos. Combina com a sua imaginação e com o que você quiser."
             }
         ],
         "Tequila": [
             {
                 "nome": "Tequila Clase Azul Reposado",
-                "preço": null,
+                "preço": 520.0,
+                "informação-extra": null,
                 "descrição": "A Tequila Clase Azul Reposado, foi desenvolvida no México, e após passar por alguns processos de produção, apresenta coloração transparente cristalina, ao nariz, entrega aromas de baunilha. Na boca, tem sabor de avelã e baunilha, assim como uma suavidade excecional."
             },
             {
                 "nome": "Tequila El Jimardor Reposado",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Tradicional e com sabor incomparável, El Jimador é a Tequila 100% agave mais vendida no México em razão de sua alta qualidade e autenticidade. El Jimador é produzida e engarrafada na Casa Herradura, considerada uma das mais tradicionais e respeitadas destilarias do mundo. El Jimador Reposado possui cor âmbar, obtida naturalmente pelo envelhecimento em barris de carvalho por dois meses."
             },
             {
                 "nome": "Tequila El Jimador Blanco",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "El Jimador é a Tequila 100% agave mais vendida no México em razão de sua alta qualidade e autenticidade. El Jimador é produzida e engarrafada na Casa Herradura, considerada uma das mais tradicionais e respeitadas destilarias do mundo. Com a sua cor transparente, cristalina, você pode literalmente ver a sua clareza incomparável. O nome homenageia \"el Jimador\" - os homens que realizam a colheita do agave, cultivada localmente."
             },
             {
                 "nome": "Tequila 1800 Blanco",
-                "preço": null,
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "Tequila 1800 Silver Reserva Blanco 750ml é uma tequila premium da renomada marca 1800 Tequila, conhecida por sua pureza e qualidade excepcional. O Silver Reserva Blanco é uma expressão que se destaca por sua frescura e sabor característico de agave, representando a essência pura da tequila. O 1800 Silver Reserva Blanco é feito a partir de 100% agave azul, cultivada na região de Tequila, no México. Após a destilação, a tequila não é envelhecida, o que preserva sua pureza e permite que o sabor da agave se destaque. O processo de destilação é cuidadosamente monitorado para garantir a mais alta qualidade. Este Blanco oferece um perfil de sabor fresco e vibrante, com notas claras de agave, junto com toques sutis de citrinos e pimenta branca. É um líquido suave e limpo, com uma leveza que permite que o sabor da agave se manifeste plenamente, resultando em um final suave e agradável. O 1800 Silver Reserva Blanco tem uma aparência cristalina, refletindo sua pureza e ausência de envelhecimento. A garrafa de 750ml possui um design elegante e moderno, com um formato que destaca a clareza e o caráter premium da tequila. O 1800 Silver Reserva Blanco possui um teor alcoólico de 40% ABV (Alcohol by Volume), que é padrão para tequilas de alta qualidade e proporciona um equilíbrio ideal entre sabor e intensidade."
             },
             {
                 "nome": "Tequila 1800 Reposado",
-                "preço": null,
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "Lançada em 1975 com o nome de Cuervo 1800 Tequila, a marca de tequilas 1800 pertence a renomada destilaria José Cuervo. Nos anos 2000, a marca sofreu uma remodelação, foram criadas as expressões Silver, Reposado e Añejo, separando as tequilas 1800 da família Cuervo. O nome representa o ano em que a tequila foienvelhecida em madeira de maneira bem sucedida pela primeira vez. Sua garrafa em formato de trapézio homenageia as pirâmides maias, localizadas no México. A destilaria produz suas tequilas da maneira tradicional. As piñas de agave (100% da variedade agave-azul) são colhidas pelos jimadores de plantas com 8 a 12 anos de idade, cozidas em fornos de barro antes de serem moídas para extração de seu suco, o qual é então fermentado. A 1800 Reposado, após dupla destilação, descansa em barris de carvalho americano e carvalho francês por no mínimo 6 meses. Esse processo garante a tequila suavidade e equilíbrio, além de caráter levemente amadeirado. Os aromas da 1800 Reposado são as tradicionais notas herbáceas de agave, além de toques de limão, baunilha e caramelo. No paladar, é adocicada e cremosa, com sabores de canela, noz moscada e cacau. No final, aparecem sutis notas defumadas."
             }
         ],
         "Rum": [
             {
                 "nome": "Bacardi Carta Branca",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Rum Bacardí Carta Blanca “Superior” é elaborado a partir de destilado alcoólico simples de melaço envelhecido. O Bacardí Carta Blanca é o principal representante da origem, arte e autenticidade de Bacardí. Desde 1862, ele carrega o “Bat Device de Bacardí” como seu símbolo. A sua personalidade é latina e caribenha, o que dá à marca um ponto de vista incomparável."
             },
             {
                 "nome": "Bacardi Anejo 4",
-                "preço": null,
+                "preço": 37.0,
+                "informação-extra": null,
                 "descrição": "O Bacardi Añejo Cuatro é um rum dourado, resultado da mistura de runs envelhecidos por no mínimo quatro anos sob o sol do Caribe, em Porto Rico. A maturação acontece em barris de carvalho americano antes uitilizados na produção de bourbon whiskey. Inspirado na receita original do fundador da Bacardi, Don Facundo, Añejo Cuatro é um rum vibrante, com notas de mel, baunilha e especiarias. Devido a seu caráter suave e adocicado, é um rum que pode ser apreciado puro ou sobre gelo, mas é nos coqueteis que brilham, como no clássico Cuba Libre, onde a mistura com refigerante de cola e limão casa perfeitamente com as notas de baunilha do rum."
             },
             {
                 "nome": "Bacardi 8 anos",
-                "preço": null,
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "A Bacardi dispensa apresentações, a marca de rum fundada em Cuba no ano de 1862 é a maior marca familiar de bebidas destiladas do mundo, atualmente seu portfólio de bebidas vai muito além dos runs, com mais de 200 marcas. Após a Revolução Cubana, a família Bacardi transferiu as operações da destilaria para Porto Rico. Durante 7 gerações, o rum Bacardi 8 anos foi mantido como uma reserva apenas para a família Bacardi, sendo lançado para o mercado somente depois de muito tempo. Cada lote do 8 anos é produzido com uma seleção especial de runs envelhecidos por no mínimo 8 anos. O resultado é uma bebida de coloração dourada escura, com aromas de ameixa, damasco, noz moscada e baunilha. Em boca, é muito suave, com as notas amadeiradas aparecendo mais. Ideal para ser apreciado puro ou sobre gelo."
             },
             {
                 "nome": "Havanna Club",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "Rum Havana Club Anejo Blanco 3 anos é eferência mundial em rum. É o único rum cubano exportado sendo envelhecido por 3 anos em barris de carvalho. Este belo rum é feito com cana de açúcar cultivada nas mais férteis terras de Cuba, resultando em um dos mais finos e requintados rums de todo o mundo."
             },
             {
                 "nome": "Havanna 7 anos",
-                "preço": null,
+                "preço": 49.0,
+                "informação-extra": null,
                 "descrição": "Havana Club é uma marca de rum criada em Cuba no ano de 1934, hoje é uma das marcas de rum mais vendidas no mundo. Originalmente produzido na cidade cubana de Cardenas, pela família Arechabala, foi nacionalizada pelo governo após a Revolução Cubana de 1959. É produzida e vendida mundialmente (exceto nos EUA) desde 1994 por um joint venture formada 50% pelo governo cubano e 50% pela gigante Pernod Ricard. Produzido em destiladores contínuos para maior leveza da bebida, o Havana Club Añejo 7 Anos é feito com melaço de cana-de-açúcar e envelhecido por no mínimo 7 anos em tonéis de carvalho (como o nome sugere). O processo de envelhecimento do Havana Club 7 Anos possui uma peculiaridade, uma porção do rum sempre é mantida em barris, em um processo chamado de 'envelhecimento contínuo', desde a sua criação no final dos anos 1960, para que o 'espírito do Havana Club seja mantido'. Toda garrafa de Havana Club 7 Anos recebe uma porção desse rum envelhecido por mais de 50 anos. Ideal para ser apreciado puro, mas também brilha em coquetéis. Experimente um rum Old Fashioned com o Havana Club 7 Anos."
             },
             {
                 "nome": "Angostura 1919",
-                "preço": null,
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "A House of Angostura é uma companhia sediada em Trinidade e Tobago famosa pela produção de Bitters aromáticos de mesmo nome. Além dos bitters, a empresa caribenha se destaca na produção de rum, contando com uma vasta linha da bebida. O rum Angostura 1919 é nomeado dessa forma em referência a um incêndio ocorrido na destilaria onde grande parte dos barris utilizados no envelhecimento de rum foram destruídos. A excessão ficou por conta de barris datados de 1919, os quais foram engarrafados e se tornaram icônicos. Hoje, o Angostura 1919 é elaborado a partir da fermentação do melaço de cana-de-açúcar, a qual se estende por até 72 horas, antes de ser destilado em destiladores contínuos de coluna. Após, o destilado matura por no mínimo oito anos em barris de carvalho americano de primeiro uso, antes utilizados no envelhecimento de bourbon. Notas de prova: Rico e complexos aromas de baunilha, carvalho tostado, frutas cristalizadas e especiarias. Notas de canela também podem ser sentidas no palato, o final do rum é aveludado, adocicado e levemente picante."
             },
             {
                 "nome": "Mount Gay Black Barrel Gold",
-                "preço": null,
+                "preço": 75.0,
+                "informação-extra": null,
                 "descrição": "Envelhecimento em Barris de Carvalho Carbonizados: O nome \"Black Barrel\" refere-se ao método especial de finalização em barris de carvalho intensamente carbonizados. Esse processo confere ao rum uma coloração rica e profunda, além de adicionar notas de carvalho tostado e fumaça. Double Cask Blend: O Mount Gay Black Barrel é um blend habilmente criado, incorporando rums envelhecidos em barris de bourbon, proporcionando uma complexidade de sabores que incluem baunilha, caramelo e especiarias. Perfil de Sabor Intenso: Este rum é conhecido por sua intensidade de sabor, oferecendo uma experiência rica e encorpada. Os toques de frutas tropicais se misturam harmoniosamente com as nuances de carvalho, resultando em um perfil de sabor equilibrado e cativante."
             },
             {
                 "nome": "Mount Gay X.O. Gold",
-                "preço": null,
+                "preço": 115.0,
+                "informação-extra": null,
                 "descrição": "Requintado e elegante, o Rum Mount Gay XO Gold apresenta qualidade impecável e produção tradicional e minuciosa, envelhecido de 8 a 15 anos, exalando a elegância que só o tempo pode proporcionar, representando o verdadeiro sabor de Barbados. Desenvolvido no Caribe, pela marca mundialmente famosa por sua qualidade única, é feito com água puríssima e melaço refinado, apresenta uma composição com 43% de teor alcoólico e corpo arredondado e suave, além de combinar equilibrados aromas de tosta e toques de banana madura, café, chocolate, baunilha e especiarias, realçados em um paladar macio, amadeirado e rico."
             },
             {
                 "nome": "Zacapa 23",
-                "preço": null,
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "O Zacapa Centenario 23 é um rum produzido na Guatemala, pela Industrias Licoreras de Guatemala, empresa fundada por imigrantes espanhóis. O Zacapa Centenario foi lançado em 1972 em homenagem aos 100 anos de fundação da cidade guatemalca de Zacapa. O rum Zacapa Centenario 23 é produzido a partir do melado, caldo de cana-de-açúcar (garapa) concentrado, diferentemente da maioria dos runs, produzidos a partir do melaço. Após fermentado e destilado, o rum é posto em barris de carvalho para envelhecer utilizando o tradicional sistema espanhol de Soleras, o qual consiste em continuadamente trocar o rum de barril a medida que o tempo vai passando. O rum passa por quatro diferentes tipos de barris durante o processo, todos já utilizados antes na maturação de diferentes bebidas, o Pedro Gimenez sherry, um tipo de vinho fortificado espanhol, é um deles. Outro ponto interessante da produção do Zacapa é o fato da destilaria estar localizada na região montanhosa da Guatemala, a uma altitude de 2300 metros. Essa região possui um clima mais ameno e com menor amplitude térmica, tornando o processo de troca de componentes do líquido com o barril mais lento, resultando em uma bebida mais complexa e elegante. O Zacapa Centenario é composto por uma mistura de runs envelhecidos entre 6 e 23 anos. Por esse motivo, não há uma indicação de idade na garrafa. De coloração dourada intensa e avermelhada, o Zacapa Centenario possui aromas adocicados de caramelo, baunilha, cacau e manteiga, combinado com camadas de complexidade provenientes dos diferentes barris em que foi envelhecido. Em boca, é encorpado e complexo, com uma viscosidade atípica para runs envelhecidos. Em boca, apresenta sabores de frutas secas e damasco, além de notas amadeiradas, de couro e tabaco, noz moscada e café."
             },
             {
                 "nome": "Zacapa XO",
-                "preço": null,
+                "preço": 189.0,
+                "informação-extra": null,
                 "descrição": "Zacapa XO é o rum mais especial da linha permanente da renomada destilaria de Guatemala. Para sua elaboração são selecionados runs com idades entre 6 e 25 anos, maturados no Sistema Solera, o qual consiste em continuadamente trocar o rum de barril a medida que o tempo vai passando. O rum passa por quatro diferentes tipos de barris durante o processo: barris de carvalho antes utilizados na maturação de bourbon, vinho jerez (sherry), vinhos finos Pedro Ximénez, além da finalização em barris de carvalho francês previamente utilizados na maturação de Cognac. É feito à partir do caldo de cana-de-açúcar fresco. Outro ponto interessante da produção do Zacapa é o fato da destilaria estar localizada na região montanhosa da Guatemala, a uma altitude de 2300 metros. Essa região possui um clima mais ameno e com menor amplitude térmica, tornando o processo de troca de componentes do líquido com o barril mais lento, resultando em uma bebida mais complexa e elegante. De coloração dourada intensa e avermelhada, o Zacapa XO possui aromas amadeiradas do carvalho, caramelo queimado, nozes torradas secas, casca de laranja com uma delicada nota de fruta no fundo. Em boca, apresente equilíbrio de doçura, fruta e especiarias. Longo, suave e doce com cereja escura, chocolate, tâmara, ameixa com especiarias doces e cravo, baunilha e canela."
             }
         ],
         "Whiskies / Bourbon & Tennessee / Single Malts": [
             {
                 "nome": "Bruichladdich Laddie Classic",
-                "preço": null,
+                "preço": 125.0,
+                "informação-extra": null,
                 "descrição": "Se whiskies tivessem genes, provavelmente o mais recessivo deles seria o Bruichladdich The Classic Laddie. O Classic Laddie é a exceção em um mundo de dominantes. A começar por uma característica que o define. Ele não tem qualquer traço de defumação, apesar de ser produzido na ilha escocesa de Islay, conhecida mundialmente por seus whiskies esfumaçados. Além disso, o Classic Laddie utiliza cem por cento de cevada produzida na Escócia. Um traço claramente recessivo em um mundo de dominantes, onde parte da cevada é, geralmente, importada, de forma a aumentar e eficiência e reduzir os custos de produção. Como se isto não bastasse, o Bruichladdich The Classic Laddie não recebe a adição de corante caramelo – uma prática comum hoje em dia – e não é filtrado a frio. Por conta disso, ao adicionar gelo ou um pouco de água, é comum que certa turbidez apareça. Isto acontece porque as moléculas mais pesadas se agregam com a redução do teor alcoólico do whisky. E falando em teor alcoólico, aí está mais um traço incomum no The Classic Laddie. Cinquenta por cento. A maturação do The Classic Laddie ocorre inteiramente em barricas de carvalho americano que antes contiveram Bourbon whiskey. E aqui talvez esteja o único traço genético dominante no The Classic Laddie. A ausência de idade impressa no rótulo – uma prática cada vez mais comum na indústria do whisky."
             },
             {
                 "nome": "Bruichladdich Port Charlotte 10 Years",
-                "preço": null,
+                "preço": 140.0,
+                "informação-extra": null,
                 "descrição": "Toda a cevada utilizada no Bruichladdich Port Charlotte 10 anos é escocesa, cultivada na região de Invernesshire. O nível fenólico é de 40 partes por milhão (40ppm) no malte – o que pode parecer pouco se comparado a outros whiskies turfados de Islay, mas é, exatamente, a medida perfeita neste caso. A graduação alcoolica é de 50%, o que acentua a impressão fenólica. O whisky é maturado totalmente na própria Bruichladdich. Um preciosismo para alguns, mas, um ponto importante na luta pela transparência e pelo terroir, travada pela destilaria. “Acreditamos que whiskies de Islay devem viver e respirar o ar fresco e salgado durante sua vida. Este não é um destilado produzido na ilha e imediatamente enviado à parte continental para maturar em algum armazém desconhecido” – declara a Bruichladdich, em uma velada provocação a algumas destilarias próximas. A maturação do Bruichladdich Port Charlotte 10 anos acontece em barricas de primeiro e segundo uso de carvalho americano, e de segundo uso de carvalho francês. Na verdade, na proporção exata de 65% primeiro uso americano, 10% segundo uso americano e 25% segundo uso francês. E não é preciso nenhuma perícia ou google-fu para descobrir. A informação está no website da Bruichladdich, como parte de sua campanha de transparência."
             },
             {
                 "nome": "Chivas Regal 12 anos",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "O Chivas 12 anos é um clássico whisky de puro malte fabricado em Speyside, desde 1786, na destilaria de Strathisla, a mais antiga das Highlands escocesas. A combinação de blends únicos não disponíveis para venda e o malte de Longmorn são os segredos do sucesso deste Premium Blended Scotch Whisky 12 anos. Atualmente, Chivas Regal é um dos whiskies mais renomados e vendidos do mundo, e é sinônimo de qualidade, luxo e sofisticação onde quer que seja apreciado. O sabor multifacetado do Chivas 12 revela um aroma de maçã e de frutas, seguido do adocicado do mel, notas de baunilha, amêndoas e uma suavidade que perdura no paladar."
             },
             {
                 "nome": "Chivas Regal 18 anos",
-                "preço": null,
+                "preço": 84.0,
+                "informação-extra": null,
                 "descrição": "O whisky Chivas Regal 18 Anos é uma expressão premium da renomada marca escocesa Chivas Regal. O Chivas Regal 18 Anos é um whisky blended escocês que passou por um período de envelhecimento de 18 anos em barris de carvalho. É conhecido por sua qualidade excepcional e rica herança na produção de whiskies de luxo. Esse whisky apresenta uma combinação equilibrada de maltes e grãos cuidadosamente selecionados, resultando em uma bebida sofisticada e complexa. É apreciado por sua suavidade e camadas de sabores refinados. No aroma, você encontrará notas de frutas maduras, como laranja, maçã e pêssego, combinadas com toques de caramelo, baunilha e especiarias sutis. É um aroma rico e atraente. No paladar, o Chivas Regal 18 Anos oferece uma experiência de sabor complexa e refinada. Sabores de frutas secas, chocolate, nozes, especiarias e um toque sutil de fumaça são perceptíveis. É um whisky suave e aveludado, com uma textura sedosa. A finalização do Chivas Regal 18 Anos é longa e satisfatória. Os sabores persistem no paladar, com notas de frutas maduras, especiarias e um toque de carvalho tostado. É uma finalização suave e elegante."
             },
             {
                 "nome": "Chivas Royal Salute 21 anos",
-                "preço": null,
+                "preço": 219.0,
+                "informação-extra": null,
                 "descrição": "Criado em homenagem à coroação da Rainha Elizabeth II em 1953, Royal Salute 21 anos se distingue pela fragrância de flores de outono que precede um aroma intenso e profundo de frutas. Ao paladar, o defumado de carvalho é intensificado por uma poderosa fragrância floral e uma aveludada cremosidade que envolve toda a boca. Produzido apenas com os melhores whiskies, adere à tradição exclusiva da marca de utilizar apenas whiskies que pacientemente maturaram por pelo menos 21 anos. O Royal Salute 21 anos é um estimado whisky apresentado em uma icônica garrafa de porcelana inglesa, todas inspiradas nas cores das joias da Coroa Real: azul (safira), vermelha (rubi) e verde (esmeralda). O whisky Royal Salute 21 anos possui graduação alcóolica de 40%."
             },
             {
                 "nome": "Glenfiddich 12 anos",
-                "preço": null,
+                "preço": 65.0,
+                "informação-extra": null,
                 "descrição": "Produzido na Escócia, pela Destilaria Glenfiddich localizada em SPEYSIDE de propriedade de William Grant & Sons. Fica na Cidade de Dufftown, em Moray. Dufftown é conhecida como a “capital do whisky” devido à grande concentração de destilarias na região, e Glenfiddich é uma das mais famosas e tradicionais. Esse whisky é renomado pela sua qualidade e sabor suave, com notas frutadas e de baunilha, que são características típicas dos whiskies de Speyside. O Glenfiddich 12 anos, em particular, é um ótimo exemplo do estilo da região e é extensamente O nome Glenfiddich deriva do gaélico escocês GleannFhiodhaich, que significa \"vale dos cervos\", o que se reflete no logotipo do veado de Glenfiddich. A Destilaria Glenfiddich foi fundada em 1886 por William Grant em Dufftown, Escócia, no vale do rio Fiddich. O whisky single malte Glenfiddich saiu dos alambiques pela primeira vez no dia de Natal de 1887. Harmoniza com Queijo Cheddar, Queijo Brie, Queijo Gorgonzola, Frango grelhado, Carne de porco, Bife grelhado, Tarte de maçã ou pera, Chocolate branco."
             },
             {
                 "nome": "Glenfiddich 15 anos",
-                "preço": null,
+                "preço": 121.0,
+                "informação-extra": null,
                 "descrição": "Este whisky é envelhecido por 15 anos em uma combinação de barris de carvalho americano, carvalho europeu e barris de xerez espanhol, que lhe conferem notas complexas e profundas. O Glenfiddich 15 anos tem um sabor suave e equilibrado, com notas de frutas secas, baunilha, mel, caramelo e um toque de especiarias. A combinação de diferentes tipos de barris de envelhecimento proporciona ao Glenfiddich 15 anos uma complexidade única e um final longo e persistente. É um whisky muito apreciado pelos amantes da bebida, sendo considerado um dos mais vendidos no mundo e um dos melhores representantes dos whiskies de malte de Speyside."
             },
             {
                 "nome": "Glenmorangie 10 anos",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "O Glenmorangie 10 anos, também conhecido como Glenmorangie Original, é um whisky produzido pela Destilaria Glenmorangie, localizada em Tain, nas Terras Altas da Escócia. A destilaria é renomada por sua expertise na produção de whiskies de alta qualidade. Este whisky é envelhecido por 10 anos em barris de carvalho americano, usados previamente para o envelhecimento de bourbon, o que confere ao Glenmorangie 10 anos um sabor suave e cremoso, com notas de frutas cítricas, mel, baunilha e um toque sutil de carvalho. Sua maturação proporciona um equilíbrio entre suavidade e complexidade, fazendo dele uma opção acessível, mas de excelente qualidade. O Glenmorangie 10 anos é altamente apreciado por aqueles que buscam um whisky elegante, fácil de beber, e que representa bem o estilo das Terras Altas da Escócia. O Glenmorangie 10 anos (também conhecido como The Original) é produzido pela Destilaria Glenmorangie, que é de propriedade da The Glenmorangie Company Ltd, uma subsidiária do conglomerado de luxo Louis Vuitton Moët Hennessy (LVMH). A destilaria está localizada nas Terras Altas da Escócia (Highlands) e é conhecida por possuir os alambiques mais altos da Escócia, um fator que contribui para um processo de destilação único e para a produção de um whisky com uma suavidade marcante. O Glenmorangie 10 anos é o principal produto da destilaria e é considerado o carro-chefe da linha de whiskies single malt da Glenmorangie. Seu perfil de sabor, suave e frutado, combinado com a maturação em barris de carvalho americano, faz deste whisky uma excelente representação do estilo e da tradição das Highlands escocesas. O Glenmorangie 10 anos (The Original) é um whisky suave, frutado e cremoso, com notas de frutas cítricas, mel e baunilha, que o torna versátil para diversas harmonizações."
             },
             {
                 "nome": "Jack Daniel's",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "Jack Daniel’s Old No. 7 é um autêntico Tennessee Whiskey, que traz em seu sabor o equilíbrio das notas doces e de carvalho. Sua receita contém os mesmos ingredientes desde 1866: 80% milho, 8% centeio, 12% cevada maltada e água livre de ferro da Cave Spring. Jack Daniel’s Old No.7 pode ser apreciado puro, com gelo, incorporado a drinks ou como a imaginação permitir. Com Jack Daniel’s Old No. 7 qualquer momento se torna incrível, seja um churrasco em casa com os amigos ou uma noite relaxante para apreciar a própria companhia. Jack Daniel’s Old No. 7 é um autêntico Tennessee Whiskey, produzido em sua única destilaria, a Jack Daniel Distillery, na cidade de Lynchburg, localizada no estado do Tennessee. Toda gota de Jack Daniel’s vem de Lynchburg e é exportada para mais de 165 países do mundo. Jack Daniel’s Old No. 7 traz em seu sabor o equilíbrio das notas doces e de carvalho. Sua receita contém os mesmos ingredientes desde 1866: 80% milho, 8% centeio, 12% cevada maltada e água livre de ferro da Cave Spring. Após sua destilação, Jack Daniel’s Old No. 7 é suavizado gota a gota em carvão de maple, processo conhecido como “Charcoal Mellowing”. Maturado em barris de carvalho branco de fabricação própria, que oferecem cor e grande parte do sabor ao whiskey. Jack Daniel’s Old No.7 pode ser apreciado puro, com gelo, incorporado a drinks ou como a imaginação permitir. Com Jack Daniel’s Old No. 7 qualquer momento se torna incrível, seja um churrasco em casa com os amigos ou uma noite relaxante para apreciar a própria companhia."
             },
             {
                 "nome": "Jack Daniel's Single Barrel",
-                "preço": null,
+                "preço": 78.0,
+                "informação-extra": null,
                 "descrição": "O Jack Daniel's Single Barrel 100 Proof é destilado a partir de uma seleção única de barris individuais. Cada barril é cuidadosamente escolhido para garantir a qualidade e o sabor distintivo deste whiskey. Esta variação do Jack Daniel's Single Barrel possui um teor alcoólico mais elevado, com 100 Proof (50% ABV), o que resulta em um sabor mais intenso e potente em comparação com as versões mais tradicionais. No aroma, o Single Barrel 100 Proof apresenta notas ricas de carvalho tostado, caramelo e baunilha. Há também nuances de especiarias, como canela e pimenta. No paladar, este whiskey oferece um sabor encorpado e complexo. As notas de caramelo, baunilha e especiarias são acentuadas, proporcionando uma experiência rica e intensa. A finalização do Jack Daniel's Single Barrel 100 Proof é longa e satisfatória. As notas de carvalho, caramelo e especiarias persistem, com um toque de calor e uma sensação suave na boca."
             },
             {
                 "nome": "Johnnie Walker Black Label",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "Johnnie Walker Black Label é um verdadeiro ícone, reconhecido como uma inspiração para todas as outras marcas da categoria. Desenvolvido à partir de whiskies de, no mínimo, 12 anos vindos dos quatro cantos da Escócia, Johnnie Walker Black Label é um blend de caráter profundo, suave e complexo. Um whisky impressionante para compartilhar em qualquer ocasião, seja um encontro com amigos ou uma noite inesquecível."
             },
             {
                 "nome": "Johnnie Walker Double Black Label",
-                "preço": null,
+                "preço": 51.0,
+                "informação-extra": null,
                 "descrição": "Johnnie Walker Double Black é uma expressão premium da renomada marca de whisky escocês Johnnie Walker. É uma versão mais intensa e defumada do clássico Johnnie Walker Black Label. O Johnnie Walker Double Black é conhecido por sua intensidade e caráter defumado. É uma mistura de whiskys de malte e grão, envelhecidos em barris de carvalho, que passaram por um processo de maturação adicional em barris de carvalho carbonizados. Essa etapa extra confere ao whisky um perfil de sabor mais intenso e defumado em comparação com o Black Label. O Double Black apresenta notas de fumaça pronunciadas e um sabor defumado mais robusto do que o Black Label. Além disso, pode-se encontrar uma combinação de sabores ricos, como chocolate amargo, especiarias, café e frutas secas. O aroma é complexo, com notas defumadas, toques de carvalho e um leve dulçor frutado. No paladar, o Johnnie Walker Double Black oferece uma sensação rica e encorpada. A fumaça defumada é equilibrada com sabores intensos e profundos, como malte tostado, caramelo, baunilha e especiarias. A textura é suave e aveludada, proporcionando uma experiência sofisticada ao paladar. A finalização do Double Black é longa e satisfatória, com notas defumadas persistentes e uma leve doçura frutada. O retrogosto é quente e suave, com toques de especiarias e carvalho."
             },
             {
                 "nome": "Johnnie Walker Gold Label",
-                "preço": null,
+                "preço": 58.0,
+                "informação-extra": null,
                 "descrição": "O Johnnie Walker Gold Label Reserve é um whisky escocês blended (mistura) que foi introduzido pela primeira vez em 2012. É uma mistura premium composta por uma variedade de single malts, incluindo Clynelish, Cardhu e Benrinnes. O whisky é envelhecido por pelo menos 18 anos e é conhecido por seu perfil de sabor rico e complexo. O Johnnie Walker Gold Label Reserve é frequentemente apreciado puro ou com gelo, mas também pode ser utilizado em coquetéis. É uma escolha popular para ocasiões especiais ou como presente para entusiastas de whisky. Doce e frutado com notas de baunilha, mel e caramelo. No paladar, tem uma textura suave e cremosa com sabores de toffee, caramelo e chocolate amargo O final é longo e aquecedor, com um toque de defumado e um toque de especiarias."
             },
             {
                 "nome": "Johnnie Walker Platinum Label",
-                "preço": null,
+                "preço": 61.0,
+                "informação-extra": null,
                 "descrição": "Inspirado na tradição da família Walker em criar Private Blends - Whiskies exclusivos, oferecidos apenas para um seleto grupo de clientes e diretores da companhia para ser degustado em encontros mais íntimos, excepcionais e apenas degustados em ocasiões verdadeiramente especiais. Elaborado a partir de whiskies de maltes e grãos, Johnnie Walker Platinum Label é um whisky mais rico e perfeitamente elaborado pela House of Walker. Com sabor e aroma incrivelmente ricos e refinados, assim como o metal (origem do nome), esse blend complexo e marcante incorpora as notas intensas e adocicadas, porém elegantes do estilo da região de Speyside e um delicado defumado característico da região de Islay. De cor âmbar profundo. Aroma rico e refinado, com um toque de frutas frescas e elegantes notas defumadas. Paladar de um blend moderno, intenso e complexo, com sabores ricos e marcantes de frutas, cereais e amêndoas, elegantemente combinados com um final suave e defumado."
             },
             {
                 "nome": "The Macallan 12 anos",
-                "preço": null,
+                "preço": 185.0,
+                "informação-extra": null,
                 "descrição": "O Macallan 12 anos Double Cask foi envelhecido em uma combinação 2 tipos de carvalho sendo de barris de carvalho americano ex-xerez e europeu ex-xerez. Este é um uísque rico que combina frutas cítricas e caramelo com gengibre picante e noz-moscada. Uma excitante nova expressão de declaração de idade da Macallan que é amadurecida em uma combinação de carvalho Sherry americano e europeu por um período mínimo de 12 anos. Aqui, a proporção de barris de carvalho americano ex-Sherry é maior do que a do Sherry Oak de 12 anos, mas nenhum barril ex-bourbon é usado como na versão do Macallan 12 anos do Fine Oak - Triple Cask. O Macallan Double Cask 12 Years Old é 100% envelhecido com carvalho americano e europeu ex-xerez e 100% natural sem o uso de corantes, de acordo com a tradição do Macallan, mas único no fato de ser definido pela inconfundível proeminência de um estilo americano de carvalho. O Macallan traz novos carvalhos da América através de milhares de quilômetros até a Espanha, onde os barris são trabalhados e temperados com xerez antes de viajar para a destilaria em Speyside, onde são enchidos e amadurecidos por pelo menos 12 anos. Estes whiskies de carvalho amaricano ex-xerez são então harmoniosamente unidos com aqueles envelhecidos por pelo menos 12 anos em barris de carvalho europeus ex-xerez. O delicado sabor do carvalho americano - baunilha, cítricos e carvalho claro - destaca-se pelo caráter tradicional de carvalho europeu Macallan de frutas secas, xerez e especiarias de madeira que proporcionam uma base familiar. Adequado para todas as ocasiões, Double Cask 12 Years Old irá agradar tanto aos bebedores existentes como aos novos do Macallan. O caráter fresco e acessível de Double Cask 12 Years Old também serve como o complemento perfeito para o seu contraparte um pouco mais robusto, o Sherry Oak 12 Years Old."
             },
             {
                 "nome": "Gentleman Jack",
-                "preço": null,
+                "preço": 57.0,
+                "informação-extra": null,
                 "descrição": "O Gentleman Jack é um whisky produzido pela famosa Destilaria Jack Daniel's, localizada em Lynchburg, Tennessee, uma pequena cidade ao sul de Nashville. Conhecida por sua longa história, a Jack Daniel's é uma das marcas de whisky mais icônicas do mundo, famosa por seu Tennessee Whiskey, que passa por um processo único de filtragem em carvão de bordo, conhecido como \"Charcoal Mellowing\" ou \"Lincoln County Process\". O Gentleman Jack é uma versão premium do famoso Jack Daniel's Tennessee Whiskey e se destaca principalmente pelo seu processo de amadurecimento duplo. A principal diferença entre o Gentleman Jack e o tradicional Jack Daniel's Old No. 7 está na maneira como o whisky é filtrado. O processo exclusivo de \"Charcoal Mellowing\" ou \"Lincoln County Process\" é realizado duas vezes. Primeiro, o whisky é filtrado através de carvão de bordo antes de ser colocado nos barris para amadurecer. E, em seguida, ele passa por mais uma filtragem adicional com carvão de bordo antes de ser engarrafado. Esse processo é demorado, levando cerca de seis dias, e é responsável por conferir ao Gentleman Jack um sabor mais suave e adocicado. Esse método de filtragem resulta em um whisky mais refinado, com notas mais doces, com leveza e suavidade, sendo perfeito para quem busca uma bebida com o sabor característico do Jack Daniel’s, mas de forma mais suave e sofisticada. Harmoniza com: queijos como brie, camembert ou gouda, filé mignon, bife de costela ou até frango assado, amêndoas, nozes e pistaches, chocolate amargo ou sobremesas com caramelo, ceviche ou pratos de peixe grelhado."
             },
             {
                 "nome": "Woodford Reserve",
-                "preço": null,
+                "preço": 71.0,
+                "informação-extra": null,
                 "descrição": "O Woodford Reserve Bourbon é um whisky bourbon premium produzido pela Woodford Reserve Distillery, localizada em Versailles, no estado de Kentucky, Estados Unidos. Esta destilaria é considerada uma das mais antigas e renomadas de Kentucky, uma região famosa mundialmente pela produção de bourbon. A Woodford Reserve é conhecida por sua produção artesanal e pelo foco em qualidade, com um processo que enfatiza a tradição, a experiência e a atenção aos detalhes. O Woodford Reserve Bourbon é amplamente reconhecido por sua elegância e qualidade superior, e é um dos bourbons mais apreciados tanto por entusiastas de whisky quanto por coquetelistas. Sua suavidade e complexidade fazem dele uma escolha excelente para ser apreciado puro, on the rocks ou em cocktails sofisticados, como o Old Fashioned ou o Whiskey Sour. Harmoniza com Queijos envelhecidos e curados, como cheddar curado, gouda defumado ou manchego, Queijos azuis, como Roquefort ou Gorgonzola, Queijo de cabra ou brie, Bife grelhado, como filet mignon ou bife de costela, Costelas de porco ao molho barbecue, Frango assado ou frango grelhado, Salmão grelhado ou atum selado, Chocolate amargo, Chocolate ao leite com nozes ou caramelo, Frango com especiarias, como frango ao curry suave ou frango com molho de mostarda e mel."
             },
             {
                 "nome": "Maker´s Mark",
-                "preço": null,
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "Sua produção é artesanal, o que lhe confere qualidade e sabor superiores. Possui trigo de inverno em sua composição, caracterizando sabor de frutas silvestres. Esta é uma das marcas mais icônicas da América e é amplamente popular com sua garrafa mergulhada na cera. Tem um perfil de sabor doce, que apresenta uma camada de cerejas, tangerina. Tem acabamento liso amanteigado, que também está sobreposta por sabores de chocolate preto e manteiga com algumas notas apimentadas. Ele dá ao paladar uma infinidade de sabores. Com coloração âmbar, laranja-amarelada, o bourbon tornou-se um dos destilados mais apreciados no mundo. Diferentemente da composição do whisky tradicional, o Maker’s Mark não possui centeio na sua formulação, e sim, trigo doce e vermelho de inverno, milho e cevada. O sucesso é fruto de um processo produtivo minucioso, que segue à risca os padrões de qualidade. A produção é feita em baixa escala, em lotes individuais que não ultrapassam 19 barris por lote. A produção anual é equivalente a 600 mil caixas. O Maker’s Mark é envelhecido por cerca de seis anos, depois de engarrafado é então selado em uma garrafa de forma única e selada com a cera vermelha na rolha."
             },
             {
                 "nome": "Jim Beam White",
-                "preço": null,
+                "preço": 41.0,
+                "informação-extra": null,
                 "descrição": "Jim Beam é uma marca americana de whiskey sediada na cidade de Clermont, Kentucky, EUA. A história de destilaria remonta ao ano de 1795, quando Jacob Beam vendeu seu primeiro barril de whiskey. Hoje, após 7 gerações da família, o Jim Beam é o bourbon mais vendido no mundo. O nome homenageia o Beam que reconstruiu a destilaria após o fim da era proibicionista americana, no ano de 1933. O processo de produção do Jim Beam é semelhante aos bourbons tradicionais do Kentucky. É composto por uma mistura de grãos, sendo obrigatoriamente no mínimo 51% de milho, além de centeio e cevada. Os grãos são moídos e cozidos para liberar os açúcares necessários para a fermentação. Uma curiosidade do processo de fermentação é a utilização de uma cepa de levedura cultivada desde a criação da marca Jim Beam, no ano de 1933. Após fermentado, o líquido é destilado em colunas de destilação contínua para aumentar o teor alcoólico. Finalmente, o destilado trasparente, chamado white dog, é posto em barris de carvalho americano novos e tostados por dentro. Após esse processo, para a criação do Jim Beam Honey, o tradicional Jim Beam White Label é infusionado lentamente com mel. O resultado é uma bebida doce na medida certa, com os sabores do mel bem destacados, além dos tradicionais aromas e sabores do bourbon: baunilha e carvalho. Ideal para ser apreciado puro, bem gelado."
             },
             {
                 "nome": "Jim Beam Black",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "Elegante. Suave. Refinado. Isso é o que o envelhecimento extra faz para o bourbon. Jim Beam Black é um bourbon premium cheio de sabor, produzido para ser servido e saboreado. O bourbon premium Jim Beam Black fica anos a mais em barris de carvalho branco do que o original Jim Beam. Esse tempo extra de envelhecimento proporciona ao Jim Beam Black seu sabor encorpado, com caramelo suave e notas de carvalho. A história da Jeam Beam começa em 1795, quando Jacob Beam vendeu o seu primeiro barril de whisky. E hoje, a sétima geração da família Beam continua a produção de uma das marcas de bourbon mais vendidas no mundo. O nome da marca tornou-se \"Jim Beam\" em 1943 em homenagem a James B. Beam, que reconstruiu o negócio após o fim da Lei Seca. Anteriormente produzido pela família Beam e posteriormente propriedade da Fortune Holding de marcas, a marca foi comprada pela Suntory Holdings em 2014."
             },
             {
                 "nome": "Jameson",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "O whisky Jameson é um dos mais icônicos e populares whiskys irlandeses no mundo, produzido pela Destilaria Midleton, localizada em Midleton, no sudeste do condado de Cork, na Irlanda. A destilaria foi fundada em 1975 e, atualmente, pertence à Irish Distillers, uma subsidiária da gigante do setor de bebidas Pernod Ricard. Jameson é conhecido por seu processo de produção único, que envolve uma tríplice destilação (ao contrário de muitos whiskys escoceses, que geralmente passam por duas destilações). Esse processo confere ao Jameson um sabor suave e fácil de beber, com uma textura aveludada e notas de baunilha, caramelo e um leve toque de especiarias. Jameson é, de fato, o whisky irlandês mais vendido e é amplamente reconhecido como o whisky favorito da Irlanda. Com mais de duzentos anos de história, a marca tem uma tradição profundamente enraizada no país e é apreciada tanto por locais quanto por turistas. Seu sabor suave e a versatilidade o tornaram um ícone global. Interessante notar que até 1968, o whisky Jameson era vendido apenas em barris. A transição para a venda em garrafas foi um marco importante para a marca, permitindo que ela se expandisse ainda mais para os mercados internacionais, além de facilitar o consumo em casa e em bares ao redor do mundo."
             },
             {
                 "nome": "Jameson Edition Ypa",
-                "preço": null,
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "O Jameson Caskmates IPA Caskmates é a segunda edição da linha de uísques envelhecidos em antigos barris de cerveja lançado pela destilaria irlandesa, seguido do Stout Edition, o qual não chegou ao mercado brasileiro. Esta edição utiliza barris utilizados na maturação de cerveja IPA da Franciscan Well Brewery em Cork, Irlanda. A cervejaria envelhece sua cerveja em antigos barris de uísque utilizados para maturar Jameson e depois reenvia esses barris para a destilaria, onde são utilizados para finalizar o envelhecimento do uísque. Dessa forma, alguns traços da cerveja passam ao uísque. Aromas cítricos e um discreto final com traços de lúpulo. Os sabores clássicos do Jameson ainda são dominantes: leve e frutado, com aromas de cera de abelha, casca de limão e grama recém cortada. Ao ser provado, a primeira impressão é a acidez do limão, seguido por cereais tostados, canela e mel. O Jameson Jameson é uma marca de uísque da Irlanda, criada em 1810 por John Jameson, quando, juntamente com seu filho, adquiriu uma antiga destilaria na cidade de Dublin, fundando assim a empresa The John Jameson & Son Irish Whiskey Co.. Hoje, o Jameson Irish Whiskey é destilado na cidade de Midleton, no sul da Irlanda e desde 1988 pertence ao grupo francês Pernod Ricard. É produzido a partir de uma mistura de grain whiskies e single pot still whiskey, assim como os tradicionais blended escoceses. Porém, ao contrário dos single malts escoceses, os whiskeys irlandeses utilizam uma parte de cevada não maltada e outros grãos em sua mistura, além de fazerem tripla destilação em alambiques de cobre (na Escócia são geralmente duas destilações)."
             },
             {
                 "nome": "Wild Turkey Rye",
-                "preço": null,
+                "preço": 58.0,
+                "informação-extra": null,
                 "descrição": "O Wild Turkey é uma marca americana de whiskey, destilado e engarrafado pela Austin Nichols Destillation Co., subsidiária do Grupo Campari, próximo a cidade de Lawrenceburg, Kentucky, EUA. O nome da marca surgiu após um executivo de Austin Nichols, na época um representante da destilaria, levar uma amostra de whiskey a uma caçada de perus selvagens (wild turkey, em inglês) com amigos. O bourbon provou-se tão popular junto aos amigos, os quais sempre pediam 'aquele bourbon do peru selvagem', que começou a ser engarrafado sob o nome Wild Turkey Bourbon Whiskey no ano de 1942. O Wild Turkey Rye é o whiskey de centeio da marca. Para receber essa denominação, a bebida deve possuir ao menos 51% de centeio na sua composição de grãos, o que o diferencia dos bourbons, onde essa proporção deve ser de milho. No caso do Wild Turkey Rye, a mash bill é composta por 51% centeio, 37% milho e 12% cevada. A mistura de grãos é moída e então cozida para liberar os açúcares necessários para o próximo estágio, a fermentação. O líquido fermentado é destilado em colunas de destilação contínua, após, é posto nos barris onde matura por aproximadamente 6 anos. Os whiskies de centeio são marcados pelos aromas e sabores de especiarias, principalmente de canela e pimenta. O Wild Turkey Rye possui aromas adocicados e herbáceos, de menta, eucalipto, caramelo e mel, seguidos por complexas notas de carvalho tostado, além das especiarias, canela, baunilha e pimenta. Em boca, além de confirmar os aromas, aparecem notas de maçã verde e aveia, é também no paladar que aparece o picante característico dos whiskies de centeio."
             },
             {
                 "nome": "Singleton",
-                "preço": null,
+                "preço": 47.0,
+                "informação-extra": null,
                 "descrição": "O Singleton 12 Anos Dufftown é um single malt whisky produzido na Destilaria Dufftown, localizada em Dufftown, na região de Speyside, Escócia. A destilaria, fundada em 1895 como Dufftown-Glenlivet Distillery, é uma das mais respeitáveis na região de Speyside, que é famosa por produzir alguns dos melhores e mais apreciados maltes do mundo. Atualmente, a destilaria é propriedade da Diageo, um dos maiores conglomerados de bebidas alcoólicas do mundo. Este whisky é envelhecido por 12 anos em barris de carvalho, o que contribui para um perfil de sabor equilibrado e suave. O Singleton 12 Anos Dufftown apresenta uma combinação de notas frutadas, como maçã, pêra e damasco, juntamente com um toque de mel, carvalho suave e uma leve baunilha. A maturação em barris de carvalho ex-bourbon e ex-xerez dá ao whisky uma textura cremosa, com um equilíbrio entre a doçura da fruta e a complexidade das especiarias sutis. O Singleton 12 Anos é um whisky de fácil acesso, ideal tanto para iniciantes quanto para entusiastas de single malts, oferecendo uma experiência de degustação agradável e refinada, sem ser excessivamente complexa. Seu perfil de sabor é suave e acessível, mas ainda assim oferece a sofisticação e os sabores característicos dos whiskies da região de Speyside, conhecidos pela suavidade e equilíbrio. A garrafa de Singleton 12 Anos Dufftown segue o estilo sóbrio e elegante da marca, refletindo a tradição e a qualidade da destilaria. Este whisky é uma excelente escolha para quem aprecia whiskies suaves, frutados e bem equilibrados, perfeitos para degustação sozinhos ou com um toque de água ou gelo, dependendo da preferência. Harmoniza com Queijo cheddar curado, Brie ou camembert, Carnes assadas ou grelhadas, Frango assado, Vieiras grelhadas, Salmão defumado, Torta de maçã com canela e nozes, Chocolate amargo."
             },
             {
                 "nome": "Talisker",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "O Talisker 10 Anos é um dos whiskies mais icônicos da Destilaria Talisker, localizada em Carbost, na Ilha de Skye, Escócia, na região de Minginish. Fundada em 1830, a destilaria tem uma longa história de produção de whiskies de single malt com uma característica marcante: sua intensidade e o caráter marítimo, refletindo a proximidade da destilaria ao mar. Localizado na Ilha de Skye, na Escócia, a destilaria Talisker foi até recentemente a única destilaria operacional na região, sendo um verdadeiro símbolo da tradição das Ilhas Ocidentais da Escócia. A relação entre o whisky Talisker e o mar é inseparável, o que se reflete claramente no seu sabor e caráter. O Talisker 10 Anos é envelhecido por 10 anos em barris de carvalho, o que proporciona um equilíbrio entre a intensidade das notas de defumado e o toque suave e suave do carvalho. O whisky tem um perfil de sabor único, com uma combinação de notas salgadas, defumadas, apimentadas e um leve toque de frutas secas. A harmonização do Talisker 10 Anos é uma experiência fascinante devido à sua complexidade de sabores e ao seu perfil defumado e picante. A destilaria, com sua localização à beira-mar, oferece um whisky com notas de defumação, salinidade e temperos, que podem criar combinações incríveis com diversos alimentos, considerando os três tipos de harmonização: por contraste, por equivalência e por fusão. O Talisker vai bem com pratos defumados, como salmão defumado ou queijos curados. Seu sabor salgado e defumado também o torna uma boa escolha para pratos de frutos do mar, especialmente ostras ou mariscos, que trazem uma harmonia com a salinidade do whisky. Pratos picantes e exóticos, como uma carne de cordeiro bem temperada ou alimentos com especiarias (como o curry), podem equilibrar bem o caráter picante e defumado do Talisker."
             },
             {
                 "nome": "The Chita",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "O The Chita é um single grain Japanese whisky produzido pela Destilaria Chita, localizada na província de Aichi, na costa do Pacífico do Japão. Este whisky é uma criação do renomado grupo Beam Suntory, que é conhecido pela sua produção de whiskies de alta qualidade, como o Suntory Hibiki, Yamazaki, e Hakushu. A Destilaria Chita está situada em uma região famosa por suas condições ideais para a produção de whisky, com uma atmosfera úmida e um ambiente perfeito para o envelhecimento dos barris. A província de Aichi fica localizada ao longo da costa do Pacífico, o que contribui para o sabor único e suave do whisky, com uma leve influência marítima. O The Chita é um single grain whisky, o que significa que ele é produzido a partir de cereal único, geralmente milho, mas também pode incluir cevada ou trigo. Ao contrário do single malt whisky, que é feito apenas de cevada malteada, o single grain oferece uma experiência mais suave e leve."
             },
             {
                 "nome": "Hibiki",
-                "preço": null,
+                "preço": 149.0,
+                "informação-extra": null,
                 "descrição": "O Whisky Hibiki Japanese Harmony Suntory tem a coloração âmbar. No olfato rosas, lichia de alecrim, amadeirada madura e sândalo. No paladar tem o sabor de casca de laranja cristalizada com textura de mel e chocolate branco. E tem um final longo, macio e sutil, com um toque de mizrunara (carvalho japonês). Hibiki Japanese Harmony é uma mistura de malte japonês e whisky de grãos de Yamazaki, Hakushu e Chita Leve, acessível e com notas atraentes de casca de laranja e chocolate branco Apresentado na garrafa de 24 facetas que é a marca registrada da marca, representando as estações japonesas. Luminoso. Delicado. Uma transparência que revela complexidade. O Hibiki Harmony é um whisky japonês complexo e equilibrado, composto por até 100 whiskies diferentes, com 5 componentes principais que contribuem para seu sabor único: Whisky de malte em carvalho branco americano: A base do sabor, com notas doces, taninos e especiarias. Whisky de grão Chita: Whisky jovem que une os outros componentes, com notas de caramelo e erva-doce. Sherry cask malt whisky: Adiciona personalidade, com notas de frutas secas, charuto, ameixa e madeira. Whisky de malte Mizunara: O componente mais antigo (12-15 anos), conferindo um caráter japonês com um toque sutil e sofisticado Whisky de malte turfado: A pitada de estilo Islay, com notas defumadas, proporcionando complexidade e profundidade. Esses componentes criam um whisky harmonioso, combinando doçura, especiarias, frutado, defumado e um toque único de caráter japonês, resultando em um perfil único e sofisticado. Harmoniza com Queijo Brie ou Camembert, Queijo Manchego, Queijo Azul suave, Costela de cordeiro, Bife grelhado ou filé mignon, Salmão defumado, Atum grelhado ou sashimi, Sushi de peixe defumado, Yakitori (espetinho de frango grelhado), Chocolate amargo, Torta de maçã com especiarias, Frutas secas."
             },
             {
                 "nome": "The Hakushu",
-                "preço": null,
+                "preço": 249.0,
+                "informação-extra": null,
                 "descrição": "O Hakushu 12 anos Single Malt é composto por whiskies de malte cuidadosamente selecionados, todos envelhecidos por um mínimo de 12 anos em vários barris, criados em homenagem ao centenário da Suntory Whisky. Aninhada nas profundezas do Monte Kaikomagatake, a Destilaria Hakushu se baseia em seu ambiente natural único. A ilustração na garrafa captura a destilaria Hakushu em tons suaves de verde verdejante, representando a floresta ao redor da destilaria. Nossos liquidificadores trabalham com turfa, enquanto suavizam o paladar com a excepcional água da montanha da região, filtrada por antigas rochas de granito. Isso cria um whisky single malt fresco e suave, uma verdadeira revelação em single malts japoneses que deve ser experimentado. Edição comemorativa aos 100 anos da destilaria Suntory Direto das florestas montanhosas intocadas do Japão e as águas puras do Southern Alps japoneses. Não é de admirar que Hakushu é um whisky \"Premium\", elogiado pelos conhecedores de Whiskies mais rigorosos e amantes da gastronomia mundial. Sua sensação nítida e vibrante, única em um single malt, vai animar e liberta os seus sentidos. O Hakushu é um whisky japonês que se destaca por seu perfil turfado, algo raro entre os whiskies japoneses, conhecidos por sua suavidade. A adição de turfa no processo de destilação, típica dos whiskies escoceses, confere ao Hakushu um sabor único, com notas defumadas e terrosas. A Destilaria Hakushu, uma das maiores do mundo, possui 24 alambiques distintos, permitindo uma produção em grande escala sem perder a qualidade e complexidade. Localizada em uma região montanhosa, a destilaria também utiliza águas puras, que contribuem para o sabor equilibrado do whisky. O Hakushu oferece uma experiência única, combinando o DNA japonês com a tradição turfada escocesa."
             }
         ],
         "Licores": [
             {
                 "nome": "Amarula",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Amaretto",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Baileys",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Benedictine",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cointreau Noir",
-                "preço": null,
-                "descrição": ""
+                "preço": 55.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Frangelico",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Grand Marnier",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Limoncello",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Licor 43",
-                "preço": null,
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Don Luiz",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Licor de Doce de Leite"
             }
         ],
         "Cervejas": [
             {
                 "nome": "Corona",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Heineken",
-                "preço": null,
-                "descrição": ""
+                "preço": 19.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Paulaner",
-                "preço": null,
-                "descrição": ""
+                "preço": 36.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cerpa Export",
-                "preço": null,
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "A Cerpa Export é elaborada de acordo com as mais consagradas técnicas européias, matérias-primas rigorosamente selecionadas e água com absoluto grau de pureza. Resultando em uma cerveja de categoria \"Premium\" digna de ser apreciada pelos mais exigentes apreciadores. Original de Belém do Pará, no Norte do Brasil, a Cerpa Export Lager é uma cerveja clara, de coloração dourada e sabor refrescante. Ingredientes: Água, malte, lúpulo, cereiais não malteados, carboidratos. Graduação Alcoólica: 5,3% Coloração: Dourada Amargor: Leve Tipo: Premium American Lager"
             },
             {
                 "nome": "Stella Pure Gold",
-                "preço": null,
-                "descrição": ""
+                "preço": 17.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Blue Moon Witbier",
-                "preço": null,
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Tarantino miracle ipa",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "Cerveja artesanal produzida em São Paulo. Maior amargor e teor alcoolico 6,2%"
             },
             {
                 "nome": "Tarantino german pills",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Cerveja artesanal produzida em São Paulo. Leve, refrescante e fácil harminizção. Teor alcoolico 5,5%"
             },
             {
                 "nome": "Heineken Zero",
-                "preço": null,
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "Produto destinado a adultos"
             }
         ],
         "Águas & Refrigerantes": [
             {
                 "nome": "Água Prata Com e Sem Gás",
-                "preço": null,
-                "descrição": ""
+                "preço": 13.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Suco Natural de Frutas",
-                "preço": null,
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "*Confira as opções com nossa equipe."
             },
             {
                 "nome": "Refrigerantes",
-                "preço": null,
+                "preço": 14.0,
+                "informação-extra": null,
                 "descrição": "Coca-Cola / Coca-Cola Zero / Guaraná / Guaraná Zero / Fanta Laranja / Soda Limonada"
             },
             {
                 "nome": "Red Bull",
-                "preço": null,
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água de coco",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ],
         "Cafés & Chás": [
             {
                 "nome": "Nespresso / Macchiato",
-                "preço": null,
+                "preço": 11.0,
+                "informação-extra": null,
                 "descrição": "Café sustentável"
             },
             {
                 "nome": "Nespresso Cappuccino",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Café sustentável."
             },
             {
                 "nome": "Chás Dammann Frères",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "As origens de Dammann Frères, remetem a 1692, quando o rei Frances Louis XIV concedeu a Monsieur Damame a licença exclusiva para vender chá na França. Em 1949 o Jean Jumeau-Lafond entra no mundo do chá depois de conhecer os irmãos Dammann. Sob sua orientação uma nova vida é dada aos chás aromatizados. As matérias primas dos chás provem dos mais prestigiados jardins para garantir a mais alta qualidade na xícara. Em 1980 o Didier Jumeau-Lafond e Dr. Sano inventam juntos o Cristal Tea Bag que levam a qualidade do chá em granel para Sachês de chá Dammann. Chás sustentáveis."
             }
         ]
@@ -680,98 +809,116 @@
         "Tapas": [
             {
                 "nome": "Arancine de limão",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Bolinho de risoto de limão com recheio de pastrami vegano e queijo de castanha e chutney de manga. 4 Unidades."
             },
             {
                 "nome": "Bolinho de costela",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Bolinho de costela com maionese de maracujá. 5 Unidades."
             },
             {
                 "nome": "Espeto de polvo",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Espeto de polvo com batata e paprica"
             },
             {
                 "nome": "Crispy de frango",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Crispy de frango com base de pão australiano e maionese picante."
             },
             {
                 "nome": "Mini acarajé",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": null,
                 "descrição": "Mini acarajé com camarão e vinagrete com coentro. 4 Unidades."
             },
             {
                 "nome": "Empanadas de Carne",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "2 unidades - carne bovina, ovos e azeitonas"
             },
             {
                 "nome": "Batatas com Cheddar e Bacon",
-                "preço": "R$ 32,00",
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "Batata frita fina com especiarias, cobertas com Queijo Cheddar, e Bacon picado."
             },
             {
                 "nome": "Croquete de Palmito Pupunha",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": null,
                 "descrição": "5 unidades"
             },
             {
                 "nome": "Bolinho Caipira",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "5 unidades - carne bovina temperada e farinha panko"
             }
         ],
         "Para Compartilhar": [
             {
                 "nome": "Tábua de Frios e Queijos",
-                "preço": "R$ 89,00",
+                "preço": 89.0,
+                "informação-extra": null,
                 "descrição": "Seleção de frios e queijos. Acompanha pães."
             },
             {
                 "nome": "Picanha com Chimichurri",
-                "preço": "R$ 99,00",
+                "preço": 99.0,
+                "informação-extra": null,
                 "descrição": "Picanha fatiada, com molho chimichurri e saquinho de pães."
             }
         ],
         "Sanduíches": [
             {
                 "nome": "Hambúrguer Vegetariano",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "Hambúrguer Plant Based 180g, Cebola Roxa, Ricota com Wasabi, Radicchio & Rúcula"
             },
             {
                 "nome": "Pullman Burguer",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Pão do tipo brioche, hambúrger de 220g, Queijo, Alface, Tomate, Cebola e Maionese."
             },
             {
                 "nome": "Club Sandwich",
-                "preço": "R$ 72,00",
+                "preço": 72.0,
+                "informação-extra": null,
                 "descrição": "Queijo, Bacon, Tomate, Alface, Ovos, Frango e Maionese"
             },
             {
                 "nome": "Toast Empanado de Frango",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Sanduíche de creme de frango empanado"
             },
             {
                 "nome": "Toast Empanado de Camarão",
-                "preço": "R$ 62,00",
+                "preço": 62.0,
+                "informação-extra": null,
                 "descrição": "Sanduíche de creme de camarão empanado"
             }
         ],
         "Sobremesas": [
             {
                 "nome": "Seleção de sorvetes",
-                "preço": "R$ 29,00",
+                "preço": 29.0,
+                "informação-extra": "Vegano",
                 "descrição": "Seleção de 3 sabores de sorvete, consulte opçoes disponiveis com a equipe."
             },
             {
                 "nome": "Yuca Brownie",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Brownie proteico de chocolate com ganache de chocolate Plant-based."
             }
         ]
@@ -780,436 +927,520 @@
         "Vinhos em Taça Premium": [
             {
                 "nome": "Garzón Pinot Grigio de Corte",
-                "preço": null,
+                "preço": 64.0,
+                "informação-extra": null,
                 "descrição": "Branco Fresco - Aromas de pera, maçã e notas cítricas. Em boca, é fresco e com corpo médio. Estagiou de três a seis meses em contato com as borras finas"
             },
             {
                 "nome": "Garzón Estate Rosé Pinot Noir",
-                "preço": null,
+                "preço": 64.0,
+                "informação-extra": null,
                 "descrição": "Um dos mais emblemáticos rosés da América do Sul, este rótulo assinado por Garzón é delicado e fresco, destacando-se por flores, como rosas e toques de frutas vermelhas frescas."
             },
             {
                 "nome": "Garzón Estate Tannat de Corte",
-                "preço": null,
+                "preço": 64.0,
+                "informação-extra": null,
                 "descrição": "Garzón Tannat de Corte é um blend de Tannat, Marselan, Petit Verdot e Cabernet Franc. Este tinto é rubi violáceo brilhante e o aroma chama a atenção pelo frescor da menta com amoras bem maduras. O paladar é de corpo médio para leve, com muito frescor e acidez rica. Harmonize com churrasco, carnes suínas, massas com molho de tomate e queijos duros."
             }
         ],
         "Vinhos em Taça": [
             {
                 "nome": "Chandon Réserve Brut",
-                "preço": null,
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "O aroma apresenta características florais (flores brancas) e frutadas (cítricos, maçã e um toque de abacaxi) com uma nuance de pão fresco. O paladar começa por um ataque franco de uma acidez equilibrada, continua com uma nítida sensação de redondeza e frescor; e finaliza com notas de frutas secas e cítricas com uma persistência média."
             },
             {
                 "nome": "San Telmo Chardonnay",
-                "preço": null,
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "De cor amarelo brilhante com reflexos esverdeados. Aromas de maçã vermelha e abacaxi maduro. Equilibrado e com final longo e frutado."
             },
             {
                 "nome": "Kalfu Molu Sauvignon Blanc",
-                "preço": null,
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "O vinho kalfu molu sauvignon blanc apresenta coloração amarelo palha, mostra de frutas cítricas e tropicais como pomelo, abacaxi e pera, acompanhadas de suaves nuances minerais e herbáceas. Em boca apresenta grande equilíbrio. A acidez viva anuncia um vinho de boa intensidade e fascinante frescor. O final de boca volta a trazer sensações cítricas e delicadas nuances vegetais, típicas da variedade."
             },
             {
                 "nome": "Anubis Malbec",
-                "preço": null,
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Coloração rubi. Aromas de frutas vermelhas, framboesa, groselha e cereja, com nuances de baunilha. Paladar frutado, equilibrado, com taninos presentes e final agradável. Fácil de beber."
             },
             {
                 "nome": "Kalfu Molu Pinot Noir",
-                "preço": null,
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Kalfu significa Azul em Mapudungún, língua dos indígenas originários do Chile. É a cor mais importante da cultura Mapuche, porque está associada à origem da vida. O azul do mar que banha a costa Chilena, onde estão situados os vinhedos de onde proveem as uvas para elaboração da linha Kalfu, proporciona um clima excepcional: neblina pela manhã e uma brisa refrescante durante o dia. Vermelho intenso e profundo com reflexos violáceos. Aromas frutados, com notas de frutas vermelhas e baunilha. Corpo leve, pouca passagem por madeira, taninos suaves e acidez equilibrada."
             }
         ],
         "Champagne": [
             {
                 "nome": "Dom Pérignon Brut, 2013",
-                "preço": null,
+                "preço": 3100.0,
+                "informação-extra": null,
                 "descrição": "Dispensa apresentações. Elaborado a partir das uvas Chardonnay e Pinot Noir, é um dos melhores crus da região. Produzida unicamente nos anos excepcionais, é uma busca constante da perfeição na elaboração de champagne. Graduação alcoólica de 12,5%"
             },
             {
                 "nome": "Taittinger Brut Reserve",
-                "preço": null,
+                "preço": 1350.0,
+                "informação-extra": null,
                 "descrição": "Um clássico quando o assunto é champagne, notas de pêssego, damasco, flores brancas e brioche. Notável sabor cítrico e final de boca refrescante. Harmonização, o que sua imaginação permitir!"
             },
             {
                 "nome": "Moet & Chandon Rose",
-                "preço": null,
+                "preço": 973.0,
+                "informação-extra": null,
                 "descrição": "Rosé Impérial é a expressão mais extrovertida e sedutora do estilo Moët & Chandon e ilustra perfeitamente seu espírito. Borbulhantes pérolas rosa que refletem a amplitude e o brilho da rigorosa seleção do Pinot Noir e a riqueza dos melhores vinhedos da região para revelar a mágica do champagne mais aclamado do mundo. Vívido e generoso, Rosé Impérial distingue-se por uma cor radiante, por um sabor frutado intenso e pelo palato flamboyant que imediatamente seduz e deleita."
             },
             {
                 "nome": "Veuve Clicquot Brut",
-                "preço": null,
+                "preço": 969.0,
+                "informação-extra": null,
                 "descrição": "De coloração palha, com borbulhas finas e intensas e aromas finos de maçã, pera madura, flores brancas, brioche e tostado. Em boca apresenta muita elegância, com final longo e mineral."
             },
             {
                 "nome": "Moët & Chandon Impérial Brut",
-                "preço": null,
+                "preço": 952.0,
+                "informação-extra": null,
                 "descrição": "Cor amarelada com tons dourados e por seu belíssimo perlage de borbulhas ativas com formação de espuma abundante. Aromas de abacaxi, manga, ameixa amarela e damasco,com nuances de especiarias, canela e baunilha. O paladar é elegante, cremoso e fresco. Final que lembra grapefruit bem maduro, revelando um estilo ousado que surpreende."
             },
             {
                 "nome": "Veuve Cliquot Brut Rosé",
-                "preço": null,
+                "preço": 989.0,
+                "informação-extra": null,
                 "descrição": "Em 1805, Madame Clicquot, uma jovem viúva de 27 anos, assumiu as rédeas da Casa fundada em Reims em 1772 e tornou-se uma das primeiras empresárias da história. Ousada e visionária, ela tornou seu champanhe conhecido pelo mundo Know How & Craftsmanship: Por mais de 200 anos, a House manteve-se fiel ao seu lema: ‘Apenas uma qualidade, a melhor’. É um presente perfeito que aprimora qualquer celebração ou ocasião especial. A Veuve Clicquot foi a primeira Casa a criar um Champanhe Rosé. Combina elegância e talento, com uma cor rosa brilhante e uma sensação frutada harmoniosa no palato."
             }
         ],
         "Espumantes": [
             {
                 "nome": "Chandon Excellence Rosé",
-                "preço": null,
+                "preço": 320.0,
+                "informação-extra": null,
                 "descrição": "No olfato, remete a delicadas notas de morango e framboesa, frutas negras e canela.No paladar é refrescante, frutado, cremoso e bem equilibrado. Frutas negras e vermelhas entoam em harmonia com ameixas."
             },
             {
                 "nome": "Chandon Excellence Brut",
-                "preço": null,
+                "preço": 297.0,
+                "informação-extra": null,
                 "descrição": "Um espumante excepcional dominado pelo Pinot Noir que ganhou complexidade aromática pelo longo amadurecimento sobre leveduras. Seu aroma lembra cítricos cristalizados, ameixa preta, amêndoas frescas e torradas, especiarias doces como canela, cravo e caramelo, e pão tostado. O paladar começa por um franco ataque de acidez, continua amplo e macio e termina com um final persistente de frutas secas e toques de torrefação."
             },
             {
                 "nome": "Chandon Brut Rosé",
-                "preço": null,
+                "preço": 209.0,
+                "informação-extra": null,
                 "descrição": "A degustação do Chandon Brut Rosé começa pela sedução da reluzente e delicada cor rosada lembrando a goiaba junto às características de uma ótima efervescência: borbulhas finas, ativas e numerosas com uma espuma abundante formando um colarinho persistente na taça. Continua conquistando pela sinfonia de aromas a frutas vermelhas com toques sutis de especiarias doces. E leva ao prazer de uma experiência sensorial única de um paladar extremamente equilibrado."
             },
             {
                 "nome": "Chandon Réserve Brut",
-                "preço": null,
+                "preço": 190.0,
+                "informação-extra": null,
                 "descrição": "O aroma apresenta características florais (flores brancas) e frutadas (cítricos, maçã e um toque de abacaxi) com uma nuance de pão fresco. O paladar começa por um ataque franco de uma acidez equilibrada, continua com uma nítida sensação de redondeza e frescor; e finaliza com notas de frutas secas e cítricas com uma persistência média."
             },
             {
                 "nome": "Pullman Espumante Natural Brut",
-                "preço": null,
+                "preço": 169.0,
+                "informação-extra": null,
                 "descrição": "Método de Elaboração: Charmat - Notas de degustação Visual: Coloração amarelo palha com perlage intenso. Olfativa: delicadas notas de flores brancas e frutas tropicais com presença de ervinhas de quintal e madre-silva. Gustativa: a acidez refrescante e delicadeza são as marcas deste espumante leve e que convida a beber."
             }
         ],
         "Vinhos Brancos": [
             {
                 "nome": "Sugestão do dia\nBoya Chardonnay, 2014",
-                "preço": "R$ 289,00\nR$ 368,00\n- 750ml",
-                "descrição": "Sugestão do dia"
+                "preço": 289.0,
+                "informação-extra": null,
+                "descrição": "Fresco, jovial e com ótima acidez natural, o Boya Chardonnay é um branco elaborado em um estilo puro e limpo, sem passagem por madeira. É um belo Chardonnay, com aromas típicos de peras, maçã, frutas tropicais e um toque cítrico. No palato é muito equilibrado, com ótima mineralidade e uma acidez refrescante. A safra 2014 mereceu 90 pontos do guia Descorchados, especializado em vinhos da América do Sul. É uma ótima descoberta para os amantes da uva Chardonnay em sua expressão mais elegante!"
             },
             {
                 "nome": "Ridge Estate Chardonnay, 2019",
-                "preço": null,
+                "preço": 1350.0,
+                "informação-extra": null,
                 "descrição": "Finíssimo e elegante, este belo Chardonnay é uma ótima interpretação do terroir de Santa Cruz Mountains, o branco foi \"Altamente Recomendado\" pela revista Wine Spectator. A safra 2019 mereceu 94 pontos de James Suckling, além de 92 pontos da Vinous. Elaborado com 7 das 10 parcelas do famoso vinhedo Monte Bello, é sem dúvida um dos grandes brancos da Califórnia."
             },
             {
                 "nome": "Tokaji Furmint Mandolás",
-                "preço": "R$ 499,00\nR$ 760,00\n- 750ml",
+                "preço": 499.0,
+                "informação-extra": null,
                 "descrição": "Este branco seco surpreende com seu charme e frescor. Encorpado, repleto de aromas e com grande finesse, mostra perfeita acidez e uma leve cremosidade. Um dos vinhos pioneiros a mostrar a uva Furmint vinificada como vinho seco, é um branco surpreendente e de grande vocação gastronômica."
             },
             {
                 "nome": "Reto, 2016",
-                "preço": null,
+                "preço": 384.0,
+                "informação-extra": null,
                 "descrição": "100% Albilla (native variety) from Manchuela."
             },
             {
                 "nome": "Alma Negra Mistério Blanco",
-                "preço": null,
+                "preço": 379.0,
+                "informação-extra": null,
                 "descrição": "O Alma Negra Blanco é um surpreendente corte secreto de Ernesto Catena. Rico, complexo e cheio no palato, é um branco potente e gastronômico. Um grande achado, que mostra camadas e mais camadas de sabores. Ricos sabores de frutas, damascos maduros, caramelo, banana, frutas cítricas, limão e abacaxi. Equilibrados com uma acidez limpa. Ótimo acabamento."
             },
             {
                 "nome": "Quinta da Calçada Alvarinho Terroir, 2022",
-                "preço": null,
+                "preço": 309.0,
+                "informação-extra": null,
                 "descrição": "Sabor: Médio corpo, com ótima acidez, complexidade e untuosidade. Seu final é marcado por pêssegos frescos, notas cítricas, além de flores brancas e toques minerais. Aroma: Frutas brancas, como maçãs e peras, frutas cítricas, como limão siciliano, frutas de caroço, como pêssegos, além de notas florais, como rosas, e toques minerais."
             },
             {
                 "nome": "Alamos Viogner",
-                "preço": null,
+                "preço": 238.0,
+                "informação-extra": null,
                 "descrição": "Interessante branco da linha Alamos, com excelente relação qualidadexpreço. Produzido com a aromática casta Viognier, este vinho é exuberante e macio, com bom corpo e acidez. Esta é uma edição limitada, exclusiva para o Brasil e poucos outros países."
             },
             {
                 "nome": "Sugestão do dia\nLe Casine Pinot Grigio",
-                "preço": null,
-                "descrição": "Sugestão do dia"
+                "preço": 147.0,
+                "informação-extra": null,
+                "descrição": "Branco elaborado exclusivamente a partir de Pinot Grigio, sem passagem por madeira. Mostra frutas brancas e de caroço maduras seguidas de notas florais, de ervas e de especiarias picantes, que se confirmam na boca. No palato, tem corpo médio, acidez refrescante, textura cremosa e final com toques salinos e cítricos."
             },
             {
                 "nome": "Garzón Pinot Grigio de Corte",
-                "preço": null,
+                "preço": 234.0,
+                "informação-extra": null,
                 "descrição": "Branco Fresco - Aromas de pera, maçã e notas cítricas. Em boca, é fresco e com corpo médio. Estagiou de três a seis meses em contato com as borras finas"
             },
             {
                 "nome": "Casa Valduga Terroir Chardonnay",
-                "preço": "R$ 199,00\nR$ 222,00\n- 750ml",
+                "preço": 199.0,
+                "informação-extra": null,
                 "descrição": "Compreendendo que a alma do vinho está conectada ao clima, solo, relevo e a constante mudança dos ventos, fez com que a Linha Terroir fosse concebida, valorizando o potencial de cada varietal, cultivados nas principais regiões vitícolas do Rio Grande do Sul."
             },
             {
                 "nome": "Terrazas Chardonnay",
-                "preço": null,
+                "preço": 198.0,
+                "informação-extra": null,
                 "descrição": "Terrazas foi fundada bem no coração de Mendoza em uma restaurada Adega espanhola de 1898 que pertencia a Sotero Arizu um dos pioneiros na produção de vinho na Argentina. O aroma revela notas tostadas de coco e avelã em harmonia com aromas de frutas amarelas como pêssego, caju fresco e papaia. Sutis notas de chocolate branco se destacam pelo envelhecimento do vinho em barris de carvalho. No paladar, encontra perfeito equilíbrio entre madeira e acidez. Vinho de grande amplitude e vivacidade, suas notas tostadas e defumadas se destacam."
             },
             {
                 "nome": "Carmen Insigne Chardonnay, 2015",
-                "preço": "R$ 197,00\nR$ 232,00\n- 750ml",
+                "preço": 197.0,
+                "informação-extra": null,
                 "descrição": "Amarelo-esverdeado, de aroma frutal intenso, com notas de melão, mineral e variedades tropicais como pêssegos brancos e pêras, equilibradas com creme de avelã e limão. Tem bom sabor e persistente final de boca. Além disso, o carvalho combina perfeitamente com notas de frutas e minerais, dando um acabamento vibrante e de longo prazo."
             },
             {
                 "nome": "San Telmo Chardonnay",
-                "preço": null,
+                "preço": 148.0,
+                "informação-extra": null,
                 "descrição": "De cor amarelo brilhante com reflexos esverdeados. Aromas de maçã vermelha e abacaxi maduro. Equilibrado e com final longo e frutado."
             },
             {
                 "nome": "Kalfu Molu Sauvignon Blanc",
-                "preço": null,
+                "preço": 160.0,
+                "informação-extra": null,
                 "descrição": "Coloração amarelo esverdeado, límpido. Procedentes de um clima frio, as uvas resultam em um vinho onde o aroma é marcado pela complexidade e elegância. Mesclam-se notas de frutas cítricas e tropicais como pomelo, abacaxi e pera, acompanhadas de suaves nuances minerais e herbáceas. Em boca apresenta grande equilíbrio. A acidez viva anuncia um vinho de boa intensidade e fascinante frescor. O final de boca volta a trazer sensações cítricas e delicadas nuances vegetais, típicas da variedade."
             },
             {
                 "nome": "Tio Pepe Fino Muy Seco",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Vinho espanhol fino licoroso seco, elaborado com uvas viníferas da variedade Palomino *(D.O.C). Tio Pepe possui um aroma inconfundível e sabor de um jerez \"fino\", que se desenvolve devido à sua maturação biológica sob o \"véu\" que cresce espontaneamente na superfície do vinho. Envelhecido em tonéis de carvalho por 4 anos, Tio Pepe é o produto espanhol presente no maior número de países."
             },
             {
                 "nome": "González Byass Solera 1847 Cream",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Vinho com aromas intensos de frutos secos como figo, tâmara e passa, toques de caramelo e madeira. Na boca é potente e doce, com equilíbrio, sabores de fruta negra seca e com um longo final."
             },
             {
                 "nome": "Carmen Insigne Sauvignon Blanc",
-                "preço": null,
+                "preço": 120.0,
+                "informação-extra": null,
                 "descrição": "Um branco saboroso, cheio de charme e frescor. Bastante aromático e fresco, mostra ótima relação qualidade/preço, como toda linha Classic da Viña Carmen."
             },
             {
                 "nome": "Emiliana Adobe Reserva Riesling, 2022",
-                "preço": null,
+                "preço": 159.0,
+                "informação-extra": null,
                 "descrição": "Riesling refrescante assinado por Emiliana, este branco nos encanta por sua vivacidade e equilíbrio. Destaque para seu caráter fresco que remete a notas de frutas cítricas, como limão, flores e toques minerais."
             },
             {
                 "nome": "Ventisquero Grey Chardonnay",
-                "preço": null,
+                "preço": 290.0,
+                "informação-extra": null,
                 "descrição": "Complexo e elegante, com uma mistura harmoniosa de frutas maduras, como abacaxi, manga e papaya, com toques minerais e cítricosCom aromas exuberantes de frutas tropicais, notas sutis de baunilha e frutos secos"
             },
             {
                 "nome": "Dr. Loosen Dr. L Trocken Qualitatswein Riesling",
-                "preço": null,
+                "preço": 189.0,
+                "informação-extra": null,
                 "descrição": "Amarelo claro, brilhante e com reflexos esverdeados. Aroma: encantadoras notas de limão, laranja, tangerina damasco fresco, anis, mel, minerais. Na boca, doçura e acidez em perfeito equilíbrio, com notas cítricas de limão, damasco e minerais. É concentrado, denso, viscoso, em perfeito equilíbrio e muito persistente."
             },
             {
                 "nome": "Terrazas Reserva Sauvignon Blanc",
-                "preço": null,
+                "preço": 188.0,
+                "informação-extra": null,
                 "descrição": "O coração de Terrazas de los Andes. Consistente, diverso, generoso. Reserva é o estilo característico do Terrazas de los Andes, uma imagem panorâmica de todos os terroirs de altura em Mendoza."
             }
         ],
         "Vinhos Rosés": [
             {
                 "nome": "Garzón Estate Pinot Noir",
-                "preço": null,
+                "preço": 234.0,
+                "informação-extra": null,
                 "descrição": "Um dos mais emblemáticos rosés da América do Sul, este rótulo assinado por Garzón é delicado e fresco, destacando-se por flores, como rosas e toques de frutas vermelhas frescas."
             },
             {
                 "nome": "Carmen Insigne Aperitif Rosé",
-                "preço": null,
+                "preço": 178.0,
+                "informação-extra": null,
                 "descrição": "O vinho rosado da Carmen sempre foi um êxito! Mas devido a tendência de mercado que pede rosados mais leves, agora ele vem repaginado. O nome Aperitif é alusivo a isso. Rose fresco, leve, delicado"
             },
             {
                 "nome": "Whispering Angel Rosé, 2021",
-                "preço": "R$ 235,00\nR$ 285,00\n- 750ml",
+                "preço": 235.0,
+                "informação-extra": null,
                 "descrição": "Whispering Angel é hoje uma referência mundial para o rosé da Provença. Feito de Grenache, Cinsault e Rolle (Vermentino), sua cor clara é agradável aos olhos e atrai a atenção. O perfil de sabor gratificante é cheio e exuberante enquanto é seco até os ossos com um acabamento suave. Altamente acessível e agradável com uma ampla variedade de cozinha, Whispering Angel é um rosé premium que você pode beber do meio-dia à meia-noite. Criado por Sacha Lichine em 2006, sua visão era criar os maiores rosés do mundo."
             }
         ],
         "Vinhos Tintos": [
             {
                 "nome": "Braccale Jacopo Biondi Santi",
-                "preço": "R$ 399,00\nR$ 452,00\n- 750ml",
+                "preço": 399.0,
+                "informação-extra": null,
                 "descrição": "Com a assinatura do cultuado enólogo Jacopo Biondi Santi, o Braccale é um cativante corte do famoso clone de Sangiovese Grosso desenvolvido pelos Biondi Santi (BBS11) e Merlot. Musculoso, repleto de notas de especiarias, frutas vermelhas, tabaco, couro e menta e com uma profundidade sedutora, é um tinto de surpreendente qualidade para a sua faixa de preço. Bastante gastronômico, combina com carnes, massas e queijos."
             },
             {
                 "nome": "Sugestão do dia\nAngelica Zapata Cabernet Franc",
-                "preço": "R$ 498,00\nR$ 598,00\n- 750ml",
-                "descrição": "Sugestão do dia"
+                "preço": 498.0,
+                "informação-extra": null,
+                "descrição": "Elaborado com uvas dos vinhedos Altamira e La Pirámide, de baixíssimos rendimentos, mostra um estilo que lembra alguns dos famosos vinhos de St Emilion em Bordeaux, com uma pronunciada elegância. Um vinho de longa guarda, que deve ficar ainda mais fino após alguns anos em garrafa."
             },
             {
                 "nome": "Pétalos del Bierzo Vinho Tinto Mencía",
-                "preço": "R$ 585,00\nR$ 665,00\n- 750ml",
+                "preço": 585.0,
+                "informação-extra": null,
                 "descrição": "Elaborado a base de Mencia, casta autóctone da região do Bierzo, muito típica com seus aromas florais únicos Um tinto jovial e perfumado, que expressa as paisagens, as flores, os solos e as orientações da região. Intenso, concentrado e muito macio, é um vinho sedutor e de grande apelo, que já se tornou um enorme sucesso."
             },
             {
                 "nome": "Casanova Di Neri Brunello Di Montalcino",
-                "preço": null,
+                "preço": 1600.0,
+                "informação-extra": null,
                 "descrição": "Elegante rubi, oferecendo cereja, alcaçuz, especiarias.Taninos médios, impressionante e impecável. Estágio De 30 Meses Em Carvalho Francês."
             },
             {
                 "nome": "Seña, 2020",
-                "preço": null,
+                "preço": 4300.0,
+                "informação-extra": null,
                 "descrição": "Assinado por Eduardo Chadwick, Seña foi o primeiro projeto premium do país. Blend bordalês com 22 meses em carvalho revela bom corpo, com destaque para frutas maduras, notas de tabaco e toques mentolados."
             },
             {
                 "nome": "Promis IGP Toscana",
-                "preço": null,
+                "preço": 1348.0,
+                "informação-extra": null,
                 "descrição": "Com 93 pontos de Robert Parker na safra 2016, o Promis é macio e envolvente, com bastante presença de boca, concentração e camadas e mais camadas de fruta. Este delicioso tinto é produzido na propriedade de Angelo Gaja em Bolgheri, na Toscana \"e leva a inconfundível assinatura de elegância do produtor. Talvez o mais acessível tinto de Gaja, ele é um corte de Merlot (55%), Syrah (35%) e Sangiovese (10%). É um vinho que \"parece pular do copo\", segundo a revista Decanter."
             },
             {
                 "nome": "Garzón Balasto, 2016",
-                "preço": null,
+                "preço": 2150.0,
+                "informação-extra": null,
                 "descrição": "Ícone de Garzón com assinaturas de Alberto Antonini, Germán Bruzzone e Eduardo Felix, Balasto possui grande elegância, estrutura e potencial. Blend de Tannat, Cabernet Franc, Petit Verdot e Marselan, este complexo tinto estagia em carvalho durante 20 meses. Balasto é o nome do solo majoritário nos vinhedos de Garzón, com origem granítica, que auxilia na excelente drenagem. O tinto possui os selos Descorchados \"Melhor Blend\" e Descorchados \"Melhor Tinto do Uruguai.\""
             },
             {
                 "nome": "Angelica Zapata Malbec",
-                "preço": null,
+                "preço": 739.0,
+                "informação-extra": null,
                 "descrição": "Este disputado Malbec é produzido para o mercado interno argentino, onde é cultuado e esgota-se rapidamente, alcançando preços estratosféricos em safras antigas. As uvas vêm de vinhas selecionadas, plantadas em grande altitude, com rendimentos muito baixos, que resultam em um vinho muito complexo e exuberante, com excelente presença de boca e enorme capacidade de envelhecimento."
             },
             {
                 "nome": "Angelica Zapata Cabernet Sauvignon",
-                "preço": null,
+                "preço": 598.0,
+                "informação-extra": null,
                 "descrição": "As uvas são desengaçadas e fermentadas em cubas de aço inoxidável por 14 dias e um total de 30 dias de maceração. Fermentação malolática completa. Segue-se uma maturação por 18 meses em 85% de barricas francesas, sendo 30% novas, e 15% em carvalho americano novo. Engarrafamento sem filtração."
             },
             {
                 "nome": "Roversi Barolo",
-                "preço": null,
+                "preço": 529.0,
+                "informação-extra": null,
                 "descrição": "Este tinto encorpado possui um fenomenal sabor de madeira, uma vez que estagia em barricas de carvalho francês (de 2º e 3º uso) por 36 meses e mais 6 a 8 meses em garrafa."
             },
             {
                 "nome": "Herdade do Rocim Amphora Tinto",
-                "preço": null,
+                "preço": 485.0,
+                "informação-extra": null,
                 "descrição": "Médio corpo, com taninos firmes e ótima acidez. Seu final é marcado por cerejas e ameixas maduras, além de toques vegetais e de especiarias. Frutas vermelhas e pretas maduras, como cerejas e ameixas, notas vegetais, de especiarias, além de toques terrosos, minerais e florais."
             },
             {
                 "nome": "Alma Negra M Blend",
-                "preço": null,
+                "preço": 424.0,
+                "informação-extra": null,
                 "descrição": "Um vinhedo localizado a 1.300 metros de altitude em Tupungato, com grande amplitude térmica, permite que a Pinot Noir seja colhida perfeitamente madura na região de Mendoza, dando origem a este cativante Pinot Noir de Alma Negra. Para respeitar o caráter delicado da casta, apenas 50% do vinho é maturado em barricas de carvalho francês, sendo o restante vinificado em cubas de aço. Um vinho fresco, aromático e com grande profundidade, já nasce como uma das mais atrativas opções entre os Pinots Noir da América do Sul."
             },
             {
                 "nome": "Alma Negra Pinot Noir",
-                "preço": null,
+                "preço": 393.0,
+                "informação-extra": null,
                 "descrição": "Possui uma linda cor rubi clara, translúcida. Aromas com boa complexidade, inicialmente com predomínio frutado (morango, goiaba). Com algum tempo de taça, aparecem toques abaunilhados, cedro e notas florais. Na boca, bastante equilíbrio e elegância, sem excessos. Taninos finos, corpo leve para médio, média acidez e álcool correto. Final de média persistência, agradável. Um excelente exemplar de Pinot Noir, vale a pena ser provado."
             },
             {
                 "nome": "Catena Malbec",
-                "preço": null,
+                "preço": 385.0,
+                "informação-extra": null,
                 "descrição": "Este é o tinto que mostrou ao mundo o potencial da casta Malbec para originar vinhos de classe mundial. A safra 2019 conquistou 92 pontos de Robert Parker, que destacou seu palato “textura macia e aveludada da casta, com carvalho bem integrado”, além da excelente qualidade pelo que custa. Intenso e concentrado como os grandes tintos argentinos, o Catena Malbec mostra uma complexidade impressionante. Eleito mais de uma vez um dos “100 Melhores Vinhos do Mundo” pela Wine Spectator, é uma referência absoluta."
             },
             {
                 "nome": "Quinta da Falorca T-Nac Reserva, 2016",
-                "preço": null,
+                "preço": 355.0,
+                "informação-extra": null,
                 "descrição": "Rubi intenso com reflexos violáceos.Frutas vermelhas frescas, como framboesas e cerejas, frutas pretas, como ameixas, especiarias, além de notas herbáceas e toques minerais e florais."
             },
             {
                 "nome": "Tasca D'almerita Sallier De La Tour Nero D'avola",
-                "preço": null,
+                "preço": 352.0,
+                "informação-extra": null,
                 "descrição": "O Sallier de la Tour Nero d'Avola é a expressão fel dessa variedade tipicamente siciliano e de seu terroir, com marcadas notas de ameixa preta. O estágio de parte do vinho em barricas de carvalho francês confere complexidade a esse tinto gastronômico, perfeito para acompanhar a refeição."
             },
             {
                 "nome": "Catena Cabernet Sauvignon",
-                "preço": null,
+                "preço": 338.0,
+                "informação-extra": null,
                 "descrição": "\"Um elegante Cabernet argentino com 12 meses em barricas de carvalho. Aromas de frutas negras e especiarias, taninos macios e acidez em equilíbrio. É encorpado e muito gastronômico.\""
             },
             {
                 "nome": "Pietraserena Chianti Colli Senesi DOCG \"Diadema\"",
-                "preço": null,
+                "preço": 290.0,
+                "informação-extra": null,
                 "descrição": "Vinha a 330m do nível do mar, fermentação em aço com temperatura controlada. Envelhecimento em 12 meses em tanque de concreto. Cor vermelho rubi com boca captando framboesa e amora silvestre. Sabor bem seco com prazeroso aroma de frutas vermelhas. Harmonização: Carnes vermelhas, assados e queijos curados."
             },
             {
                 "nome": "Alamos Red Blend",
-                "preço": null,
+                "preço": 243.0,
+                "informação-extra": null,
                 "descrição": "Uvas provenientes de vinhedos próprios localizados em diferentes altitudes em Mendoza. Carvalho francês e americano por 6 meses. \"Reconhecida por seus vinhos varietais bastante saborosos, a linha Alamos, de Catena Zapata, apresenta este excelente corte de Malbec, Tempranillo, Bonarda, Cabernet Sauvignon, Petit Verdot e Syrah elaborado a partir de uvas colhidas em altitude, nas encostas dos Andes. Concentrado, redondo, frutado, aveludado e com aromas de frutas maduras, especiarias, notas terrosas e madeira bem integrada, é uma ótima novidade da Argentina - mais uma incrível barganha da linha Alamos, tida como uma das melhores relações qualidade / preço do mundo do vinho!\""
             },
             {
                 "nome": "Terrazas Reserva Malbec",
-                "preço": null,
+                "preço": 232.0,
+                "informação-extra": null,
                 "descrição": "Com um estilo que agrada com facilidade, este tinto é elaborado com uvas originárias de vinhedos com cerca de 80 anos de idade, com isso, a produção de cada videira em relação ao volume é menor, gerando menos bagos, porém muito mais concentrados. Notas florais e frutadas intensas Presença de rosas, violetas e maduros aromas de cereja preta Revela um caráter tostado e picante da pimenta preta e cravinho. Seu paladar doce e suculento entregam finesse, taninos delicados e um elegante acabamento de frutas negras."
             },
             {
                 "nome": "Marius By Michel Chapoutier Rouge, 2020",
-                "preço": null,
+                "preço": 202.0,
+                "informação-extra": null,
                 "descrição": "Frutado e redondo, Marius Rouge é um dos mais interessantes vinhos tintos do sul da França. Elaborado pela família Chapoutier, este rótulo revela frutas vermelhas maduras, especiarias e toques defumados."
             },
             {
                 "nome": "Lidio Carraro Dádivas Tempranillo",
-                "preço": null,
+                "preço": 153.0,
+                "informação-extra": null,
                 "descrição": "Rubi com reflexos violáceos. Aroma de frutas vermelhas maduras, café, nozes, couro e notas defumadas. Elegante, maduro, de taninos firmes e notas de frutas."
             },
             {
                 "nome": "Pullman Reserva Cabernet Sauvignon, 2022",
-                "preço": null,
+                "preço": 189.0,
+                "informação-extra": null,
                 "descrição": "Notas de degustação Visual: Coloração vermelho rubi. Olfativa: ótima expressão varietal, mesclada com frutas negras como mirtilo e ameixa, mescladas com as notas do carvalho, de cravo e baunilha. Gustativa: taninos macios, boa persistência em boca e acidez gastronômica."
             },
             {
                 "nome": "Lyngrove Collection",
-                "preço": null,
+                "preço": 175.0,
+                "informação-extra": null,
                 "descrição": "Um vinho de corpo médio com boa madeira e acidez e taninos marcantes. Aromas intensos de frutas vermelhas, framboesas, morangos e mirtilos com um toque de especiarias."
             },
             {
                 "nome": "Cristofoli Tannat Coleção, 2021",
-                "preço": null,
+                "preço": 299.0,
+                "informação-extra": null,
                 "descrição": "O provável berço da uva Tannat é o território entre o sul da França e o País Basco (nordeste da Espanha), conhecido como Pireneus. Seu nome deriva do dialeto da região de Béarn e significa “tostada, bronzeada”, uma provável referência à coloração escura da uva. A uva tannat origina vinhos de cor violácea intensa, ricos em taninos e com acidez bem marcada. Através da técnica de maceração carbônica suavizamos sua carga polifenólica, criando um vinho mais delicado, mantendo a sua cor violeta e aumentando a intensidade aromática, muito marcada pelas notas de frutos negros, especiarias e toques lácteos."
             },
             {
                 "nome": "Sophenia Altosur Cabernet Sauvignon",
-                "preço": null,
+                "preço": 172.0,
+                "informação-extra": null,
                 "descrição": "Elaborado a partir de vinhas plantadas em Tupungato, há 1200 metros de altitude, este Cabernet Sauvignon se mostra maduro e elegante. Com taninos finos e doces, e a boa acidez adquirida graças a altitude e a mineralidade do solo da região, é um tinto equilibrado. No nariz destacam-se frutas pretas maduras, como amoras e cassis, notas de eucalipto e toques defumados"
             },
             {
                 "nome": "Anubis Malbec",
-                "preço": null,
+                "preço": 162.0,
+                "informação-extra": null,
                 "descrição": "Coloração rubi. Aromas de frutas vermelhas, framboesa, groselha e cereja, com nuances de baunilha. Paladar frutado, equilibrado, com taninos presentes e final agradável. Fácil de beber."
             },
             {
                 "nome": "Carmen Insigne Cabernet Sauvignon",
-                "preço": null,
+                "preço": 192.0,
+                "informação-extra": null,
                 "descrição": "Insigne é o nome da linha Classic no Chile.Chamado de \"Value Wine\" por Robert Parker por sua excelente relação qualidade/preço, o saboroso Insigne Cabernet Sauvignon é elaborado com uvas de alguns dos vinhedos mais bem localizados do Chile. Mostra boa tipicidade em um conjunto muito equilibrado e agradável, fácil de gostar."
             },
             {
                 "nome": "Ventisquero Queulat Gran Reserva Syrah",
-                "preço": null,
+                "preço": 214.0,
+                "informação-extra": null,
                 "descrição": "A casta é medianamente vigorosa e apresenta cachos de tamanho médio, com bagos pequenos. Seus vinhos são escuros e profundos, porém, se cultivada em altos volumes por hectare, pode ter a sua qualidade comprometida. No aspecto sensorial, seus aromas e sabores mudam conforme o terroir, mas, em geral, esses vinhos guardam alguns aspectos em comum. Eles normalmente apresentam coloração escura, com vermelho carregado, e sabores muito complexos, potentes, com médio corpo e taninos muito amaciados. Eles são quase sempre secos e com acidez regular. Os aromas mais frequentes são de frutas negras e vermelhas, violeta e azeitonas pretas e a graduação alcoólica começa em 13% podendo passar de 15%, em alguns casos. Por seu sabor quase sempre complexo, os vinhos Syrah harmonizam muito bem com pratos feitos com ingredientes intensos, como pratos com carne bovina, vitelo, cordeiro, porco, aves e queijos amarelos. Também os temperos fortes, como cebola, alho, mostarda, pimenta, louro e as ervas aromáticas, como alecrim e tomilho, podem ser bons parceiros."
             },
             {
                 "nome": "Cristofoli Sangiovese, 2020",
-                "preço": null,
+                "preço": 229.0,
+                "informação-extra": null,
                 "descrição": "Variedade: 100% Sangiovese. Visual: Coloração vermelho rubi de leve intensidade. Olfativa: Aroma muito distinto e elegante, com perfeita expressão de frutas vermelhas como framboesa e cereja, além de apresentar algumas notas de especiarias. Gustativa: Um vinho pleno de frescor e jovialidade, com elegantes taninos. O final de boca remete ao olfato, com presença de frutas vermelhas, destacando-se na elaboração de um vinho de leve estrutura."
             },
             {
                 "nome": "Cristofoli Merlot Reserva, 2020",
-                "preço": null,
+                "preço": 189.0,
+                "informação-extra": null,
                 "descrição": "A Merlot é uma variedade difundida no mundo inteiro, muito versátil, adapta-se bem á Serra Gaúcha, e nós elaboramos com esta uva um vinho tinto de coloração rubi intensa, aromas de frutos vermelhos bem integrados com as notas provenientes de seis meses de maturação em carvalho e na boca os taninos são elegantes conferindo boa persistência."
             },
             {
                 "nome": "Calvet Gran Reserva Bordeaux Superior",
-                "preço": null,
+                "preço": 262.0,
+                "informação-extra": null,
                 "descrição": "De coloração vermelha com brilho roxo e nariz poderoso e complexo. Traz aromas de frutas vermelhas e especiarias. Vinho agradável e estruturado, com sabores de cereja e baunilha. O acabamento é longo e agradável."
             },
             {
                 "nome": "Le Casine Sangiovese",
-                "preço": null,
+                "preço": 164.0,
+                "informação-extra": null,
                 "descrição": "Aromas rico em frutas carnudas, como ameixas, toque de cerejas seguido de aromas característicos de violeta, além de morango e pimenta. Na boca tem sabor seco, equilibrado e levemente tânico. Ideal para acompanhar carnes vermelhas grelhadas e massas."
             },
             {
                 "nome": "Garzón Estate Tannat de Corte",
-                "preço": null,
+                "preço": 234.0,
+                "informação-extra": null,
                 "descrição": "Blend de Tannat, Marselan, Petit Verdot e Cabernet Franc, este tinto é elegante, frutado e fácil de gostar. Frutas vermelhas e pretas se mesclam a notas florais e especiarias nesse ótimo tinto assinado por Garzón."
             },
             {
                 "nome": "Farnese Fantini Montepulciano D'abruzzo, 2012",
-                "preço": null,
+                "preço": 223.0,
+                "informação-extra": null,
                 "descrição": "Cor: Rubi intenso com reflexos violáceos Aroma: Frutas vermelhas frescas, especiarias e sutil toque de baunilha. Sabor: Corpo médio, com taninos redondos e final de boca intenso e persistente"
             },
             {
                 "nome": "Angove Long Row Shiraz, 2020",
-                "preço": null,
+                "preço": 204.0,
+                "informação-extra": null,
                 "descrição": "Sabor: Encorpado, com taninos maduros e macios e boa estrutura. Seu final de boca é agradável, longo e frutado Aroma: Frutas vermelhas e negras maduras, como ameixas e cerejas, notas de especiarias, como pimenta preta, além de toques defumados e terrosos"
             },
             {
                 "nome": "Kalfu Molu Pinot Noir",
-                "preço": null,
+                "preço": 172.0,
+                "informação-extra": null,
                 "descrição": "Kalfu significa Azul em Mapudungún, língua dos indígenas originários do Chile. É a cor mais importante da cultura Mapuche, porque está associada à origem da vida. O azul do mar que banha a costa Chilena, onde estão situados os vinhedos de onde proveem as uvas para elaboração da linha Kalfu, proporciona um clima excepcional: neblina pela manhã e uma brisa refrescante durante o dia. Vermelho intenso e profundo com reflexos violáceos. Aromas frutados, com notas de frutas vermelhas e baunilha. Corpo leve, pouca passagem por madeira, taninos suaves e acidez equilibrada."
             },
             {
                 "nome": "Lidio Carraro Agnus Tannat",
-                "preço": null,
+                "preço": 153.0,
+                "informação-extra": null,
                 "descrição": "A Lidio Carraro projetou a uva Tannat no segmento Top Premium com o Lidio Carraro Grande Vindima desde 2005 e agora apresenta este varietal também na coleção Agnus. Este vinho encanta pela intensidade de cor e riqueza aromática, com notas de frutas escuras, alcaçuz e cacau. Em boca apresenta concentração e taninos maduros, completando um perfil de alta qualidade que expressa o terroir de origem."
             },
             {
                 "nome": "Garzón Reserva Marselan",
-                "preço": null,
+                "preço": 320.0,
+                "informação-extra": null,
                 "descrição": "Rubi intenso com reflexos violáceos . Aroma de frutas vermelhas, como cerejas e framboesas, notas minerais, defumadas e toques de eucalipto e menta. Médio corpo, com taninos finos e final de boca maduro. Seu final de boca é marcado por frutas vermelhas maduras e notas minerais"
             }
         ],
         "Vinhos do Porto": [
             {
                 "nome": "Graham's Fine Tawny",
-                "preço": "R$ 30,00\nR$ 39,00\n- Taça de 50ml",
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Cor viva, vermelha-aloirada. Nariz de fruta madura melada, com aromas de figos e ameixas secas, realçados por um atrativo carácter de madeira e especiarias. Macio e redondo no paladar, cheio de sabores ricos e envolventes."
             },
             {
                 "nome": "Graham's 10 Years Old Tawny",
-                "preço": null,
+                "preço": 44.0,
+                "informação-extra": null,
                 "descrição": "Simplesmente o melhor Porto 10 anos para a revista Decanter, o Graham's 10 years Old é um Tawny elaborado com uma impressionante seleção de vinhos reserva, envelhecidos 10 anos em média. O enólogo de Graham's combina vinhos bastante antigos com outros mais jovens, originando um Tawny complexo e elegante, com o exuberante frutado que é a marca registrada de Graham's. Extremamente macio na boca, possui um ótimo bouquet e um longo final."
             }
         ]
@@ -1218,38 +1449,45 @@
         "Menu Kids": [
             {
                 "nome": "Saladinha de Tomate e Alface",
-                "preço": "R$ 25,00",
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Creme de Legumes",
-                "preço": "R$ 25,00",
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Espaguetinho à Bolonhesa ou Na manteiga",
-                "preço": "R$ 32,00",
-                "descrição": ""
+                "preço": 32.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filezinho de Frango com Legumes Orgânicos",
-                "preço": "R$ 39,00",
-                "descrição": ""
+                "preço": 39.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Filézinho de Carne com Legumes Orgânicos",
-                "preço": "R$ 42,00",
-                "descrição": ""
+                "preço": 42.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Sorvete",
-                "preço": "R$ 20,00",
-                "descrição": ""
+                "preço": 20.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Saladinha de Frutas",
-                "preço": "R$ 20,00",
-                "descrição": ""
+                "preço": 20.0,
+                "informação-extra": null,
+                "descrição": null
             }
         ]
     },

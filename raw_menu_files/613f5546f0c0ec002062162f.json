@@ -3,341 +3,406 @@
         "Belisquetes": [
             {
                 "nome": "Croquete de Jaca",
-                "preço": "R$ 52,00",
+                "preço": 52.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "(Croquete de jaca com aioli de pimentão) | 8 unidades"
             },
             {
                 "nome": "Tartar De Banana Da Terra",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "(Tartar de banana da terra temperada com coentro, cebola roxa, pimenta dedo de moça, limão, sal e azeite com chips de batata doce)"
             },
             {
                 "nome": "Mini Toast De Cogumelos",
-                "preço": "R$ 46,00",
+                "preço": 46.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Fatias de pão ciabatta crocantes, cobertas com cogumelos shimeji, shitake, paris e alho poró, gratinado com queijo parmesão finalizado por molho Tarê) | 5 unidades"
             },
             {
                 "nome": "Batata Frita Com Queijo Parmesão",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "(Batatas fritas com telha de queijo parmesão)"
             },
             {
                 "nome": "Tiras De Filé Grelhadas",
-                "preço": "R$ 74,00",
+                "preço": 74.0,
+                "informação-extra": null,
                 "descrição": "(Tiras de filé mignon grelhadas com cebola, cenoura e tomatinhos servidas em molho pesto e mini pão francês)"
             },
             {
                 "nome": "Linguiça Calabresa Na Cerveja",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "(Fatias de calabresa grelhadas em fogo alto, finalizada na cerveja, pétalas de cebola e molho especial do chef servidas com mini pão francês)"
             },
             {
                 "nome": "Croquete de Palmito",
-                "preço": "R$ 42,00",
+                "preço": 42.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Croquete de palmito com geléia de pimenta) | 7 unidades"
             },
             {
                 "nome": "Camarão Na Tapioca",
-                "preço": "R$ 95,00",
+                "preço": 95.0,
+                "informação-extra": null,
                 "descrição": "(Camarão empanado na farinha panko em crosta de tapioca e parmesão acompanhado de creme avocado)"
             },
             {
                 "nome": "Crocante de Couve flor com gergelim",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Couve-flor envolvida em uma crosta crocante de farinha panko, gergelim branco e preto, acompanhada de um mix de folhas, vagem, cebola roxa e um delicado molho de mostarda Dijon."
             }
         ],
         "Para Começar ": [
             {
                 "nome": "Avocado Toast",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Pão levain com pasta de coalhada seca temperado no azeite, limão, pimenta rosa, acompanhado de avocado cebola e ovo mollet com mini brotos)"
             },
             {
                 "nome": "Greem Salad",
-                "preço": "R$ 43,00",
+                "preço": 43.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Mix de folhas com lascas de maçã em calda de especiarias, queijo brie envolvido em farinha panko e vinagrete de framboesa)"
             },
             {
                 "nome": "Salada Da Casa",
-                "preço": "R$ 37,00",
+                "preço": 37.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "(Salada de alfaces frescas com tomate cereja, palmito e redução de balsâmico)"
             },
             {
                 "nome": "Salmão Toast",
-                "preço": "R$ 58,00",
+                "preço": 58.0,
+                "informação-extra": null,
                 "descrição": "(Pão levain com pasta de coalhada seca temperado no azeite, limão, acompanhado de salmão marinado no sal, açúcar e endrodil, creme de avocado, chips de couve manteiga, raspas de limão e azeite de oliva)"
             },
             {
                 "nome": "Salada Terra e Mar",
-                "preço": "R$ 70,00",
+                "preço": 70.0,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Camarão grelhado, cebola empanada em farinha panko e avocado, acompanhados de alface frisée, tomate-cereja e molho pesto e cítrico com pimenta-do-reino."
             },
             {
                 "nome": "Tomate Confit com Crocante de Queijo de Búfala",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": "Light",
                 "descrição": "Tomate recheado com queijo de búfala, envolto em uma crosta crocante de farinha panko, com uma delicada tuile de manjericão, acompanhado de molho pesto."
             }
         ],
         "Bowls": [
             {
                 "nome": "Bowl Greem",
-                "preço": "R$ 48,00",
+                "preço": 48.0,
+                "informação-extra": "Vegano",
                 "descrição": "(Mix de folhas nobres acompanhado de falafel, trilogia de quinoa temperada ao molho tahini, edamame e tomate cereja)"
             },
             {
                 "nome": "Bowl Tataki",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "(Salmão tataki envolvido no gergelim acompanhado de molho tare, pepino laminado, cenoura ralada, abacate, manga em cubos, moyashi e brotos)"
             },
             {
                 "nome": "Bowl Brasileirinho",
-                "preço": "R$ 44,00",
+                "preço": 44.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "(Tiras de filet mignon grelhadas, acompanhado de arroz basmati, ovo mollet, vinagrete de feijão fradinho e cebola marinada)"
             }
         ],
         "Sopas e Cremes": [
             {
                 "nome": "Creme De Abóbora Com Chia",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Creme de abóbora temperado com alho, cebola finalizado por sementes de chia e servido com mini pão francês)"
             },
             {
                 "nome": "Canja De Frango",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "(Sopa com caldo natural, frango, legumes e arroz, servido com mini pão francês)"
             },
             {
                 "nome": "Sopa de legumes",
-                "preço": "R$ 36,00",
+                "preço": 36.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Cenoura, batata, abóbora, mandioquinha, alho poró, edamame, azeite de oliva e sal. Acompanha mini pão francês."
             }
         ],
         "Para Saborear ": [
             {
                 "nome": "Pescada Com Trilogia De Quinoa",
-                "preço": "R$ 64,00",
+                "preço": 64.0,
+                "informação-extra": null,
                 "descrição": "(Pescada assada em crosta de farinha panko com zests de limão e manteiga acompanhada de trilogia de quinoa e vinagrete de manga)"
             },
             {
                 "nome": "Salmão Ao Taré De Maracujá",
-                "preço": "R$ 88,00",
+                "preço": 88.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "(Posta de salmão assado em baixa temperatura ao molho Tarê de maracujá, acompanhado por purê de mandioquinha)"
             },
             {
                 "nome": "A Fraldinha Perfeita",
-                "preço": "R$ 64,00",
+                "preço": 64.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "(Fraldinha em cocção lenta acompanhada de vinagrete de feijão fradinho, purê de couve flor e queijo meia cura)"
             },
             {
                 "nome": "Filet Parmegiana Em Lascas",
-                "preço": "R$ 87,00",
+                "preço": 87.0,
+                "informação-extra": null,
                 "descrição": "(Lascas de filet mignon empanadas e gratinadas com muita muçarela e molho de tomate com toque defumado acompanhado de arroz branco) PORÇÃO PARA 2 PESSOAS: R$ 145,00"
             },
             {
                 "nome": "Nhoque De Abóbora",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "(Nhoque de abóbora sem glúten, confit de tomate cereja e brócolis cozido ao molho cremoso de manjericão)"
             },
             {
                 "nome": "Espaguete Ao Sugo",
-                "preço": "R$ 43,00",
+                "preço": 43.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Espaguete ao molho de tomates frescos da casa e queijo parmesão ralado)"
             },
             {
                 "nome": "Agnoloti De Muzzarela De Búfala",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Agnolotti em massa de espinafre recheado de mussarela de búfala ao molho de tomate defumado acompanhado de farofa de castanha)"
             },
             {
                 "nome": "Camarão Ao Creme De Abóbora Cabotiá",
-                "preço": "R$ 97,00",
+                "preço": 97.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "(Camarões flambados no vinho branco servido com creme de abóbora cabotiá, temperada com pimentões, leite de coco, alho poró e coco queimado, acompanhado de arroz branco e farofa de farinha de mandioca, semente de girassol, abóbora, cebola, alho, manteiga, salsinha e cenoura) PORÇÃO 2 PESSOAS - R$ 167,00"
             },
             {
                 "nome": "Arroz negro com banana da terra e hommus de castanha do Pará",
-                "preço": "R$ 45,00",
+                "preço": 45.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "(Arroz negro temperado com alho, cebola e sal acompanhado banana da terra grelhada, brocólis grelhado e homus de castanha do Pará)"
             },
             {
                 "nome": "Escondidinho de mexilhão",
-                "preço": "R$ 67,00",
+                "preço": 67.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "(Purê de banana da terra com mexilhão temperado no alho, cebola, pimentão e tomate acompanhado arroz de coco)"
             },
             {
                 "nome": "Escondidinho linguiça de legumes",
-                "preço": "R$ 67,00",
+                "preço": 67.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "(Purê de abóbora kabochan, linguiça de legumes temperado com alho e cebola acompanhado arroz de brocólis e alho frito)"
             },
             {
                 "nome": "Medalhão de Filet Mignon ao vinho tinto",
-                "preço": "R$ 89,00",
+                "preço": 89.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "(Medalhão de filet mignon grelhado ao molho de vinho tinto, alho confitado acompanhado por batatas rústicas assadas no alecrim)"
             },
             {
                 "nome": "Polvo Basmati",
-                "preço": "R$ 97,00",
+                "preço": 97.0,
+                "informação-extra": null,
                 "descrição": "(Polvo cozido em baixa temperatura finalizado no azeite de oliva acompanhado de arroz basmati com liguinça artesanal suína, ervilha e maionese wasabi)"
             },
             {
                 "nome": "Tagliatelle com Ragu de Fraldinha ao Perfume de Ervas",
-                "preço": "R$ 65,00",
+                "preço": 65.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "Tagliatelle al dente servido com molho de tomates frescos, acompanhado de ragu de fraldinha cozida lentamente com pimentão vermelho, cebola, alho e ervas frescas, finalizado com azeite de oliva e manjericão"
             },
             {
                 "nome": "Paella Caipira - 01 pessoa",
-                "preço": "R$ 75,00",
+                "preço": 75.0,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Coxa e sobrecoxa cozida lentamente no caldo de legumes com arroz bomba, acompanhado de abóbora cabotiá assada, tomate sweet grape, quiabo e alho-poró aromatizados com alecrim e tomilho, finalizados com azeite de oliva."
             },
             {
                 "nome": "Paella Caipira - 2 pessoas",
-                "preço": "R$ 110,00",
+                "preço": 110.0,
+                "informação-extra": "Levemente Apimentado",
                 "descrição": "Coxa e Sobrecoxa cozido lentamente no caldo de legumes com arroz bomba, acompanhado de abóbora cabotiá assada, tomate sweet grape, quiabo e alho-poró aromatizados com alecrim e tomilho, finalizados com azeite de oliva."
             },
             {
                 "nome": "Robalo ao Limão Siciliano com Arroz Aromático de Brócolis",
-                "preço": "R$ 107,00",
+                "preço": 107.0,
+                "informação-extra": null,
                 "descrição": "Robalo assado, finalizado com um toque de molho citrico e crisp de limão siciliano, acompanhado de arroz com brócolis e aspargos frescos, tomate cereja grelhados criando uma combinação equilibrada de sabores cítricos, frescor e suavidade."
             }
         ],
         "Sandubas, Pizzas e Burguers": [
             {
                 "nome": "Misto Quente | Queijo Quente",
-                "preço": "R$ 38,00",
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "(Fatias de pão de forma tostadas, recheadas com queijo muçarela e presunto cozido servido com batatas fritas)"
             },
             {
                 "nome": "Salmão Burguer",
-                "preço": "R$ 63,00",
+                "preço": 63.0,
+                "informação-extra": null,
                 "descrição": "(Hamburguer artesanal de salmão grelhado, coberto com queijo muçarela servido no pão brioche com cebola caramelizada e alface acompanhado de batata fritas)"
             },
             {
                 "nome": "Greem Burguer",
-                "preço": "R$ 57,00",
+                "preço": 57.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Hambúrguer de grão de bico com queijo, maionese com mostarda dijon, cogumelos frescos, cebola, cenoura no pão brioche servido de chips de batata doce)"
             },
             {
                 "nome": "Morumbi Burguer",
-                "preço": "R$ 63,00",
+                "preço": 63.0,
+                "informação-extra": null,
                 "descrição": "(Hamburguer artesanal grelhado coberto com queijo muçarela derretido, servido no pão brioche alface, molho de manjericão e batatas fritas)"
             },
             {
                 "nome": "Pizza Calabresa",
-                "preço": "R$ 66,00",
+                "preço": 66.0,
+                "informação-extra": null,
                 "descrição": "(Massa de 30 cm diâmetro com molho de tomate caseiro coberta com queijo muçarela, fatias de linguiça calabresa, cebola e azeitonas pretas)"
             },
             {
                 "nome": "Pizza Cogumelos Frescos",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Massa de 30 cm diâmetro com molho de tomate caseiro coberta com queijo muçarela, cogumelos frescos, tomate cereja e azeitonas pretas)"
             },
             {
                 "nome": "Pizza De Abobrinha e Queijo Meia Cura",
-                "preço": "R$ 68,00",
+                "preço": 68.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Massa de 30 cm diâmetro com molho de tomate caseiro, lâminas de abobrinha, queijo meia cura, melaço de cana e alecrim)"
             },
             {
                 "nome": "Pizza Marguerita",
-                "preço": "R$ 66,00",
+                "preço": 66.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Massa de 30 cm diâmetro com molho de tomate caseiro coberta com queijo muçarela, tomatinhos cereja, folhas de manjericão e azeitonas pretas)"
             }
         ],
         "Kids": [
             {
                 "nome": "Guarnições Extras",
-                "preço": "R$ 19,00",
+                "preço": 19.0,
+                "informação-extra": null,
                 "descrição": "Escolha 1 opção abaixo: (Arroz, feijão, legumes ao vapor, batata frita, salada ou purê de batata)"
             },
             {
                 "nome": "Filet de frango",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "(Filet de frango grelhado acompanhado de legumes no vapor e arroz)"
             },
             {
                 "nome": "Escalope de Mignon",
-                "preço": "R$ 49,00",
+                "preço": 49.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "(Escalopinho de filet mignon grelhado acompanhado de arroz e batatas fritas)"
             },
             {
                 "nome": "Espaguete Ao Sugo",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "(Espaguete ao molho de tomates frescos da casa e queijo parmesão ralado)"
             }
         ],
         "Delícias Do Greem": [
             {
                 "nome": "Brownie De Chocolate",
-                "preço": "R$ 29,00",
+                "preço": 29.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Brownie de chocolate e nozes feito na casa, servido com calda cremosa de chocolate e sorvete)"
             },
             {
                 "nome": "Torta Mousse Chocolate",
-                "preço": "R$ 39,00",
+                "preço": 39.0,
+                "informação-extra": "Sem Lactose",
                 "descrição": "(Leite de soja, cacau em pó, ovo vegano, chocolate 70% vegano e creme de leite de soja)"
             },
             {
                 "nome": "Açai Do Greem",
-                "preço": "R$ 29,00",
+                "preço": 29.0,
+                "informação-extra": "Sem Gluten",
                 "descrição": "(Açaí, banana laminada, lâmina de coco, mel e granola)"
             },
             {
                 "nome": "A Cocada Perfeita",
-                "preço": "R$ 35,00",
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "(Cocada assada com sorvete de creme e crispy de amêndoas)"
             },
             {
                 "nome": "Pudim De Leite",
-                "preço": "R$ 23,00",
+                "preço": 23.0,
+                "informação-extra": "Vegetariano",
                 "descrição": "(Tradicional receita do GREEM, perfeito pudim cremoso de leite condensado)"
             },
             {
                 "nome": "Fruta da estação laminada",
-                "preço": "R$ 21,00",
+                "preço": 21.0,
+                "informação-extra": "Vegano",
                 "descrição": "Prato com 4 variedades de frutas da estação"
             },
             {
                 "nome": "Taça De Sorvete Com 3 Bolas",
-                "preço": "R$ 24,00",
+                "preço": 24.0,
+                "informação-extra": null,
                 "descrição": "(Escolha 3 sabores e refresque-se: creme, chocolate, morango, flocos)"
             },
             {
                 "nome": "Pavlova de frutas vermelhas",
-                "preço": "R$ 40,00",
+                "preço": 40.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Base de merengue crocante e aerada, perfumada com essência de baunilha, recheada com creme suave de buttercream e frutas vermelhas, finalizada com creme inglês. Uma combinação perfeita de acidez e frescor."
             },
             {
                 "nome": "Los Los Sorvetes - Palitos tradicional 65gr",
-                "preço": "R$ 10,00",
+                "preço": 10.0,
+                "informação-extra": null,
                 "descrição": "Escolha seu sabor: Limonada suiça, manga, Mini saia (maracujá e morango), bit tutti-fruti ou uva clássica"
             },
             {
                 "nome": "Los Los Sorvetes - Palitos especiais 65gr",
-                "preço": "R$ 14,00",
+                "preço": 14.0,
+                "informação-extra": null,
                 "descrição": "Escolha seu sabor: coco queimado, chocolate, avocado com creme de limão, acor 7 belo, coco branco, doce de leite aviação ou milho da fazenda"
             },
             {
                 "nome": "Los Los Sorvetes - Palitos tradicional 90gr",
-                "preço": "R$ 16,00",
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "Escolha seu sabor: Cheescake morango, maracujá com leite condensado, açaí com leitinho, iogurte com frutas vermelhas, leite com creme de avelã, coco com brigadeiro, morango com leite condensado ou tapioca com leite condensado"
             },
             {
                 "nome": "Los Los Sorvetes - Palitos especiais 90gr",
-                "preço": "R$ 18,00",
+                "preço": 18.0,
+                "informação-extra": null,
                 "descrição": "Escolha seu sabor: Brigadeiro, Brownie, Caramelo com sal, Banoffee nanica, Nuty Bavarian, Framboesa com Chocolate ou Ovomaltine"
             },
             {
                 "nome": "Los Los Sorvetes - Palitos zero adição de açúcar 65gr e 90gr",
-                "preço": "R$ 16,00",
+                "preço": 16.0,
+                "informação-extra": "Diet",
                 "descrição": "Escolha seu sabor: morango com flocos de chocolate zero, chocolate zero ou coco branco zero"
             },
             {
                 "nome": "Los Los Sorvetes - Palito vegano 65gr",
-                "preço": "R$ 16,00",
+                "preço": 16.0,
+                "informação-extra": "Vegano",
                 "descrição": "Sabor: Ovomaltine"
             },
             {
                 "nome": "Los Los Pistage - 90gr",
-                "preço": "R$ 25,00",
+                "preço": 25.0,
+                "informação-extra": "Contém Lactose",
                 "descrição": "Sorvete de pistache recheado com um delicioso creme de pistache. Esse é para os amantes dessa oleaginosa!"
             }
         ]
@@ -346,444 +411,530 @@
         "Sucos ": [
             {
                 "nome": "Simples 1 Fruta",
-                "preço": null,
+                "preço": 14.0,
+                "informação-extra": null,
                 "descrição": "(Laranja, abacaxi, melancia, limão, maracujá e manga)"
             },
             {
                 "nome": "Simples 2 Frutas",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "(Laranja, abacaxi, melancia, limão, maracujá, hortelã, mamão, cenoura e manga)"
             },
             {
                 "nome": "Detox Da Terra",
-                "preço": null,
+                "preço": 17.0,
+                "informação-extra": null,
                 "descrição": "(Beterraba, cenoura, laranja e gengibre)"
             },
             {
                 "nome": "Smoothe Açai",
-                "preço": null,
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "(Açaí, banana e água de coco)"
             },
             {
                 "nome": "Smoothie Morango",
-                "preço": null,
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "(Morango, iogurte natural e linhaça)"
             },
             {
                 "nome": "Smoothe Tropical",
-                "preço": null,
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "(Manga, morango e laranja)"
             },
             {
                 "nome": "Smoothe Revigorante",
-                "preço": null,
+                "preço": 23.0,
+                "informação-extra": null,
                 "descrição": "(Abacaxi, melancia, morango, limão, mel e alecrim)"
             },
             {
                 "nome": "Detox Refrescante",
-                "preço": null,
+                "preço": 17.0,
+                "informação-extra": null,
                 "descrição": "(Abacaxi, água de coco e hortelã)"
             }
         ],
         "Café & Chá": [
             {
                 "nome": "Nespresso",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Dupla Nespresso",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Café Com Leite",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Capuccino",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chocolate Quente",
-                "preço": null,
-                "descrição": ""
+                "preço": 14.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá Importado",
-                "preço": null,
-                "descrição": ""
+                "preço": 12.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Chá Gelado by Greem",
-                "preço": null,
+                "preço": 8.0,
+                "informação-extra": null,
                 "descrição": "Chá matte tostado feito no hotel. Sem açúcar."
             }
         ],
         "Águas e Refrigerantes ": [
             {
                 "nome": "Água Com Gás e Sem Gás",
-                "preço": null,
-                "descrição": ""
+                "preço": 8.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Refrigerantes",
-                "preço": null,
-                "descrição": ""
+                "preço": 9.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Energético",
-                "preço": null,
-                "descrição": ""
+                "preço": 25.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Água De Coco Terra Coco 100% Natural",
-                "preço": null,
+                "preço": 15.0,
+                "informação-extra": null,
                 "descrição": "Além de refrescante e saborosa, a água de coco é indicada para a hidratação e reposição de sais minerais. Rica em potássio, e com baixíssimo teor calórico é uma excelente opção para quem busca uma dieta saudável."
             },
             {
                 "nome": "Soda Italiana",
-                "preço": null,
+                "preço": 9.0,
+                "informação-extra": null,
                 "descrição": "(Xarope de fruta, água com gás e gelo) Escolha seu xarope: Amora, Tangerina ou Toranja."
             }
         ],
         "Cervejas ": [
             {
                 "nome": "Antarctica Original",
-                "preço": null,
-                "descrição": ""
+                "preço": 23.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Long Neck Budweiser ou Stella Artois ou Heineken",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Cerveja Lager Premium Puro Malte Zero Álcool Heineken Garrafa 330ml",
-                "preço": null,
-                "descrição": ""
+                "preço": 18.0,
+                "informação-extra": null,
+                "descrição": null
             },
             {
                 "nome": "Antarctica Original Lata",
-                "preço": null,
+                "preço": 16.0,
+                "informação-extra": null,
                 "descrição": "A clássica Cerveja Antarctica Original de 350ml é reconhecida por preservar sua essência, tradição e qualidade desde 1931. Original, a cerveja com a Alma do Boteco."
             }
         ],
         "Coquetéis": [
             {
                 "nome": "Caipirinha Velho Barreiro",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "Limão, açúcar, cachaça velho barreiro e gelo."
             },
             {
                 "nome": "Caipirinha Yaguara",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Limão, açúcar, cachaça Yaguara e gelo."
             },
             {
                 "nome": "Caipiroska Smirnoff",
-                "preço": null,
+                "preço": 29.0,
+                "informação-extra": null,
                 "descrição": "Limão, açúcar, vodka Smirnoff e gelo."
             },
             {
                 "nome": "Caipiroska Absolut",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Limão, açúcar, vodka Absolut e gelo."
             },
             {
                 "nome": "Gin Tônica - Gin Nacional",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "Gin Apogee, especiarias e água tônica"
             },
             {
                 "nome": "Gin Tônica - Gin Internacional",
-                "preço": null,
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "Gin Tanqueray, especiarias e água tônica"
             }
         ],
         "Mixologia Greem by Marcelo Serrano": [
             {
                 "nome": "Greem",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "(Gin, infusão ervas aromáticas, suco de limão e água tônica)"
             },
             {
                 "nome": "Senhora Cacau",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "(Whisky Jim Beam, café coado, xarope tangerina, água com gás)"
             },
             {
                 "nome": "A Capuchinha",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "(Vinho tinto, suco de abacaxi, suco de limão, xarope de framboesa, flor capuchinha)"
             },
             {
                 "nome": "Sinhô Manjericão",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "(Vinho branco, gin, nectar lichia, xarope manjericão, suco de limão e água tônica)"
             },
             {
                 "nome": "Seu Gengibeira",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "(Whiskey Jim Beam, suco de limão e xarope de açúcar, espuma gengibre)"
             },
             {
                 "nome": "Dr. Limoeiro",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "(Rum Malibu, suco de limão, xarope açúcar, infusão de frutas amarelas, espumante)"
             },
             {
                 "nome": "Dona Pimenta",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "(Tequila branca, xarope de amora, suco de limão, suco de abacaxi, dash pimenta tabasco, água tônica)"
             },
             {
                 "nome": "A Toranjaeira - Sem Álcool",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "(Xarope de toranja, água tônica espuma gengibre)"
             },
             {
                 "nome": "A Amoreira - Sem Álcool",
-                "preço": null,
+                "preço": 32.0,
+                "informação-extra": null,
                 "descrição": "(Xarope de amora, água tônica, suco de limão)"
             },
             {
                 "nome": "Aperol Spritz",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "(Aperol, água com gás e espumante)"
             },
             {
                 "nome": "Mojito",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "(Rum, suco de limão, hortelã, xarope de açúcar, água com gás)"
             },
             {
                 "nome": "Manhattan",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "(Bourbon, vermute rosso, vermute branco)"
             },
             {
                 "nome": "Negroni",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "(Gin, Campari e vermute rosso)"
             },
             {
                 "nome": "Boulevardier",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "(Bourbon, Campari e vermute rosso)"
             },
             {
                 "nome": "Moscow Mule",
-                "preço": null,
+                "preço": 39.9,
+                "informação-extra": null,
                 "descrição": "(Vodka, xarope açúcar, suco de limão e espuma de gengibre)"
             },
             {
                 "nome": "Dry Martini",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "(Gin, vermute seco e azeitona)"
             },
             {
                 "nome": "Tropical Sour",
-                "preço": null,
+                "preço": 45.0,
+                "informação-extra": null,
                 "descrição": "(limão taiti, morango, pisco premium Capel, xarope de açúcar, espuma de gengibre e sal grosso)"
             },
             {
                 "nome": "Jim Citrus",
-                "preço": null,
+                "preço": 39.0,
+                "informação-extra": null,
                 "descrição": "(Jim beam, xarope de açúcar, angusturia e twist de laranja)"
             },
             {
                 "nome": "Madame Paixão",
-                "preço": null,
+                "preço": 42.0,
+                "informação-extra": null,
                 "descrição": "(Suco de limão siciliano, cachaça yaguara, maracujá, xarope açúcar, pimenta tabasco)"
             }
         ],
         "Destilados ": [
             {
                 "nome": "Dose Aguardente Velho Barreiro",
-                "preço": null,
+                "preço": 10.0,
+                "informação-extra": null,
                 "descrição": "Cachaça Adoçada Velho Barreiro Dose"
             },
             {
                 "nome": "Dose Cachaça Seleta Ouro",
-                "preço": null,
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Cachaça Artesanal Alambique"
             },
             {
                 "nome": "Dose Cachaça Jos JAMBU",
-                "preço": null,
+                "preço": 25.0,
+                "informação-extra": null,
                 "descrição": "O clássico tremor do jambu se faz muito presente na nossa Jós e nós podemos te provar. Basta deixar 5 segundinhos na boca pra sentir aquele formigamento gostoso que o espilantol – propriedade principal do jambu – proporciona e surpreende."
             },
             {
                 "nome": "Dose Cachaça Espirito de Minas",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Características Local: são tiago/mg Madeira: carvalho Envelhecimento: 1 ano e meio Grad. Alcoólica: 41%"
             },
             {
                 "nome": "Dose Cachaça São Francisco",
-                "preço": null,
+                "preço": 20.0,
+                "informação-extra": null,
                 "descrição": "Ingredientes: Destilado de cana-de-açúcar. Sabor: Notas de banana e baunilha. Aroma: Doce, com toques de mel e caramelo. A cachaça São Francisco possui uma graduação alcoólica de 39%."
             },
             {
                 "nome": "Dose Campari Aperitivo",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Doce cítrico e herbal"
             },
             {
                 "nome": "Dose Licor 43",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "Açúcar, álcool etílico potável de origem agrícola, água, aromatizantes, acidulante ácido cítrico, corantes tartrazina e amarelo crepúsculo FCF."
             },
             {
                 "nome": "Dose Licor Amarula",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "Textura suave e cremosa com final doce."
             },
             {
                 "nome": "Dose Licor Bailey´s",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "combinação irlandesa de whisky, cacau, baunilha, açúcar e destilado neutro."
             },
             {
                 "nome": "Dose Licor Cointreau",
-                "preço": null,
+                "preço": 53.0,
+                "informação-extra": null,
                 "descrição": "Notas perfumadas de casca de laranja e um toque fresco de frutas cítricas, especiarias como noz-moscada e cardamomo, limão siciliano e hortelã fresco."
             },
             {
                 "nome": "Dose Rum Bacardi",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Sabor floral e Suave"
             },
             {
                 "nome": "Dose Tequila Jose Cuervo Silver",
-                "preço": null,
+                "preço": 38.0,
+                "informação-extra": null,
                 "descrição": "sabor mais leve e produz uma tequila de cor prateada. Experimente bem gelada ou no seu drink preferido"
             },
             {
                 "nome": "Dose Tequila Jose Cuervo Oro",
-                "preço": null,
+                "preço": 41.0,
+                "informação-extra": null,
                 "descrição": "onhecida mundialmente como \"Cuervo Ouro\", está é a tequila mais vendida no mundo. Ideal para ser consumida em happy hours e momentos descontraídos, pode ser servida em shots e é excelente para o preparo de drinks."
             },
             {
                 "nome": "Dose Tequila Blanco Reserva Don Julio",
-                "preço": null,
+                "preço": 87.0,
+                "informação-extra": null,
                 "descrição": "Explore a essência do México com a Tequila Don Julio Blanco 750ml, uma destilada de classe mundial que representa a verdadeira paixão e artesanato por trás desse destilado icônico. Se você é um conhecedor de tequila, esta é sua oportunidade de saborear a autenticidade e a pureza que somente Don Julio pode oferecer."
             },
             {
                 "nome": "Dose Vodka Absolut Natural",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "Vodka sueca feita exclusivamente a partir de ingredientes naturais encontrados exclusivamente em Ähus na Suécia, e, ao contrário de algumas outras vodkas, ela não contém açúcar. A ausência de açúcar é um dos pontos que mais diferencia a Vodka Absolut das demais, oferecendo sabor puro e único."
             },
             {
                 "nome": "Dose Vodka Smirnoff",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Smirnoff é triplamente destilada e 10 vezes filtrada para trazer um sabor puro aos mais variados drinks. Compartilhe a melhor vodka com os amigos no happy hour ou em uma reunião em casa, uma bebida democrática e perfeita para uma Caipiroska, Cosmopolitan, Sex on the Beach, Moscow mule ou qualquer outra receita que você preferir."
             },
             {
                 "nome": "Dose Vodka Premium Ciroc",
-                "preço": null,
+                "preço": 43.0,
+                "informação-extra": null,
                 "descrição": "Elaborada a partir das mais refinadas uvas francesas, CÎROC te convida a novas possibilidades de aromas, sabores e surpreendentes experiências. Com sabor fresco e marcante, CÎROC é a opção perfeita para os momentos de celebração."
             },
             {
                 "nome": "Dose Vodka Russa Stolichanaya",
-                "preço": null,
+                "preço": 35.0,
+                "informação-extra": null,
                 "descrição": "A Stolichnaya é a vodka russa mais vendida no mundo. Produzida a partir de ingredientes de alta qualidade, métodos tradicionais e exclusivos de destilação."
             },
             {
                 "nome": "Dose - Vodka Russa Stolichnaya Elit",
-                "preço": null,
+                "preço": 60.0,
+                "informação-extra": null,
                 "descrição": "Elit é uma vodka da categoria ultra luxury, de pureza e maciez sem precedentes. É exclusiva, única, precisa e perfeita. Indicada para quem sabe o que é o melhor. É produzida por uma técnica secular da rússia, sendo resfriada a -18 c para que as impurezas possam ser mais bem filtradas. Resultando em um sabor delicioso, espírituoso e aveludado."
             },
             {
                 "nome": "Dose Whisky Escocês Chivas Regal 12 anos",
-                "preço": null,
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Com uma combinação de diferentes tipos de maltes e grãos maturados por no mínimo 12 anos, ele consegue equilibrar estilo com conteúdo e tradição com um toque moderno. Por ter um sabor multifacetado, ele pode ser consumido puro ou em drinks diferenciados. Possui ainda aroma de maçã e de frutas, seguido do adocicado do mel, notas de baunilha, amêndoas e uma suavidade que perdura no paladar, fazendo com que ele seja a companhia perfeita para comemorar os bons momentos. Possui teor alcoólico de 40%"
             },
             {
                 "nome": "Dose Whisky Escocês Chivas Regal 18 anos",
-                "preço": null,
+                "preço": 92.0,
+                "informação-extra": null,
                 "descrição": "Feito a partir da combinação dos mais puros uísques de grãos e maltes, cada um deles, envelhecido em barris especiais de carvalho por 18 anos ou mais. Uísque de sabor excepcionalmente rico e suave com um paladar aveludado de chocolate escuro com notas florais elegantes."
             },
             {
                 "nome": "Dose Whisky Escocês Old Par 12 anos",
-                "preço": null,
+                "preço": 40.0,
+                "informação-extra": null,
                 "descrição": "Whisky de sabor e aroma marcantes. De cor dourado intenso, no paladar é aveludado e cremoso com toques de baunilha e especiarias que trazem suavidade e doçura, finalizando com um toque defumado. No aroma, marcam presença frutas como passas, figo e pera. Os sabores de baunilha e especiarias, aliados ao equilíbrio de aromas cítricos e de pera, trazem suavidade ao paladar e se sobressaem quando o líquido é degustado puro e gelado”."
             },
             {
                 "nome": "Dose Whisky Jack Daniel´s",
-                "preço": null,
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Jack Daniel¿s Tennessee Whiskey é destilado e engarrafado na Jack Daniel Distillery, a mais antiga destilaria registrada dos EUA, fundada em 1866. Cada garrafa de Jack Daniel¿s Tennessee Whiskey vendida ao redor do mundo ainda é produzida aqui em Lynchburg, TN."
             },
             {
                 "nome": "Dose Whisky J&B Rare 8 Anos",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "Sua coloração clara é proveniente do contato do whisky com o barril de carvalho, com pouca adição de caramelo, diferentemente dos demais whiskies do mercado. Graduação alcoólica 40% vol"
             },
             {
                 "nome": "Dose Whisky Jim Beam Bourbon",
-                "preço": null,
+                "preço": 30.0,
+                "informação-extra": null,
                 "descrição": "No nariz, apresenta aromas de levemente adocicados com uma mistura de baunilha, carvalho e milho. Em boca, é suave e doce, com sabor de caramelo e baunilha. O final é rápido e suave."
             },
             {
                 "nome": "Dose Whisky Johnnie Walker Red Label",
-                "preço": null,
+                "preço": 36.0,
+                "informação-extra": null,
                 "descrição": "Sabor intenso e marcante mesmo quando misturado. Esse blend possui um perfil de sabor equilibrado e aromático."
             },
             {
                 "nome": "Dose Whisky Johnnie Walker Black Label",
-                "preço": null,
+                "preço": 46.0,
+                "informação-extra": null,
                 "descrição": "Suave e complexo ao mesmo tempo, uma bebida para ser degustada pelos paladares mais exigentes. Esse blend possui um perfil de sabor encorpado e defumado."
             },
             {
                 "nome": "Dose Whisky Johnnie Walker Gold Label Reserve",
-                "preço": null,
+                "preço": 68.0,
+                "informação-extra": null,
                 "descrição": "Sabor encorpado, frutado, com doçura de baunilha e especiarias. Experimente o Gold Label, um whisky sofisticado e cremoso que possui um perfil de sabor encorpado e frutado, é uma combinação que vai surpreender seu paladar."
             },
             {
                 "nome": "Dose Whisky Bulleit Bourbon",
-                "preço": null,
+                "preço": 47.0,
+                "informação-extra": null,
                 "descrição": "Aroma de carvalho doce e paladar suave de carvalho, noz moscada e caramelo, é um whiskey único e saboroso."
             },
             {
                 "nome": "Dose Whisky Singleton Of Dufftown 12 Anos",
-                "preço": null,
+                "preço": 58.0,
+                "informação-extra": null,
                 "descrição": "Autêntico single malt de sabor clássico e suave. O Whisky The Singleton Single Malt Dufftown tem perfil de sabor equilibrado e frutado, com notas de maçãs assadas, nozes tostadas e açúcar mascavo. Esse é o whisky perfeito para quem quer começar a degustar um single malt de qualidade e leve. O Singleton of Dufftown carrega toda a tradição de um bom scotch, criado durante o reinado da Rainha Victoria, no século 19."
             },
             {
                 "nome": "Whisky Johnnie Walker Red Label - GARRAFA",
-                "preço": null,
+                "preço": 350.0,
+                "informação-extra": null,
                 "descrição": "Sabor intenso e marcante mesmo quando misturado. Esse blend possui um perfil de sabor equilibrado e aromático."
             },
             {
                 "nome": "Whisky Johnnie Walker Black Label - Garrafa",
-                "preço": null,
+                "preço": 430.0,
+                "informação-extra": null,
                 "descrição": "Suave e complexo ao mesmo tempo, uma bebida para ser degustada pelos paladares mais exigentes. Esse blend possui um perfil de sabor encorpado e defumado"
             },
             {
                 "nome": "Whisky Johnnie Walker Gold Label Reserve - Garrafa",
-                "preço": null,
+                "preço": 600.0,
+                "informação-extra": null,
                 "descrição": "Sabor encorpado, frutado, com doçura de baunilha e especiarias. Experimente o Gold Label, um whisky sofisticado e cremoso que possui um perfil de sabor encorpado e frutado, é uma combinação que vai surpreender seu paladar."
             },
             {
                 "nome": "Vodka Absolut Natural - Garrafa",
-                "preço": null,
+                "preço": 340.0,
+                "informação-extra": null,
                 "descrição": "Vodka sueca feita exclusivamente a partir de ingredientes naturais encontrados exclusivamente em Ähus na Suécia, e, ao contrário de algumas outras vodkas, ela não contém açúcar. A ausência de açúcar é um dos pontos que mais diferencia a Vodka Absolut das demais, oferecendo sabor puro e único."
             },
             {
                 "nome": "Vodka Smirnoff - Garrafa",
-                "preço": null,
+                "preço": 290.0,
+                "informação-extra": null,
                 "descrição": "Smirnoff é triplamente destilada e 10 vezes filtrada para trazer um sabor puro aos mais variados drinks. Compartilhe a melhor vodka com os amigos no happy hour ou em uma reunião em casa, uma bebida democrática e perfeita para uma Caipiroska, Cosmopolitan, Sex on the Beach, Moscow mule ou qualquer outra receita que você preferir."
             },
             {
                 "nome": "Vodka Russa Stolichnaya Elit - Garrafa 750ml",
-                "preço": null,
+                "preço": 875.0,
+                "informação-extra": null,
                 "descrição": "Elit é uma vodka da categoria ultra luxury, de pureza e maciez sem precedentes. É exclusiva, única, precisa e perfeita. Indicada para quem sabe o que é o melhor. É produzida por uma técnica secular da rússia, sendo resfriada a -18 c para que as impurezas possam ser mais bem filtradas. Resultando em um sabor delicioso, espírituoso e aveludado."
             },
             {
                 "nome": "Whisky Jack Daniel´s - Garrafa",
-                "preço": null,
+                "preço": 440.0,
+                "informação-extra": null,
                 "descrição": "Jack Daniel¿s Tennessee Whiskey é destilado e engarrafado na Jack Daniel Distillery, a mais antiga destilaria registrada dos EUA, fundada em 1866. Cada garrafa de Jack Daniel¿s Tennessee Whiskey vendida ao redor do mundo ainda é produzida aqui em Lynchburg, TN."
             }
         ]
@@ -792,262 +943,312 @@
         "Espumantes ": [
             {
                 "nome": "Chandon Brut",
-                "preço": null,
+                "preço": 210.0,
+                "informação-extra": null,
                 "descrição": "Um vinho espumante clássico vibrante e vivo. Refrescante, frutado e fácil de beber.Aromas elegantes e nítidos, com notas de frutas cítricas, frutas secas, flores brancas e toques de pão fresco."
             },
             {
                 "nome": "Santa Carolina Reservado Brut",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Amarelo-claro, com perlage fino, olfato cítricos, com notas florais, degustação seco, com acidez equilibrada e textura cremosa. Apresenta intenso toque cítrico e notas frutadas (pêssego)."
             },
             {
                 "nome": "Lidio Carraro Dádivas Espumante Brut",
-                "preço": null,
+                "preço": 180.0,
+                "informação-extra": null,
                 "descrição": "Espumante Brut Elegante e leve. Destaca-se pelos aromas frutados e cítricos, com sabor delicado de frutas como pêra, damasco e lima. Elaborado a partir de uvas chardonnay e pinot noir selecionadas. Este espumante é ideal para acompanhar entradas, pratos leves, peixes e também como aperitivo."
             },
             {
                 "nome": "Cava Don Román Brut",
-                "preço": null,
+                "preço": 180.0,
+                "informação-extra": null,
                 "descrição": "Elaborado pelo método tradicional. Apresenta cor amarela palha com leves reflexos dourados e perlage persistente. Aromas finos florais e notas de mel. É redondo, fresco e equilibrado, com boa persistência e acidez agradável."
             }
         ],
         "Vinhos em Taça Premium ou Garrafas - 187ml": [
             {
                 "nome": "Santa Carolina Vistaña Semillon Sauvignon Blanc, 2022",
-                "preço": null,
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Vinho branco com aromas cítricos e de frutas tropicais, leve com final agradável"
             },
             {
                 "nome": "Santa Carolina Vistaña Cabernet Sauvignon/Merlot, 2022",
-                "preço": null,
+                "preço": 55.0,
+                "informação-extra": null,
                 "descrição": "Vinho tinto com aroma de frutas vermelhas e notas florais. Seco, corpo leve, taninos finos e final agradável"
             },
             {
                 "nome": "Taça de Vinho Branco - Tarapacá Cosecha Chardonnay -200ml",
-                "preço": null,
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Vinho cremoso, de acidez equilibrada e persistente na boca, com final longo. Na hora da harmonização, dê preferência para frutos do mar e queijos semi-duros"
             },
             {
                 "nome": "Taça de Vinho Tinto - Tarapacá Cosecha Cabernet Sauvignon - 200ml",
-                "preço": null,
+                "preço": 50.0,
+                "informação-extra": null,
                 "descrição": "Tarapacá Cosecha apresenta na taça a coloração púrpura, no olfato notas de frutas pretas maduras e especiarias como pimenta do reino, já no paladar traz taninos sedosos e uma acidez equilibrada"
             }
         ],
         "Vinhos Garrafas - 375ml": [
             {
                 "nome": "Santa Carolina Vistaña Sauvignon Blanc",
-                "preço": null,
+                "preço": 105.0,
+                "informação-extra": null,
                 "descrição": "Vinho branco com aromas cítricos e de frutas tropicais, leve com final agradável"
             },
             {
                 "nome": "Alfredo Roca Malbec, 2022",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "Vinho de cor vermelho bordô com aroma de frutas vermelhas, como ameixa e framboesa. Possui excelente concentração e equilíbrio na boca, sobressaindo os taninos doces, combinados com sabores que lembram geléia."
             },
             {
                 "nome": "Alfredo Roca Cabernet Sauvignon, 2020",
-                "preço": null,
+                "preço": 85.0,
+                "informação-extra": null,
                 "descrição": "Vinho Alfredo Roca Cabernet Sauvignon. Produção: idade dos vinhedos: 45 anos, colheita manual na primeira semana de abril, transporte em caixas de 20Kg , fermentação alcoólica com temperaturas controladas, maceração pós-fermentativa por 3 semanas. Após a descuba 20% do vinho passa 8 meses em carvalho americano novo. Visual: vermelho rubi. Olfativa: frutas vermelhas em compota (cereja). Gustativa: seco, boa acidez, com os taninos firmes, médio corpo com final harmônico."
             }
         ],
         "Vinhos Rosé  - 750ml": [
             {
                 "nome": "Tantehue Rosé",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Vinho Fino, Rosé, Meio Seco. Tantehue é um pequeno povoado ao redor dos vinhedos, aonde vive a maioria dos trabalhadores. Este vinho é uma homenagem a eles e seu grande trabalho. Este vinho se caracteriza com tom avermelhado, é fresco e frutado, com suaves fragrâncias florais com toques violeta. Te aromas de morango, estrutura ligeiramente tanina e acidez bem balanceada. É o acompanhamento ideal para carnes grelhadas, assados e aves ou até mesmo para degustar sozinho."
             },
             {
                 "nome": "Sexy Fish Rosé , 2022",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Vinho rosé com intensos aromas de frutas vermelhas, como cerejas e framboesas. Em boca, é fresco com boa acidez."
             }
         ],
         "Vinhos Brancos - 750ml": [
             {
                 "nome": "Caliterra Reserva Sauvignon Blanc, 2023",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Boa intensidade aromática, apresenta o seu carácter costeiro, com notas cítricas e florais como toranja, limão e flor de laranjeira, acompanhadas de toques de frutas tropicais como manga e maracujá."
             },
             {
                 "nome": "Ventisquero Ramirana Sauvignon Blanc",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Aromas: Frutas cítricas e frescas; Paladar: Acidez equilibrada; Cor: Verde claro com reflexos esverdeados."
             },
             {
                 "nome": "Cosecha Tarapacá Chardonnay",
-                "preço": null,
+                "preço": 115.0,
+                "informação-extra": null,
                 "descrição": "É um Chardonnay repleto de aromas e sabores de fruta, como banana e pêssego maduro. Na boca é vibrante e equilibrado. Uma ótima pedida para o dia a dia."
             },
             {
                 "nome": "San Telmo Chardonnay",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "De cor amarelo brilhante com reflexos esverdeados. Aromas de maçã vermelha e abacaxi maduro. Equilibrado e com final longo e frutado."
             },
             {
                 "nome": "Norton Porteño Chardonnay",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Vinho branco elaborado com uvas chardonnay em mendoza. Apresenta aromas de frutas brancas, como maçã verde, e tropicais, como abacaxi. Em boca, possui boa estrutura e equilíbrio, além de saboroso final."
             },
             {
                 "nome": "Sexy Fish Blanc de Blancs",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Branco fresco - Apresenta aromas cítricos com notas de frutas como peras e pêssegos. Em boca, é suculento, com deliciosos sabores cítricos e grande frescor."
             },
             {
                 "nome": "99 Rosas Chardonnay Viognier - ORGÂNICO",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "VINHO BRANCO SECO, COM AROMA DE FRUTAS BRANCAS E CÍTRICAS, CORPO MÉDIO, FRESCO E FRUTADO."
             },
             {
                 "nome": "Corbelli Pinot Grigio",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Com estilo italiano seco e condimentado, este vinho, tem a vinificação pelo contato com a casca de parte do vinho para maior extrato e corpo. Frutas como maçã e pera, com toque de frutas cítricas e floral, estão entre os aromas."
             },
             {
                 "nome": "Settesoli Pinot Grigio",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Amarelo esverdeado. Maçã verde, frutas cítricas, pera e pêssego. Refrescante com acidez marcante. Acompanha Frutos do mar, peixes e comida japonesa."
             },
             {
                 "nome": "Luccarelli Bianco Puglia, 2022",
-                "preço": null,
+                "preço": 195.0,
+                "informação-extra": null,
                 "descrição": "Luccarelli Bianco Puglia, é um vinho amarelo palha com reflexos dourados. Apresenta aromas frutados, com notas de frutas amarelas maduras."
             },
             {
                 "nome": "Lidio Carraro Dádivas Chardonnay, 2020",
-                "preço": null,
+                "preço": 160.0,
+                "informação-extra": null,
                 "descrição": "Um grande vinho em uma pequena garrafa. Intenso de aroma, mostra-se amplo e harmônico e envolve o paladar com toques de flores brancas e notas frutadas de pomelo, pera, abacaxi e lichia. Vivo e fresco, sem carvalho, possui mineralidade que comunga com sua acidez elegante."
             },
             {
                 "nome": "Vinho Branco Morande Terrarum Reserva Chardonnay 750ml",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "HARMONIZAÇÃO: Ideal para acompanhar mariscos e peixes gordos de sabores intensos como salmão defumado, peixe espada, robalo e aves DESCRIÇÃO: Cor: amarelo esverdeado claro, brilhante. Aroma: de caráter cítrico com notas frutadas que lembram pêra, maçã verde e abacaxi fresco. Gustativo: fresco, frutado e bem equilibrado. Médio encorpado e cremoso com boa persistência"
             },
             {
                 "nome": "Le Casine Pinot Grigio",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Branco elaborado exclusivamente a partir de Pinot Grigio, sem passagem por madeira. Mostra frutas brancas e de caroço maduras seguidas de notas florais, de ervas e de especiarias picantes, que se confirmam na boca. No palato, tem corpo médio, acidez refrescante, textura cremosa e final com toques salinos e cítricos."
             },
             {
                 "nome": "CALITERRA RESERVA SAUVIGNON BLANC , 2024",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "BOA INTENSIDADE AROMÁTICA, APRESENTA O SEU CARÁCTER COSTEIRO, COM NOTAS CÍTRICAS E FLORAIS COMO TORANJA, LIMÃO E FLOR DE LARANJEIRA, ACOMPANHADAS DE TOQUES DE FRUTAS TROPICAIS COMO MANGA E MARACUJÁ."
             }
         ],
         "Vinhos Tintos - 750ml": [
             {
                 "nome": "Lídio Carraro Agnus Cabernet Sauvignon",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Este Cabernet Sauvignon encanta pela riqueza de aroma, estrutura e equilíbrio. Notas de especiarias, frutas vermelhas maduras como ameixa preta, cassis e chocolate. É encorpado e de paladar aveludado."
             },
             {
                 "nome": "Ventisquero Clássico Merlot",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Tinto chileno com aromas de frutas vermelhas frescas, como ameixa, com notas de especiarias e nuance de baunilha. Em boca é frutado, com corpo médio, taninos presentes e gostosa acidez."
             },
             {
                 "nome": "Ramirana Cabernet Sauvignon",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Vinho tinto, Vale do Maipo - Chile, uvas Cabernet Sauvigon. Amadurecimento de 80% do vinho é deixado em repouso durante 10 meses em carvalho francês. Coloração vermelho rubi com tons violeta. Aromas de frutas vermelhas notas de ameixa e cereja. No paladar é encorpado com taninos maduros estrutura equilibrada. Harmonização: queijos maduros, carnes grelhadas e pratos gordurosos ou picantes."
             },
             {
                 "nome": "Tarapacá Cosecha Cabernet Sauvignon",
-                "preço": null,
+                "preço": 115.0,
+                "informação-extra": null,
                 "descrição": "Um vinho leve, delicado, frutado, excelente para acompanhar os melhores momentos do seu dia a dia. Um Cabernet Sauvignon de tom cereja brilhante, com aroma de frutas frescas como ameixas maduras, juntamente com especiarias doces e notas de chocolate. No palato apresenta uma estrutura média com sabores de frutos vermelhos e taninos doces. Harmonize com carnes vermelhas grelhadas."
             },
             {
                 "nome": "Alfredo Rocca Malbec",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Bordô vivo. Expressão aromática intensa, com notas de ameixa e amora sobre fundo floral."
             },
             {
                 "nome": "Alfredo Roca Pinot Noir",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Cor vermelha de uma grande vivacidade que é mostrada nos seus tons rubis, intenso e profundo para a variedade Pinot Noir. É elegante e interessante sua variação de aromas. Na boca é complexo e delicado."
             },
             {
                 "nome": "Alfredo Rocca Cabernet Sauvignon",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Olfativa: frutas vermelhas em compota (cereja). Gustativa: seco, boa acidez, com os taninos firmes, médio corpo com final harmônico."
             },
             {
                 "nome": "Sexy Fish Cabernet Franc, 2023",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Vinho elaborado com uvas cabernet franc cultivadas no vinhedo agrelo, em luján de cuyo, mendoza. Fresco e muito saboroso, possui aromas de frutas vermelhas frescas, com notas herbáceas típicas desta uva. Em boca, destacam-se os sabores frutados com notas de pimenta e ervas. Equilibrado, com taninos macios e boa acidez."
             },
             {
                 "nome": "Sexy Fish Malbec, 2023",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "As uvas Malbec que originam este vinho são cultivadas em Agrelo, terroir de destaque de Luján de Cuyo, em Mendoza. Destacam-se os aromas de cerejas e figos, com notas de especiarias. Em boca, é equilibrado, com ótima acidez e sedoso. Elegante e saboroso"
             },
             {
                 "nome": "Norton Select Malbec, 2023",
-                "preço": null,
+                "preço": 230.0,
+                "informação-extra": null,
                 "descrição": "Tinto de aromas que lembram cerejas maduras. Em boca, é elegante, apresenta bom corpo e taninos macios."
             },
             {
                 "nome": "Porteno Malbec, 2023",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Aromas doces e picantes que lembram pimenta preta."
             },
             {
                 "nome": "Porteno Cabernet Sauvignon",
-                "preço": null,
+                "preço": 150.0,
+                "informação-extra": null,
                 "descrição": "Vinho elaborado com uvas cabernet sauvignon, em mendoza. Destacam-se os aromas de frutas maduras como cerejas e amoras, com notas de cassis. Apresenta ótima estrutura, taninos macios e final persistente."
             },
             {
                 "nome": "Norton Select Cabernet Sauvignon, 2022",
-                "preço": null,
+                "preço": 230.0,
+                "informação-extra": null,
                 "descrição": "Vinho tinto com aromas de frutas escuras, com as clássicas notas de pimenta vermelha, cassis e tabaco. Elegante, com ótimo corpo, equilibrado e estruturado."
             },
             {
                 "nome": "Norton Malbec Doc, 2022",
-                "preço": null,
+                "preço": 280.0,
+                "informação-extra": null,
                 "descrição": "As uvas malbec que originam este vinho são cultivadas em luján de cuyo, em mendoza. Tempo de envelhecimento em barricas de carvalho de 18 meses."
             },
             {
                 "nome": "Altura Malbec 2022, 2021",
-                "preço": null,
+                "preço": 400.0,
+                "informação-extra": null,
                 "descrição": "Este foi um malbec que encantou a todos os sommeliers presentes durante a sua degustação. No nariz, tem um lado carnudo e animal, com notas florais de violeta, cerejas, ameixas, morangos, cacau e chocolate em pó. Em boca mostra toda a sua majestade, já dá vontade de rechear a adega com o primeiro gole! Os aromas são confirmados no paladar, acompanhados de brilhante mineralidade, toque lácteo e um finalzinho mais salgado. Tem corpo médio para cheio, com taninos volumosos, acidez vibrante e muito frescor. Lindo! Recomendamos harmonizá-lo com carne de javali, carneiro assado, ou queijos de massa dura como parmesão ou tulha curado da fazenda Atalaia."
             },
             {
                 "nome": "Loios",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Para você que procura um vinho alentejano de excelente custo-benefício, o Loios Tinto é a escolha certa. Produzido por João Portugal Ramos, um dos mais conceituados enólogos portugueses, o vinho é um blend das uvas Aragonez, Castelão e Trincadeira. Na degustação, é um vinho seco, macio e frutado, que revela aromas de frutas vermelhas e notas vegetais. Não perca esta oportunidade e deguste o Loios, rótulo que combina história e sabor!"
             },
             {
                 "nome": "99 Rosas Tempranillo / Cabernet - ORGÂNICO",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Vinho tinto seco, com aroma de frutas vermelhas frescas, equilibrado, com ótima acidez e final prolongado."
             },
             {
                 "nome": "Ramón Bilbao Crianza",
-                "preço": null,
+                "preço": 250.0,
+                "informação-extra": null,
                 "descrição": "14 meses de estágio em carvalho americano, proporcionando um equilíbrio único entre madeira, frutas maduras e taninos suaves."
             },
             {
                 "nome": "Corbelli Primitivo",
-                "preço": null,
+                "preço": 170.0,
+                "informação-extra": null,
                 "descrição": "Apresenta aromas de frutados com notas de alcaçuz e em boca é encorpado, quente e com taninos firmes."
             },
             {
                 "nome": "Vinho Tinto Francês Franc Beausejour",
-                "preço": null,
+                "preço": 195.0,
+                "informação-extra": null,
                 "descrição": "Cor Rubi De Média Intensidade Apresenta Um Nariz Repleto De Agráveis Aromas Que Lembram Frutas Vermelhas Maduras, Com Leves Pinceladas De Especiarias E Chocolate. Em Boca Muito Macio, Redondo E Gostoso De Beber. Prove Com Uma Bela Ave Assada No Forno, Carnes Vermelhas Pouco Gordurosas Ou Um Risoto De Queijos"
             },
             {
                 "nome": "Luccarelli Rosso Puglia, 2022",
-                "preço": null,
+                "preço": 195.0,
+                "informação-extra": null,
                 "descrição": "Vinho de coloração vermelho rubi intenso. Seus aromas são marcantes em frutas vermelhas. Em boca é seco, corpo médio, macio e bem balanceado."
             },
             {
                 "nome": "Marques de Tomares Rioja Reserva - 2016, 2016",
-                "preço": null,
+                "preço": 650.0,
+                "informação-extra": null,
                 "descrição": "Vinho tinto seco, com aroma de frutas maduras, baunilha e tostado, encorpado, com boa acidez, taninos potentes e final longo. Sua maturação é de 30 meses em barricas de carvalho francês e americano e 36 meses em garrafa."
             },
             {
                 "nome": "Santa Carolina Reserva Cabernet Sauvignon, 2021",
-                "preço": null,
+                "preço": 160.0,
+                "informação-extra": null,
                 "descrição": "Vinho tinto com aroma de frutas vermelhas, cassis e notas de cedro. De corpo médio, boa acidez, taninos macios e final equilibrado. Tem potencial de guarda de 3 anos, passa 8 meses em barricas de carvalho americano e francês mais 12 meses em garrafa."
             }
         ]
